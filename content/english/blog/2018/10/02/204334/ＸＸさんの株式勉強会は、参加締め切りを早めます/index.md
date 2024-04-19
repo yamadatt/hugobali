@@ -1,0 +1,12 @@
+---
+date: 2018-10-02T20:43:34+09:00
+draft: false
+title: "ＸＸさんの株式勉強会は、参加締め切りを早めます"
+slug: "2018/10/02/204334/ＸＸさんの株式勉強会は、参加締め切りを早めます"
+tags: ["投資セミナーのご案内"]
+image: ""
+feature: ""
+thumbnail: ""
+---
+<p>前記事で募集したＸＸさんの株式勉強会だが、満席は間違いない状況。</p><p> </p><p>遠方からの申し込みもあり、参加決定をギリギリまで待っていただくのも</p><p> </p><p>申し訳ないから、早めに打ち切ることになりそうだ。</p><p> </p><p>検討されている方は、早めに申し込んでほしい。</p><p> </p><p><font color="#ff0000" size="2"><strong>クリックいただけると嬉しいです。</strong></font></p><p><font color="#ff0000" size="2"><strong>↓↓↓</strong></font></p><p><a href="ranking.html?p_cid=01260127" id="&amp;blogmura_banner" target="_blank"><img alt="にほんブログ村 その他生活ブログ 不動産投資へ" border="0" height="31" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20title%3D%22Placeholder%20for%20Images%22%20role%3D%22presentation%22%20viewBox%3D%220%200%2088%2031%22%20%2F%3E" width="88" data-src="https://img-proxy.blog-video.jp/images?url=http%3A%2F%2Flife.blogmura.com%2Fhudousantoushi%2Fimg%2Fhudousantoushi88_31.gif" style="aspect-ratio: auto 88 / 31;"/><noscript><img alt="にほんブログ村 その他生活ブログ 不動産投資へ" border="0" height="31" src="https://img-proxy.blog-video.jp/images?url=http%3A%2F%2Flife.blogmura.com%2Fhudousantoushi%2Fimg%2Fhudousantoushi88_31.gif" width="88"></noscript></a><br/><a href="ranking.html?p_cid=01260127" target="_blank"><img alt="にほんブログ村 海外生活ブログ バリ島情報へ" border="0" height="31" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20title%3D%22Placeholder%20for%20Images%22%20role%3D%22presentation%22%20viewBox%3D%220%200%2088%2031%22%20%2F%3E" width="88" data-src="https://img-proxy.blog-video.jp/images?url=http%3A%2F%2Foverseas.blogmura.com%2Fbali%2Fimg%2Fbali88_31.gif" style="aspect-ratio: auto 88 / 31;"/><noscript><img alt="にほんブログ村 海外生活ブログ バリ島情報へ" border="0" height="31" src="https://img-proxy.blog-video.jp/images?url=http%3A%2F%2Foverseas.blogmura.com%2Fbali%2Fimg%2Fbali88_31.gif" width="88"></noscript></a><br/><a href="ranking.html?p_cid=01260127" target="_blank">にほんブログ村</a></p><p><a href="link.php?1804582" title="人気ブログランキングへ"><img border="0" height="31" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20title%3D%22Placeholder%20for%20Images%22%20role%3D%22presentation%22%20viewBox%3D%220%200%2088%2031%22%20%2F%3E" width="88" data-src="https://blog.with2.net/img/banner/banner_22.gif" style="aspect-ratio: auto 88 / 31;"/><noscript><img border="0" height="31" src="https://blog.with2.net/img/banner/banner_22.gif" width="88"></noscript></a></p><p> </p>
+

@@ -2,7 +2,7 @@
 date: 2018-10-26T16:07:13+09:00
 draft: false
 title: "バリ島旅行協賛イベント- Halloween Honeey&#39;s Insta Party -"
-slug: "2018/10/26/160713/バリ島旅行協賛イベント- Halloween Honeeys Insta Party -"
+slug: "2018/10/26/160713/バリ島旅行協賛イベント- Halloween Honeey&#39;s Insta Party -"
 tags: ["プライベートな話"]
 image: "blog_import_6621c720cee1c.png"
 feature: "blog_import_6621c720cee1c.png"

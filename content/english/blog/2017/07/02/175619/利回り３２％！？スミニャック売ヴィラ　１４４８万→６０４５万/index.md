@@ -1,0 +1,12 @@
+---
+date: 2017-07-02T17:56:19+09:00
+draft: false
+title: "利回り３２％！？スミニャック売ヴィラ　１４４８万→６０４５万"
+slug: "2017/07/02/175619/利回り３２％！？スミニャック売ヴィラ　１４４８万→６０４５万"
+tags: ["バリ島不動産投資物件"]
+image: "blog_import_6621bc36d5898.png"
+feature: "blog_import_6621bc36d5898.png"
+thumbnail: "blog_import_6621bc36d5898.png"
+---
+<p>２９日のセミナーで紹介したこのヴィラ。</p><p> </p><p>想定利回り３２％超というシビれる物件だから、</p><p> </p><p>セミナー直後に、買付けが入った。</p><p> </p><p><a href="blog_import_6621bc36d5898.png">{{< figure src="blog_import_6621bc36d5898.png" width="420px" height="274px" >}}</a></p><p> </p><p>１４４８万円の投資が、６０４８万円になるわけで、</p><p> </p><p>延長すれば１億円を超えるのだから、そんな話なら僕でもいいと思う。笑</p><p> </p><p><br/>明後日７月４日のセミナーで紹介しようと思っていたんだが、どうしよう。</p><p> </p><p>新しい目玉を見つけられたらいいのだが。。</p><p> </p><p>でも、なんとかしよ。</p><p> </p><p> </p><p><a href="04_ek" target="_blank"><span style="text-decoration: underline;">７月４日（火）１４時から バリ島不動産セミナーはこちら</span></a>（サンワード貿易さま主催）</p><p> </p><p><font color="#ff0000" size="2"><strong>クリックいただけると嬉しいです。</strong></font></p><p><font color="#ff0000" size="2"><strong>↓↓↓</strong></font></p><p><a href="ranking.html?p_cid=01260127" id="&amp;blogmura_banner" target="_blank"><img alt="にほんブログ村 その他生活ブログ 不動産投資へ" border="0" height="31" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20title%3D%22Placeholder%20for%20Images%22%20role%3D%22presentation%22%20viewBox%3D%220%200%2088%2031%22%20%2F%3E" width="88" data-src="//life.blogmura.com/hudousantoushi/img/hudousantoushi88_31.gif" style="aspect-ratio: auto 88 / 31;"/><noscript><img alt="にほんブログ村 その他生活ブログ 不動産投資へ" border="0" height="31" src="//life.blogmura.com/hudousantoushi/img/hudousantoushi88_31.gif" width="88"></noscript></a><br/><a href="ranking.html?p_cid=01260127" target="_blank"><img alt="にほんブログ村 海外生活ブログ バリ島情報へ" border="0" height="31" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20title%3D%22Placeholder%20for%20Images%22%20role%3D%22presentation%22%20viewBox%3D%220%200%2088%2031%22%20%2F%3E" width="88" data-src="https://img-proxy.blog-video.jp/images?url=http%3A%2F%2Foverseas.blogmura.com%2Fbali%2Fimg%2Fbali88_31.gif" style="aspect-ratio: auto 88 / 31;"/><noscript><img alt="にほんブログ村 海外生活ブログ バリ島情報へ" border="0" height="31" src="https://img-proxy.blog-video.jp/images?url=http%3A%2F%2Foverseas.blogmura.com%2Fbali%2Fimg%2Fbali88_31.gif" width="88"></noscript></a><br/><a href="ranking.html?p_cid=01260127" target="_blank">にほんブログ村</a></p>
+

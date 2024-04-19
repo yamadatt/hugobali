@@ -1,0 +1,12 @@
+---
+date: 2016-07-21T16:17:17+09:00
+draft: false
+title: "お詫び"
+slug: "2016/07/21/161717/お詫び"
+tags: ["プライベートな話"]
+image: "blog_import_6621b155b86c4.jpg"
+feature: "blog_import_6621b155b86c4.jpg"
+thumbnail: "blog_import_6621b155b86c4.jpg"
+---
+<p><font color="#ff0000" size="3"><strong>皆さま、メッセージありがとうございます。</strong></font></p><br/><p>昨日の記事に対して、多くののコメント、メッセージをいただいております。</p><br/><p>本当にありがとうございます。</p><br/><br/><p>もともとは個人の記録用として始めたブログですが、</p><br/><p>今では多くのアクセスをいただくようになりました。</p><br/><p>いただいたお言葉にはお返事して参りますが、遅くなるかもしれません。</p><br/><p>すみません。</p><br/><p>しかしながら、皆さまからのお言葉がブログを続けるモチベーションに</p><br/><p>なっており、大変感謝しております。</p><br/><br/><p>なお、前回記事中の「この続きは、またの機会に書くことにするが、、」</p><br/><p>に対しても、「続き」を書くことへのご要望も多数いただいております。</p><br/><p>これまで、「続きは次回に」としておきながら、そのままになっている記事も多く</p><br/><p>僕のいい加減さがバレているようです。笑</p><br/><br/><p>その時々思ったことを書いており、これまではご指摘のとおりでございますが、</p><br/><p>今回は「続き」を必ず書きます。</p><br/><p>そちらも合わせて、暇つぶしのお供にでもしていただければ嬉しいです。</p><br/><p>これからも、よろしくお願いします。</p><p><a href="blog_import_6621b156eeba0.jpg">{{< figure src="blog_import_6621b155b86c4.jpg" width="180px" height="170px" >}}</a> <br/></p><br/><p><font color="#ff0000" size="2"><strong>クリックいただけると嬉しいです。<br/></strong></font></p><p><font color="#ff0000" size="2"><strong>↓↓↓</strong></font></p><p><br/><a href="ranking.html" target="_blank"><img border="0" alt="ブログランキング・にほんブログ村へ" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20title%3D%22Placeholder%20for%20Images%22%20role%3D%22presentation%22%20viewBox%3D%220%200%2088%2031%22%20%2F%3E" width="88" height="31" data-src="https://img-proxy.blog-video.jp/images?url=http%3A%2F%2Fwww.blogmura.com%2Fimg%2Fwww88_31.gif" style="aspect-ratio: auto 88 / 31;"/><noscript><img border="0" alt="ブログランキング・にほんブログ村へ" src="https://img-proxy.blog-video.jp/images?url=http%3A%2F%2Fwww.blogmura.com%2Fimg%2Fwww88_31.gif" width="88" height="31"></noscript></a> <a href="ranking.html" target="_blank">にほんブログ村</a> <br/><a title="人気ブログランキングへ" href="link.php?1804582"><img border="0" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20title%3D%22Placeholder%20for%20Images%22%20role%3D%22presentation%22%20viewBox%3D%220%200%2088%2031%22%20%2F%3E" width="88" height="31" data-src="https://blog.with2.net/img/banner/banner_22.gif" style="aspect-ratio: auto 88 / 31;"/><noscript><img border="0" src="https://blog.with2.net/img/banner/banner_22.gif" width="88" height="31"></noscript></a> <a style="FONT-SIZE: 12px" href="link.php?1804582">人気ブログランキングへ</a> </p>
+

@@ -6,10 +6,6 @@ name = "Home"
 pageRef = "/"
 weight = 1
 
-# [[main]]
-# name = "About"
-# pageRef = "/about"
-# weight = 2
 
 # [[main]]
 # name = "Elements"
@@ -25,6 +21,12 @@ weight = 1
 name = "Blog"
 pageRef = "/blog"
 weight = 2
+
+
+[[main]]
+name = "Archives"
+pageRef = "/archives"
+weight = 3
 
 
 # [[main]]

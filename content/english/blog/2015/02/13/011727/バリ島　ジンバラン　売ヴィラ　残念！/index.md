@@ -1,0 +1,12 @@
+---
+date: 2015-02-13T01:17:27+09:00
+draft: false
+title: "バリ島　ジンバラン　売ヴィラ　残念！"
+slug: "2015/02/13/011727/バリ島　ジンバラン　売ヴィラ　残念！"
+tags: ["バリ島不動産投資物件"]
+image: "blog_import_6621a963d608f.jpg"
+feature: "blog_import_6621a963d608f.jpg"
+thumbnail: "blog_import_6621a963d608f.jpg"
+---
+<p><font color="#ff0000" size="3"><strong>バリ島不動産　売ヴィラ　ジンバラン　フリーホールド</strong></font></p><br/><p><font color="#ff0000" size="3"><strong>土地２０００㎡　建物１５００㎡　約４億円</strong></font></p><br/><br/><p><br/><a href="blog_import_6621a9653c745.jpg">{{< figure src="blog_import_6621a963d608f.jpg" width="220px" height="165px" >}}</a> 　<a href="blog_import_6621a96819fef.jpg">{{< figure src="blog_import_6621a966a55de.jpg" width="220px" height="165px" >}}</a> <br/><br/><a href="blog_import_6621a96a93068.jpg">{{< figure src="blog_import_6621a9695c17b.jpg" width="220px" height="165px" >}}</a> 　<a href="blog_import_6621a96d67ee7.jpg">{{< figure src="blog_import_6621a96c25bf0.jpg" width="220px" height="165px" >}}</a> <br/><br/><a href="blog_import_6621a9704afcd.jpg">{{< figure src="blog_import_6621a96f0529e.jpg" width="220px" height="165px" >}}</a> 　<a href="blog_import_6621a9732178a.jpg">{{< figure src="blog_import_6621a971ac1db.jpg" width="220px" height="165px" >}}</a> <br/><br/><a href="blog_import_6621a975e01fc.jpg">{{< figure src="blog_import_6621a9748cb95.jpg" width="220px" height="165px" >}}</a> 　<a href="blog_import_6621a978e37fd.jpg">{{< figure src="blog_import_6621a9778cd24.jpg" width="220px" height="165px" >}}</a> <br/><br/><a href="blog_import_6621a97bd1ec7.jpg">{{< figure src="blog_import_6621a97a810ba.jpg" width="220px" height="165px" >}}</a> 　<a href="blog_import_6621a97e83dd2.jpg">{{< figure src="blog_import_6621a97d279ed.jpg" width="220px" height="165px" >}}</a> <br/></p><br/><p>物件紹介しておきながら、「残念」というのは申し訳ない笑。</p><br/><p>この物件、立地、眺望、土地サイズに対して、建物がイマイチなのである。</p><br/><p>このエリアに、これだけの広さがあるのだから、もう少しやりようがあっただろ、って言いたくなる。</p><br/><p>自分で住むのなら好みだから何も言わないが、この物件はレンタルはしにくい。</p><br/><p>といって、壊して立て直すのはもったいないし、、、。</p><br/><p>だから、残念、なのである。</p><br/><p>でも、このエリアでこの眺望、このサイズの物件は滅多に出ないから、将来性を考えるならありだろう。</p><br/><p>でも、４億円。</p><br/><p>こだわらないなら、別の物件を紹介したい。</p><br/><br/><p>FREEHOLD HIDDEN HILLS PADANG-PADANG <br/>PRICE : IDR 40,000,000,000 <br/>SEMI FURNISHED <br/>Land size : 2000m² <br/>Building size : 1500m² <br/>Pool : 14m x 5m <br/>Garage : 4 cars <br/><br/>* Suites bedroom (bathroom) <br/>* Private room Joglo style (bathroom) <br/>* Connecting 2 (bathroom) <br/>* Split room 4 (bathroom) <br/>* Distance to the sea is 5 minutes by driving <br/>* Close to Padang-Padang beach <br/></p><br/><br/>
+

@@ -1,0 +1,57 @@
+{{ define "main" }}
+
+{{ partial "page-header" . }}
+
+  <section class="section">
+    <div class="container">
+      <div class="row justify-center">
+      </div>
+    </div>
+
+
+
+
+  <article class="mx-4 sm:mx-12">
+    <section class="">
+      <div class="">
+
+        {{ $type := "blog" }}
+        {{ $isGroupKey := true}}
+  
+        {{ range (.Site.RegularPages.GroupByDate "2006") }}
+  
+        {{ $count := (len .Pages) }}
+        {{ if (gt .Key 2000) }}
+  
+        {{ range (where .Pages "Type" $type) }}
+        {{ if $isGroupKey }}
+        <h1 class="font-bold mt-2">{{ .Date.Format "2006" }}年 ({{ $count }})</h1>
+        {{ $isGroupKey = false}}
+        {{ end }}
+        {{ end }}
+  
+        {{ $isGroupKey = true}}
+  
+        <ul class="">
+          {{ range (where .Pages "Type" $type) }}
+          <li>
+            <a class="" href="{{ .RelPermalink }}">
+              <span class="">{{ .Date.Format "01/02" }}</span> — {{ .Title }}
+            </a>
+          </li>
+          {{ end }}
+        </ul>
+  
+        <br>
+  
+        {{ end }}
+        {{ end }}
+      </div>
+    </section>
+  
+  </article>
+</section>
+{{ end }}
+
+
+

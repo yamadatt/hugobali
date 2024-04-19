@@ -1,0 +1,12 @@
+---
+date: 2015-02-21T00:40:59+09:00
+draft: false
+title: "バリ島　ジンバラン　売ヴィラ　利回り３０％超！！　"
+slug: "2015/02/21"
+tags: ["バリ島不動産投資物件"]
+image: "blog_import_6621a9c975250.jpg"
+feature: "blog_import_6621a9c975250.jpg"
+thumbnail: "blog_import_6621a9c975250.jpg"
+---
+<p><font color="#ff0000" size="3"><strong>バリ島不動産　ジンバラン　約２０００万円</strong></font></p><br/><p>これは文句なしにいい物件だ！！</p><p><br/></p><p><a href="blog_import_6621a9caae356.jpg">{{< figure src="blog_import_6621a9c975250.jpg" width="220px" height="147px" >}}</a> 　<a href="blog_import_6621a9cd6d683.jpg">{{< figure src="blog_import_6621a9cc30ac8.jpg" width="220px" height="147px" >}}</a> </p><p><a href="blog_import_6621a9d02a73e.jpg">{{< figure src="blog_import_6621a9ceec62f.jpg" width="220px" height="147px" >}}</a> 　<a href="blog_import_6621a9d2ac8de.jpg">{{< figure src="blog_import_6621a9d176829.jpg" width="220px" height="147px" >}}</a> <br/><a href="blog_import_6621a9d540558.jpg">{{< figure src="blog_import_6621a9d407855.jpg" width="220px" height="147px" >}}</a> 　<a href="blog_import_6621a9d824e5e.jpg">{{< figure src="blog_import_6621a9d6bc72c.jpg" width="220px" height="147px" >}}</a> <br/><a href="blog_import_6621a9db25723.jpg">{{< figure src="blog_import_6621a9d9ca71f.jpg" width="220px" height="147px" >}}</a> 　<a href="blog_import_6621a9ddef5ea.jpg">{{< figure src="blog_import_6621a9dcaf34e.jpg" width="220px" height="147px" >}}</a> <br/><br/>転売向けというよりは、完全な利回り物件だが、どう低くみても３０％は超えてくる物件である。</p><br/><p>写真を見て分かる通り、仕様はまずまずでジンバランという地区、３デッドルームということを考えると</p><br/><p>ローシーズンでも１泊４万円は取れる。</p><br/><p>この物件は大人６人で利用できる物件だが、ホテルではそういった物件は極めて少ないので</p><br/><p>大家族には需要が高い。</p><br/><p>４万円で３０日だと月額１２０万円。</p><br/><p>稼働率がかなり低くみて５０％でも月額６０万円。</p><br/><p>管理費などの経費を１５万円みても月額４５万円で年額５４０万円。</p><br/><p>利回りは２７％になる。</p><br/><p>でも、実際にはもう少し稼働するはずだし、ハイリーズンは１泊５万円は取れることを考えると</p><br/><p>３０％を超えるはずだ。</p><br/><p>これ、真面目に自分で買おうかな。</p><br/><p>ってやってるとキリがないから、どなたか是非買ってほしい。</p><br/><p>もし、転売する場合は１０年以内がいい。</p><br/><p>リースホールドで２０年残っていれば売りやすい。</p><br/><p>仮に８年後に売った場合、その時点で賃料が５４０万×８年＝４３２０万円入っているわけで</p><br/><p>同じ金額で売れたとしても利回り３００％だ。</p><br/><p>実際には、物件が値上がりしている可能性が高い。</p><br/><p>うーん、真面目に良い物件だ。</p><br/><br/><br/><p>LEASEHOLD ENCHANTING AND STUNNING VILLA <br/><br/>PRICE : IDR 2,250,000,000 / 28 YEARS <br/>Land size　: 350m²<br/>Building size　: 180m²<br/>2 Double bedrooms and 1 Twin bedroom <br/>*5 minutes drive to the famous white sandy Balangan beach <br/>15 minutes drives to Nusadua or 25 minutes drives to Kuta area </p><br/>
+

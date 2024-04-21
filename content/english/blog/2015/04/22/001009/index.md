@@ -2,7 +2,7 @@
 date: 2015-04-22T00:10:09+09:00
 draft: false
 title: "バリ島　カラオケ　Cita Citata - Goyang Dumang"
-slug: "2015/04/22"
+slug: "2015/04/22/001009"
 tags: ["超実践！インドネシア語会話"]
 image: ""
 feature: ""

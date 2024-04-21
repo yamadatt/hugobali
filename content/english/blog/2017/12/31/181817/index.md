@@ -2,7 +2,7 @@
 date: 2017-12-31T18:18:17+09:00
 draft: false
 title: "稼ぎたいなら、最初のビジネスは何をすべきか"
-slug: "2017/12/31"
+slug: "2017/12/31/181817"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c050c0afc.jpg"
 feature: "blog_import_6621c050c0afc.jpg"

@@ -2,7 +2,7 @@
 date: 2017-10-25T22:32:37+09:00
 draft: false
 title: "不動産は美人投票「ブサイクな物件にチャンスあり！？」"
-slug: "2017/10/25"
+slug: "2017/10/25/223237"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621be1d11bf1.jpg"
 feature: "blog_import_6621be1d11bf1.jpg"

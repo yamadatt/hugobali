@@ -2,7 +2,7 @@
 date: 2022-07-17T18:35:38+09:00
 draft: false
 title: "「Sweatcoin」は認証しておこう。9月12日までにやらないとコインがなくなる！？【重要】"
-slug: "2022/07/17"
+slug: "2022/07/17/183538"
 tags: ["仮想通貨・暗号通貨"]
 image: "blog_import_6621ef7dd21c2.png"
 feature: "blog_import_6621ef7dd21c2.png"

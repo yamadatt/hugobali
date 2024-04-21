@@ -2,7 +2,7 @@
 date: 2021-06-05T21:57:21+09:00
 draft: false
 title: "サラリーマンと起業家は「人生ゲーム」のルールが違う！？"
-slug: "2021/06/05"
+slug: "2021/06/05/215721"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e3158727e.png"
 feature: "blog_import_6621e3158727e.png"

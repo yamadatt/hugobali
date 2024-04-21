@@ -2,7 +2,7 @@
 date: 2023-07-05T17:28:14+09:00
 draft: false
 title: "バリ島不動産の売買は、復活してきた！？"
-slug: "2023/07/05"
+slug: "2023/07/05/172814"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621faf196f52.png"
 feature: "blog_import_6621faf196f52.png"

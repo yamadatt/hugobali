@@ -2,7 +2,7 @@
 date: 2020-10-16T22:24:16+09:00
 draft: false
 title: "タクシー乗り場での出来事。「断るのも悪いし」、、だけど、ねえ。"
-slug: "2020/10/16"
+slug: "2020/10/16/222416"
 tags: ["プライベートな話"]
 image: "blog_import_6621dd9e82b98.png"
 feature: "blog_import_6621dd9e82b98.png"

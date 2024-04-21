@@ -2,7 +2,7 @@
 date: 2019-06-05T22:39:02+09:00
 draft: false
 title: "バリ島の壁画は、いくらで描いてもらえるのか？"
-slug: "2019/06/05"
+slug: "2019/06/05/223902"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621cd41577dd.jpg"
 feature: "blog_import_6621cd41577dd.jpg"

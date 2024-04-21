@@ -2,7 +2,7 @@
 date: 2014-08-27T01:56:18+09:00
 draft: false
 title: "１６年前のバリ島"
-slug: "2014/08/27"
+slug: "2014/08/27/015618"
 tags: ["ブログ"]
 image: "blog_import_6621a75eeeea5.jpg"
 feature: "blog_import_6621a75eeeea5.jpg"

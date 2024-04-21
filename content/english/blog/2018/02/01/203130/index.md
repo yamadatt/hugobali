@@ -2,7 +2,7 @@
 date: 2018-02-01T20:31:30+09:00
 draft: false
 title: "やはり、こうなったか。。「アスナ信用組合の家宅捜索」"
-slug: "2018/02/01"
+slug: "2018/02/01/203130"
 tags: ["トラブルの話"]
 image: "blog_import_6621c10985e01.jpg"
 feature: "blog_import_6621c10985e01.jpg"

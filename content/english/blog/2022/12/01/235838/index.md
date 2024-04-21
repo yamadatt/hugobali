@@ -2,7 +2,7 @@
 date: 2022-12-01T23:58:38+09:00
 draft: false
 title: "「活きる時間」と「失う時間」"
-slug: "2022/12/01"
+slug: "2022/12/01/235838"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f368ec01c.png"
 feature: "blog_import_6621f368ec01c.png"

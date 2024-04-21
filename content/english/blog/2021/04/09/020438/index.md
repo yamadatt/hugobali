@@ -2,7 +2,7 @@
 date: 2021-04-09T02:04:38+09:00
 draft: false
 title: "若者は遊び、学び、基礎スキルを身につけてほしい"
-slug: "2021/04/09"
+slug: "2021/04/09/020438"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e1ed95ffc.png"
 feature: "blog_import_6621e1ed95ffc.png"

@@ -2,7 +2,7 @@
 date: 2023-09-26T19:17:24+09:00
 draft: false
 title: "ラブホテル業界の雄、故小山立雄氏。「ラブホに求められるものは？」"
-slug: "2023/09/26"
+slug: "2023/09/26/191724"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621fcfeb36ff.png"
 feature: "blog_import_6621fcfeb36ff.png"

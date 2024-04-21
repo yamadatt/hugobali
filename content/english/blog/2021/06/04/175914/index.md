@@ -2,7 +2,7 @@
 date: 2021-06-04T17:59:14+09:00
 draft: false
 title: "マジか！？バンカー土手に突き刺さったボール。奇跡のショットで２度目の１００切り。証拠写真アリ"
-slug: "2021/06/04"
+slug: "2021/06/04/175914"
 tags: ["ゴルフ"]
 image: "blog_import_6621e300754e7.jpg"
 feature: "blog_import_6621e300754e7.jpg"

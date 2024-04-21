@@ -2,7 +2,7 @@
 date: 2021-06-22T23:43:00+09:00
 draft: false
 title: "世界で戦える日本の高級ブランドは、出てくるのかな。。頑張れ、バルミューダ"
-slug: "2021/06/22"
+slug: "2021/06/22/234300"
 tags: ["株式投資"]
 image: "blog_import_6621e361ce91e.png"
 feature: "blog_import_6621e361ce91e.png"

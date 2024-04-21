@@ -2,7 +2,7 @@
 date: 2022-03-01T14:26:18+09:00
 draft: false
 title: "ついにバリ島が観光客を受け入れか！？"
-slug: "2022/03/01"
+slug: "2022/03/01/142618"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621eb264725b.png"
 feature: "blog_import_6621eb264725b.png"

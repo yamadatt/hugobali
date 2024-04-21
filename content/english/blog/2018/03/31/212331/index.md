@@ -2,7 +2,7 @@
 date: 2018-03-31T21:23:31+09:00
 draft: false
 title: "バリ島スミニャック売ヴィラ　約４３００万円　男の夢だな。。"
-slug: "2018/03/31"
+slug: "2018/03/31/212331"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621c286e3dd7.jpg"
 feature: "blog_import_6621c286e3dd7.jpg"

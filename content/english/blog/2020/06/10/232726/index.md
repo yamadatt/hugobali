@@ -2,7 +2,7 @@
 date: 2020-06-10T23:27:26+09:00
 draft: false
 title: "娘が株を始めた！？子どもに何を伝えるか。。"
-slug: "2020/06/10"
+slug: "2020/06/10/232726"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621da8382c4b.png"
 feature: "blog_import_6621da8382c4b.png"

@@ -2,7 +2,7 @@
 date: 2018-03-18T18:33:15+09:00
 draft: false
 title: "【ヴィラの売買】引き渡し当日に、売り主が消えた！？その２"
-slug: "2018/03/18"
+slug: "2018/03/18/183315"
 tags: ["トラブルの話"]
 image: "blog_import_6621c2329f3ac.jpg"
 feature: "blog_import_6621c2329f3ac.jpg"

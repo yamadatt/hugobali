@@ -2,7 +2,7 @@
 date: 2021-05-28T17:51:08+09:00
 draft: false
 title: "不動産屋を信用するな。その２「売主をぶっ叩く手法とは」"
-slug: "2021/05/28"
+slug: "2021/05/28/175108"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e2eb6752d.png"
 feature: "blog_import_6621e2eb6752d.png"

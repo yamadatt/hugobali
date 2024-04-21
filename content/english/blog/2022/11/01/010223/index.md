@@ -2,7 +2,7 @@
 date: 2022-11-01T01:02:23+09:00
 draft: false
 title: "ダイビングのライセンスを取ろう！！「お世話になったスクール紹介：伊東マリンロード」"
-slug: "2022/11/01"
+slug: "2022/11/01/010223"
 tags: ["プライベートな話"]
 image: "blog_import_6621f252a9614.jpg"
 feature: "blog_import_6621f252a9614.jpg"

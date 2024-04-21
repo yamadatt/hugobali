@@ -2,7 +2,7 @@
 date: 2022-05-21T23:59:14+09:00
 draft: false
 title: "第１５回馬場ゴルフ月例の報告「ついにハンデ表の１枚目になった」"
-slug: "2022/05/21"
+slug: "2022/05/21/235914"
 tags: ["ゴルフ"]
 image: "blog_import_6621edf4e2ef6.jpg"
 feature: "blog_import_6621edf4e2ef6.jpg"

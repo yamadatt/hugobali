@@ -2,7 +2,7 @@
 date: 2017-02-03T19:49:34+09:00
 draft: false
 title: "やっと開拓！？銀行の不良債権ルート"
-slug: "2017/02/03"
+slug: "2017/02/03/194934"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621b970c5788.jpg"
 feature: "blog_import_6621b970c5788.jpg"

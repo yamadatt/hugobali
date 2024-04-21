@@ -2,7 +2,7 @@
 date: 2019-05-26T14:47:42+09:00
 draft: false
 title: "現代アート投資の魅力とメリット！？その１　値上がり益"
-slug: "2019/05/26"
+slug: "2019/05/26/144742"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621ccd1ef4d9.png"
 feature: "blog_import_6621ccd1ef4d9.png"

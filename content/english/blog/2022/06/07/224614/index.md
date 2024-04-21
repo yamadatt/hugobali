@@ -2,7 +2,7 @@
 date: 2022-06-07T22:46:14+09:00
 draft: false
 title: "第３回ファスティング合宿のご案内７月２２日(金）～２４日(日）in南伊豆"
-slug: "2022/06/07"
+slug: "2022/06/07/224614"
 tags: ["ファスティング合宿ダイエット"]
 image: "blog_import_6621ee6c8ee8b.png"
 feature: "blog_import_6621ee6c8ee8b.png"

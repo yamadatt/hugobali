@@ -2,7 +2,7 @@
 date: 2023-07-07T18:28:34+09:00
 draft: false
 title: "今になって後悔する昔のこと"
-slug: "2023/07/07"
+slug: "2023/07/07/182834"
 tags: ["プライベートな話"]
 image: "blog_import_6621fb04746f7.png"
 feature: "blog_import_6621fb04746f7.png"

@@ -2,7 +2,7 @@
 date: 2021-04-20T23:17:08+09:00
 draft: false
 title: "アリとキリギリス。キリギリスは不幸だったのか？ストックとフロービジネスに思う。"
-slug: "2021/04/20"
+slug: "2021/04/20/231708"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e2155bce0.png"
 feature: "blog_import_6621e2155bce0.png"

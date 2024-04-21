@@ -2,7 +2,7 @@
 date: 2023-12-13T01:43:47+09:00
 draft: false
 title: "12月15日(金）第５期３回成長株基礎セミナー「配当金銘柄の選び方」"
-slug: "2023/12/13"
+slug: "2023/12/13/014347"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621feda6f9af.jpg"
 feature: "blog_import_6621feda6f9af.jpg"

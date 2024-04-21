@@ -2,7 +2,7 @@
 date: 2019-04-12T18:03:59+09:00
 draft: false
 title: "インドネシア大統領選挙。現職ジョコウィは再選できるのか！？"
-slug: "2019/04/12"
+slug: "2019/04/12/180359"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621cb4043c9c.jpg"
 feature: "blog_import_6621cb4043c9c.jpg"

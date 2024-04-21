@@ -2,7 +2,7 @@
 date: 2021-03-03T02:31:32+09:00
 draft: false
 title: "ゴルフコンペの幹事は大変だ！？"
-slug: "2021/03/03"
+slug: "2021/03/03/023132"
 tags: ["ゴルフ"]
 image: "blog_import_6621e0bc8c2bb.png"
 feature: "blog_import_6621e0bc8c2bb.png"

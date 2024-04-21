@@ -2,7 +2,7 @@
 date: 2017-10-02T19:58:10+09:00
 draft: false
 title: "バリ島スミニャックの売ヴィラ 土地1200㎡建物400㎡の豪邸 5500万円"
-slug: "2017/10/02"
+slug: "2017/10/02/195810"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621bdb15cd92.jpg"
 feature: "blog_import_6621bdb15cd92.jpg"

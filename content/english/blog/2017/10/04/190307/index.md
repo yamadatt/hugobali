@@ -2,7 +2,7 @@
 date: 2017-10-04T19:03:07+09:00
 draft: false
 title: "ぶっぱなしているけど、合理的にお金を使う友人"
-slug: "2017/10/04"
+slug: "2017/10/04/190307"
 tags: ["プライベートな話"]
 image: "blog_import_6621bdb62cfcd.jpg"
 feature: "blog_import_6621bdb62cfcd.jpg"

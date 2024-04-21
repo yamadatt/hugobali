@@ -2,7 +2,7 @@
 date: 2016-09-16T00:46:38+09:00
 draft: false
 title: "ラブホテルの改装工事１"
-slug: "2016/09/16"
+slug: "2016/09/16/004638"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621b37a5e773.jpg"
 feature: "blog_import_6621b37a5e773.jpg"

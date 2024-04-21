@@ -2,7 +2,7 @@
 date: 2020-06-16T23:30:50+09:00
 draft: false
 title: "６月２６日(金）第１５回成長株投資の実践会「コロナ後の投資戦略」"
-slug: "2020/06/16"
+slug: "2020/06/16/233050"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621dab12190b.png"
 feature: "blog_import_6621dab12190b.png"

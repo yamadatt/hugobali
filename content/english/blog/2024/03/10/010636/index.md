@@ -2,7 +2,7 @@
 date: 2024-03-10T01:06:36+09:00
 draft: false
 title: "値引き交渉では、条件をハッキリ伝えよう"
-slug: "2024/03/10"
+slug: "2024/03/10/010636"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6622007792a3c.png"
 feature: "blog_import_6622007792a3c.png"

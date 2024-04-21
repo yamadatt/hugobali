@@ -2,7 +2,7 @@
 date: 2015-11-06T18:00:06+09:00
 draft: false
 title: "韓国で土下座する鳩山元総理"
-slug: "2015/11/06"
+slug: "2015/11/06/180006"
 tags: ["ブログ"]
 image: "blog_import_6621ab701c50a.jpg"
 feature: "blog_import_6621ab701c50a.jpg"

@@ -2,7 +2,7 @@
 date: 2020-05-09T02:04:24+09:00
 draft: false
 title: "コメント「コロナで家族が死んでも、同じ意見を言えるか」への返答"
-slug: "2020/05/09"
+slug: "2020/05/09/020424"
 tags: ["プライベートな話"]
 image: "blog_import_6621d9df09fd9.png"
 feature: "blog_import_6621d9df09fd9.png"

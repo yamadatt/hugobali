@@ -2,7 +2,7 @@
 date: 2014-08-26T11:11:36+09:00
 draft: false
 title: "売地　バリ島ギャニャール　フリーホールド８アール約２８００万円"
-slug: "2014/08/26"
+slug: "2014/08/26/111136"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621a729bd688.jpg"
 feature: "blog_import_6621a729bd688.jpg"

@@ -2,7 +2,7 @@
 date: 2017-10-27T21:18:10+09:00
 draft: false
 title: "満を持して「オーナー様ご招待！」のはずが・・・"
-slug: "2017/10/27"
+slug: "2017/10/27/211810"
 tags: ["トラブルの話"]
 image: "blog_import_6621be3464329.jpg"
 feature: "blog_import_6621be3464329.jpg"

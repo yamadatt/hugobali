@@ -2,7 +2,7 @@
 date: 2018-11-15T20:54:32+09:00
 draft: false
 title: "タケシの恋愛。ついに責任を取るのか！？"
-slug: "2018/11/15"
+slug: "2018/11/15/205432"
 tags: ["タケシ（バリ島現地スタッフ）の話"]
 image: "blog_import_6621c7b873f61.jpg"
 feature: "blog_import_6621c7b873f61.jpg"

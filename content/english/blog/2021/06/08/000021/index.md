@@ -2,7 +2,7 @@
 date: 2021-06-08T00:00:21+09:00
 draft: false
 title: "節税はほどほどでいいのではないか。。"
-slug: "2021/06/08"
+slug: "2021/06/08/000021"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e31f326dd.jpg"
 feature: "blog_import_6621e31f326dd.jpg"

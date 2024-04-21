@@ -2,7 +2,7 @@
 date: 2023-01-28T18:54:15+09:00
 draft: false
 title: "インドの果物ジュースはオススメ。ざくろ生搾りは美味かった！？"
-slug: "2023/01/28"
+slug: "2023/01/28/185415"
 tags: ["インド旅行パンチャカルマ"]
 image: "blog_import_6621f512161a4.jpg"
 feature: "blog_import_6621f512161a4.jpg"

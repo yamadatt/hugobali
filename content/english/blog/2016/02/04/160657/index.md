@@ -2,7 +2,7 @@
 date: 2016-02-04T16:06:57+09:00
 draft: false
 title: "チャンス！バリ島不動産投資セミナー"
-slug: "2016/02/04"
+slug: "2016/02/04/160657"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621aca440b4a.jpg"
 feature: "blog_import_6621aca440b4a.jpg"

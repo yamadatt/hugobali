@@ -2,7 +2,7 @@
 date: 2022-08-16T23:07:56+09:00
 draft: false
 title: "Web3.0のプロジェクト「Aleo」のファーストバッチマイニングは夢がある！？"
-slug: "2022/08/16"
+slug: "2022/08/16/230756"
 tags: ["仮想通貨・暗号通貨"]
 image: "blog_import_6621f01ad37d2.png"
 feature: "blog_import_6621f01ad37d2.png"

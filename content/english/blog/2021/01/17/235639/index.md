@@ -2,7 +2,7 @@
 date: 2021-01-17T23:56:39+09:00
 draft: false
 title: "香港の高利回り保険。コロナのため今なら日本では加入できる！？"
-slug: "2021/01/17"
+slug: "2021/01/17/235639"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621dfe908a93.png"
 feature: "blog_import_6621dfe908a93.png"

@@ -2,7 +2,7 @@
 date: 2017-07-31T22:52:13+09:00
 draft: false
 title: "バクチで野村證券をクビになった友人"
-slug: "2017/07/31"
+slug: "2017/07/31/225213"
 tags: ["プライベートな話"]
 image: "blog_import_6621bc902ccc1.jpg"
 feature: "blog_import_6621bc902ccc1.jpg"

@@ -2,7 +2,7 @@
 date: 2018-04-13T19:35:27+09:00
 draft: false
 title: "バリ島の不動産で格安物件が出る理由【インドネシア人の場合】"
-slug: "2018/04/13"
+slug: "2018/04/13/193527"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c2d984aa6.jpg"
 feature: "blog_import_6621c2d984aa6.jpg"

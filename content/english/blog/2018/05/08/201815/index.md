@@ -2,7 +2,7 @@
 date: 2018-05-08T20:18:15+09:00
 draft: false
 title: "バリ島法人で日本人スタッフ募集！！「一緒に働きませんか」"
-slug: "2018/05/08"
+slug: "2018/05/08/201815"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c340d0fe6.jpg"
 feature: "blog_import_6621c340d0fe6.jpg"

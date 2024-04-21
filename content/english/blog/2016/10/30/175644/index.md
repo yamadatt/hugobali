@@ -2,7 +2,7 @@
 date: 2016-10-30T17:56:44+09:00
 draft: false
 title: "僕が香港に行く理由"
-slug: "2016/10/30"
+slug: "2016/10/30/175644"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b5ded62b2.jpg"
 feature: "blog_import_6621b5ded62b2.jpg"

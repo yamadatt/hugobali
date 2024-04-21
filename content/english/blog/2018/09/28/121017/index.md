@@ -2,7 +2,7 @@
 date: 2018-09-28T12:10:17+09:00
 draft: false
 title: "昨日のスミニャックの物件、終了です。"
-slug: "2018/09/28"
+slug: "2018/09/28/121017"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621c67c51114.jpg"
 feature: "blog_import_6621c67c51114.jpg"

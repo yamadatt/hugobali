@@ -2,7 +2,7 @@
 date: 2018-04-06T19:15:53+09:00
 draft: false
 title: "常識・思い込みで考えるな！！消防設備なんて自分で付けろよ"
-slug: "2018/04/06"
+slug: "2018/04/06/191553"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c2b4d5c73.jpg"
 feature: "blog_import_6621c2b4d5c73.jpg"

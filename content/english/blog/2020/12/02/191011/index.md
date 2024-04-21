@@ -2,7 +2,7 @@
 date: 2020-12-02T19:10:11+09:00
 draft: false
 title: "高額クレジットカード（ダイナース）特典はすごい。名門ゴルフコースが半額！？"
-slug: "2020/12/02"
+slug: "2020/12/02/191011"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621defca766c.png"
 feature: "blog_import_6621defca766c.png"

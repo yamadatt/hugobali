@@ -2,7 +2,7 @@
 date: 2017-01-15T16:05:37+09:00
 draft: false
 title: "住宅、不動産を知人に依頼してはいけない理由"
-slug: "2017/01/15"
+slug: "2017/01/15/160537"
 tags: ["トラブルの話"]
 image: "blog_import_6621b882a3d52.jpg"
 feature: "blog_import_6621b882a3d52.jpg"

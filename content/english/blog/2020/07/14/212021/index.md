@@ -2,7 +2,7 @@
 date: 2020-07-14T21:20:21+09:00
 draft: false
 title: "感想＆質問（15）「株資産は、最優先に守られるのですか？」への回答"
-slug: "2020/07/14"
+slug: "2020/07/14/212021"
 tags: ["株式投資"]
 image: "blog_import_6621db7f151b7.jpg"
 feature: "blog_import_6621db7f151b7.jpg"

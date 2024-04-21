@@ -2,7 +2,7 @@
 date: 2019-05-02T18:23:03+09:00
 draft: false
 title: "５月１７日「第２回 初心者でも結果を出せる成長株投資入門」レベル２"
-slug: "2019/05/02"
+slug: "2019/05/02/182303"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cc4bab843.png"
 feature: "blog_import_6621cc4bab843.png"

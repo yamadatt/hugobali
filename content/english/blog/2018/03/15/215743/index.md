@@ -2,7 +2,7 @@
 date: 2018-03-15T21:57:43+09:00
 draft: false
 title: "ニュピに思う。ツラいことがある人生はドラマチックだ！？"
-slug: "2018/03/15"
+slug: "2018/03/15/215743"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c219bc41f.jpg"
 feature: "blog_import_6621c219bc41f.jpg"

@@ -2,7 +2,7 @@
 date: 2018-08-05T18:08:50+09:00
 draft: false
 title: "流行のカイトサーフィンって何だ？"
-slug: "2018/08/05"
+slug: "2018/08/05/180850"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c563b9636.jpg"
 feature: "blog_import_6621c563b9636.jpg"

@@ -2,7 +2,7 @@
 date: 2021-07-11T00:31:00+09:00
 draft: false
 title: "インドネシアの感染状況はピークに！！さらなる活動制限再開が始まった！？"
-slug: "2021/07/11"
+slug: "2021/07/11/003100"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621e3fd373c0.png"
 feature: "blog_import_6621e3fd373c0.png"

@@ -2,7 +2,7 @@
 date: 2020-09-29T10:04:41+09:00
 draft: false
 title: "満員御礼！！残席２名。１０月３日「中高生向け株式勉強会」"
-slug: "2020/09/29"
+slug: "2020/09/29/100441"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621dd350a7e0.png"
 feature: "blog_import_6621dd350a7e0.png"

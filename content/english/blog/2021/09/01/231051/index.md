@@ -2,7 +2,7 @@
 date: 2021-09-01T23:10:51+09:00
 draft: false
 title: "習い事を続けさせる意味。続けた自信は、きっと役に立つ。"
-slug: "2021/09/01"
+slug: "2021/09/01/231051"
 tags: ["プライベートな話"]
 image: "blog_import_6621e5a184c0a.png"
 feature: "blog_import_6621e5a184c0a.png"

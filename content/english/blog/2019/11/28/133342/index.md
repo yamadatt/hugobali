@@ -2,7 +2,7 @@
 date: 2019-11-28T13:33:42+09:00
 draft: false
 title: "「副業の成功を検証する」長田先生の振り返り　～その１　成功者と組む～"
-slug: "2019/11/28"
+slug: "2019/11/28/133342"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d2c1a03eb.png"
 feature: "blog_import_6621d2c1a03eb.png"

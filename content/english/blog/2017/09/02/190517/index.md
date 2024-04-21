@@ -2,7 +2,7 @@
 date: 2017-09-02T19:05:17+09:00
 draft: false
 title: "バリ島サヌールのビーチフロントの広大な売地　超希少！？"
-slug: "2017/09/02"
+slug: "2017/09/02/190517"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621bd185ce2f.jpg"
 feature: "blog_import_6621bd185ce2f.jpg"

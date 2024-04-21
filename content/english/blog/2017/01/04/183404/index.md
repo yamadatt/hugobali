@@ -2,7 +2,7 @@
 date: 2017-01-04T18:34:04+09:00
 draft: false
 title: "スタッフの打ち上げ＆春高バレー応援"
-slug: "2017/01/04"
+slug: "2017/01/04/183404"
 tags: ["プライベートな話"]
 image: "blog_import_6621b813b9b7a.jpg"
 feature: "blog_import_6621b813b9b7a.jpg"

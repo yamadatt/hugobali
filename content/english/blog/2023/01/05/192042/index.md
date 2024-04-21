@@ -2,7 +2,7 @@
 date: 2023-01-05T19:20:42+09:00
 draft: false
 title: "１月６日(金）成長株の基礎セミナー「金利が上昇する今、どうするべきか」"
-slug: "2023/01/05"
+slug: "2023/01/05/192042"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621f44e3ab95.png"
 feature: "blog_import_6621f44e3ab95.png"

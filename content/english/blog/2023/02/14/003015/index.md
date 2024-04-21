@@ -2,7 +2,7 @@
 date: 2023-02-14T00:30:15+09:00
 draft: false
 title: "ここらで、もう一勝負、したいなぁ。"
-slug: "2023/02/14"
+slug: "2023/02/14/003015"
 tags: ["プライベートな話"]
 image: "blog_import_6621f5f06d94e.png"
 feature: "blog_import_6621f5f06d94e.png"

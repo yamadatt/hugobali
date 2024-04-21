@@ -2,7 +2,7 @@
 date: 2020-04-18T01:00:06+09:00
 draft: false
 title: "４月２４日(金）「第１３回成長株投資の実践会」は、オンラインと動画にて開催"
-slug: "2020/04/18"
+slug: "2020/04/18/010006"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d8f47e1ce.jpg"
 feature: "blog_import_6621d8f47e1ce.jpg"

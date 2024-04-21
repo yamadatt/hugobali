@@ -2,7 +2,7 @@
 date: 2019-10-08T18:36:53+09:00
 draft: false
 title: "まっすぐにモノを見る大人でありたい"
-slug: "2019/10/08"
+slug: "2019/10/08/183653"
 tags: ["プライベートな話"]
 image: "blog_import_6621d077be4c2.png"
 feature: "blog_import_6621d077be4c2.png"

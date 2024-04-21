@@ -2,7 +2,7 @@
 date: 2014-08-18T23:41:16+09:00
 draft: false
 title: "３，インドネシアの金利は高い（１２％？）"
-slug: "2014/08/18"
+slug: "2014/08/18/234116"
 tags: ["バリ島でのロングステイ"]
 image: "blog_import_6621a6431c642.jpg"
 feature: "blog_import_6621a6431c642.jpg"

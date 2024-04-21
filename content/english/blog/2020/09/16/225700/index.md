@@ -2,7 +2,7 @@
 date: 2020-09-16T22:57:00+09:00
 draft: false
 title: "長田先生の成長株投資は、なぜ、勝てる可能性が高いのか！？"
-slug: "2020/09/16"
+slug: "2020/09/16/225700"
 tags: ["株式投資"]
 image: "blog_import_6621dcc3e0904.png"
 feature: "blog_import_6621dcc3e0904.png"

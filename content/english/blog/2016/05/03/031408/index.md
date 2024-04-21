@@ -2,7 +2,7 @@
 date: 2016-05-03T03:14:08+09:00
 draft: false
 title: "ルアックコーヒーは美味い！？"
-slug: "2016/05/03"
+slug: "2016/05/03/031408"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621af1da5ad0.jpg"
 feature: "blog_import_6621af1da5ad0.jpg"

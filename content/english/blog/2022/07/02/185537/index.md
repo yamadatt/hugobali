@@ -2,7 +2,7 @@
 date: 2022-07-02T18:55:37+09:00
 draft: false
 title: "残席２名！！第３回ファスティング合宿７月２２日～「みんなでやれば怖くない！？」"
-slug: "2022/07/02"
+slug: "2022/07/02/185537"
 tags: ["ファスティング合宿ダイエット"]
 image: "blog_import_6621ef18733df.png"
 feature: "blog_import_6621ef18733df.png"

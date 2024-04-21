@@ -2,7 +2,7 @@
 date: 2017-01-30T20:40:01+09:00
 draft: false
 title: "格安物件に化けた売ヴィラ！？"
-slug: "2017/01/30"
+slug: "2017/01/30/204001"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b939a4a04.jpg"
 feature: "blog_import_6621b939a4a04.jpg"

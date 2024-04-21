@@ -2,7 +2,7 @@
 date: 2019-06-16T14:21:08+09:00
 draft: false
 title: "２０日の「生ハム原木飲み会」に大物参戦か！？　来たれ、独身者！？"
-slug: "2019/06/16"
+slug: "2019/06/16/142108"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cd7b1dd3c.png"
 feature: "blog_import_6621cd7b1dd3c.png"

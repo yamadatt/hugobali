@@ -2,7 +2,7 @@
 date: 2015-02-15T00:31:24+09:00
 draft: false
 title: "バリ島　ウマラス　豪華ヴィラ　IDR16,000,000,000"
-slug: "2015/02/15"
+slug: "2015/02/15/003124"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621a9917b722.jpg"
 feature: "blog_import_6621a9917b722.jpg"

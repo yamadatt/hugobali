@@ -2,7 +2,7 @@
 date: 2023-10-03T01:58:57+09:00
 draft: false
 title: "第５期株式セミナーに向けて保有銘柄公開！？「セミナー活用法について」"
-slug: "2023/10/03"
+slug: "2023/10/03/015857"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621fd1da467e.png"
 feature: "blog_import_6621fd1da467e.png"

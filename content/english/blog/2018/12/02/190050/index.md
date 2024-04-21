@@ -2,7 +2,7 @@
 date: 2018-12-02T19:00:50+09:00
 draft: false
 title: "チャンスはある、世界に目を向けよう。"
-slug: "2018/12/02"
+slug: "2018/12/02/190050"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c7ffe3a97.jpg"
 feature: "blog_import_6621c7ffe3a97.jpg"

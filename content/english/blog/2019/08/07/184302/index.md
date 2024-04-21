@@ -2,7 +2,7 @@
 date: 2019-08-07T18:43:02+09:00
 draft: false
 title: "「韓国に生まれなくてよかった」とつくづく思う"
-slug: "2019/08/07"
+slug: "2019/08/07/184302"
 tags: ["プライベートな話"]
 image: "blog_import_6621cf6f73ad3.png"
 feature: "blog_import_6621cf6f73ad3.png"

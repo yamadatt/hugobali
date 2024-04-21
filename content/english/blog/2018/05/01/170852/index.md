@@ -2,7 +2,7 @@
 date: 2018-05-01T17:08:52+09:00
 draft: false
 title: "拙著『稼げる人の常識・・』紀伊国屋なら定価で買えます！！"
-slug: "2018/05/01"
+slug: "2018/05/01/170852"
 tags: ["プライベートな話"]
 image: "blog_import_6621c32f611a2.png"
 feature: "blog_import_6621c32f611a2.png"

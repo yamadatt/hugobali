@@ -2,7 +2,7 @@
 date: 2023-10-07T00:33:06+09:00
 draft: false
 title: "詐欺に遭った高齢知人が突然訪ねてきた。その手口は！？"
-slug: "2023/10/07"
+slug: "2023/10/07/003306"
 tags: ["プライベートな話"]
 image: "blog_import_6621fd4234ec8.png"
 feature: "blog_import_6621fd4234ec8.png"

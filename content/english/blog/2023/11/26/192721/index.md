@@ -2,7 +2,7 @@
 date: 2023-11-26T19:27:21+09:00
 draft: false
 title: "【保存用】2024年度「馬場ゴルフ部」の開催日。"
-slug: "2023/11/26"
+slug: "2023/11/26/192721"
 tags: ["ゴルフ"]
 image: "blog_import_6621fe646c112.png"
 feature: "blog_import_6621fe646c112.png"

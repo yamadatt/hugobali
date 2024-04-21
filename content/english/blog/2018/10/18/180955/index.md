@@ -2,7 +2,7 @@
 date: 2018-10-18T18:09:55+09:00
 draft: false
 title: "大人気のワルンだけど、僕は行かない店"
-slug: "2018/10/18"
+slug: "2018/10/18/180955"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c6e90686e.jpg"
 feature: "blog_import_6621c6e90686e.jpg"

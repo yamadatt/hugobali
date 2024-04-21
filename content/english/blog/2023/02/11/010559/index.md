@@ -2,7 +2,7 @@
 date: 2023-02-11T01:05:59+09:00
 draft: false
 title: "インドのヘビ使い"
-slug: "2023/02/11"
+slug: "2023/02/11/010559"
 tags: ["インド旅行パンチャカルマ"]
 image: "blog_import_6621f5d585ca2.png"
 feature: "blog_import_6621f5d585ca2.png"

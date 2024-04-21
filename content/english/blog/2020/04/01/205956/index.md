@@ -2,7 +2,7 @@
 date: 2020-04-01T20:59:56+09:00
 draft: false
 title: "「囚人のジレンマ」に思うやり続けることの大切さ。"
-slug: "2020/04/01"
+slug: "2020/04/01/205956"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d7fe8de30.png"
 feature: "blog_import_6621d7fe8de30.png"

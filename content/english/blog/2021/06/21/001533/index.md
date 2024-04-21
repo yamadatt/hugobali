@@ -2,7 +2,7 @@
 date: 2021-06-21T00:15:33+09:00
 draft: false
 title: "経営者にとって一番大切なのは、なりふり構わない「覚悟」だ"
-slug: "2021/06/21"
+slug: "2021/06/21/001533"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e34ca474e.png"
 feature: "blog_import_6621e34ca474e.png"

@@ -2,7 +2,7 @@
 date: 2018-01-24T20:00:58+09:00
 draft: false
 title: "今、セミナー中です。"
-slug: "2018/01/24"
+slug: "2018/01/24/200058"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c0e317a4f.jpg"
 feature: "blog_import_6621c0e317a4f.jpg"

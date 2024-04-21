@@ -2,7 +2,7 @@
 date: 2021-11-28T22:31:46+09:00
 draft: false
 title: "男が人生で後悔する共通のことは？"
-slug: "2021/11/28"
+slug: "2021/11/28/223146"
 tags: ["プライベートな話"]
 image: "blog_import_6621e80eeb0a5.png"
 feature: "blog_import_6621e80eeb0a5.png"

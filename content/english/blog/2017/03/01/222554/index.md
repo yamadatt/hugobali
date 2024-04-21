@@ -2,7 +2,7 @@
 date: 2017-03-01T22:25:54+09:00
 draft: false
 title: "中国人旅行者を取り込むには、Ctrip(携程）しかない！？"
-slug: "2017/03/01"
+slug: "2017/03/01/222554"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621ba1796d6c.jpg"
 feature: "blog_import_6621ba1796d6c.jpg"

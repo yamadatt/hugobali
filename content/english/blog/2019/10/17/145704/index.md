@@ -2,7 +2,7 @@
 date: 2019-10-17T14:57:04+09:00
 draft: false
 title: "希少案件。年利回り２０％！？埼玉県某所の太陽光発電用地の買取り資金"
-slug: "2019/10/17"
+slug: "2019/10/17/145704"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621d125d2ec5.png"
 feature: "blog_import_6621d125d2ec5.png"

@@ -2,7 +2,7 @@
 date: 2020-04-03T00:01:08+09:00
 draft: false
 title: "バリ島でもコロナで自粛。行き当たりばったりの行政には困ったものだ"
-slug: "2020/04/03"
+slug: "2020/04/03/000108"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621d7ffb9ac7.jpg"
 feature: "blog_import_6621d7ffb9ac7.jpg"

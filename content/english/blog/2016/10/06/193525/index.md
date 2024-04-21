@@ -2,7 +2,7 @@
 date: 2016-10-06T19:35:25+09:00
 draft: false
 title: "サヌール　高級住宅街のレンタル住宅"
-slug: "2016/10/06"
+slug: "2016/10/06/193525"
 tags: ["バリ島でのロングステイ"]
 image: "blog_import_6621b463c34cf.jpg"
 feature: "blog_import_6621b463c34cf.jpg"

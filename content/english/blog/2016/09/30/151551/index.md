@@ -2,7 +2,7 @@
 date: 2016-09-30T15:15:51+09:00
 draft: false
 title: "クイズ：この写真にイヌは何匹いる？"
-slug: "2016/09/30"
+slug: "2016/09/30/151551"
 tags: ["ブログ"]
 image: "blog_import_6621b3e852333.jpg"
 feature: "blog_import_6621b3e852333.jpg"

@@ -2,7 +2,7 @@
 date: 2023-10-24T00:32:52+09:00
 draft: false
 title: "馬場ゴルフ部の月例会場「浜野ゴルフ」が値上げ！？来年のコンペ開催は頭が痛い。。"
-slug: "2023/10/24"
+slug: "2023/10/24/003252"
 tags: ["ゴルフ"]
 image: "blog_import_6621fda562bf5.png"
 feature: "blog_import_6621fda562bf5.png"

@@ -2,7 +2,7 @@
 date: 2017-08-22T20:00:00+09:00
 draft: false
 title: "新発見！！バリ島のアンナミラーズ！？"
-slug: "2017/08/22"
+slug: "2017/08/22/200000"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621bce5edddf.jpg"
 feature: "blog_import_6621bce5edddf.jpg"

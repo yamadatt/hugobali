@@ -2,7 +2,7 @@
 date: 2019-03-16T16:57:55+09:00
 draft: false
 title: "満員御礼！！ 株式セミナーの参加者からいただいた声"
-slug: "2019/03/16"
+slug: "2019/03/16/165755"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ca337f929.jpg"
 feature: "blog_import_6621ca337f929.jpg"

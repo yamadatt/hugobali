@@ -2,7 +2,7 @@
 date: 2019-04-02T21:33:39+09:00
 draft: false
 title: "満員御礼！！４月１２日の「初心者でも結果を出せる！株式投資の勉強会」"
-slug: "2019/04/02"
+slug: "2019/04/02/213339"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cab0a97b9.jpg"
 feature: "blog_import_6621cab0a97b9.jpg"

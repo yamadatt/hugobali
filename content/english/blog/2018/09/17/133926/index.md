@@ -2,7 +2,7 @@
 date: 2018-09-17T13:39:26+09:00
 draft: false
 title: "ブログ見て来てくれました！！"
-slug: "2018/09/17"
+slug: "2018/09/17/133926"
 tags: ["プライベートな話"]
 image: "blog_import_6621c629b108f.jpg"
 feature: "blog_import_6621c629b108f.jpg"

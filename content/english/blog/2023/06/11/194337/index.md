@@ -2,7 +2,7 @@
 date: 2023-06-11T19:43:37+09:00
 draft: false
 title: "成功する人は、品がある！？"
-slug: "2023/06/11"
+slug: "2023/06/11/194337"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621fa15b1461.png"
 feature: "blog_import_6621fa15b1461.png"

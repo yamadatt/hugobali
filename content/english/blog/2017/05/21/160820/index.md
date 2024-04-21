@@ -2,7 +2,7 @@
 date: 2017-05-21T16:08:20+09:00
 draft: false
 title: "スタッフがいきなり、坊さんになり会社をやめた"
-slug: "2017/05/21"
+slug: "2017/05/21/160820"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621bb86392a0.jpg"
 feature: "blog_import_6621bb86392a0.jpg"

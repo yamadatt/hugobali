@@ -2,7 +2,7 @@
 date: 2023-01-25T14:37:44+09:00
 draft: false
 title: "スートラニティ(鼻ひも通し)に挑戦！？ジャラニティ(鼻洗浄)を超える気持ちよさ？？"
-slug: "2023/01/25"
+slug: "2023/01/25/143744"
 tags: ["インド旅行パンチャカルマ"]
 image: "blog_import_6621f4d8f26bf.jpg"
 feature: "blog_import_6621f4d8f26bf.jpg"

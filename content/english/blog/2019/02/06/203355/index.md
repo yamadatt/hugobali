@@ -2,7 +2,7 @@
 date: 2019-02-06T20:33:55+09:00
 draft: false
 title: "１日で７００万円を儲けた株の話"
-slug: "2019/02/06"
+slug: "2019/02/06/203355"
 tags: ["プライベートな話"]
 image: "blog_import_6621c9b556bfe.jpg"
 feature: "blog_import_6621c9b556bfe.jpg"

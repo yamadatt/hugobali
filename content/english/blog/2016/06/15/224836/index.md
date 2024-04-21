@@ -2,7 +2,7 @@
 date: 2016-06-15T22:48:36+09:00
 draft: false
 title: "オージーに買われた開発用地"
-slug: "2016/06/15"
+slug: "2016/06/15/224836"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621b0393db45.jpg"
 feature: "blog_import_6621b0393db45.jpg"

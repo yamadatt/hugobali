@@ -2,7 +2,7 @@
 date: 2021-12-27T00:20:50+09:00
 draft: false
 title: "ラグビー大学選手権「早明戦」に行って思う「学生スポーツを観に行く理由」"
-slug: "2021/12/27"
+slug: "2021/12/27/002050"
 tags: ["プライベートな話"]
 image: "blog_import_6621e8e8990a7.png"
 feature: "blog_import_6621e8e8990a7.png"

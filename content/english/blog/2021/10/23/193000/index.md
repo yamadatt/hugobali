@@ -2,7 +2,7 @@
 date: 2021-10-23T19:30:00+09:00
 draft: false
 title: "箱根駅伝予選会を駿河台大が突破！？監督の徳本選手（法政大）、好きだったなぁ"
-slug: "2021/10/23"
+slug: "2021/10/23/193000"
 tags: ["プライベートな話"]
 image: "blog_import_6621e71100dbb.png"
 feature: "blog_import_6621e71100dbb.png"

@@ -2,7 +2,7 @@
 date: 2018-10-29T21:18:19+09:00
 draft: false
 title: "利回り１５％超！？ハンパない節税効果！？北関東の売ラブホテル"
-slug: "2018/10/29"
+slug: "2018/10/29/211819"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621c72ae1dcc.jpg"
 feature: "blog_import_6621c72ae1dcc.jpg"

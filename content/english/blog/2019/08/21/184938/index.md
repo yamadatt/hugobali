@@ -2,7 +2,7 @@
 date: 2019-08-21T18:49:38+09:00
 draft: false
 title: "タケシのピンチ！？マリアにスマホを見られた？"
-slug: "2019/08/21"
+slug: "2019/08/21/184938"
 tags: ["タケシ（バリ島現地スタッフ）の話"]
 image: "blog_import_6621cfac49c76.png"
 feature: "blog_import_6621cfac49c76.png"

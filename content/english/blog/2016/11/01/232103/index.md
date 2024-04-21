@@ -2,7 +2,7 @@
 date: 2016-11-01T23:21:03+09:00
 draft: false
 title: "中途半端な小金持ちが一番ソンをする！？"
-slug: "2016/11/01"
+slug: "2016/11/01/232103"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b5ee26ee7.jpg"
 feature: "blog_import_6621b5ee26ee7.jpg"

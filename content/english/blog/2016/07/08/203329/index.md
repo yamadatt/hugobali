@@ -2,7 +2,7 @@
 date: 2016-07-08T20:33:29+09:00
 draft: false
 title: "バリ島スミニャック　売ヴィラ約２６００万円　利回り１８％超"
-slug: "2016/07/08"
+slug: "2016/07/08/203329"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621b0d131f54.jpg"
 feature: "blog_import_6621b0d131f54.jpg"

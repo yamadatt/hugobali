@@ -2,7 +2,7 @@
 date: 2014-08-26T18:15:21+09:00
 draft: false
 title: "売ヴィラ２６０％　竿師ペドロの物件"
-slug: "2014/08/26"
+slug: "2014/08/26/181521"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621a75baea84.jpg"
 feature: "blog_import_6621a75baea84.jpg"

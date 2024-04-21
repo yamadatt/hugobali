@@ -2,7 +2,7 @@
 date: 2017-07-28T13:22:26+09:00
 draft: false
 title: "マカオに１人で来た男"
-slug: "2017/07/28"
+slug: "2017/07/28/132226"
 tags: ["プライベートな話"]
 image: "blog_import_6621bc85cd388.jpg"
 feature: "blog_import_6621bc85cd388.jpg"

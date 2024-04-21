@@ -2,7 +2,7 @@
 date: 2016-09-25T19:34:09+09:00
 draft: false
 title: "スミニャックとウブドゥの物件は、どちらがいいのか！？"
-slug: "2016/09/25"
+slug: "2016/09/25/193409"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b3a37ff9d.jpg"
 feature: "blog_import_6621b3a37ff9d.jpg"

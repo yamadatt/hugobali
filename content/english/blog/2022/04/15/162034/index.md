@@ -2,7 +2,7 @@
 date: 2022-04-15T16:20:34+09:00
 draft: false
 title: "本日開催！第３７回：成長株投資の実践会「円安インフレ懸念の今、どう対応する？」"
-slug: "2022/04/15"
+slug: "2022/04/15/162034"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ed1f6f1a7.png"
 feature: "blog_import_6621ed1f6f1a7.png"

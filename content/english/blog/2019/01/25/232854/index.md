@@ -2,7 +2,7 @@
 date: 2019-01-25T23:28:54+09:00
 draft: false
 title: "昨日のバリ島不動産セミナー。ありがとうございました！！"
-slug: "2019/01/25"
+slug: "2019/01/25/232854"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c979d6024.jpg"
 feature: "blog_import_6621c979d6024.jpg"

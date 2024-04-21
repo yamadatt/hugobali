@@ -2,7 +2,7 @@
 date: 2017-04-08T00:24:22+09:00
 draft: false
 title: "ついにバリ島が１位!？世界の人気観光地ランキング2017"
-slug: "2017/04/08"
+slug: "2017/04/08/002422"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621bad571aa4.jpg"
 feature: "blog_import_6621bad571aa4.jpg"

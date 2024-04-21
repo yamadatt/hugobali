@@ -2,7 +2,7 @@
 date: 2020-03-02T23:59:45+09:00
 draft: false
 title: "株式の売買注文方法の使い分けについて"
-slug: "2020/03/02"
+slug: "2020/03/02/235945"
 tags: ["株式投資"]
 image: "blog_import_6621d792d8ecf.png"
 feature: "blog_import_6621d792d8ecf.png"

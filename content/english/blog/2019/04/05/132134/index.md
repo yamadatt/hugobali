@@ -2,7 +2,7 @@
 date: 2019-04-05T13:21:34+09:00
 draft: false
 title: "ラブホテルの看板設置場所・デザインの確認で急ぎ群馬・高崎へ"
-slug: "2019/04/05"
+slug: "2019/04/05/132134"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621cadd56939.jpg"
 feature: "blog_import_6621cadd56939.jpg"

@@ -2,7 +2,7 @@
 date: 2023-06-06T01:13:55+09:00
 draft: false
 title: "世界は動いている。変化を楽しもう"
-slug: "2023/06/06"
+slug: "2023/06/06/011355"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f9dbd13da.jpg"
 feature: "blog_import_6621f9dbd13da.jpg"

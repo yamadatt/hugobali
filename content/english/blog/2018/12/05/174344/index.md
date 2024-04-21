@@ -2,7 +2,7 @@
 date: 2018-12-05T17:43:44+09:00
 draft: false
 title: "バリ島の交通規制「奇数・偶数制度」は誰も守らない！？"
-slug: "2018/12/05"
+slug: "2018/12/05/174344"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c801d3620.jpg"
 feature: "blog_import_6621c801d3620.jpg"

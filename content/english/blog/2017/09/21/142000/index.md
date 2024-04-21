@@ -2,7 +2,7 @@
 date: 2017-09-21T14:20:00+09:00
 draft: false
 title: "昨日のバリ島セミナー＆懇親会"
-slug: "2017/09/21"
+slug: "2017/09/21/142000"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621bd6b5c2cb.jpg"
 feature: "blog_import_6621bd6b5c2cb.jpg"

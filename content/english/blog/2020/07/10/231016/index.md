@@ -2,7 +2,7 @@
 date: 2020-07-10T23:10:16+09:00
 draft: false
 title: "コロナからバリ島が立ち直るのは、いつになるのだろうか。"
-slug: "2020/07/10"
+slug: "2020/07/10/231016"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621db5d03c73.png"
 feature: "blog_import_6621db5d03c73.png"

@@ -2,7 +2,7 @@
 date: 2016-10-14T21:13:03+09:00
 draft: false
 title: "バリ島チャングー　売ヴィラ1760万円　利回り16.4％"
-slug: "2016/10/14"
+slug: "2016/10/14/211303"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621b4cc3d698.jpg"
 feature: "blog_import_6621b4cc3d698.jpg"

@@ -2,7 +2,7 @@
 date: 2019-12-27T22:33:08+09:00
 draft: false
 title: "ド田舎、山中の渓谷（辺境）にあるヴィラ。稼げるヴィラは作れるのか！？"
-slug: "2019/12/27"
+slug: "2019/12/27/223308"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621d42198a18.jpg"
 feature: "blog_import_6621d42198a18.jpg"

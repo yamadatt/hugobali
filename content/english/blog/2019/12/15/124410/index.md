@@ -2,7 +2,7 @@
 date: 2019-12-15T12:44:10+09:00
 draft: false
 title: "小さな約束を守ろう。"
-slug: "2019/12/15"
+slug: "2019/12/15/124410"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d3b274ad4.png"
 feature: "blog_import_6621d3b274ad4.png"

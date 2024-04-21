@@ -2,7 +2,7 @@
 date: 2020-04-17T22:50:02+09:00
 draft: false
 title: "竹本容器(4248）の株主優待品、なかなかいいぞ！！"
-slug: "2020/04/17"
+slug: "2020/04/17/225002"
 tags: ["株式投資"]
 image: "blog_import_6621d8e6ed588.jpg"
 feature: "blog_import_6621d8e6ed588.jpg"

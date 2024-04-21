@@ -2,7 +2,7 @@
 date: 2019-03-21T19:06:31+09:00
 draft: false
 title: "タケシの結婚！？その９　結婚に立ちはだかる宗教の壁"
-slug: "2019/03/21"
+slug: "2019/03/21/190631"
 tags: ["タケシ（バリ島現地スタッフ）の話"]
 image: "blog_import_6621ca6e2dc13.png"
 feature: "blog_import_6621ca6e2dc13.png"

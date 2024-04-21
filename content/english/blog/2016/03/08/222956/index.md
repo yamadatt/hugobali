@@ -2,7 +2,7 @@
 date: 2016-03-08T22:29:56+09:00
 draft: false
 title: "サヌール売ヴィラ　１棟１８００ジュタ、２棟２５８０ジュタ！？格安"
-slug: "2016/03/08"
+slug: "2016/03/08/222956"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621adb859a63.jpg"
 feature: "blog_import_6621adb859a63.jpg"

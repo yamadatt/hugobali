@@ -2,7 +2,7 @@
 date: 2022-02-23T10:36:58+09:00
 draft: false
 title: "田舎不動産投資のメリット、デメリット"
-slug: "2022/02/23"
+slug: "2022/02/23/103658"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621eaeb74bc5.png"
 feature: "blog_import_6621eaeb74bc5.png"

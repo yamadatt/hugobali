@@ -2,7 +2,7 @@
 date: 2018-04-16T17:49:54+09:00
 draft: false
 title: "小島恵美子さんのご冥福をお祈り申し上げます"
-slug: "2018/04/16"
+slug: "2018/04/16/174954"
 tags: ["プライベートな話"]
 image: "blog_import_6621c2dc90efa.jpg"
 feature: "blog_import_6621c2dc90efa.jpg"

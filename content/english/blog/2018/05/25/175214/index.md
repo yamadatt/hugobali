@@ -2,7 +2,7 @@
 date: 2018-05-25T17:52:14+09:00
 draft: false
 title: "高級ヴィラ担当スタッフの料理＆マナー研修"
-slug: "2018/05/25"
+slug: "2018/05/25/175214"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c37bf0c3b.jpg"
 feature: "blog_import_6621c37bf0c3b.jpg"

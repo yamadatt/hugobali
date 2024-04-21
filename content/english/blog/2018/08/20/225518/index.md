@@ -2,7 +2,7 @@
 date: 2018-08-20T22:55:18+09:00
 draft: false
 title: "カラオケ嬢と本気の恋愛をしているオーナー様"
-slug: "2018/08/20"
+slug: "2018/08/20/225518"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c5c591659.jpg"
 feature: "blog_import_6621c5c591659.jpg"

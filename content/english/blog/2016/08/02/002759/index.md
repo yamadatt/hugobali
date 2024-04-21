@@ -2,7 +2,7 @@
 date: 2016-08-02T00:27:59+09:00
 draft: false
 title: "ランドバンキングと原野商法"
-slug: "2016/08/02"
+slug: "2016/08/02/002759"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b1c3384ef.jpg"
 feature: "blog_import_6621b1c3384ef.jpg"

@@ -2,7 +2,7 @@
 date: 2018-12-16T18:40:36+09:00
 draft: false
 title: "今日からブログ再開！？"
-slug: "2018/12/16"
+slug: "2018/12/16/184036"
 tags: ["プライベートな話"]
 image: "blog_import_6621c83c05449.jpg"
 feature: "blog_import_6621c83c05449.jpg"

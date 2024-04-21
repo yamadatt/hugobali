@@ -2,7 +2,7 @@
 date: 2016-11-30T12:48:54+09:00
 draft: false
 title: "朝まで忘年会１２月１６日　東京ベイコートにて"
-slug: "2016/11/30"
+slug: "2016/11/30/124854"
 tags: ["プライベートな話"]
 image: "blog_import_6621b70b1f6b3.jpg"
 feature: "blog_import_6621b70b1f6b3.jpg"

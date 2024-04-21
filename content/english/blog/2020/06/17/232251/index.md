@@ -2,7 +2,7 @@
 date: 2020-06-17T23:22:51+09:00
 draft: false
 title: "バリ島カラオケ嬢、残酷物語"
-slug: "2020/06/17"
+slug: "2020/06/17/232251"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621dab99a70a.png"
 feature: "blog_import_6621dab99a70a.png"

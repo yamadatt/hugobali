@@ -2,7 +2,7 @@
 date: 2022-10-11T00:00:16+09:00
 draft: false
 title: "５０代の起業をおススメしない理由"
-slug: "2022/10/11"
+slug: "2022/10/11/000016"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f1a973698.png"
 feature: "blog_import_6621f1a973698.png"

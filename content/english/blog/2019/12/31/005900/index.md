@@ -2,7 +2,7 @@
 date: 2019-12-31T00:59:00+09:00
 draft: false
 title: "第５２回バリ島不動産投資セミナーのご案内１月２９日(水）ｉｎ高田馬場"
-slug: "2019/12/31"
+slug: "2019/12/31/005900"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d4c94285e.jpg"
 feature: "blog_import_6621d4c94285e.jpg"

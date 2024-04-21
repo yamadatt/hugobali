@@ -2,7 +2,7 @@
 date: 2020-04-18T18:09:49+09:00
 draft: false
 title: "うちのホテルは大丈夫なのか！？なぜだか思い出す幼稚園の運動会"
-slug: "2020/04/18"
+slug: "2020/04/18/180949"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d8f88d8c5.png"
 feature: "blog_import_6621d8f88d8c5.png"

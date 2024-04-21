@@ -2,7 +2,7 @@
 date: 2021-10-30T20:13:27+09:00
 draft: false
 title: "第３１回成長株セミナーの報告「セミナーをどう利用すれば儲けられるのか？」"
-slug: "2021/10/30"
+slug: "2021/10/30/201327"
 tags: ["株式投資"]
 image: "blog_import_6621e73b86acf.jpg"
 feature: "blog_import_6621e73b86acf.jpg"

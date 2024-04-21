@@ -2,7 +2,7 @@
 date: 2023-08-04T01:28:15+09:00
 draft: false
 title: "8月25日(金）成長株の実践セミナー「好業績銘柄に素直に乗っかろう」"
-slug: "2023/08/04"
+slug: "2023/08/04/012815"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621fbd033ce1.png"
 feature: "blog_import_6621fbd033ce1.png"

@@ -2,7 +2,7 @@
 date: 2020-12-28T18:51:14+09:00
 draft: false
 title: "ゴルフ１００切りが見えてきた！？株もゴルフも勝てる戦略は同じだ。"
-slug: "2020/12/28"
+slug: "2020/12/28/185114"
 tags: ["プライベートな話"]
 image: "blog_import_6621df801b7c3.jpg"
 feature: "blog_import_6621df801b7c3.jpg"

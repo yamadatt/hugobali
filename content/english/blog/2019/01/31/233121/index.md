@@ -2,7 +2,7 @@
 date: 2019-01-31T23:31:21+09:00
 draft: false
 title: "地方不動産投資で成功するためのポイント"
-slug: "2019/01/31"
+slug: "2019/01/31/233121"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621c98f57f13.jpg"
 feature: "blog_import_6621c98f57f13.jpg"

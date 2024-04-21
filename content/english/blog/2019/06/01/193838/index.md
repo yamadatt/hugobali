@@ -2,7 +2,7 @@
 date: 2019-06-01T19:38:38+09:00
 draft: false
 title: "６月１４日：長田淳司の米国株セミナー「米国株NYダウ・S&amp;P500はなぜ上がり続けているのか？」"
-slug: "2019/06/01"
+slug: "2019/06/01/193838"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cd277d62e.png"
 feature: "blog_import_6621cd277d62e.png"

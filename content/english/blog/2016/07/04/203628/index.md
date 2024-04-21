@@ -2,7 +2,7 @@
 date: 2016-07-04T20:36:28+09:00
 draft: false
 title: "シビれる物件！！チャングー売ヴィラ　約２８００万円、利回り１５.６％超"
-slug: "2016/07/04"
+slug: "2016/07/04/203628"
 tags: ["ブログ"]
 image: "blog_import_6621b0a72f9d7.jpg"
 feature: "blog_import_6621b0a72f9d7.jpg"

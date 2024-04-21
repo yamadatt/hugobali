@@ -2,7 +2,7 @@
 date: 2020-02-22T01:12:06+09:00
 draft: false
 title: "やはりムターの音は、別格だ"
-slug: "2020/02/22"
+slug: "2020/02/22/011206"
 tags: ["プライベートな話"]
 image: "blog_import_6621d76b1aa72.png"
 feature: "blog_import_6621d76b1aa72.png"

@@ -2,7 +2,7 @@
 date: 2020-06-13T18:35:21+09:00
 draft: false
 title: "凡人は秀才と勝負してはいけない！？"
-slug: "2020/06/13"
+slug: "2020/06/13/183521"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621da95be4b7.png"
 feature: "blog_import_6621da95be4b7.png"

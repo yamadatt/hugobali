@@ -2,7 +2,7 @@
 date: 2019-03-30T17:11:38+09:00
 draft: false
 title: "渋谷区：投資用マンション２連発！！９８０万､１４９０万円"
-slug: "2019/03/30"
+slug: "2019/03/30/171138"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621caa7e4152.png"
 feature: "blog_import_6621caa7e4152.png"

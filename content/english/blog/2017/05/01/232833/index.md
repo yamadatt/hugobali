@@ -2,7 +2,7 @@
 date: 2017-05-01T23:28:33+09:00
 draft: false
 title: "サービスは、無料だと思っている日本人"
-slug: "2017/05/01"
+slug: "2017/05/01/232833"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621bb41c56fa.jpg"
 feature: "blog_import_6621bb41c56fa.jpg"

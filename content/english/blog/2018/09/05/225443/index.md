@@ -2,7 +2,7 @@
 date: 2018-09-05T22:54:43+09:00
 draft: false
 title: "バリ島法人では、親戚同士のスタッフが多い！？"
-slug: "2018/09/05"
+slug: "2018/09/05/225443"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c5f25b395.jpg"
 feature: "blog_import_6621c5f25b395.jpg"

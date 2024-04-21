@@ -2,7 +2,7 @@
 date: 2020-04-20T20:18:07+09:00
 draft: false
 title: "ラブホテルの料金看板、どちらがいいですか！？"
-slug: "2020/04/20"
+slug: "2020/04/20/201807"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621d900ec721.png"
 feature: "blog_import_6621d900ec721.png"

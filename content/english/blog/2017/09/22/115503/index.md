@@ -2,7 +2,7 @@
 date: 2017-09-22T11:55:03+09:00
 draft: false
 title: "幻冬舎さまのセミナーも終了。７時間の禁煙で気絶した！？"
-slug: "2017/09/22"
+slug: "2017/09/22/115503"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621bd723470c.jpg"
 feature: "blog_import_6621bd723470c.jpg"

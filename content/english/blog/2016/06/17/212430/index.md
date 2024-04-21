@@ -2,7 +2,7 @@
 date: 2016-06-17T21:24:30+09:00
 draft: false
 title: "利回り約１５％　サヌール売ヴィラ　約８５０万円"
-slug: "2016/06/17"
+slug: "2016/06/17/212430"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621b05a9b00e.jpg"
 feature: "blog_import_6621b05a9b00e.jpg"

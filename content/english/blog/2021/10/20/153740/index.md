@@ -2,7 +2,7 @@
 date: 2021-10-20T15:37:40+09:00
 draft: false
 title: "バリ島が観光客の受け入れ開始！！実際どうやって入出国するのか。"
-slug: "2021/10/20"
+slug: "2021/10/20/153740"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621e6f2da97d.png"
 feature: "blog_import_6621e6f2da97d.png"

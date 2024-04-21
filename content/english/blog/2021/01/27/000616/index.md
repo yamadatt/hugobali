@@ -2,7 +2,7 @@
 date: 2021-01-27T00:06:16+09:00
 draft: false
 title: "インドネシアのコロナ感染者数は１００万人を突破！？中国製ワクチンは大丈夫なのか？"
-slug: "2021/01/27"
+slug: "2021/01/27/000616"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621e012480dd.png"
 feature: "blog_import_6621e012480dd.png"

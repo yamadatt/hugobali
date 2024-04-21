@@ -2,7 +2,7 @@
 date: 2023-03-13T18:57:41+09:00
 draft: false
 title: "３月１７日(金）第４８回：成長株投資の実践会「脱マスク銘柄でチャンスをつかむ！？」"
-slug: "2023/03/13"
+slug: "2023/03/13/185741"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621f69c5f323.png"
 feature: "blog_import_6621f69c5f323.png"

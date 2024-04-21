@@ -2,7 +2,7 @@
 date: 2023-09-12T01:23:01+09:00
 draft: false
 title: "異動、転職、起業では、「出ていき方、終わり方」を大切にしよう"
-slug: "2023/09/12"
+slug: "2023/09/12/012301"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621fcc766c59.png"
 feature: "blog_import_6621fcc766c59.png"

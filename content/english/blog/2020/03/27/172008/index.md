@@ -2,7 +2,7 @@
 date: 2020-03-27T17:20:08+09:00
 draft: false
 title: "周囲の声に惑わされず、基本スタンスを変えず、成長株投資をやろう"
-slug: "2020/03/27"
+slug: "2020/03/27/172008"
 tags: ["株式投資"]
 image: "blog_import_6621d7ed14a5e.png"
 feature: "blog_import_6621d7ed14a5e.png"

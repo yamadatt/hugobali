@@ -2,7 +2,7 @@
 date: 2017-12-14T23:49:06+09:00
 draft: false
 title: "ブログ書籍化の作業が始まった"
-slug: "2017/12/14"
+slug: "2017/12/14/234906"
 tags: ["プライベートな話"]
 image: "blog_import_6621bf66cb4d5.jpg"
 feature: "blog_import_6621bf66cb4d5.jpg"

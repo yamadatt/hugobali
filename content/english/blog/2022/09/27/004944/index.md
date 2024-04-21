@@ -2,7 +2,7 @@
 date: 2022-09-27T00:49:44+09:00
 draft: false
 title: "最近はイベントが続く。。そろそろ管理が限界か！？"
-slug: "2022/09/27"
+slug: "2022/09/27/004944"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621f144abc2c.jpg"
 feature: "blog_import_6621f144abc2c.jpg"

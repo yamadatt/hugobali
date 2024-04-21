@@ -2,7 +2,7 @@
 date: 2023-06-27T00:50:39+09:00
 draft: false
 title: "新入社員時代(野村證券）の話　その３「証券マンにとってツラい時期」"
-slug: "2023/06/27"
+slug: "2023/06/27/005039"
 tags: ["プライベートな話"]
 image: "blog_import_6621fa71e76b1.png"
 feature: "blog_import_6621fa71e76b1.png"

@@ -2,7 +2,7 @@
 date: 2020-12-29T22:56:18+09:00
 draft: false
 title: "１００切りを目指した今年最後のラウンド。ゴルフの女神は微笑んだのか！？"
-slug: "2020/12/29"
+slug: "2020/12/29/225618"
 tags: ["プライベートな話"]
 image: "blog_import_6621df8ad0e04.png"
 feature: "blog_import_6621df8ad0e04.png"

@@ -2,7 +2,7 @@
 date: 2019-07-01T23:45:27+09:00
 draft: false
 title: "７月１９日（金）開催セミナー「７０年間値上がりを続けるアンティークコイン投資とは？」"
-slug: "2019/07/01"
+slug: "2019/07/01/234527"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ce338ccd6.png"
 feature: "blog_import_6621ce338ccd6.png"

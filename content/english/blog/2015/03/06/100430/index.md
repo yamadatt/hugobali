@@ -2,7 +2,7 @@
 date: 2015-03-06T10:04:30+09:00
 draft: false
 title: "バリ島　スミニャック　売ヴィラ　US＄200,000"
-slug: "2015/03/06"
+slug: "2015/03/06/100430"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621aa0d19b5c.jpg"
 feature: "blog_import_6621aa0d19b5c.jpg"

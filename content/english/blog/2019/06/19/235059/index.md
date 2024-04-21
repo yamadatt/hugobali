@@ -2,7 +2,7 @@
 date: 2019-06-19T23:50:59+09:00
 draft: false
 title: "茨城県の売りラブホテル。９０００万円　実質利回り２０％　好立地！！"
-slug: "2019/06/19"
+slug: "2019/06/19/235059"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621cd990a438.jpg"
 feature: "blog_import_6621cd990a438.jpg"

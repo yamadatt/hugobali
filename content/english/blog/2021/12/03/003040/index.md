@@ -2,7 +2,7 @@
 date: 2021-12-03T00:30:40+09:00
 draft: false
 title: "明日１２月３日成長株基礎セミナーの案内「成長株を探す５つの方法～上げて下げても楽しむ～」"
-slug: "2021/12/03"
+slug: "2021/12/03/003040"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621e82a9b591.png"
 feature: "blog_import_6621e82a9b591.png"

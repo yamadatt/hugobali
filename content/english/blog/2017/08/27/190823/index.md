@@ -2,7 +2,7 @@
 date: 2017-08-27T19:08:23+09:00
 draft: false
 title: "ネズミの駆除"
-slug: "2017/08/27"
+slug: "2017/08/27/190823"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621bcfe5d1f1.jpg"
 feature: "blog_import_6621bcfe5d1f1.jpg"

@@ -2,7 +2,7 @@
 date: 2016-02-25T21:43:18+09:00
 draft: false
 title: "なぜ、お金持ちがバリ島のヴィラを買うのか"
-slug: "2016/02/25"
+slug: "2016/02/25/214318"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ad1718aa0.jpg"
 feature: "blog_import_6621ad1718aa0.jpg"

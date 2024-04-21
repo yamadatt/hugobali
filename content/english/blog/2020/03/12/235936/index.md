@@ -2,7 +2,7 @@
 date: 2020-03-12T23:59:36+09:00
 draft: false
 title: "用心に怪我なし、油断に悔いあり"
-slug: "2020/03/12"
+slug: "2020/03/12/235936"
 tags: ["株式投資"]
 image: "blog_import_6621d7afaf45d.png"
 feature: "blog_import_6621d7afaf45d.png"

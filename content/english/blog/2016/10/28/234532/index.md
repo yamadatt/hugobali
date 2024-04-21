@@ -2,7 +2,7 @@
 date: 2016-10-28T23:45:32+09:00
 draft: false
 title: "リスクを具体化しよう"
-slug: "2016/10/28"
+slug: "2016/10/28/234532"
 tags: ["ブログ"]
 image: ""
 feature: ""

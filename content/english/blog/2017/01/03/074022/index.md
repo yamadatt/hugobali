@@ -2,7 +2,7 @@
 date: 2017-01-03T07:40:22+09:00
 draft: false
 title: "逃亡者「無銭で逃げる宿泊客　その２」"
-slug: "2017/01/03"
+slug: "2017/01/03/074022"
 tags: ["トラブルの話"]
 image: "blog_import_6621b7ee03438.jpg"
 feature: "blog_import_6621b7ee03438.jpg"

@@ -2,7 +2,7 @@
 date: 2017-07-06T22:45:44+09:00
 draft: false
 title: "ヴィラを売る時は、妥協と踏ん切りが大切だ"
-slug: "2017/07/06"
+slug: "2017/07/06/224544"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621bc409e0fe.jpg"
 feature: "blog_import_6621bc409e0fe.jpg"

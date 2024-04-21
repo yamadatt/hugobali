@@ -2,7 +2,7 @@
 date: 2022-03-04T01:00:24+09:00
 draft: false
 title: "ワクチン３回目接種の翌日、ゴルフへ。死ぬかと思った！？"
-slug: "2022/03/04"
+slug: "2022/03/04/010024"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621eb8bedc22.jpg"
 feature: "blog_import_6621eb8bedc22.jpg"

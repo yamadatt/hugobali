@@ -2,7 +2,7 @@
 date: 2015-06-03T23:49:09+09:00
 draft: false
 title: "弊社のホテルが紹介されました！"
-slug: "2015/06/03"
+slug: "2015/06/03/234909"
 tags: ["ブログ"]
 image: "blog_import_6621aad367bc6.jpg"
 feature: "blog_import_6621aad367bc6.jpg"

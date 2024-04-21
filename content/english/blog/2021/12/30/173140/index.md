@@ -2,7 +2,7 @@
 date: 2021-12-30T17:31:40+09:00
 draft: false
 title: "証券会社の営業マンに儲けさせてもらう方法　その１「証券の営業マンは、なぜキツいのか？」"
-slug: "2021/12/30"
+slug: "2021/12/30/173140"
 tags: ["株式投資"]
 image: "blog_import_6621e911bd751.jpg"
 feature: "blog_import_6621e911bd751.jpg"

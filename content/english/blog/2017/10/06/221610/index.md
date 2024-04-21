@@ -2,7 +2,7 @@
 date: 2017-10-06T22:16:10+09:00
 draft: false
 title: "不動産の契約をキチンとしないから、困ったことになった！？"
-slug: "2017/10/06"
+slug: "2017/10/06/221610"
 tags: ["トラブルの話"]
 image: "blog_import_6621bdcc74b05.jpg"
 feature: "blog_import_6621bdcc74b05.jpg"

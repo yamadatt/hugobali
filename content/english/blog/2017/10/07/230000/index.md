@@ -2,7 +2,7 @@
 date: 2017-10-07T23:00:00+09:00
 draft: false
 title: "バリ島ウブドゥのヴィラ建築　途中経過"
-slug: "2017/10/07"
+slug: "2017/10/07/230000"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621bdbbe60ad.jpg"
 feature: "blog_import_6621bdbbe60ad.jpg"

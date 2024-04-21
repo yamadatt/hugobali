@@ -2,7 +2,7 @@
 date: 2017-08-02T21:31:24+09:00
 draft: false
 title: "サヌールの豪邸9700万円 資産価値バツグン！？"
-slug: "2017/08/02"
+slug: "2017/08/02/213124"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621bc9480cd0.jpg"
 feature: "blog_import_6621bc9480cd0.jpg"

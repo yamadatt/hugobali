@@ -2,7 +2,7 @@
 date: 2015-12-25T12:16:28+09:00
 draft: false
 title: "バリ島のクリスマスは料金が３倍！？"
-slug: "2015/12/25"
+slug: "2015/12/25/121628"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621ab90f23a3.jpg"
 feature: "blog_import_6621ab90f23a3.jpg"

@@ -2,7 +2,7 @@
 date: 2021-02-05T23:51:00+09:00
 draft: false
 title: "バリ島でノマドワークは違法就労？"
-slug: "2021/02/05"
+slug: "2021/02/05/235100"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621e03e4d48b.jpg"
 feature: "blog_import_6621e03e4d48b.jpg"

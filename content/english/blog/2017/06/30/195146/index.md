@@ -2,7 +2,7 @@
 date: 2017-06-30T19:51:46+09:00
 draft: false
 title: "論より証拠！？あるヴィラの収支表"
-slug: "2017/06/30"
+slug: "2017/06/30/195146"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621bc305dc05.png"
 feature: "blog_import_6621bc305dc05.png"

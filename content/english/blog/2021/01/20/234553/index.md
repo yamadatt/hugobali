@@ -2,7 +2,7 @@
 date: 2021-01-20T23:45:53+09:00
 draft: false
 title: "気は心。飲食店が繁盛するポイント。"
-slug: "2021/01/20"
+slug: "2021/01/20/234553"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621dff9a86c9.jpg"
 feature: "blog_import_6621dff9a86c9.jpg"

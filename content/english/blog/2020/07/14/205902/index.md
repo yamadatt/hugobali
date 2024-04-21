@@ -2,7 +2,7 @@
 date: 2020-07-14T20:59:02+09:00
 draft: false
 title: "感想＆質問（12）「成長株を自分で見つけられるか不安です」への回答"
-slug: "2020/07/14"
+slug: "2020/07/14/205902"
 tags: ["株式投資"]
 image: "blog_import_6621db79da06a.jpg"
 feature: "blog_import_6621db79da06a.jpg"

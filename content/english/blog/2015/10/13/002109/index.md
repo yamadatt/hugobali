@@ -2,7 +2,7 @@
 date: 2015-10-13T00:21:09+09:00
 draft: false
 title: "インドネシアがTPPに参加！？"
-slug: "2015/10/13"
+slug: "2015/10/13/002109"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621ab5a196e9.jpg"
 feature: "blog_import_6621ab5a196e9.jpg"

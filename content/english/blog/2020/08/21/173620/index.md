@@ -2,7 +2,7 @@
 date: 2020-08-21T17:36:20+09:00
 draft: false
 title: "８月２８日「第１７回成長株投資の実践会」結果公開！もうウンチクはいらない！？"
-slug: "2020/08/21"
+slug: "2020/08/21/173620"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621dc3ec8725.png"
 feature: "blog_import_6621dc3ec8725.png"

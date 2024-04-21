@@ -2,7 +2,7 @@
 date: 2023-11-17T00:29:39+09:00
 draft: false
 title: "11月17日(金）第５期２回成長株基礎セミナー「四季報の活用を学ぼう」"
-slug: "2023/11/17"
+slug: "2023/11/17/002939"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621fe598f93a.png"
 feature: "blog_import_6621fe598f93a.png"

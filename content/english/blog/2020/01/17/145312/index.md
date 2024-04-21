@@ -2,7 +2,7 @@
 date: 2020-01-17T14:53:12+09:00
 draft: false
 title: "Hamee(3134）が事業追加。買い増しか！？実践会メンバーが臨時株主総会に出席。"
-slug: "2020/01/17"
+slug: "2020/01/17/145312"
 tags: ["株式投資"]
 image: "blog_import_6621d5d57497e.jpg"
 feature: "blog_import_6621d5d57497e.jpg"

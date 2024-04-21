@@ -2,7 +2,7 @@
 date: 2016-05-23T23:45:57+09:00
 draft: false
 title: "管理物件との別れ"
-slug: "2016/05/23"
+slug: "2016/05/23/234557"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621af929a8f5.jpg"
 feature: "blog_import_6621af929a8f5.jpg"

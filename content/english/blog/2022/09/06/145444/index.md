@@ -2,7 +2,7 @@
 date: 2022-09-06T14:54:44+09:00
 draft: false
 title: "ブログを長く続けるコツ"
-slug: "2022/09/06"
+slug: "2022/09/06/145444"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f0ce3e0ce.jpg"
 feature: "blog_import_6621f0ce3e0ce.jpg"

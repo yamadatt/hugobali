@@ -2,7 +2,7 @@
 date: 2023-03-26T00:27:45+09:00
 draft: false
 title: "怪しげな投資は、儲かるのか！？"
-slug: "2023/03/26"
+slug: "2023/03/26/002745"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f6e8c1858.jpg"
 feature: "blog_import_6621f6e8c1858.jpg"

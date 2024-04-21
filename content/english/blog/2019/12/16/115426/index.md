@@ -2,7 +2,7 @@
 date: 2019-12-16T11:54:26+09:00
 draft: false
 title: "「副業の成功を検証する」長田先生の振り返り　～その７　成功したいなら成功している人に相談する～"
-slug: "2019/12/16"
+slug: "2019/12/16/115426"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d3b574f2e.png"
 feature: "blog_import_6621d3b574f2e.png"

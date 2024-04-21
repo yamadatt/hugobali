@@ -2,7 +2,7 @@
 date: 2020-05-29T00:18:17+09:00
 draft: false
 title: "不動産投資は、本当にメリットがあるのか！？"
-slug: "2020/05/29"
+slug: "2020/05/29/001817"
 tags: ["株式投資"]
 image: "blog_import_6621da544f79a.png"
 feature: "blog_import_6621da544f79a.png"

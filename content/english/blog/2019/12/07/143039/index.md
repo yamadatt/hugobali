@@ -2,7 +2,7 @@
 date: 2019-12-07T14:30:39+09:00
 draft: false
 title: "満員御礼！！１月１０日初心者向け成長株セミナーは、満席です。椅子のみ残席２名"
-slug: "2019/12/07"
+slug: "2019/12/07/143039"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d36b892a6.png"
 feature: "blog_import_6621d36b892a6.png"

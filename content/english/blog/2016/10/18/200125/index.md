@@ -2,7 +2,7 @@
 date: 2016-10-18T20:01:25+09:00
 draft: false
 title: "バリ島サヌール　売地４アール　約2100万円"
-slug: "2016/10/18"
+slug: "2016/10/18/200125"
 tags: ["ブログ"]
 image: "blog_import_6621b578184eb.jpg"
 feature: "blog_import_6621b578184eb.jpg"

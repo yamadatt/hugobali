@@ -2,7 +2,7 @@
 date: 2014-08-15T19:59:49+09:00
 draft: false
 title: "売土地　バリ島ウブド1.8ヘクタール約4500万円"
-slug: "2014/08/15"
+slug: "2014/08/15/195949"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621a59502cc6.jpg"
 feature: "blog_import_6621a59502cc6.jpg"

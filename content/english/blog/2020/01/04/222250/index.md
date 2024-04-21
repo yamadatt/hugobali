@@ -2,7 +2,7 @@
 date: 2020-01-04T22:22:50+09:00
 draft: false
 title: "自分が「仕掛けられる側」という認識を持ち、不要なことを避けよう"
-slug: "2020/01/04"
+slug: "2020/01/04/222250"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d50d13c18.png"
 feature: "blog_import_6621d50d13c18.png"

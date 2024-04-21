@@ -2,7 +2,7 @@
 date: 2023-10-26T00:10:10+09:00
 draft: false
 title: "バリ島スミニャック売ヴィラ　約３０００万円"
-slug: "2023/10/26"
+slug: "2023/10/26/001010"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621fdb5dced9.jpg"
 feature: "blog_import_6621fdb5dced9.jpg"

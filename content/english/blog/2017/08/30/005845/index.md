@@ -2,7 +2,7 @@
 date: 2017-08-30T00:58:45+09:00
 draft: false
 title: "警察の手入れ！？バリ島の老舗カラオケ「赤坂」"
-slug: "2017/08/30"
+slug: "2017/08/30/005845"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621bd0448655.jpg"
 feature: "blog_import_6621bd0448655.jpg"

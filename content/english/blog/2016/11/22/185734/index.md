@@ -2,7 +2,7 @@
 date: 2016-11-22T18:57:34+09:00
 draft: false
 title: "富裕層が超富裕層になるには"
-slug: "2016/11/22"
+slug: "2016/11/22/185734"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b6d84b439.jpg"
 feature: "blog_import_6621b6d84b439.jpg"

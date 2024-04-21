@@ -2,7 +2,7 @@
 date: 2021-03-11T00:41:28+09:00
 draft: false
 title: "商工会議所会頭・鹿島会長の別荘はハンパない！？「ここでゴルフ部の合宿をやろう」"
-slug: "2021/03/11"
+slug: "2021/03/11/004128"
 tags: ["プライベートな話"]
 image: "blog_import_6621e0e36d3c3.jpg"
 feature: "blog_import_6621e0e36d3c3.jpg"

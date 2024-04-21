@@ -2,7 +2,7 @@
 date: 2017-06-05T21:29:43+09:00
 draft: false
 title: "第３１回 バリ島不動産セミナー募集開始　６月２９日(木)"
-slug: "2017/06/05"
+slug: "2017/06/05/212943"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621bbcff1c0e.jpg"
 feature: "blog_import_6621bbcff1c0e.jpg"

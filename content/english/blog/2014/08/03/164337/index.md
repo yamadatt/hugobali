@@ -2,7 +2,7 @@
 date: 2014-08-03T16:43:37+09:00
 draft: false
 title: "売ヴィラ６億円　バリ島チャングーのビーチ不動産"
-slug: "2014/08/03"
+slug: "2014/08/03/164337"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621a46e4c86b.jpg"
 feature: "blog_import_6621a46e4c86b.jpg"

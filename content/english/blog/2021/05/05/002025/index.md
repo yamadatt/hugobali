@@ -2,7 +2,7 @@
 date: 2021-05-05T00:20:25+09:00
 draft: false
 title: "中年の起業は、想像以上に厳しい！？"
-slug: "2021/05/05"
+slug: "2021/05/05/002025"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e266559a9.png"
 feature: "blog_import_6621e266559a9.png"

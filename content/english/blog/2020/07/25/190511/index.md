@@ -2,7 +2,7 @@
 date: 2020-07-25T19:05:11+09:00
 draft: false
 title: "投資技術の習得には時間がかかる。部活動を思い出そう。"
-slug: "2020/07/25"
+slug: "2020/07/25/190511"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621dbb6b3f93.png"
 feature: "blog_import_6621dbb6b3f93.png"

@@ -2,7 +2,7 @@
 date: 2018-02-25T20:27:36+09:00
 draft: false
 title: "来週、３月４日のバリ島不動産セミナー"
-slug: "2018/02/25"
+slug: "2018/02/25/202736"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c1e95cb54.jpg"
 feature: "blog_import_6621c1e95cb54.jpg"

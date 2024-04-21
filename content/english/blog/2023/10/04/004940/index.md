@@ -2,7 +2,7 @@
 date: 2023-10-04T00:49:40+09:00
 draft: false
 title: "10月13日(金）第５期１回成長株基礎セミナー「今年は配当株にチャンスがある！？」"
-slug: "2023/10/04"
+slug: "2023/10/04/004940"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621fd270af2c.png"
 feature: "blog_import_6621fd270af2c.png"

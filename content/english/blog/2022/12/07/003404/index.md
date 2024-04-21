@@ -2,7 +2,7 @@
 date: 2022-12-07T00:34:04+09:00
 draft: false
 title: "１２月９日(金）成長株の基礎セミナー「年初来高値銘柄に着目しよう」"
-slug: "2022/12/07"
+slug: "2022/12/07/003404"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621f391ba575.png"
 feature: "blog_import_6621f391ba575.png"

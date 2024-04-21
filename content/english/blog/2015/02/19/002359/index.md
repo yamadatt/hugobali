@@ -2,7 +2,7 @@
 date: 2015-02-19T00:23:59+09:00
 draft: false
 title: "バリ島　チャングー　豪華売ヴィラ　立地も最高！"
-slug: "2015/02/19"
+slug: "2015/02/19/002359"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621a9b1ea179.jpg"
 feature: "blog_import_6621a9b1ea179.jpg"

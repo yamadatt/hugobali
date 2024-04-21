@@ -2,7 +2,7 @@
 date: 2020-04-29T19:38:48+09:00
 draft: false
 title: "ピンチからの脱出　その２「見栄を張るな」①～ぼったくりの話～"
-slug: "2020/04/29"
+slug: "2020/04/29/193848"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d999cb798.png"
 feature: "blog_import_6621d999cb798.png"

@@ -2,7 +2,7 @@
 date: 2022-10-11T01:38:08+09:00
 draft: false
 title: "副業始めはブログがお勧め。誰でも簡単に書ける方法。"
-slug: "2022/10/11"
+slug: "2022/10/11/013808"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f1ade882a.png"
 feature: "blog_import_6621f1ade882a.png"

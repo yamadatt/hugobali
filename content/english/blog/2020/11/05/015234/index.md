@@ -2,7 +2,7 @@
 date: 2020-11-05T01:52:34+09:00
 draft: false
 title: "第１９回「成長株投資の実践会」にいただいたご感想"
-slug: "2020/11/05"
+slug: "2020/11/05/015234"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621de426e9b7.png"
 feature: "blog_import_6621de426e9b7.png"

@@ -2,7 +2,7 @@
 date: 2023-06-03T03:24:09+09:00
 draft: false
 title: "マカオのIR・カジノは圧巻！？スゴイことになってる！！"
-slug: "2023/06/03"
+slug: "2023/06/03/032409"
 tags: ["プライベートな話"]
 image: "blog_import_6621f9ae4112a.jpg"
 feature: "blog_import_6621f9ae4112a.jpg"

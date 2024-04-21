@@ -2,7 +2,7 @@
 date: 2020-04-15T01:53:18+09:00
 draft: false
 title: "沖縄本島から車で１０分。古宇利島の海が見える売地"
-slug: "2020/04/15"
+slug: "2020/04/15/015318"
 tags: ["プライベートな話"]
 image: "blog_import_6621d8ba57f38.png"
 feature: "blog_import_6621d8ba57f38.png"

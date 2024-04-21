@@ -2,7 +2,7 @@
 date: 2020-11-15T22:14:17+09:00
 draft: false
 title: "バリ島高級ローカル住宅って、どんな感じだろう？"
-slug: "2020/11/15"
+slug: "2020/11/15/221417"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621de6fb55b3.jpg"
 feature: "blog_import_6621de6fb55b3.jpg"

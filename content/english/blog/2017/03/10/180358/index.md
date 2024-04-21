@@ -2,7 +2,7 @@
 date: 2017-03-10T18:03:58+09:00
 draft: false
 title: "希少！？ウブド売ヴィラ約８３８万円　利回り１７％"
-slug: "2017/03/10"
+slug: "2017/03/10/180358"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621ba46802e2.jpg"
 feature: "blog_import_6621ba46802e2.jpg"

@@ -2,7 +2,7 @@
 date: 2023-08-23T23:48:45+09:00
 draft: false
 title: "高校野球に思う「人間性の大切さ」"
-slug: "2023/08/23"
+slug: "2023/08/23/234845"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621fc476ef89.png"
 feature: "blog_import_6621fc476ef89.png"

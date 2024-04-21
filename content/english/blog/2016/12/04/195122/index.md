@@ -2,7 +2,7 @@
 date: 2016-12-04T19:51:22+09:00
 draft: false
 title: "ローカル市場向けバリ島不動産投資"
-slug: "2016/12/04"
+slug: "2016/12/04/195122"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b72073af5.jpg"
 feature: "blog_import_6621b72073af5.jpg"

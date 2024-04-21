@@ -2,7 +2,7 @@
 date: 2019-09-24T22:57:22+09:00
 draft: false
 title: "ウブドゥで新築した物件が、利回り１８％超をたたき出した！？"
-slug: "2019/09/24"
+slug: "2019/09/24/225722"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621d0126a1dd.jpg"
 feature: "blog_import_6621d0126a1dd.jpg"

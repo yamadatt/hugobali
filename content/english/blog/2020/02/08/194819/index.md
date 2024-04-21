@@ -2,7 +2,7 @@
 date: 2020-02-08T19:48:19+09:00
 draft: false
 title: "昨日の「成長株セミナー」の報告。投資とギャンブルの違い"
-slug: "2020/02/08"
+slug: "2020/02/08/194819"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d6c36a27e.jpg"
 feature: "blog_import_6621d6c36a27e.jpg"

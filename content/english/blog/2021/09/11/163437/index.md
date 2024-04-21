@@ -2,7 +2,7 @@
 date: 2021-09-11T16:34:37+09:00
 draft: false
 title: "新潟釣道楽「ジグ鉄」ロゴ選定アンケートの結果"
-slug: "2021/09/11"
+slug: "2021/09/11/163437"
 tags: ["マグロ釣り"]
 image: "blog_import_6621e5e11a1bf.png"
 feature: "blog_import_6621e5e11a1bf.png"

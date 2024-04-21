@@ -2,7 +2,7 @@
 date: 2024-03-02T00:07:20+09:00
 draft: false
 title: "たまには、無駄な時間を過ごそう。"
-slug: "2024/03/02"
+slug: "2024/03/02/000720"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6622004f3fd47.png"
 feature: "blog_import_6622004f3fd47.png"

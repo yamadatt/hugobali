@@ -2,7 +2,7 @@
 date: 2024-04-12T01:43:36+09:00
 draft: false
 title: "奨学生。。頑張っている若者には頭が下がる。"
-slug: "2024/04/12"
+slug: "2024/04/12/014336"
 tags: ["プライベートな話"]
 image: "blog_import_66219b2826946.png"
 feature: "blog_import_66219b2826946.png"

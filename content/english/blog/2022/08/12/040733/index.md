@@ -2,7 +2,7 @@
 date: 2022-08-12T04:07:33+09:00
 draft: false
 title: "なかなか彼女ができない男性が心掛けるべきこと"
-slug: "2022/08/12"
+slug: "2022/08/12/040733"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f0125543c.png"
 feature: "blog_import_6621f0125543c.png"

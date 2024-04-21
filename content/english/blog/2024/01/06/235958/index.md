@@ -2,7 +2,7 @@
 date: 2024-01-06T23:59:58+09:00
 draft: false
 title: "不確実性の高い投資で勝つ鉄則。①少額から②元金確保③追い銭はほどほどに、欲をかき過ぎない"
-slug: "2024/01/06"
+slug: "2024/01/06/235958"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ff3531d59.png"
 feature: "blog_import_6621ff3531d59.png"

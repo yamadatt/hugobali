@@ -2,7 +2,7 @@
 date: 2017-07-02T17:56:19+09:00
 draft: false
 title: "利回り３２％！？スミニャック売ヴィラ　１４４８万→６０４５万"
-slug: "2017/07/02"
+slug: "2017/07/02/175619"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621bc36d5898.png"
 feature: "blog_import_6621bc36d5898.png"

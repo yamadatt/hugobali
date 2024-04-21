@@ -2,7 +2,7 @@
 date: 2014-09-02T14:52:59+09:00
 draft: false
 title: "ヴィラの古木が倒れた"
-slug: "2014/09/02"
+slug: "2014/09/02/145259"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621a7d89563a.jpg"
 feature: "blog_import_6621a7d89563a.jpg"

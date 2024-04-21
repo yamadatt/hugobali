@@ -2,7 +2,7 @@
 date: 2015-03-14T09:26:15+09:00
 draft: false
 title: "バリ島では気をつけないと太る"
-slug: "2015/03/14"
+slug: "2015/03/14/092615"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621aa537478d.jpg"
 feature: "blog_import_6621aa537478d.jpg"

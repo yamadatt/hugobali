@@ -2,7 +2,7 @@
 date: 2021-06-21T22:47:40+09:00
 draft: false
 title: "セミナーの懇親会は事務所で。。高級魚のどぐろも食べられる？"
-slug: "2021/06/21"
+slug: "2021/06/21/224740"
 tags: ["プライベートな話"]
 image: "blog_import_6621e35395dac.jpg"
 feature: "blog_import_6621e35395dac.jpg"

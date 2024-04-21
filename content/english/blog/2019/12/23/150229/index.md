@@ -2,7 +2,7 @@
 date: 2019-12-23T15:02:29+09:00
 draft: false
 title: "ＳＢＩ証券の口座、所有銘柄を全公開。僕からのクリスマスプレゼント！？"
-slug: "2019/12/23"
+slug: "2019/12/23/150229"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621d403b2f32.png"
 feature: "blog_import_6621d403b2f32.png"

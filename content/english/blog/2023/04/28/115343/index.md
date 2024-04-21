@@ -2,7 +2,7 @@
 date: 2023-04-28T11:53:43+09:00
 draft: false
 title: "戦時中の日米交渉に思う。一番大切なのは信頼関係だ。"
-slug: "2023/04/28"
+slug: "2023/04/28/115343"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f8c02bb1a.png"
 feature: "blog_import_6621f8c02bb1a.png"

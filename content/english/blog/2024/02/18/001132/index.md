@@ -2,7 +2,7 @@
 date: 2024-02-18T00:11:32+09:00
 draft: false
 title: "人生を豊かにするには、まずは時間を作ろう。"
-slug: "2024/02/18"
+slug: "2024/02/18/001132"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_662200036a9ef.png"
 feature: "blog_import_662200036a9ef.png"

@@ -2,7 +2,7 @@
 date: 2019-10-02T23:23:46+09:00
 draft: false
 title: "バリ島で、高利回り（１８％超？）ヴィラを作るポイント。その２"
-slug: "2019/10/02"
+slug: "2019/10/02/232346"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d03e5a188.jpg"
 feature: "blog_import_6621d03e5a188.jpg"

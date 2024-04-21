@@ -2,7 +2,7 @@
 date: 2019-09-22T16:32:27+09:00
 draft: false
 title: "悪名転売サイトviagogoで購入。ラグビーW杯のチケットは届くのか！？"
-slug: "2019/09/22"
+slug: "2019/09/22/163227"
 tags: ["プライベートな話"]
 image: "blog_import_6621d004af7b7.png"
 feature: "blog_import_6621d004af7b7.png"

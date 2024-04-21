@@ -2,7 +2,7 @@
 date: 2021-05-31T23:49:47+09:00
 draft: false
 title: "利回り約２０％以上！？キッチンカー投資、協力者募集！！"
-slug: "2021/05/31"
+slug: "2021/05/31/234947"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621e2f1a762d.png"
 feature: "blog_import_6621e2f1a762d.png"

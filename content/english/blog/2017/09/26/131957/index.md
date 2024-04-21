@@ -2,7 +2,7 @@
 date: 2017-09-26T13:19:57+09:00
 draft: false
 title: "デワ in ディズニーランド なう"
-slug: "2017/09/26"
+slug: "2017/09/26/131957"
 tags: ["プライベートな話"]
 image: "blog_import_6621bd920d335.jpg"
 feature: "blog_import_6621bd920d335.jpg"

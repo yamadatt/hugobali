@@ -2,7 +2,7 @@
 date: 2023-05-17T21:26:22+09:00
 draft: false
 title: "歳を取ったら若者から学ぼう。過去を捨て再出発するのがいい"
-slug: "2023/05/17"
+slug: "2023/05/17/212622"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f944c00fe.png"
 feature: "blog_import_6621f944c00fe.png"

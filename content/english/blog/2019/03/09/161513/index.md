@@ -2,7 +2,7 @@
 date: 2019-03-09T16:15:13+09:00
 draft: false
 title: "大学時代の友人、秋田県会議員の大関衛氏が亡くなった"
-slug: "2019/03/09"
+slug: "2019/03/09/161513"
 tags: ["プライベートな話"]
 image: "blog_import_6621ca1ce13c8.jpg"
 feature: "blog_import_6621ca1ce13c8.jpg"

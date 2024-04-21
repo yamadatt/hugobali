@@ -2,7 +2,7 @@
 date: 2018-07-03T01:23:44+09:00
 draft: false
 title: "ラブホテルは不動産屋から買ってはいけない"
-slug: "2018/07/03"
+slug: "2018/07/03/012344"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621c4955b59b.jpg"
 feature: "blog_import_6621c4955b59b.jpg"

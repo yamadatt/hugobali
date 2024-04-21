@@ -2,7 +2,7 @@
 date: 2018-11-01T18:53:31+09:00
 draft: false
 title: "バリ島のリースホールド不動産は「買う」のか「借りる」のか"
-slug: "2018/11/01"
+slug: "2018/11/01/185331"
 tags: ["日本とバリ島の不動産取引の違い"]
 image: "blog_import_6621c73870d28.jpg"
 feature: "blog_import_6621c73870d28.jpg"

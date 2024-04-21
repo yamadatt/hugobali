@@ -2,7 +2,7 @@
 date: 2019-12-08T14:25:01+09:00
 draft: false
 title: "「月島もんじゃ」は、お預けか！？長田先生からセミナーのサポート資料が届いた"
-slug: "2019/12/08"
+slug: "2019/12/08/142501"
 tags: ["プライベートな話"]
 image: "blog_import_6621d3763e448.png"
 feature: "blog_import_6621d3763e448.png"

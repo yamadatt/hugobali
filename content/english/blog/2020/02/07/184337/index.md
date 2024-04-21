@@ -2,7 +2,7 @@
 date: 2020-02-07T18:43:37+09:00
 draft: false
 title: "仕事復帰。直後はやたら忙しい。ブログも再開しよう。"
-slug: "2020/02/07"
+slug: "2020/02/07/184337"
 tags: ["株式投資"]
 image: "blog_import_6621d6bf02ff2.png"
 feature: "blog_import_6621d6bf02ff2.png"

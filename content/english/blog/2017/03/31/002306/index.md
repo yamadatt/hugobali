@@ -2,7 +2,7 @@
 date: 2017-03-31T00:23:06+09:00
 draft: false
 title: "先日のチャングーの土地、社長は即決！？"
-slug: "2017/03/31"
+slug: "2017/03/31/002306"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621babd3c5a7.jpg"
 feature: "blog_import_6621babd3c5a7.jpg"

@@ -2,7 +2,7 @@
 date: 2016-05-26T22:50:57+09:00
 draft: false
 title: "巨木ガジュマルの剪定"
-slug: "2016/05/26"
+slug: "2016/05/26/225057"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621af9d19613.jpg"
 feature: "blog_import_6621af9d19613.jpg"

@@ -2,7 +2,7 @@
 date: 2019-12-31T23:18:56+09:00
 draft: false
 title: "年末年始を利用して、管理するヴィラをチェックする【その１】クロボカン"
-slug: "2019/12/31"
+slug: "2019/12/31/231856"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621d4d748106.jpg"
 feature: "blog_import_6621d4d748106.jpg"

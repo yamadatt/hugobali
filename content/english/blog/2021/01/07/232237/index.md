@@ -2,7 +2,7 @@
 date: 2021-01-07T23:22:37+09:00
 draft: false
 title: "恩知らずは損をする。恩を返すと儲かる！？"
-slug: "2021/01/07"
+slug: "2021/01/07/232237"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621dfa969c0b.png"
 feature: "blog_import_6621dfa969c0b.png"

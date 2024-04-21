@@ -2,7 +2,7 @@
 date: 2019-07-13T16:28:25+09:00
 draft: false
 title: "タケシ、勇者になる！？その１　胎盤を病室に放置して腐らせる！？"
-slug: "2019/07/13"
+slug: "2019/07/13/162825"
 tags: ["タケシ（バリ島現地スタッフ）の話"]
 image: "blog_import_6621cead244a2.jpg"
 feature: "blog_import_6621cead244a2.jpg"

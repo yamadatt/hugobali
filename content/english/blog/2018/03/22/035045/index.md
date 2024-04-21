@@ -2,7 +2,7 @@
 date: 2018-03-22T03:50:45+09:00
 draft: false
 title: "日本人スタッフは、バリ島への日本土産に何を選んだのか！？"
-slug: "2018/03/22"
+slug: "2018/03/22/035045"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c250b3a16.jpg"
 feature: "blog_import_6621c250b3a16.jpg"

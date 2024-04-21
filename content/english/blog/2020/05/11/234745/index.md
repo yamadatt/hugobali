@@ -2,7 +2,7 @@
 date: 2020-05-11T23:47:45+09:00
 draft: false
 title: "ウブドゥの底力"
-slug: "2020/05/11"
+slug: "2020/05/11/234745"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621d9ec78141.jpg"
 feature: "blog_import_6621d9ec78141.jpg"

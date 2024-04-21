@@ -2,7 +2,7 @@
 date: 2020-04-03T02:49:00+09:00
 draft: false
 title: "捨てる神あれば拾う神あり。苦しいことも楽しもう。"
-slug: "2020/04/03"
+slug: "2020/04/03/024900"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d80399420.png"
 feature: "blog_import_6621d80399420.png"

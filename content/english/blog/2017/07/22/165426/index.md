@@ -2,7 +2,7 @@
 date: 2017-07-22T16:54:26+09:00
 draft: false
 title: "静岡ホテルの改装オープン"
-slug: "2017/07/22"
+slug: "2017/07/22/165426"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621bc73abf0c.jpg"
 feature: "blog_import_6621bc73abf0c.jpg"

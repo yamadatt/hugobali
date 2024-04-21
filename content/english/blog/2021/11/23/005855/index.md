@@ -2,7 +2,7 @@
 date: 2021-11-23T00:58:55+09:00
 draft: false
 title: "11月26日(金）成長株投資の実践会「ウッドショック銘柄への投資の魅力」"
-slug: "2021/11/23"
+slug: "2021/11/23/005855"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621e7e97aebe.png"
 feature: "blog_import_6621e7e97aebe.png"

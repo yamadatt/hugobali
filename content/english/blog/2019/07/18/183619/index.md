@@ -2,7 +2,7 @@
 date: 2019-07-18T18:36:19+09:00
 draft: false
 title: "長野県蓼科の売り別荘地８７５坪。三井不動産「いずみ平」の一等地。坪１万円。"
-slug: "2019/07/18"
+slug: "2019/07/18/183619"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621cec8bb3a6.png"
 feature: "blog_import_6621cec8bb3a6.png"

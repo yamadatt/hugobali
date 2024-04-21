@@ -2,7 +2,7 @@
 date: 2021-08-11T21:54:13+09:00
 draft: false
 title: "事業再生・復活で、大切なことは何か。その１"
-slug: "2021/08/11"
+slug: "2021/08/11/215413"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e4f88925e.png"
 feature: "blog_import_6621e4f88925e.png"

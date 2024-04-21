@@ -2,7 +2,7 @@
 date: 2014-07-26T00:43:46+09:00
 draft: false
 title: "空港で感じた中国人の民度"
-slug: "2014/07/26"
+slug: "2014/07/26/004346"
 tags: ["ブログ"]
 image: "blog_import_6621a3b67cb85.jpg"
 feature: "blog_import_6621a3b67cb85.jpg"

@@ -2,7 +2,7 @@
 date: 2022-06-27T10:55:36+09:00
 draft: false
 title: "「暗号通貨の実践会」のご案内"
-slug: "2022/06/27"
+slug: "2022/06/27/105536"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621eee5cbcfc.jpg"
 feature: "blog_import_6621eee5cbcfc.jpg"

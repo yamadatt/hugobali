@@ -2,7 +2,7 @@
 date: 2024-03-18T18:08:19+09:00
 draft: false
 title: "バリ島現地法人 ASA PROPERTY"
-slug: "2024/03/18"
+slug: "2024/03/18/180819"
 tags: ["バリ島現地法人の連絡先 ASAプロパティ"]
 image: ""
 feature: ""

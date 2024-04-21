@@ -2,7 +2,7 @@
 date: 2021-12-31T19:15:06+09:00
 draft: false
 title: "メタバース通貨「Mars」の無料マイニングは、爆上げの可能性アリ！？"
-slug: "2021/12/31"
+slug: "2021/12/31/191506"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621e91ce55aa.png"
 feature: "blog_import_6621e91ce55aa.png"

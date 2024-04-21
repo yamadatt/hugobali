@@ -2,7 +2,7 @@
 date: 2018-01-16T14:58:45+09:00
 draft: false
 title: "金を稼ぐ奴は、「なんとなく」の行動はしない"
-slug: "2018/01/16"
+slug: "2018/01/16/145845"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c0a7dd258.jpg"
 feature: "blog_import_6621c0a7dd258.jpg"

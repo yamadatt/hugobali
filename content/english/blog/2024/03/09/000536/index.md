@@ -2,7 +2,7 @@
 date: 2024-03-09T00:05:36+09:00
 draft: false
 title: "娘がタバコを吸っていた。。子どもに人権なんてない。"
-slug: "2024/03/09"
+slug: "2024/03/09/000536"
 tags: ["プライベートな話"]
 image: "blog_import_66220075b7fef.png"
 feature: "blog_import_66220075b7fef.png"

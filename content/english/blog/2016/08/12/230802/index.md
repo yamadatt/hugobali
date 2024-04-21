@@ -2,7 +2,7 @@
 date: 2016-08-12T23:08:02+09:00
 draft: false
 title: "バリ島不動産勉強会 ９/５残席あり ９/10満席"
-slug: "2016/08/12"
+slug: "2016/08/12/230802"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621b26dc51d2.jpg"
 feature: "blog_import_6621b26dc51d2.jpg"

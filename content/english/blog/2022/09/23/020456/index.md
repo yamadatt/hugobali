@@ -2,7 +2,7 @@
 date: 2022-09-23T02:04:56+09:00
 draft: false
 title: "実は「あとリボ」はお得だった！？裏ワザを考えつく人に助けてもらおう"
-slug: "2022/09/23"
+slug: "2022/09/23/020456"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f13f4a0bd.png"
 feature: "blog_import_6621f13f4a0bd.png"

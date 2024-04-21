@@ -2,7 +2,7 @@
 date: 2022-09-17T13:57:27+09:00
 draft: false
 title: "バリ島ジンバランの売物件(フリーホールド）：価格１７００万円"
-slug: "2022/09/17"
+slug: "2022/09/17/135727"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621f1293c7cc.jpg"
 feature: "blog_import_6621f1293c7cc.jpg"

@@ -2,7 +2,7 @@
 date: 2020-09-05T19:55:47+09:00
 draft: false
 title: "初心者向け成長株セミナーの報告と御礼。！！えっ、年間利回り１０８％！？"
-slug: "2020/09/05"
+slug: "2020/09/05/195547"
 tags: ["株式投資"]
 image: "blog_import_6621dc9457b6c.png"
 feature: "blog_import_6621dc9457b6c.png"

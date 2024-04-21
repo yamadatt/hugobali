@@ -2,7 +2,7 @@
 date: 2018-01-15T20:22:14+09:00
 draft: false
 title: "友人の通夜・告別式を終えて思うこと"
-slug: "2018/01/15"
+slug: "2018/01/15/202214"
 tags: ["プライベートな話"]
 image: "blog_import_6621c0a56ec61.jpg"
 feature: "blog_import_6621c0a56ec61.jpg"

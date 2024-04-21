@@ -2,7 +2,7 @@
 date: 2018-02-22T21:06:57+09:00
 draft: false
 title: "しがらみのない異国では遠慮がない！？売買契約をムリヤリひっくり返す輩"
-slug: "2018/02/22"
+slug: "2018/02/22/210657"
 tags: ["トラブルの話"]
 image: "blog_import_6621c1df73809.jpg"
 feature: "blog_import_6621c1df73809.jpg"

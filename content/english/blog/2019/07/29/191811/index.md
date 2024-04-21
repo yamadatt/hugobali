@@ -2,7 +2,7 @@
 date: 2019-07-29T19:18:11+09:00
 draft: false
 title: "税務署元トップ調査官による「税務調査セミナー」の御礼"
-slug: "2019/07/29"
+slug: "2019/07/29/191811"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cf1ea9029.jpg"
 feature: "blog_import_6621cf1ea9029.jpg"

@@ -2,7 +2,7 @@
 date: 2019-01-13T18:44:42+09:00
 draft: false
 title: "事件！？男がナイフを持ちヴィラに立てこもった！？"
-slug: "2019/01/13"
+slug: "2019/01/13/184442"
 tags: ["トラブルの話"]
 image: "blog_import_6621c9304a479.jpg"
 feature: "blog_import_6621c9304a479.jpg"

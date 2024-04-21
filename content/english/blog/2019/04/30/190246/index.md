@@ -2,7 +2,7 @@
 date: 2019-04-30T19:02:46+09:00
 draft: false
 title: "「インドネシアの選挙で２５０人超が過労死！？」は、黒魔術が原因なのか！？"
-slug: "2019/04/30"
+slug: "2019/04/30/190246"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621cc4095394.png"
 feature: "blog_import_6621cc4095394.png"

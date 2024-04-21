@@ -2,7 +2,7 @@
 date: 2021-06-30T02:52:08+09:00
 draft: false
 title: "７月２日の初心者向け成長株セミナーは「テレビＣＭからお宝銘柄を探そう！！」"
-slug: "2021/06/30"
+slug: "2021/06/30/025208"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621e3b87587a.png"
 feature: "blog_import_6621e3b87587a.png"

@@ -2,7 +2,7 @@
 date: 2018-11-17T16:25:05+09:00
 draft: false
 title: "Agodaアゴダから表彰された！？「Top Agency Of The Year」"
-slug: "2018/11/17"
+slug: "2018/11/17/162505"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c7d5ebb4d.jpg"
 feature: "blog_import_6621c7d5ebb4d.jpg"

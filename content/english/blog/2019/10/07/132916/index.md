@@ -2,7 +2,7 @@
 date: 2019-10-07T13:29:16+09:00
 draft: false
 title: "10月4日の初心者向け成長株セミナーの御礼といただいた感想"
-slug: "2019/10/07"
+slug: "2019/10/07/132916"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d05938735.jpg"
 feature: "blog_import_6621d05938735.jpg"

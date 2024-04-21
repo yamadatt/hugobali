@@ -2,7 +2,7 @@
 date: 2019-01-28T20:20:54+09:00
 draft: false
 title: "なかなか一歩踏み出せないなら、ルーティンを変えてみよう"
-slug: "2019/01/28"
+slug: "2019/01/28/202054"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c989aa2f9.jpg"
 feature: "blog_import_6621c989aa2f9.jpg"

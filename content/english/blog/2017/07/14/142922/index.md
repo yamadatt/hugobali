@@ -2,7 +2,7 @@
 date: 2017-07-14T14:29:22+09:00
 draft: false
 title: "山手線某所の売ホテル、買おうかな"
-slug: "2017/07/14"
+slug: "2017/07/14/142922"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621bc461ac54.jpg"
 feature: "blog_import_6621bc461ac54.jpg"

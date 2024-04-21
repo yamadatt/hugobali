@@ -2,7 +2,7 @@
 date: 2022-09-05T21:57:08+09:00
 draft: false
 title: "政治家、土田龍司先生との思い出。「あの僕でも、それなりにやってます」"
-slug: "2022/09/05"
+slug: "2022/09/05/215708"
 tags: ["プライベートな話"]
 image: "blog_import_6621f0bdeaef8.png"
 feature: "blog_import_6621f0bdeaef8.png"

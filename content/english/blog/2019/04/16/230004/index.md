@@ -2,7 +2,7 @@
 date: 2019-04-16T23:00:04+09:00
 draft: false
 title: "【ビフォーアフター】バリ島のボロい物件はリフォームでこんなに変わる！？"
-slug: "2019/04/16"
+slug: "2019/04/16/230004"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621cb6787b24.jpg"
 feature: "blog_import_6621cb6787b24.jpg"

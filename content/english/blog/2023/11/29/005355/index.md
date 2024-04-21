@@ -2,7 +2,7 @@
 date: 2023-11-29T00:53:55+09:00
 draft: false
 title: "成功には「遊び心」が必要！？ホテルの駐車場にトリックアートを描いてみた"
-slug: "2023/11/29"
+slug: "2023/11/29/005355"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621fe6fbc1a3.png"
 feature: "blog_import_6621fe6fbc1a3.png"

@@ -2,7 +2,7 @@
 date: 2017-03-09T21:15:26+09:00
 draft: false
 title: "マジで希少物件！？ スミニャック売ヴィラ１５４０万円　利回り１５％超"
-slug: "2017/03/09"
+slug: "2017/03/09/211526"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621ba3a98ba6.jpg"
 feature: "blog_import_6621ba3a98ba6.jpg"

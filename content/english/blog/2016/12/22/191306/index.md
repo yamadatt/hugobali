@@ -2,7 +2,7 @@
 date: 2016-12-22T19:13:06+09:00
 draft: false
 title: "「一陽来復」地元のパワースポット 穴八幡宮 in 早稲田"
-slug: "2016/12/22"
+slug: "2016/12/22/191306"
 tags: ["プライベートな話"]
 image: "blog_import_6621b7a5b588c.jpg"
 feature: "blog_import_6621b7a5b588c.jpg"

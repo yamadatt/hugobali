@@ -2,7 +2,7 @@
 date: 2020-10-03T00:23:06+09:00
 draft: false
 title: "株の口座が１億円を突破！？そろそろ本気出すか。。"
-slug: "2020/10/03"
+slug: "2020/10/03/002306"
 tags: ["株式投資"]
 image: "blog_import_6621dd3dd9123.png"
 feature: "blog_import_6621dd3dd9123.png"

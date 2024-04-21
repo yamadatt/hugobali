@@ -2,7 +2,7 @@
 date: 2022-04-16T11:59:14+09:00
 draft: false
 title: "おトクな大阪出張方法、新幹線チケット購入方法を見つけた！？"
-slug: "2022/04/16"
+slug: "2022/04/16/115914"
 tags: ["プライベートな話"]
 image: "blog_import_6621ed245c406.jpg"
 feature: "blog_import_6621ed245c406.jpg"

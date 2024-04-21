@@ -2,7 +2,7 @@
 date: 2019-03-07T22:14:19+09:00
 draft: false
 title: "貧乏な人が豊かになるには、どうしたらいいか！？その２「成功者とつき合おう」"
-slug: "2019/03/07"
+slug: "2019/03/07/221419"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ca16e8724.jpg"
 feature: "blog_import_6621ca16e8724.jpg"

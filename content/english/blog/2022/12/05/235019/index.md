@@ -2,7 +2,7 @@
 date: 2022-12-05T23:50:19+09:00
 draft: false
 title: "自分に合った営業スタイルを身につけよう"
-slug: "2022/12/05"
+slug: "2022/12/05/235019"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f38ee9cce.png"
 feature: "blog_import_6621f38ee9cce.png"

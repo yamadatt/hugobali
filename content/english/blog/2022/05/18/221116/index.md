@@ -2,7 +2,7 @@
 date: 2022-05-18T22:11:16+09:00
 draft: false
 title: "金持ちは、さらに金持ちになる。その２「立会外分売は儲かる！？」"
-slug: "2022/05/18"
+slug: "2022/05/18/221116"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621edf057ade.jpg"
 feature: "blog_import_6621edf057ade.jpg"

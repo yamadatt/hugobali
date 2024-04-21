@@ -2,7 +2,7 @@
 date: 2023-10-09T20:12:34+09:00
 draft: false
 title: "10月20日(金）第55回成長株実践セミナー「株価が調整している今、チャンスがある！？」"
-slug: "2023/10/09"
+slug: "2023/10/09/201234"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621fd4d5e907.png"
 feature: "blog_import_6621fd4d5e907.png"

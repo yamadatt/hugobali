@@ -2,7 +2,7 @@
 date: 2021-12-27T21:33:10+09:00
 draft: false
 title: "成長株投資は儲かったのか？その１「年末だし、久しぶりの証拠公開！？笑」"
-slug: "2021/12/27"
+slug: "2021/12/27/213310"
 tags: ["株式投資"]
 image: "blog_import_6621e8f2b8cbc.png"
 feature: "blog_import_6621e8f2b8cbc.png"

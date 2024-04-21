@@ -2,7 +2,7 @@
 date: 2017-10-15T22:00:00+09:00
 draft: false
 title: "新興国の不動産は、価値が形成される前だからチャンスがある"
-slug: "2017/10/15"
+slug: "2017/10/15/220000"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621bdf14e842.jpg"
 feature: "blog_import_6621bdf14e842.jpg"

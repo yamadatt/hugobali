@@ -2,7 +2,7 @@
 date: 2017-10-18T21:00:00+09:00
 draft: false
 title: "アグン山の噴火。実際のところ、どうなの！？"
-slug: "2017/10/18"
+slug: "2017/10/18/210000"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621bdf555abb.png"
 feature: "blog_import_6621bdf555abb.png"

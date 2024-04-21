@@ -2,7 +2,7 @@
 date: 2018-10-02T02:01:15+09:00
 draft: false
 title: "渾身の口説きで開催！！１０月９日ＸＸさんの株式勉強会開催"
-slug: "2018/10/02"
+slug: "2018/10/02/020115"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c6986dd47.jpg"
 feature: "blog_import_6621c6986dd47.jpg"

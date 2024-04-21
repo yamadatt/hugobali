@@ -2,7 +2,7 @@
 date: 2024-04-02T12:55:56+09:00
 draft: false
 title: "昨日の自転車イケメンは、磯村勇人さんだった？"
-slug: "2024/04/02"
+slug: "2024/04/02/125556"
 tags: ["プライベートな話"]
 image: "blog_import_66219ae7a92dc.png"
 feature: "blog_import_66219ae7a92dc.png"

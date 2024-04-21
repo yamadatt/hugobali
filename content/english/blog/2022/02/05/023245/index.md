@@ -2,7 +2,7 @@
 date: 2022-02-05T02:32:45+09:00
 draft: false
 title: "暗号通貨は将来どうなるのか。その２「お金の歴史～お金の進化は信用問題の解決」"
-slug: "2022/02/05"
+slug: "2022/02/05/023245"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ea443314d.png"
 feature: "blog_import_6621ea443314d.png"

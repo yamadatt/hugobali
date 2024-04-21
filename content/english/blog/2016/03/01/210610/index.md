@@ -2,7 +2,7 @@
 date: 2016-03-01T21:06:10+09:00
 draft: false
 title: "保育園落ちた。日本死ね!!　に思う"
-slug: "2016/03/01"
+slug: "2016/03/01/210610"
 tags: ["ブログ"]
 image: "blog_import_6621ad5ecf727.jpg"
 feature: "blog_import_6621ad5ecf727.jpg"

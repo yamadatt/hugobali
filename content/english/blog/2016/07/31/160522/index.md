@@ -2,7 +2,7 @@
 date: 2016-07-31T16:05:22+09:00
 draft: false
 title: "ウブド売地4800㎡　約3390万円　ランドバンキングに最適！"
-slug: "2016/07/31"
+slug: "2016/07/31/160522"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621b1a9d8677.jpg"
 feature: "blog_import_6621b1a9d8677.jpg"

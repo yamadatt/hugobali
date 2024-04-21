@@ -2,7 +2,7 @@
 date: 2021-11-10T20:11:39+09:00
 draft: false
 title: "ついに復活！！生ハム原木の会。「今回はベジョータ(最高級）でやる！？」"
-slug: "2021/11/10"
+slug: "2021/11/10/201139"
 tags: ["プライベートな話"]
 image: "blog_import_6621e78b201d4.jpg"
 feature: "blog_import_6621e78b201d4.jpg"

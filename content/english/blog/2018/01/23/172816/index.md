@@ -2,7 +2,7 @@
 date: 2018-01-23T17:28:16+09:00
 draft: false
 title: "残席３名　明日のバリ島不動産セミナー"
-slug: "2018/01/23"
+slug: "2018/01/23/172816"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c0d4b7041.jpg"
 feature: "blog_import_6621c0d4b7041.jpg"

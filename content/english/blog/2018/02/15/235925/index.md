@@ -2,7 +2,7 @@
 date: 2018-02-15T23:59:25+09:00
 draft: false
 title: "ナイトクラブで大はしゃぎの社長さま"
-slug: "2018/02/15"
+slug: "2018/02/15/235925"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c1a32e41e.jpg"
 feature: "blog_import_6621c1a32e41e.jpg"

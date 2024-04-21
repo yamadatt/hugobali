@@ -2,7 +2,7 @@
 date: 2016-09-02T14:10:44+09:00
 draft: false
 title: "投資は自分のステージを上げること。投資金額の大きさにビビるな！"
-slug: "2016/09/02"
+slug: "2016/09/02/141044"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b32d3ece4.jpg"
 feature: "blog_import_6621b32d3ece4.jpg"

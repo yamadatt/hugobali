@@ -2,7 +2,7 @@
 date: 2022-05-03T01:19:34+09:00
 draft: false
 title: "ファスティング合宿の効果はあったのか！？５月２７日～第２回のご案内"
-slug: "2022/05/03"
+slug: "2022/05/03/011934"
 tags: ["ファスティング合宿ダイエット"]
 image: "blog_import_6621ed832fe14.png"
 feature: "blog_import_6621ed832fe14.png"

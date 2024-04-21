@@ -2,7 +2,7 @@
 date: 2020-09-25T01:57:08+09:00
 draft: false
 title: "【成長株投資の実践会：第１回～第１８回】動画リスト"
-slug: "2020/09/25"
+slug: "2020/09/25/015708"
 tags: ["株式投資"]
 image: "blog_import_6621dd0e363a0.png"
 feature: "blog_import_6621dd0e363a0.png"

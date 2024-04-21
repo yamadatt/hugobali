@@ -2,7 +2,7 @@
 date: 2020-06-30T01:28:51+09:00
 draft: false
 title: "「潰れる店」と「生き残る店」では、何が違うのか。"
-slug: "2020/06/30"
+slug: "2020/06/30/012851"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621daff0ef1b.png"
 feature: "blog_import_6621daff0ef1b.png"

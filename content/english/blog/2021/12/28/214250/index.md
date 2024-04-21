@@ -2,7 +2,7 @@
 date: 2021-12-28T21:42:50+09:00
 draft: false
 title: "田舎不動産投資、みんなでやれば怖くない！？「人はどれくらいのボロ家に住めるものなのか？」"
-slug: "2021/12/28"
+slug: "2021/12/28/214250"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e8fcd23f4.png"
 feature: "blog_import_6621e8fcd23f4.png"

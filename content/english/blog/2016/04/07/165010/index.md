@@ -2,7 +2,7 @@
 date: 2016-04-07T16:50:10+09:00
 draft: false
 title: "お金はいくらあれば不安がなくなるのか"
-slug: "2016/04/07"
+slug: "2016/04/07/165010"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621aefb3bf48.jpg"
 feature: "blog_import_6621aefb3bf48.jpg"

@@ -2,7 +2,7 @@
 date: 2023-06-28T00:05:21+09:00
 draft: false
 title: "インフレ時代は投資せざるを得ない。未経験者は、まず何を買ったらいいか！？"
-slug: "2023/06/28"
+slug: "2023/06/28/000521"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621fa82ecd35.png"
 feature: "blog_import_6621fa82ecd35.png"

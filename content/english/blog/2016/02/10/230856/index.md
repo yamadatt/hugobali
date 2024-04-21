@@ -2,7 +2,7 @@
 date: 2016-02-10T23:08:56+09:00
 draft: false
 title: "詐欺で服役した友人と三井住友銀行"
-slug: "2016/02/10"
+slug: "2016/02/10/230856"
 tags: ["プライベートな話"]
 image: "blog_import_6621acb15cfaf.jpg"
 feature: "blog_import_6621acb15cfaf.jpg"

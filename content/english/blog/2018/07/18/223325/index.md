@@ -2,7 +2,7 @@
 date: 2018-07-18T22:33:25+09:00
 draft: false
 title: "インフレについての認識「ふりーパパ」からの初記事"
-slug: "2018/07/18"
+slug: "2018/07/18/223325"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c50cd1662.jpg"
 feature: "blog_import_6621c50cd1662.jpg"

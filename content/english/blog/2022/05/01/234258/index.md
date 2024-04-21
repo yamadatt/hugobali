@@ -2,7 +2,7 @@
 date: 2022-05-01T23:42:58+09:00
 draft: false
 title: "浜野ゴルフでゴルフ観戦。西郷真央選手のイーグル見たかったなぁ"
-slug: "2022/05/01"
+slug: "2022/05/01/234258"
 tags: ["ゴルフ"]
 image: "blog_import_6621ed7909b50.jpg"
 feature: "blog_import_6621ed7909b50.jpg"

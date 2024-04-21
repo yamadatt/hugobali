@@ -2,7 +2,7 @@
 date: 2017-06-06T22:52:25+09:00
 draft: false
 title: "不動産売買のトラブル　金は使ったモン勝ち！？"
-slug: "2017/06/06"
+slug: "2017/06/06/225225"
 tags: ["トラブルの話"]
 image: "blog_import_6621bbd4c9f67.jpg"
 feature: "blog_import_6621bbd4c9f67.jpg"

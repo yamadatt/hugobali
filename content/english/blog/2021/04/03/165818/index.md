@@ -2,7 +2,7 @@
 date: 2021-04-03T16:58:18+09:00
 draft: false
 title: "インドネシア人（バリ人）は、注射が苦手！？"
-slug: "2021/04/03"
+slug: "2021/04/03/165818"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621e1e2d4687.jpg"
 feature: "blog_import_6621e1e2d4687.jpg"

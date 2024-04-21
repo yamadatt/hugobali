@@ -2,7 +2,7 @@
 date: 2023-02-26T19:20:15+09:00
 draft: false
 title: "バリ島ヴィラの賃貸価格が高騰！？その意外な理由とは？"
-slug: "2023/02/26"
+slug: "2023/02/26/192015"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621f6511d029.png"
 feature: "blog_import_6621f6511d029.png"

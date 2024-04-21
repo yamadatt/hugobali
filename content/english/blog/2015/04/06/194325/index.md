@@ -2,7 +2,7 @@
 date: 2015-04-06T19:43:25+09:00
 draft: false
 title: "ベッドスロー"
-slug: "2015/04/06"
+slug: "2015/04/06/194325"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621aa898bf0d.jpg"
 feature: "blog_import_6621aa898bf0d.jpg"

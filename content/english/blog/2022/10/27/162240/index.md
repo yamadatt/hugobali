@@ -2,7 +2,7 @@
 date: 2022-10-27T16:22:40+09:00
 draft: false
 title: "再生医療の費用は最低２００万円！？それをお試しできる！？"
-slug: "2022/10/27"
+slug: "2022/10/27/162240"
 tags: ["ファスティング合宿ダイエット"]
 image: "blog_import_6621f212ee37b.png"
 feature: "blog_import_6621f212ee37b.png"

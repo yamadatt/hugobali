@@ -2,7 +2,7 @@
 date: 2019-09-17T18:47:52+09:00
 draft: false
 title: "初心者向け株式投資セミナー【全１２回の内容】"
-slug: "2019/09/17"
+slug: "2019/09/17/184752"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cfe58afdd.jpg"
 feature: "blog_import_6621cfe58afdd.jpg"

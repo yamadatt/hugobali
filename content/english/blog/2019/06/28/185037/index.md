@@ -2,7 +2,7 @@
 date: 2019-06-28T18:50:37+09:00
 draft: false
 title: "バリ島転売ワンツー投資の結果は？"
-slug: "2019/06/28"
+slug: "2019/06/28/185037"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621ce23b7d56.png"
 feature: "blog_import_6621ce23b7d56.png"

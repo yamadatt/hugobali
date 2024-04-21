@@ -2,7 +2,7 @@
 date: 2023-03-29T18:42:53+09:00
 draft: false
 title: "クレジットカード詐欺。補償が受けられるか受けられないか？ナニが違う？"
-slug: "2023/03/29"
+slug: "2023/03/29/184253"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f6fd66922.png"
 feature: "blog_import_6621f6fd66922.png"

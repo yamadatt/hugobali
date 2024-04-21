@@ -2,7 +2,7 @@
 date: 2023-04-08T20:59:46+09:00
 draft: false
 title: "武田信玄「戦いは、五分を上、七分を中、十分を下とする」。ほどほどがいい！？"
-slug: "2023/04/08"
+slug: "2023/04/08/205946"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f73e5cc9d.png"
 feature: "blog_import_6621f73e5cc9d.png"

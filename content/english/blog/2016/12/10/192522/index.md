@@ -2,7 +2,7 @@
 date: 2016-12-10T19:25:22+09:00
 draft: false
 title: "ローカル物件をどうやって安く仕入れるか"
-slug: "2016/12/10"
+slug: "2016/12/10/192522"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b73a2f570.jpg"
 feature: "blog_import_6621b73a2f570.jpg"

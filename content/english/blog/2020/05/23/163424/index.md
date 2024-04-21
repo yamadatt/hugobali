@@ -2,7 +2,7 @@
 date: 2020-05-23T16:34:24+09:00
 draft: false
 title: "黒川検事長が賭け麻雀で辞任。「窮屈な世の中は、世知辛い」"
-slug: "2020/05/23"
+slug: "2020/05/23/163424"
 tags: ["プライベートな話"]
 image: "blog_import_6621da3589e67.png"
 feature: "blog_import_6621da3589e67.png"

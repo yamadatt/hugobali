@@ -2,7 +2,7 @@
 date: 2019-07-02T19:39:35+09:00
 draft: false
 title: "株の実践会に、コインのコレクターがいた「へえー、コインって儲かるんだ。。」"
-slug: "2019/07/02"
+slug: "2019/07/02/193935"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ce4c0a9b8.png"
 feature: "blog_import_6621ce4c0a9b8.png"

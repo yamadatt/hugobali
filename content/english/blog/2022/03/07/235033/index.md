@@ -2,7 +2,7 @@
 date: 2022-03-07T23:50:33+09:00
 draft: false
 title: "「大人の合宿in南伊豆」の報告　１日目"
-slug: "2022/03/07"
+slug: "2022/03/07/235033"
 tags: ["プライベートな話"]
 image: "blog_import_6621eba244140.jpg"
 feature: "blog_import_6621eba244140.jpg"

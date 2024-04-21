@@ -2,7 +2,7 @@
 date: 2023-08-30T00:50:39+09:00
 draft: false
 title: "僕が大人になれない理由"
-slug: "2023/08/30"
+slug: "2023/08/30/005039"
 tags: ["プライベートな話"]
 image: "blog_import_6621fc6bdf0e0.png"
 feature: "blog_import_6621fc6bdf0e0.png"

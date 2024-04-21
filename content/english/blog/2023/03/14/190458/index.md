@@ -2,7 +2,7 @@
 date: 2023-03-14T19:04:58+09:00
 draft: false
 title: "西郷隆盛セミナーに参加。稲盛哲学の源流「日新公いろは歌」とは？"
-slug: "2023/03/14"
+slug: "2023/03/14/190458"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f6a143a9b.jpg"
 feature: "blog_import_6621f6a143a9b.jpg"

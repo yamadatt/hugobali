@@ -2,7 +2,7 @@
 date: 2020-06-07T10:50:34+09:00
 draft: false
 title: "株でもビジネスでも、一発屋は滅びる！？"
-slug: "2020/06/07"
+slug: "2020/06/07/105034"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621da78d6066.png"
 feature: "blog_import_6621da78d6066.png"

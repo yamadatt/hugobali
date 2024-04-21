@@ -2,7 +2,7 @@
 date: 2023-09-03T17:37:26+09:00
 draft: false
 title: "インドネシア独立記念日に親父パワー炸裂！？"
-slug: "2023/09/03"
+slug: "2023/09/03/173726"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621fc871a0e7.png"
 feature: "blog_import_6621fc871a0e7.png"

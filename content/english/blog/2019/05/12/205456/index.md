@@ -2,7 +2,7 @@
 date: 2019-05-12T20:54:56+09:00
 draft: false
 title: "Airbnbのクレーマーは、ヤクザと同じ発想！？"
-slug: "2019/05/12"
+slug: "2019/05/12/205456"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621cc7a01583.png"
 feature: "blog_import_6621cc7a01583.png"

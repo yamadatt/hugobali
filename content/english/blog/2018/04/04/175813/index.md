@@ -2,7 +2,7 @@
 date: 2018-04-04T17:58:13+09:00
 draft: false
 title: "【王族との契約】王族の物件は魅力タップリ！？"
-slug: "2018/04/04"
+slug: "2018/04/04/175813"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621c2b7b84c0.jpg"
 feature: "blog_import_6621c2b7b84c0.jpg"

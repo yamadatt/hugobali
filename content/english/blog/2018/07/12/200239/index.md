@@ -2,7 +2,7 @@
 date: 2018-07-12T20:02:39+09:00
 draft: false
 title: "ヴィラ建築で大木を切ったオーナーさんの幽霊話"
-slug: "2018/07/12"
+slug: "2018/07/12/200239"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c4e59bcdc.jpg"
 feature: "blog_import_6621c4e59bcdc.jpg"

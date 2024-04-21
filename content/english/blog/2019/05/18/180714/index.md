@@ -2,7 +2,7 @@
 date: 2019-05-18T18:07:14+09:00
 draft: false
 title: "満員御礼。昨日の成長株投資勉強会の御礼といただいた感想"
-slug: "2019/05/18"
+slug: "2019/05/18/180714"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cc9378184.jpg"
 feature: "blog_import_6621cc9378184.jpg"

@@ -2,7 +2,7 @@
 date: 2017-11-16T07:40:22+09:00
 draft: false
 title: "ハワイ到着。5億円の部屋は破壊力あるなぁ。"
-slug: "2017/11/16"
+slug: "2017/11/16/074022"
 tags: ["プライベートな話"]
 image: "blog_import_6621be93b9b30.jpg"
 feature: "blog_import_6621be93b9b30.jpg"

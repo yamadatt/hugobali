@@ -2,7 +2,7 @@
 date: 2018-11-20T23:40:12+09:00
 draft: false
 title: "バリ島のヴィラの魅力とは！？"
-slug: "2018/11/20"
+slug: "2018/11/20/234012"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c7df02e22.jpg"
 feature: "blog_import_6621c7df02e22.jpg"

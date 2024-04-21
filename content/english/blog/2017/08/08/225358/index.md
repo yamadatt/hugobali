@@ -2,7 +2,7 @@
 date: 2017-08-08T22:53:58+09:00
 draft: false
 title: "バリ島の電気泥棒。バトル勃発か！？"
-slug: "2017/08/08"
+slug: "2017/08/08/225358"
 tags: ["トラブルの話"]
 image: "blog_import_6621bcb55ffe6.jpg"
 feature: "blog_import_6621bcb55ffe6.jpg"

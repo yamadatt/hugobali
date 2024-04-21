@@ -2,7 +2,7 @@
 date: 2017-11-26T22:41:01+09:00
 draft: false
 title: "本ブログの書籍化、決定！？"
-slug: "2017/11/26"
+slug: "2017/11/26/224101"
 tags: ["プライベートな話"]
 image: "blog_import_6621bf17bc222.jpg"
 feature: "blog_import_6621bf17bc222.jpg"

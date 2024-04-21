@@ -2,7 +2,7 @@
 date: 2019-02-03T17:50:31+09:00
 draft: false
 title: "タケシの結婚！？その２　マリアの実家に挨拶に行く"
-slug: "2019/02/03"
+slug: "2019/02/03/175031"
 tags: ["タケシ（バリ島現地スタッフ）の話"]
 image: "blog_import_6621c99580426.jpg"
 feature: "blog_import_6621c99580426.jpg"

@@ -2,7 +2,7 @@
 date: 2016-06-02T00:05:02+09:00
 draft: false
 title: "第２５回バリ島不動産勉強会 ６月２８日"
-slug: "2016/06/02"
+slug: "2016/06/02/000502"
 tags: ["ブログ"]
 image: "blog_import_6621afc30031e.jpg"
 feature: "blog_import_6621afc30031e.jpg"

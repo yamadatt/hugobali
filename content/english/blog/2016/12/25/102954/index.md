@@ -2,7 +2,7 @@
 date: 2016-12-25T10:29:54+09:00
 draft: false
 title: "リスクとリターンは、平等に扱おう。「減点教育の罪」"
-slug: "2016/12/25"
+slug: "2016/12/25/102954"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b7d08abac.jpg"
 feature: "blog_import_6621b7d08abac.jpg"

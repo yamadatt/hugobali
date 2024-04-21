@@ -2,7 +2,7 @@
 date: 2017-12-30T16:11:02+09:00
 draft: false
 title: "Yahooニュースに紹介されちゃった！？ラブホテルで「ひきこもり」の人を雇用してる話"
-slug: "2017/12/30"
+slug: "2017/12/30/161102"
 tags: ["プライベートな話"]
 image: "blog_import_6621c0497d332.png"
 feature: "blog_import_6621c0497d332.png"

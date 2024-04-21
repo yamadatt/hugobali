@@ -2,7 +2,7 @@
 date: 2020-03-15T19:28:19+09:00
 draft: false
 title: "バリ島ガジュマルが復活！？"
-slug: "2020/03/15"
+slug: "2020/03/15/192819"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621d7bb6a779.png"
 feature: "blog_import_6621d7bb6a779.png"

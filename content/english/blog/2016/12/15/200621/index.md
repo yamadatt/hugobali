@@ -2,7 +2,7 @@
 date: 2016-12-15T20:06:21+09:00
 draft: false
 title: "日本人がやるローカル向け不動産投資は、ランドバンキングがいい！？"
-slug: "2016/12/15"
+slug: "2016/12/15/200621"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b763ef0ed.jpg"
 feature: "blog_import_6621b763ef0ed.jpg"

@@ -2,7 +2,7 @@
 date: 2022-04-04T23:05:07+09:00
 draft: false
 title: "民主主義は、最良システムではない！？"
-slug: "2022/04/04"
+slug: "2022/04/04/230507"
 tags: ["プライベートな話"]
 image: "blog_import_6621ecda49ca8.png"
 feature: "blog_import_6621ecda49ca8.png"

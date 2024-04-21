@@ -2,7 +2,7 @@
 date: 2023-03-12T23:53:13+09:00
 draft: false
 title: "５０代起業の成功ポイントは、「稼ぎ」より「やり甲斐」。まずは仕事をもらおう。"
-slug: "2023/03/12"
+slug: "2023/03/12/235313"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f6992f9f2.png"
 feature: "blog_import_6621f6992f9f2.png"

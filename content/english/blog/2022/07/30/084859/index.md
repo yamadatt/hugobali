@@ -2,7 +2,7 @@
 date: 2022-07-30T08:48:59+09:00
 draft: false
 title: "新幹線の魅力は、非日常！？"
-slug: "2022/07/30"
+slug: "2022/07/30/084859"
 tags: ["プライベートな話"]
 image: "blog_import_6621efd62136f.jpg"
 feature: "blog_import_6621efd62136f.jpg"

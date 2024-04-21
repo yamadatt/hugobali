@@ -2,7 +2,7 @@
 date: 2020-07-09T23:23:55+09:00
 draft: false
 title: "第10回初心者向け成長株セミナーの感想「参加者の成績は！？」"
-slug: "2020/07/09"
+slug: "2020/07/09/232355"
 tags: ["株式投資"]
 image: "blog_import_6621db5a9b27c.png"
 feature: "blog_import_6621db5a9b27c.png"

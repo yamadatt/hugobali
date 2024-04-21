@@ -2,7 +2,7 @@
 date: 2023-06-10T11:58:10+09:00
 draft: false
 title: "良いゴルフ場の条件とは？"
-slug: "2023/06/10"
+slug: "2023/06/10/115810"
 tags: ["ゴルフ"]
 image: "blog_import_6621f9f943774.png"
 feature: "blog_import_6621f9f943774.png"

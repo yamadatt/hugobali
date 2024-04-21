@@ -2,7 +2,7 @@
 date: 2020-11-03T23:45:06+09:00
 draft: false
 title: "インドネシアや新興国のコロナ感染者数は、信じていいのだろうか？"
-slug: "2020/11/03"
+slug: "2020/11/03/234506"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621de400c5d4.png"
 feature: "blog_import_6621de400c5d4.png"

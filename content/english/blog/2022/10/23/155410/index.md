@@ -2,7 +2,7 @@
 date: 2022-10-23T15:54:10+09:00
 draft: false
 title: "１１月２日：第４回暗号通貨の実践会「1,000万を5億にできる根拠～暗号通貨で資産形成すべき理由"
-slug: "2022/10/23"
+slug: "2022/10/23/155410"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621f1ed38b2b.jpg"
 feature: "blog_import_6621f1ed38b2b.jpg"

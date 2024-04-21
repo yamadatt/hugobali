@@ -2,7 +2,7 @@
 date: 2020-07-18T16:57:27+09:00
 draft: false
 title: "勝率１０割！？７月３１日「第１６回成長株投資の実践会」のご案内"
-slug: "2020/07/18"
+slug: "2020/07/18/165727"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621db9636782.png"
 feature: "blog_import_6621db9636782.png"

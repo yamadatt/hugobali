@@ -2,7 +2,7 @@
 date: 2019-11-07T22:45:20+09:00
 draft: false
 title: "男の夢が詰まった渾身のヴィラ"
-slug: "2019/11/07"
+slug: "2019/11/07/224520"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621d1e1d2e7d.jpg"
 feature: "blog_import_6621d1e1d2e7d.jpg"

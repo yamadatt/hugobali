@@ -2,7 +2,7 @@
 date: 2024-01-25T03:34:24+09:00
 draft: false
 title: "立会外分売におけるチャートの「単純な活用法」。"
-slug: "2024/01/25"
+slug: "2024/01/25/033424"
 tags: ["株式投資"]
 image: "blog_import_6621ff8ebd9ce.png"
 feature: "blog_import_6621ff8ebd9ce.png"

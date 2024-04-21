@@ -2,7 +2,7 @@
 date: 2021-05-27T11:33:15+09:00
 draft: false
 title: "若き起業家が活躍するインドネシアの未来"
-slug: "2021/05/27"
+slug: "2021/05/27/113315"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621e2e02d15d.jpg"
 feature: "blog_import_6621e2e02d15d.jpg"

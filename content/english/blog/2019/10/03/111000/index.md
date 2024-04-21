@@ -2,7 +2,7 @@
 date: 2019-10-03T11:10:00+09:00
 draft: false
 title: "ＡＮＡダーナースプレミアムカードの話は、非公開となります"
-slug: "2019/10/03"
+slug: "2019/10/03/111000"
 tags: ["プライベートな話"]
 image: "blog_import_6621d04259b7b.jpg"
 feature: "blog_import_6621d04259b7b.jpg"

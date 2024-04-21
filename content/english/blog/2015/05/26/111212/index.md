@@ -2,7 +2,7 @@
 date: 2015-05-26T11:12:12+09:00
 draft: false
 title: "お詫び　バリ島不動産投資セミナー"
-slug: "2015/05/26"
+slug: "2015/05/26/111212"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621aaca914c4.jpg"
 feature: "blog_import_6621aaca914c4.jpg"

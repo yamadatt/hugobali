@@ -2,7 +2,7 @@
 date: 2020-11-02T18:32:21+09:00
 draft: false
 title: "株式投資では、損失が出たら２割で逃げる。信長の野望感覚でやろう"
-slug: "2020/11/02"
+slug: "2020/11/02/183221"
 tags: ["株式投資"]
 image: "blog_import_6621de3a43799.png"
 feature: "blog_import_6621de3a43799.png"

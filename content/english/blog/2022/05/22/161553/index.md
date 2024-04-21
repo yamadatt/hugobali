@@ -2,7 +2,7 @@
 date: 2022-05-22T16:15:53+09:00
 draft: false
 title: "ビジネスや投資セミナーの選び方。知人の出版記念パーティーで思ったこと"
-slug: "2022/05/22"
+slug: "2022/05/22/161553"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ee00d8660.jpg"
 feature: "blog_import_6621ee00d8660.jpg"

@@ -2,7 +2,7 @@
 date: 2020-11-18T22:30:22+09:00
 draft: false
 title: "ジャワ島のイスラム聖人「キヤイ」。不思議な力はホンモノか！？"
-slug: "2020/11/18"
+slug: "2020/11/18/223022"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621dea01da53.png"
 feature: "blog_import_6621dea01da53.png"

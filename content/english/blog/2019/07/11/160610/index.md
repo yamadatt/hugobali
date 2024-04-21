@@ -2,7 +2,7 @@
 date: 2019-07-11T16:06:10+09:00
 draft: false
 title: "お詫び！！ヤバすぎてお蔵入りの前記事「税務署ＯＢ税理士を雇うメリット！？」"
-slug: "2019/07/11"
+slug: "2019/07/11/160610"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cea69b475.png"
 feature: "blog_import_6621cea69b475.png"

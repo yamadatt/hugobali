@@ -2,7 +2,7 @@
 date: 2016-04-15T22:51:10+09:00
 draft: false
 title: "パナマ文書に思う理不尽さ"
-slug: "2016/04/15"
+slug: "2016/04/15/225110"
 tags: ["ブログ"]
 image: "blog_import_6621af11a76f2.jpg"
 feature: "blog_import_6621af11a76f2.jpg"

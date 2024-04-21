@@ -2,7 +2,7 @@
 date: 2022-05-14T17:55:49+09:00
 draft: false
 title: "古いホテル再生物語「明日はＤＩＹ合宿？」名古屋から人力車男優が参戦！！"
-slug: "2022/05/14"
+slug: "2022/05/14/175549"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621edd1365c8.png"
 feature: "blog_import_6621edd1365c8.png"

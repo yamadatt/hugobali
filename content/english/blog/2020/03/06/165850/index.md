@@ -2,7 +2,7 @@
 date: 2020-03-06T16:58:50+09:00
 draft: false
 title: "バリ島のタケシが、コロナウイルスに感染！？"
-slug: "2020/03/06"
+slug: "2020/03/06/165850"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621d79d67adc.png"
 feature: "blog_import_6621d79d67adc.png"

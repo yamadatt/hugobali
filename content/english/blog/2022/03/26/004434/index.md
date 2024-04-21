@@ -2,7 +2,7 @@
 date: 2022-03-26T00:44:34+09:00
 draft: false
 title: "第１３回馬場ゴルフ部月例の報告。ついにドローンを導入する！？"
-slug: "2022/03/26"
+slug: "2022/03/26/004434"
 tags: ["ゴルフ"]
 image: "blog_import_6621ec8ff1964.jpg"
 feature: "blog_import_6621ec8ff1964.jpg"

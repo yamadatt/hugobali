@@ -2,7 +2,7 @@
 date: 2016-06-28T00:10:37+09:00
 draft: false
 title: "プロが好む物件とは"
-slug: "2016/06/28"
+slug: "2016/06/28/001037"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b0864435b.jpg"
 feature: "blog_import_6621b0864435b.jpg"

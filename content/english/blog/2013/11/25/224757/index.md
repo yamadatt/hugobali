@@ -2,7 +2,7 @@
 date: 2013-11-25T22:47:57+09:00
 draft: false
 title: "バリ島　サヌールヴィラ7.6R　建築前写真"
-slug: "2013/11/25"
+slug: "2013/11/25/224757"
 tags: ["バリ島の自社物件"]
 image: "blog_import_6621a38780024.jpg"
 feature: "blog_import_6621a38780024.jpg"

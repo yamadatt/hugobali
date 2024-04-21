@@ -2,7 +2,7 @@
 date: 2019-12-03T13:46:15+09:00
 draft: false
 title: "株の利益６００万突破。ブティックスは３日連続ストップ高なのに。。。"
-slug: "2019/12/03"
+slug: "2019/12/03/134615"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d34491416.png"
 feature: "blog_import_6621d34491416.png"

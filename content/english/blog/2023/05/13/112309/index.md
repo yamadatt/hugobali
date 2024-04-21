@@ -2,7 +2,7 @@
 date: 2023-05-13T11:23:09+09:00
 draft: false
 title: "いい大人だけど。。しゃぶしゃぶ「しゃぶ葉」活用術。"
-slug: "2023/05/13"
+slug: "2023/05/13/112309"
 tags: ["プライベートな話"]
 image: "blog_import_6621f91e59e8f.jpg"
 feature: "blog_import_6621f91e59e8f.jpg"

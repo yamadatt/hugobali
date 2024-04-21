@@ -2,7 +2,7 @@
 date: 2018-10-12T01:28:06+09:00
 draft: false
 title: "ＸＸさんの株式投資勉強会の感想　追加"
-slug: "2018/10/12"
+slug: "2018/10/12/012806"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c6d266507.jpg"
 feature: "blog_import_6621c6d266507.jpg"

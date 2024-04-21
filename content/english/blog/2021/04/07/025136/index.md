@@ -2,7 +2,7 @@
 date: 2021-04-07T02:51:36+09:00
 draft: false
 title: "善意は素直に受け取ろう"
-slug: "2021/04/07"
+slug: "2021/04/07/025136"
 tags: ["プライベートな話"]
 image: "blog_import_6621e1e752f29.png"
 feature: "blog_import_6621e1e752f29.png"

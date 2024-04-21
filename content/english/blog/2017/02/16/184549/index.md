@@ -2,7 +2,7 @@
 date: 2017-02-16T18:45:49+09:00
 draft: false
 title: "今日の懇親会は、どんな展開になるのかな。"
-slug: "2017/02/16"
+slug: "2017/02/16/184549"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621b9f1162a8.jpg"
 feature: "blog_import_6621b9f1162a8.jpg"

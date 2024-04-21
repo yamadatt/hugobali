@@ -2,7 +2,7 @@
 date: 2020-05-22T22:14:07+09:00
 draft: false
 title: "厳しい状況の経営者へ「こんな時こそ、新しいことをやろう」"
-slug: "2020/05/22"
+slug: "2020/05/22/221407"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621da28a27d4.png"
 feature: "blog_import_6621da28a27d4.png"

@@ -2,7 +2,7 @@
 date: 2016-09-07T22:57:31+09:00
 draft: false
 title: "投資先としてのラブホテルを考察する(１)"
-slug: "2016/09/07"
+slug: "2016/09/07/225731"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621b349c6680.jpg"
 feature: "blog_import_6621b349c6680.jpg"

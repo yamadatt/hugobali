@@ -2,7 +2,7 @@
 date: 2020-05-08T23:23:50+09:00
 draft: false
 title: "「お金と命、どっちが大事なの？」自粛もそろそろ限界かな"
-slug: "2020/05/08"
+slug: "2020/05/08/232350"
 tags: ["プライベートな話"]
 image: "blog_import_6621d9d148f4e.png"
 feature: "blog_import_6621d9d148f4e.png"

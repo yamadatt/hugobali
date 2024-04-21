@@ -2,7 +2,7 @@
 date: 2017-08-05T16:47:54+09:00
 draft: false
 title: "富裕層の共通点　我慢や努力は必要か！？"
-slug: "2017/08/05"
+slug: "2017/08/05/164754"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621bcad66d38.jpg"
 feature: "blog_import_6621bcad66d38.jpg"

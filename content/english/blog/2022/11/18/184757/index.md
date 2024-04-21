@@ -2,7 +2,7 @@
 date: 2022-11-18T18:47:57+09:00
 draft: false
 title: "第２１回馬場ゴルフ部月例コンペの報告"
-slug: "2022/11/18"
+slug: "2022/11/18/184757"
 tags: ["ゴルフ"]
 image: "blog_import_6621f2c754d24.jpg"
 feature: "blog_import_6621f2c754d24.jpg"

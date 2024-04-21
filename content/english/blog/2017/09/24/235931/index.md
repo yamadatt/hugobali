@@ -2,7 +2,7 @@
 date: 2017-09-24T23:59:31+09:00
 draft: false
 title: "デワ来日１日目。入国審査に引っかかった！？"
-slug: "2017/09/24"
+slug: "2017/09/24/235931"
 tags: ["プライベートな話"]
 image: "blog_import_6621bd7fe4061.png"
 feature: "blog_import_6621bd7fe4061.png"

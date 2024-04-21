@@ -2,7 +2,7 @@
 date: 2023-04-18T18:25:27+09:00
 draft: false
 title: "ゴルフ初心者必見！？ラウンド時の心得。"
-slug: "2023/04/18"
+slug: "2023/04/18/182527"
 tags: ["ゴルフ"]
 image: "blog_import_6621f7663a487.png"
 feature: "blog_import_6621f7663a487.png"

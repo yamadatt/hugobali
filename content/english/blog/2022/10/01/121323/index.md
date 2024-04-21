@@ -2,7 +2,7 @@
 date: 2022-10-01T12:13:23+09:00
 draft: false
 title: "横須賀に「しらせ」「ズムウォルト」を見に行った。"
-slug: "2022/10/01"
+slug: "2022/10/01/121323"
 tags: ["プライベートな話"]
 image: "blog_import_6621f155b21e4.jpg"
 feature: "blog_import_6621f155b21e4.jpg"

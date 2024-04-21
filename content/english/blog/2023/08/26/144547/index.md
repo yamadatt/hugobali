@@ -2,7 +2,7 @@
 date: 2023-08-26T14:45:47+09:00
 draft: false
 title: "売マンション：東京都下(羽村市、駅６分）価格８００万円、利回り１０.６５％"
-slug: "2023/08/26"
+slug: "2023/08/26/144547"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621fc55b230a.png"
 feature: "blog_import_6621fc55b230a.png"

@@ -2,7 +2,7 @@
 date: 2016-10-17T22:56:14+09:00
 draft: false
 title: "バリ島ウマラス　高級ヴィラ　約5200万円"
-slug: "2016/10/17"
+slug: "2016/10/17/225614"
 tags: ["ブログ"]
 image: "blog_import_6621b50719457.jpg"
 feature: "blog_import_6621b50719457.jpg"

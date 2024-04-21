@@ -2,7 +2,7 @@
 date: 2023-11-14T21:36:18+09:00
 draft: false
 title: "第６回「生ハムベジョータの会」12月23日(土）今年もやります！！残席３０名。"
-slug: "2023/11/14"
+slug: "2023/11/14/213618"
 tags: ["プライベートな話"]
 image: "blog_import_6621fe4c3820e.jpg"
 feature: "blog_import_6621fe4c3820e.jpg"

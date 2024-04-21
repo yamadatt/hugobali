@@ -2,7 +2,7 @@
 date: 2023-12-30T23:35:50+09:00
 draft: false
 title: "今年、株はいくら儲かったのか？"
-slug: "2023/12/30"
+slug: "2023/12/30/233550"
 tags: ["株式投資"]
 image: "blog_import_6621ff2c8ed45.png"
 feature: "blog_import_6621ff2c8ed45.png"

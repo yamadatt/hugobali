@@ -2,7 +2,7 @@
 date: 2019-05-28T18:03:15+09:00
 draft: false
 title: "現代アート投資の魅力とメリット！？その５　金持ちがさらに金持ちになる美術品の節税"
-slug: "2019/05/28"
+slug: "2019/05/28/180315"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cd01163ff.jpg"
 feature: "blog_import_6621cd01163ff.jpg"

@@ -2,7 +2,7 @@
 date: 2019-03-26T02:07:30+09:00
 draft: false
 title: "ご案内「初心者でも結果を出せる！株式投資の勉強会」４月１２日 講師：長田淳司氏"
-slug: "2019/03/26"
+slug: "2019/03/26/020730"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ca812035b.jpg"
 feature: "blog_import_6621ca812035b.jpg"

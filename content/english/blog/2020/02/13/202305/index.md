@@ -2,7 +2,7 @@
 date: 2020-02-13T20:23:05+09:00
 draft: false
 title: "２月２１日「最強カード＆マイル修行」セミナー講師の和田氏からメッセージが届いた"
-slug: "2020/02/13"
+slug: "2020/02/13/202305"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d6f6ec534.jpg"
 feature: "blog_import_6621d6f6ec534.jpg"

@@ -2,7 +2,7 @@
 date: 2019-04-13T19:55:29+09:00
 draft: false
 title: "バリ島ウブドゥで、収益が上がるヴィラの条件とは！？"
-slug: "2019/04/13"
+slug: "2019/04/13/195529"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621cb502e5dd.jpg"
 feature: "blog_import_6621cb502e5dd.jpg"

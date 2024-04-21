@@ -2,7 +2,7 @@
 date: 2017-09-15T22:36:36+09:00
 draft: false
 title: "５０００万を誤差と言う超富裕層"
-slug: "2017/09/15"
+slug: "2017/09/15/223636"
 tags: ["プライベートな話"]
 image: "blog_import_6621bd6683539.jpg"
 feature: "blog_import_6621bd6683539.jpg"

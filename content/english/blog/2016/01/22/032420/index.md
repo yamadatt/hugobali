@@ -2,7 +2,7 @@
 date: 2016-01-22T03:24:20+09:00
 draft: false
 title: "バリ島到着"
-slug: "2016/01/22"
+slug: "2016/01/22/032420"
 tags: ["ブログ"]
 image: "blog_import_6621abda31a55.jpg"
 feature: "blog_import_6621abda31a55.jpg"

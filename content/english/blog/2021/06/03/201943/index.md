@@ -2,7 +2,7 @@
 date: 2021-06-03T20:19:43+09:00
 draft: false
 title: "明日４日の成長株セミナーは「テーマ株の探し方」アフターコロナ株を学ぶ"
-slug: "2021/06/03"
+slug: "2021/06/03/201943"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621e2fe10eda.png"
 feature: "blog_import_6621e2fe10eda.png"

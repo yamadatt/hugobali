@@ -2,7 +2,7 @@
 date: 2014-10-29T01:16:09+09:00
 draft: false
 title: "ウォーレン・バフェットに学ぶ投資の極意"
-slug: "2014/10/29"
+slug: "2014/10/29/011609"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621a925f0851.png"
 feature: "blog_import_6621a925f0851.png"

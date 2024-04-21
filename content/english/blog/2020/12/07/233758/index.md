@@ -2,7 +2,7 @@
 date: 2020-12-07T23:37:58+09:00
 draft: false
 title: "「ふるさと納税」で削り出しパターをゲット！？ゼクシオも２０００円で手に入る！！"
-slug: "2020/12/07"
+slug: "2020/12/07/233758"
 tags: ["プライベートな話"]
 image: "blog_import_6621df124b90a.png"
 feature: "blog_import_6621df124b90a.png"

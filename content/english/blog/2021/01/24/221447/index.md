@@ -2,7 +2,7 @@
 date: 2021-01-24T22:14:47+09:00
 draft: false
 title: "やはり玉置浩二は唯一無二。歌が上手い人は沢山いるけど。。2021セットリスト"
-slug: "2021/01/24"
+slug: "2021/01/24/221447"
 tags: ["プライベートな話"]
 image: "blog_import_6621e00fc83eb.png"
 feature: "blog_import_6621e00fc83eb.png"

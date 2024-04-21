@@ -2,7 +2,7 @@
 date: 2024-03-24T23:58:27+09:00
 draft: false
 title: "ギャンブル依存症は治らない！？廃人になった友人に思う。。"
-slug: "2024/03/24"
+slug: "2024/03/24/235827"
 tags: ["プライベートな話"]
 image: "blog_import_66219ad881793.png"
 feature: "blog_import_66219ad881793.png"

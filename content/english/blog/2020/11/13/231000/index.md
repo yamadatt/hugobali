@@ -2,7 +2,7 @@
 date: 2020-11-13T23:10:00+09:00
 draft: false
 title: "長田先生レポート「ストレスがかかる場面で、どのように相場に向き合うか」"
-slug: "2020/11/13"
+slug: "2020/11/13/231000"
 tags: ["株式投資"]
 image: "blog_import_6621de6b02970.png"
 feature: "blog_import_6621de6b02970.png"

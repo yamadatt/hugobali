@@ -2,7 +2,7 @@
 date: 2017-04-20T23:09:49+09:00
 draft: false
 title: "圧巻！！このヴィラも役マン級！？16.2％！？"
-slug: "2017/04/20"
+slug: "2017/04/20/230949"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621bb1d2fd73.jpg"
 feature: "blog_import_6621bb1d2fd73.jpg"

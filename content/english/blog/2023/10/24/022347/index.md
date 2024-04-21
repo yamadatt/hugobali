@@ -2,7 +2,7 @@
 date: 2023-10-24T02:23:47+09:00
 draft: false
 title: "信用情報にキズをつけるか否かは、職業と債務額次第。債務整理その２"
-slug: "2023/10/24"
+slug: "2023/10/24/022347"
 tags: ["トラブルの話"]
 image: "blog_import_6621fdb20324a.png"
 feature: "blog_import_6621fdb20324a.png"

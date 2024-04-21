@@ -2,7 +2,7 @@
 date: 2016-02-02T18:30:31+09:00
 draft: false
 title: "帰国しました！皆さま、ありがとうございました。"
-slug: "2016/02/02"
+slug: "2016/02/02/183031"
 tags: ["ブログ"]
 image: "blog_import_6621ac892dd51.jpg"
 feature: "blog_import_6621ac892dd51.jpg"

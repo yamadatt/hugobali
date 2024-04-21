@@ -2,7 +2,7 @@
 date: 2020-01-28T21:54:03+09:00
 draft: false
 title: "２月２１日開催「最強カード＆マイル修行セミナー」VISA、ｱﾒｯｸｽ、ﾀﾞｲﾅｰｽ、最強活用術！"
-slug: "2020/01/28"
+slug: "2020/01/28/215403"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d69ca7dbb.png"
 feature: "blog_import_6621d69ca7dbb.png"

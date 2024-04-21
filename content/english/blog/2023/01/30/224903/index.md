@@ -2,7 +2,7 @@
 date: 2023-01-30T22:49:03+09:00
 draft: false
 title: "カイヴァリヤ研究所から、タージマハルへ"
-slug: "2023/01/30"
+slug: "2023/01/30/224903"
 tags: ["インド旅行パンチャカルマ"]
 image: "blog_import_6621f5496a668.jpg"
 feature: "blog_import_6621f5496a668.jpg"

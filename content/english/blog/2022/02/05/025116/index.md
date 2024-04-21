@@ -2,7 +2,7 @@
 date: 2022-02-05T02:51:16+09:00
 draft: false
 title: "暗号通貨は将来どうなるのか。その３「メタバースが暗号通貨を広める理由」"
-slug: "2022/02/05"
+slug: "2022/02/05/025116"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ea5268894.png"
 feature: "blog_import_6621ea5268894.png"

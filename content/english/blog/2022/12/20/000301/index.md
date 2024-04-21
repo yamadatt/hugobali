@@ -2,7 +2,7 @@
 date: 2022-12-20T00:03:01+09:00
 draft: false
 title: "メッシ物語が完結！？。サッカーＷ杯２０２２"
-slug: "2022/12/20"
+slug: "2022/12/20/000301"
 tags: ["プライベートな話"]
 image: "blog_import_6621f3c20d3a6.png"
 feature: "blog_import_6621f3c20d3a6.png"

@@ -2,7 +2,7 @@
 date: 2017-01-02T00:13:54+09:00
 draft: false
 title: "里帰り２０１７"
-slug: "2017/01/02"
+slug: "2017/01/02/001354"
 tags: ["プライベートな話"]
 image: "blog_import_6621b807ca6ea.jpg"
 feature: "blog_import_6621b807ca6ea.jpg"

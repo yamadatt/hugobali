@@ -2,7 +2,7 @@
 date: 2023-01-11T01:54:52+09:00
 draft: false
 title: "インドの古典「ラーマヤナ」は面白い。知っておいたほうがいい！？"
-slug: "2023/01/11"
+slug: "2023/01/11/015452"
 tags: ["インド旅行パンチャカルマ"]
 image: "blog_import_6621f46375ac3.png"
 feature: "blog_import_6621f46375ac3.png"

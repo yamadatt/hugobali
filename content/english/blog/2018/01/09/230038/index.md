@@ -2,7 +2,7 @@
 date: 2018-01-09T23:00:38+09:00
 draft: false
 title: "バリ島スタッフの新年会２０１８"
-slug: "2018/01/09"
+slug: "2018/01/09/230038"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c08af10fa.jpg"
 feature: "blog_import_6621c08af10fa.jpg"

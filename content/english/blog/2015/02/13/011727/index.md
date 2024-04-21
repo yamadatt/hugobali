@@ -2,7 +2,7 @@
 date: 2015-02-13T01:17:27+09:00
 draft: false
 title: "バリ島　ジンバラン　売ヴィラ　残念！"
-slug: "2015/02/13"
+slug: "2015/02/13/011727"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621a963d608f.jpg"
 feature: "blog_import_6621a963d608f.jpg"

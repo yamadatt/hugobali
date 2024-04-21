@@ -2,7 +2,7 @@
 date: 2017-01-21T18:37:37+09:00
 draft: false
 title: "建築確認のサインを渋る厄介な隣人"
-slug: "2017/01/21"
+slug: "2017/01/21/183737"
 tags: ["トラブルの話"]
 image: "blog_import_6621b8bb9726f.jpg"
 feature: "blog_import_6621b8bb9726f.jpg"

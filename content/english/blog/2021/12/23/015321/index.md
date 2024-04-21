@@ -2,7 +2,7 @@
 date: 2021-12-23T01:53:21+09:00
 draft: false
 title: "募集終了です！！昨日の「利回り２６％超！？横浜みなとみらい飲食店投資」"
-slug: "2021/12/23"
+slug: "2021/12/23/015321"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621e8d0b0c97.png"
 feature: "blog_import_6621e8d0b0c97.png"

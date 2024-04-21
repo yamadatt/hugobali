@@ -2,7 +2,7 @@
 date: 2016-03-31T14:25:14+09:00
 draft: false
 title: "スミニャックの洒落た売ヴィラ　"
-slug: "2016/03/31"
+slug: "2016/03/31/142514"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621ae9fd9d33.jpg"
 feature: "blog_import_6621ae9fd9d33.jpg"

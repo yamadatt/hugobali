@@ -2,7 +2,7 @@
 date: 2021-12-29T21:54:00+09:00
 draft: false
 title: "３０年前に夢見た仮想空間「メタバース」は、実現するのか？"
-slug: "2021/12/29"
+slug: "2021/12/29/215400"
 tags: ["プライベートな話"]
 image: "blog_import_6621e90a73668.png"
 feature: "blog_import_6621e90a73668.png"

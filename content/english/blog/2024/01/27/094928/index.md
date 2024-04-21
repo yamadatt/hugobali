@@ -2,7 +2,7 @@
 date: 2024-01-27T09:49:28+09:00
 draft: false
 title: "２月９日(金）第59回成長株実践セミナー「次のスター銘柄を探そう！！(半導体以外で。。）」"
-slug: "2024/01/27"
+slug: "2024/01/27/094928"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ffb2d38f6.png"
 feature: "blog_import_6621ffb2d38f6.png"

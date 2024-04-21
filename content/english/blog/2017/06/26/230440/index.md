@@ -2,7 +2,7 @@
 date: 2017-06-26T23:04:40+09:00
 draft: false
 title: "ホテルづくりの基本は、華があること"
-slug: "2017/06/26"
+slug: "2017/06/26/230440"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621bc1c3e99c.jpg"
 feature: "blog_import_6621bc1c3e99c.jpg"

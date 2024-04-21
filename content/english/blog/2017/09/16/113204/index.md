@@ -2,7 +2,7 @@
 date: 2017-09-16T11:32:04+09:00
 draft: false
 title: "満員御礼！！９月２０日バリ島不動産投資セミナー"
-slug: "2017/09/16"
+slug: "2017/09/16/113204"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621bd69125ca.png"
 feature: "blog_import_6621bd69125ca.png"

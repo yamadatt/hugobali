@@ -2,7 +2,7 @@
 date: 2020-11-30T21:20:55+09:00
 draft: false
 title: "ゴルフ会員権を買った！！「浜野ゴルフクラブ」"
-slug: "2020/11/30"
+slug: "2020/11/30/212055"
 tags: ["プライベートな話"]
 image: "blog_import_6621ded700dff.png"
 feature: "blog_import_6621ded700dff.png"

@@ -2,7 +2,7 @@
 date: 2020-10-30T11:27:03+09:00
 draft: false
 title: "バリ島大将のゴルフレポート"
-slug: "2020/10/30"
+slug: "2020/10/30/112703"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621de1b6352b.png"
 feature: "blog_import_6621de1b6352b.png"

@@ -2,7 +2,7 @@
 date: 2023-07-04T23:59:30+09:00
 draft: false
 title: "茨城の最強定食屋「まる信食堂」"
-slug: "2023/07/04"
+slug: "2023/07/04/235930"
 tags: ["プライベートな話"]
 image: "blog_import_6621fad1dfd54.jpg"
 feature: "blog_import_6621fad1dfd54.jpg"

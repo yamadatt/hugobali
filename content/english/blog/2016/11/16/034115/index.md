@@ -2,7 +2,7 @@
 date: 2016-11-16T03:41:15+09:00
 draft: false
 title: "地上118階のプロポーズ"
-slug: "2016/11/16"
+slug: "2016/11/16/034115"
 tags: ["プライベートな話"]
 image: "blog_import_6621b69a929e3.jpg"
 feature: "blog_import_6621b69a929e3.jpg"

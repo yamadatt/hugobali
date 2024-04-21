@@ -2,7 +2,7 @@
 date: 2019-06-25T01:03:01+09:00
 draft: false
 title: "６月２８日長田淳司氏の「出し惜しみなし！！成長株投資の実践会」"
-slug: "2019/06/25"
+slug: "2019/06/25/010301"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ce1c1338a.png"
 feature: "blog_import_6621ce1c1338a.png"

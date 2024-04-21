@@ -2,7 +2,7 @@
 date: 2016-12-26T21:32:47+09:00
 draft: false
 title: "バリ島事務所のクリスマス"
-slug: "2016/12/26"
+slug: "2016/12/26/213247"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621b7d41d203.jpg"
 feature: "blog_import_6621b7d41d203.jpg"

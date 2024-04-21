@@ -2,7 +2,7 @@
 date: 2016-03-06T23:55:05+09:00
 draft: false
 title: "坊主丸儲け"
-slug: "2016/03/06"
+slug: "2016/03/06/235505"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621ad70566e7.jpg"
 feature: "blog_import_6621ad70566e7.jpg"

@@ -2,7 +2,7 @@
 date: 2022-02-13T15:55:08+09:00
 draft: false
 title: "「バリ島チャングー売ヴィラ（相場の半額！？）」は終了です"
-slug: "2022/02/13"
+slug: "2022/02/13/155508"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621ea94c86f6.png"
 feature: "blog_import_6621ea94c86f6.png"

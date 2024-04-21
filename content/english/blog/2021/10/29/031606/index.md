@@ -2,7 +2,7 @@
 date: 2021-10-29T03:16:06+09:00
 draft: false
 title: "ゴルフ場の美味い飯ランキング"
-slug: "2021/10/29"
+slug: "2021/10/29/031606"
 tags: ["ゴルフ"]
 image: "blog_import_6621e72c965a7.png"
 feature: "blog_import_6621e72c965a7.png"

@@ -2,7 +2,7 @@
 date: 2016-12-20T22:09:52+09:00
 draft: false
 title: "バリ島売ヴィラ　人気のスミニャック　利回り１４.９％　希少！！"
-slug: "2016/12/20"
+slug: "2016/12/20/220952"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621b77d48055.jpg"
 feature: "blog_import_6621b77d48055.jpg"

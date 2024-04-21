@@ -2,7 +2,7 @@
 date: 2017-11-04T20:35:35+09:00
 draft: false
 title: "バリ島ヴィラの泥棒対策は、どうすればいいか！？"
-slug: "2017/11/04"
+slug: "2017/11/04/203535"
 tags: ["トラブルの話"]
 image: "blog_import_6621be6695774.jpg"
 feature: "blog_import_6621be6695774.jpg"

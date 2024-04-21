@@ -2,7 +2,7 @@
 date: 2015-12-02T18:06:59+09:00
 draft: false
 title: "2016年バリ島不動産ツアー"
-slug: "2015/12/02"
+slug: "2015/12/02/180659"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ab8129829.jpg"
 feature: "blog_import_6621ab8129829.jpg"

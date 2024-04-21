@@ -2,7 +2,7 @@
 date: 2017-05-26T19:55:00+09:00
 draft: false
 title: "バリ島ヴィラの瑕疵担保責任と修繕箇所チェック"
-slug: "2017/05/26"
+slug: "2017/05/26/195500"
 tags: ["トラブルの話"]
 image: "blog_import_6621bbaedc7ce.png"
 feature: "blog_import_6621bbaedc7ce.png"

@@ -2,7 +2,7 @@
 date: 2020-06-11T23:13:02+09:00
 draft: false
 title: "僕がセミナーの感想を大切に考える理由"
-slug: "2020/06/11"
+slug: "2020/06/11/231302"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621da89a84b8.png"
 feature: "blog_import_6621da89a84b8.png"

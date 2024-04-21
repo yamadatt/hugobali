@@ -2,7 +2,7 @@
 date: 2022-02-03T17:12:47+09:00
 draft: false
 title: "日本円よりも暗号通貨の信用が増す時代が来る！？"
-slug: "2022/02/03"
+slug: "2022/02/03/171247"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ea36183eb.png"
 feature: "blog_import_6621ea36183eb.png"

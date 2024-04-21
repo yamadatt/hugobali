@@ -2,7 +2,7 @@
 date: 2014-05-03T22:04:31+09:00
 draft: false
 title: "２，バリ島は治安がいい"
-slug: "2014/05/03"
+slug: "2014/05/03/220431"
 tags: ["バリ島でのロングステイ"]
 image: "blog_import_6621a4a1645c2.png"
 feature: "blog_import_6621a4a1645c2.png"

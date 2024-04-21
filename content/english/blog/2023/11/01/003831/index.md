@@ -2,7 +2,7 @@
 date: 2023-11-01T00:38:31+09:00
 draft: false
 title: "相続は揉めた兄妹の話。「相続は結局、モメるのが一番馬鹿馬鹿しい」"
-slug: "2023/11/01"
+slug: "2023/11/01/003831"
 tags: ["トラブルの話"]
 image: "blog_import_6621fdee4e021.png"
 feature: "blog_import_6621fdee4e021.png"

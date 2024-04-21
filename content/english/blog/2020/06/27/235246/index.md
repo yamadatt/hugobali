@@ -2,7 +2,7 @@
 date: 2020-06-27T23:52:46+09:00
 draft: false
 title: "バリ島でも、コロナ自粛が緩んできた！？"
-slug: "2020/06/27"
+slug: "2020/06/27/235246"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621daf4714c4.png"
 feature: "blog_import_6621daf4714c4.png"

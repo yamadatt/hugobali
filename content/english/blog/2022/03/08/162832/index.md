@@ -2,7 +2,7 @@
 date: 2022-03-08T16:28:32+09:00
 draft: false
 title: "雪川でロストとしたドローンを捜索中。見つかるのか！？"
-slug: "2022/03/08"
+slug: "2022/03/08/162832"
 tags: ["プライベートな話"]
 image: "blog_import_6621ebb502853.png"
 feature: "blog_import_6621ebb502853.png"

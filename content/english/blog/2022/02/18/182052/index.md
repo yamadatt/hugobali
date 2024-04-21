@@ -2,7 +2,7 @@
 date: 2022-02-18T18:20:52+09:00
 draft: false
 title: "暗号通貨で金融革命が起きる！？セミナーでもやろうかな"
-slug: "2022/02/18"
+slug: "2022/02/18/182052"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621eacdd4966.png"
 feature: "blog_import_6621eacdd4966.png"

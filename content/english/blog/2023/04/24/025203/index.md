@@ -2,7 +2,7 @@
 date: 2023-04-24T02:52:03+09:00
 draft: false
 title: "韓国にラブホ視察に来た！？"
-slug: "2023/04/24"
+slug: "2023/04/24/025203"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621f83d057cf.jpg"
 feature: "blog_import_6621f83d057cf.jpg"

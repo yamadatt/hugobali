@@ -2,7 +2,7 @@
 date: 2017-11-29T23:57:27+09:00
 draft: false
 title: "ヴィラオーナー各位「アグン山噴火の影響について」"
-slug: "2017/11/29"
+slug: "2017/11/29/235727"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621bf2274229.jpg"
 feature: "blog_import_6621bf2274229.jpg"

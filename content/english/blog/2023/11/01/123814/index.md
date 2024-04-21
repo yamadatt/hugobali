@@ -2,7 +2,7 @@
 date: 2023-11-01T12:38:14+09:00
 draft: false
 title: "次回の暗号通貨セミナーでは、「暗号通貨にどう関わるか。どう儲けるか」を学ぶ。"
-slug: "2023/11/01"
+slug: "2023/11/01/123814"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621fdf8aaaab.png"
 feature: "blog_import_6621fdf8aaaab.png"

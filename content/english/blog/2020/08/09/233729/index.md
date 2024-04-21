@@ -2,7 +2,7 @@
 date: 2020-08-09T23:37:29+09:00
 draft: false
 title: "「ＤＮＡだけでモテる男６２歳」が作詞作曲した作品を紹介する"
-slug: "2020/08/09"
+slug: "2020/08/09/233729"
 tags: ["プライベートな話"]
 image: "blog_import_6621dc23a5185.png"
 feature: "blog_import_6621dc23a5185.png"

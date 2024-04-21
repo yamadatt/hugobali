@@ -2,7 +2,7 @@
 date: 2019-09-20T17:26:34+09:00
 draft: false
 title: "驚愕した！？サウジアラビア人のプールの使い方。"
-slug: "2019/09/20"
+slug: "2019/09/20/172634"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621cff0db943.jpg"
 feature: "blog_import_6621cff0db943.jpg"

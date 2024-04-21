@@ -2,7 +2,7 @@
 date: 2022-03-31T17:43:27+09:00
 draft: false
 title: "最強カード「アメックスMarriott」がバージョンアップ。今なら２０万Ｐもらえる！？"
-slug: "2022/03/31"
+slug: "2022/03/31/174327"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621eccd0119e.png"
 feature: "blog_import_6621eccd0119e.png"

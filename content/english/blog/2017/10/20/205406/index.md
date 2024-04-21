@@ -2,7 +2,7 @@
 date: 2017-10-20T20:54:06+09:00
 draft: false
 title: "「お金が好きですか？」って変な質問だな"
-slug: "2017/10/20"
+slug: "2017/10/20/205406"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621bdfba3b4b.jpg"
 feature: "blog_import_6621bdfba3b4b.jpg"

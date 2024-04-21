@@ -2,7 +2,7 @@
 date: 2015-01-13T23:13:17+09:00
 draft: false
 title: "生徒募集！　インドネシア語を一緒に勉強しませんか？"
-slug: "2015/01/13"
+slug: "2015/01/13/231317"
 tags: ["超実践！インドネシア語会話"]
 image: "blog_import_6621a9497fd40.jpg"
 feature: "blog_import_6621a9497fd40.jpg"

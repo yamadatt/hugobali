@@ -2,7 +2,7 @@
 date: 2024-01-18T02:18:04+09:00
 draft: false
 title: "投資に失敗情報が多いワケ"
-slug: "2024/01/18"
+slug: "2024/01/18/021804"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ff485686c.png"
 feature: "blog_import_6621ff485686c.png"

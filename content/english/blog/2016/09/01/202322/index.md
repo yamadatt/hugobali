@@ -2,7 +2,7 @@
 date: 2016-09-01T20:23:22+09:00
 draft: false
 title: "海外不動産投資の初心者が購入すべき物件とは！？"
-slug: "2016/09/01"
+slug: "2016/09/01/202322"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b32a152e5.jpg"
 feature: "blog_import_6621b32a152e5.jpg"

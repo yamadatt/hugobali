@@ -2,7 +2,7 @@
 date: 2019-04-09T21:41:45+09:00
 draft: false
 title: "日本の芸術は世界で勝負できる！？　世界を目指す「アジア現代アート投資ファンド」とは。"
-slug: "2019/04/09"
+slug: "2019/04/09/214145"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621cb264225b.png"
 feature: "blog_import_6621cb264225b.png"

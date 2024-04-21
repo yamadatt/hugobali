@@ -2,7 +2,7 @@
 date: 2020-07-11T19:02:19+09:00
 draft: false
 title: "感想＆質問（１）「投資してよい株、いけない株の見分け方」への回答"
-slug: "2020/07/11"
+slug: "2020/07/11/190219"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621db6355506.jpg"
 feature: "blog_import_6621db6355506.jpg"

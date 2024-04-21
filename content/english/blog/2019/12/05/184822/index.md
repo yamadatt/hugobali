@@ -2,7 +2,7 @@
 date: 2019-12-05T18:48:22+09:00
 draft: false
 title: "株が下がってきた。さて、ここでどうするか。。"
-slug: "2019/12/05"
+slug: "2019/12/05/184822"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d35fc6efd.png"
 feature: "blog_import_6621d35fc6efd.png"

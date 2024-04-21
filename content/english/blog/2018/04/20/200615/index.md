@@ -2,7 +2,7 @@
 date: 2018-04-20T20:06:15+09:00
 draft: false
 title: "読者様からいただいたお手紙・・・「稼げる人の常識、稼げない人の常識」"
-slug: "2018/04/20"
+slug: "2018/04/20/200615"
 tags: ["プライベートな話"]
 image: "blog_import_6621c2eab13ae.jpg"
 feature: "blog_import_6621c2eab13ae.jpg"

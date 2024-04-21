@@ -2,7 +2,7 @@
 date: 2020-01-21T23:59:26+09:00
 draft: false
 title: "「買おう」としていたら株価が上がって買えない。。その時、どうする！？"
-slug: "2020/01/21"
+slug: "2020/01/21/235926"
 tags: ["株式投資"]
 image: "blog_import_6621d66022c78.png"
 feature: "blog_import_6621d66022c78.png"

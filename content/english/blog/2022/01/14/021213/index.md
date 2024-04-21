@@ -2,7 +2,7 @@
 date: 2022-01-14T02:12:13+09:00
 draft: false
 title: "GAMEFI、メタバースによって、１０年後に大革命が起きるのでは！？"
-slug: "2022/01/14"
+slug: "2022/01/14/021213"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e9aa09b4b.png"
 feature: "blog_import_6621e9aa09b4b.png"

@@ -2,7 +2,7 @@
 date: 2021-07-19T23:59:38+09:00
 draft: false
 title: "インドネシアからの帰国者の隔離体験談【バリ大将】①「ここは刑務所か？」"
-slug: "2021/07/19"
+slug: "2021/07/19/235938"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621e461ad024.png"
 feature: "blog_import_6621e461ad024.png"

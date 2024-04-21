@@ -2,7 +2,7 @@
 date: 2020-01-17T20:54:46+09:00
 draft: false
 title: "成長株への投資は〝複利で運用している″その意味が分かりますか？"
-slug: "2020/01/17"
+slug: "2020/01/17/205446"
 tags: ["株式投資"]
 image: "blog_import_6621d5e003672.png"
 feature: "blog_import_6621d5e003672.png"

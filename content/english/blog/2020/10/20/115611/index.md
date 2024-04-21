@@ -2,7 +2,7 @@
 date: 2020-10-20T11:56:11+09:00
 draft: false
 title: "実践会Lineグループは、昼間に頻繁に売買できない人でも大丈夫です！！"
-slug: "2020/10/20"
+slug: "2020/10/20/115611"
 tags: ["株式投資"]
 image: "blog_import_6621ddcb56690.png"
 feature: "blog_import_6621ddcb56690.png"

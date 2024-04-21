@@ -2,7 +2,7 @@
 date: 2022-11-20T23:50:24+09:00
 draft: false
 title: "ホテルの看板製作は悩ましい。「答えが分からないから人は成長する」"
-slug: "2022/11/20"
+slug: "2022/11/20/235024"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621f2e90cf39.jpg"
 feature: "blog_import_6621f2e90cf39.jpg"

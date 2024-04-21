@@ -2,7 +2,7 @@
 date: 2020-10-23T01:13:49+09:00
 draft: false
 title: "１１月２７日（金） 第２０回「成長株投資の実践会」のお知らせ"
-slug: "2020/10/23"
+slug: "2020/10/23/011349"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ddeed6f49.jpg"
 feature: "blog_import_6621ddeed6f49.jpg"

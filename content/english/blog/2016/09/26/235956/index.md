@@ -2,7 +2,7 @@
 date: 2016-09-26T23:59:56+09:00
 draft: false
 title: "インドネシア人は、なぜ親日的なのか！？(１)"
-slug: "2016/09/26"
+slug: "2016/09/26/235956"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621b3a937f54.jpg"
 feature: "blog_import_6621b3a937f54.jpg"

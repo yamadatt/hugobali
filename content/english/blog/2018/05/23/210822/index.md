@@ -2,7 +2,7 @@
 date: 2018-05-23T21:08:22+09:00
 draft: false
 title: "引きこもりの人は、ボランティアから抜け出し自信をつけよう"
-slug: "2018/05/23"
+slug: "2018/05/23/210822"
 tags: ["プライベートな話"]
 image: "blog_import_6621c37333e77.jpg"
 feature: "blog_import_6621c37333e77.jpg"

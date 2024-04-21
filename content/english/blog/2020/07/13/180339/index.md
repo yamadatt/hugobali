@@ -2,7 +2,7 @@
 date: 2020-07-13T18:03:39+09:00
 draft: false
 title: "感想＆質問（６）「長田式成長株投資で戦う所存です」への回答"
-slug: "2020/07/13"
+slug: "2020/07/13/180339"
 tags: ["株式投資"]
 image: "blog_import_6621db6da0100.jpg"
 feature: "blog_import_6621db6da0100.jpg"

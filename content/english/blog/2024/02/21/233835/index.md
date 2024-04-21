@@ -2,7 +2,7 @@
 date: 2024-02-21T23:38:35+09:00
 draft: false
 title: "ADHDは、「正しさ」でなく「好かれるか」という仕事で勝負しよう"
-slug: "2024/02/21"
+slug: "2024/02/21/233835"
 tags: ["ADHD不注意優勢型"]
 image: "blog_import_6622001bb6299.png"
 feature: "blog_import_6622001bb6299.png"

@@ -2,7 +2,7 @@
 date: 2019-12-23T21:51:56+09:00
 draft: false
 title: "株を売って「損出し」。年末のクロス取引で節税しよう"
-slug: "2019/12/23"
+slug: "2019/12/23/215156"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d40ade2f6.png"
 feature: "blog_import_6621d40ade2f6.png"

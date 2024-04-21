@@ -2,7 +2,7 @@
 date: 2020-10-23T00:23:57+09:00
 draft: false
 title: "１２月４日(金）【第２期】第３回「初心者向け成長株セミナー」のご案内"
-slug: "2020/10/23"
+slug: "2020/10/23/002357"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621dddeaecb3.jpg"
 feature: "blog_import_6621dddeaecb3.jpg"

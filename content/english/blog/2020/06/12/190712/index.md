@@ -2,7 +2,7 @@
 date: 2020-06-12T19:07:12+09:00
 draft: false
 title: "「第９回初心者向け成長株セミナー」にいただいた感想"
-slug: "2020/06/12"
+slug: "2020/06/12/190712"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621da8e43044.jpg"
 feature: "blog_import_6621da8e43044.jpg"

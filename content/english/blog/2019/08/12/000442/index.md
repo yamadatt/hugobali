@@ -2,7 +2,7 @@
 date: 2019-08-12T00:04:42+09:00
 draft: false
 title: "タケシ、勇者になる！？その４ 家を追い出される！？"
-slug: "2019/08/12"
+slug: "2019/08/12/000442"
 tags: ["タケシ（バリ島現地スタッフ）の話"]
 image: "blog_import_6621cf81798fe.jpg"
 feature: "blog_import_6621cf81798fe.jpg"

@@ -2,7 +2,7 @@
 date: 2020-12-16T19:02:05+09:00
 draft: false
 title: "浜野ゴルフの大叩きから４日。猛練習し、明日は浜野でリベンジだ。"
-slug: "2020/12/16"
+slug: "2020/12/16/190205"
 tags: ["プライベートな話"]
 image: "blog_import_6621df52f2479.png"
 feature: "blog_import_6621df52f2479.png"

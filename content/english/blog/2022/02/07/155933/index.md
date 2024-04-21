@@ -2,7 +2,7 @@
 date: 2022-02-07T15:59:33+09:00
 draft: false
 title: "第３回大人の合宿in南伊豆「マンボウに負けるな！閉塞感を打ち破れ！！」3月4日～6日"
-slug: "2022/02/07"
+slug: "2022/02/07/155933"
 tags: ["プライベートな話"]
 image: "blog_import_6621ea674aafd.jpg"
 feature: "blog_import_6621ea674aafd.jpg"

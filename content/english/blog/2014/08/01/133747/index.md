@@ -2,7 +2,7 @@
 date: 2014-08-01T13:37:47+09:00
 draft: false
 title: "バリ島クロボカン売物件　ヴィラ"
-slug: "2014/08/01"
+slug: "2014/08/01/133747"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621a4305c6a5.jpg"
 feature: "blog_import_6621a4305c6a5.jpg"

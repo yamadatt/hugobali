@@ -2,7 +2,7 @@
 date: 2016-08-18T22:56:32+09:00
 draft: false
 title: "バリ島で、高利回りで定期預金をするには！？"
-slug: "2016/08/18"
+slug: "2016/08/18/225632"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621b2c08bef9.jpg"
 feature: "blog_import_6621b2c08bef9.jpg"

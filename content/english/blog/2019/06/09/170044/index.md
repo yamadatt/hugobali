@@ -2,7 +2,7 @@
 date: 2019-06-09T17:00:44+09:00
 draft: false
 title: "札幌ドームに来ちゃった。久々のサザン。"
-slug: "2019/06/09"
+slug: "2019/06/09/170044"
 tags: ["プライベートな話"]
 image: "blog_import_6621cd572b436.jpg"
 feature: "blog_import_6621cd572b436.jpg"

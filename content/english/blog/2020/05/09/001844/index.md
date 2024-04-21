@@ -2,7 +2,7 @@
 date: 2020-05-09T00:18:44+09:00
 draft: false
 title: "究極の政治判断「命の選択」"
-slug: "2020/05/09"
+slug: "2020/05/09/001844"
 tags: ["株式投資"]
 image: "blog_import_6621d9d9082f9.png"
 feature: "blog_import_6621d9d9082f9.png"

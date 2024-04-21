@@ -2,7 +2,7 @@
 date: 2016-04-02T19:35:05+09:00
 draft: false
 title: "第24回バリ島不動産セミナー4月21日に決定"
-slug: "2016/04/02"
+slug: "2016/04/02/193505"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621aeb0c1b3e.jpg"
 feature: "blog_import_6621aeb0c1b3e.jpg"

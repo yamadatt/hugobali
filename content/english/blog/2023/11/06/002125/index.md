@@ -2,7 +2,7 @@
 date: 2023-11-06T00:21:25+09:00
 draft: false
 title: "ミスコンビジネスの裏側「主催者は、いかにして参加者から金を吸い上げるのか」"
-slug: "2023/11/06"
+slug: "2023/11/06/002125"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621fe0b20867.png"
 feature: "blog_import_6621fe0b20867.png"

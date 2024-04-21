@@ -2,7 +2,7 @@
 date: 2015-03-05T23:52:02+09:00
 draft: false
 title: "スミニャック　売ヴィラ　手堅く１３％"
-slug: "2015/03/05"
+slug: "2015/03/05/235202"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621a9f71b9ef.jpg"
 feature: "blog_import_6621a9f71b9ef.jpg"

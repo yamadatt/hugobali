@@ -2,7 +2,7 @@
 date: 2020-01-22T17:26:51+09:00
 draft: false
 title: "ＡＮＡダイナースプレミアムカードの記事は限定公開へ！？"
-slug: "2020/01/22"
+slug: "2020/01/22/172651"
 tags: ["プライベートな話"]
 image: "blog_import_6621d67c5e062.png"
 feature: "blog_import_6621d67c5e062.png"

@@ -2,7 +2,7 @@
 date: 2018-09-27T23:13:11+09:00
 draft: false
 title: "希少物件！！バリ島スミニャック売ヴィラ 4800万円 利回り12.4%"
-slug: "2018/09/27"
+slug: "2018/09/27/231311"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621c660d86b2.jpg"
 feature: "blog_import_6621c660d86b2.jpg"

@@ -2,7 +2,7 @@
 date: 2021-01-22T15:22:07+09:00
 draft: false
 title: "失敗しても、天才は生き残る！？玉置浩二のＬＩＶＥへ"
-slug: "2021/01/22"
+slug: "2021/01/22/152207"
 tags: ["プライベートな話"]
 image: "blog_import_6621e008833c5.png"
 feature: "blog_import_6621e008833c5.png"

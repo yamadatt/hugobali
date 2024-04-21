@@ -2,7 +2,7 @@
 date: 2022-04-25T01:55:01+09:00
 draft: false
 title: "南伊豆ファスティング合宿の報告"
-slug: "2022/04/25"
+slug: "2022/04/25/015501"
 tags: ["ファスティング合宿ダイエット"]
 image: "blog_import_6621ed592ee7f.png"
 feature: "blog_import_6621ed592ee7f.png"

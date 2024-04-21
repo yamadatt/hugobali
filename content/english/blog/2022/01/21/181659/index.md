@@ -2,7 +2,7 @@
 date: 2022-01-21T18:16:59+09:00
 draft: false
 title: "先週開催「成長株の基礎セミナー」参加者のご感想"
-slug: "2022/01/21"
+slug: "2022/01/21/181659"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621e9d84a662.png"
 feature: "blog_import_6621e9d84a662.png"

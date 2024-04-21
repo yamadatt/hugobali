@@ -2,7 +2,7 @@
 date: 2022-11-11T18:36:05+09:00
 draft: false
 title: "餃子の王将棋"
-slug: "2022/11/11"
+slug: "2022/11/11/183605"
 tags: ["プライベートな話"]
 image: "blog_import_6621f2a63e3d6.png"
 feature: "blog_import_6621f2a63e3d6.png"

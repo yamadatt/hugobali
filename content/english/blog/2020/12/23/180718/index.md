@@ -2,7 +2,7 @@
 date: 2020-12-23T18:07:18+09:00
 draft: false
 title: "インドネシア国内の移動に、義務付けられるコロナの検査方法が変わった。その影響は？"
-slug: "2020/12/23"
+slug: "2020/12/23/180718"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621df755aea8.png"
 feature: "blog_import_6621df755aea8.png"

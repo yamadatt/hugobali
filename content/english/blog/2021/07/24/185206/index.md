@@ -2,7 +2,7 @@
 date: 2021-07-24T18:52:06+09:00
 draft: false
 title: "インドネシアから入国、ホテル隔離【バリ大将編】⑤「宅配のイクラ瓶詰は生モノで廃棄になる！？」"
-slug: "2021/07/24"
+slug: "2021/07/24/185206"
 tags: ["新型コロナウィルス"]
 image: "blog_import_6621e493ae88f.jpg"
 feature: "blog_import_6621e493ae88f.jpg"

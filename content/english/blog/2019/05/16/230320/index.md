@@ -2,7 +2,7 @@
 date: 2019-05-16T23:03:20+09:00
 draft: false
 title: "先日の太陽光の物件が値下げ！？ 利回り約１１％になった！！"
-slug: "2019/05/16"
+slug: "2019/05/16/230320"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621cc90a86cd.jpg"
 feature: "blog_import_6621cc90a86cd.jpg"

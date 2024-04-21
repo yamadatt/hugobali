@@ -2,7 +2,7 @@
 date: 2023-07-13T18:56:51+09:00
 draft: false
 title: "起業サロンの信者になるな。安易にサラリーマンを辞めてはいけない。"
-slug: "2023/07/13"
+slug: "2023/07/13/185651"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621fb3636daa.png"
 feature: "blog_import_6621fb3636daa.png"

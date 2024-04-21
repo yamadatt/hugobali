@@ -2,7 +2,7 @@
 date: 2022-12-30T13:37:33+09:00
 draft: false
 title: "国防の問題は、どうにもならない「諦めるしかない！？」"
-slug: "2022/12/30"
+slug: "2022/12/30/133733"
 tags: ["プライベートな話"]
 image: "blog_import_6621f441d2cf7.png"
 feature: "blog_import_6621f441d2cf7.png"

@@ -2,7 +2,7 @@
 date: 2020-04-16T23:22:43+09:00
 draft: false
 title: "男の隠れ家？セカンドハウス？赤坂駅２分、賃料２３万円。お洒落な家具付き、諸経費ゼロ"
-slug: "2020/04/16"
+slug: "2020/04/16/232243"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621d8d691ce6.jpg"
 feature: "blog_import_6621d8d691ce6.jpg"

@@ -2,7 +2,7 @@
 date: 2015-02-14T00:38:44+09:00
 draft: false
 title: "収益性の高い物件はデザインが大切"
-slug: "2015/02/14"
+slug: "2015/02/14/003844"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621a98099f4f.jpg"
 feature: "blog_import_6621a98099f4f.jpg"

@@ -2,7 +2,7 @@
 date: 2023-08-24T23:34:03+09:00
 draft: false
 title: "慶應出身者の愛校心は、なぜ、あそこまで強いのか？"
-slug: "2023/08/24"
+slug: "2023/08/24/233403"
 tags: ["プライベートな話"]
 image: "blog_import_6621fc4b684a2.png"
 feature: "blog_import_6621fc4b684a2.png"

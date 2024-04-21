@@ -2,7 +2,7 @@
 date: 2021-07-26T23:53:53+09:00
 draft: false
 title: "千葉のディープスポット「大慶園」には、男の夢がある！？"
-slug: "2021/07/26"
+slug: "2021/07/26/235353"
 tags: ["プライベートな話"]
 image: "blog_import_6621e49a01a21.jpg"
 feature: "blog_import_6621e49a01a21.jpg"

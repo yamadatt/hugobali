@@ -2,7 +2,7 @@
 date: 2015-12-28T22:14:44+09:00
 draft: false
 title: "高級ヴィラの宿泊価格７０％OFF！？"
-slug: "2015/12/28"
+slug: "2015/12/28/221444"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621ab948bc39.jpg"
 feature: "blog_import_6621ab948bc39.jpg"

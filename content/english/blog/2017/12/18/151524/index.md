@@ -2,7 +2,7 @@
 date: 2017-12-18T15:15:24+09:00
 draft: false
 title: "昨日のセミナー＆忘年会　ありがとうございました"
-slug: "2017/12/18"
+slug: "2017/12/18/151524"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621bf7ca8906.jpg"
 feature: "blog_import_6621bf7ca8906.jpg"

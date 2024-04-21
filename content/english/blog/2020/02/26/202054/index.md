@@ -2,7 +2,7 @@
 date: 2020-02-26T20:20:54+09:00
 draft: false
 title: "成長株の含み益が減った！？現金化にこだわる必要はない"
-slug: "2020/02/26"
+slug: "2020/02/26/202054"
 tags: ["株式投資"]
 image: "blog_import_6621d7821751d.png"
 feature: "blog_import_6621d7821751d.png"

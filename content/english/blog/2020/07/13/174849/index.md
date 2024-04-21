@@ -2,7 +2,7 @@
 date: 2020-07-13T17:48:49+09:00
 draft: false
 title: "感想＆質問（４）「先生は、銘柄の発掘はいつやってるの？」への回答"
-slug: "2020/07/13"
+slug: "2020/07/13/174849"
 tags: ["株式投資"]
 image: "blog_import_6621db69f13f0.jpg"
 feature: "blog_import_6621db69f13f0.jpg"

@@ -2,7 +2,7 @@
 date: 2019-11-22T21:06:45+09:00
 draft: false
 title: "お詫び＆お願い。僕は「誰も誘いません！」でも「誰でも誘います！」"
-slug: "2019/11/22"
+slug: "2019/11/22/210645"
 tags: ["プライベートな話"]
 image: "blog_import_6621d27e4fa7b.png"
 feature: "blog_import_6621d27e4fa7b.png"

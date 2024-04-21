@@ -2,7 +2,7 @@
 date: 2019-11-22T00:52:41+09:00
 draft: false
 title: "「副業の成功を検証する」長田先生の振り返り　～プロローグ　セミナーを始めるまで～"
-slug: "2019/11/22"
+slug: "2019/11/22/005241"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d274812c0.png"
 feature: "blog_import_6621d274812c0.png"

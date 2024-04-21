@@ -2,7 +2,7 @@
 date: 2023-11-28T02:00:49+09:00
 draft: false
 title: "夫の浮気現場に踏み込む妻。そこは修羅場？in バリ島。"
-slug: "2023/11/28"
+slug: "2023/11/28/020049"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621fe6e546c8.png"
 feature: "blog_import_6621fe6e546c8.png"

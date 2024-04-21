@@ -2,7 +2,7 @@
 date: 2016-11-24T21:22:33+09:00
 draft: false
 title: "そうだ、忘年会をやろう！in Tokyo Beycourt CLUB 12月16日"
-slug: "2016/11/24"
+slug: "2016/11/24/212233"
 tags: ["プライベートな話"]
 image: "blog_import_6621b6f8de1a5.jpg"
 feature: "blog_import_6621b6f8de1a5.jpg"

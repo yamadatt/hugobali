@@ -2,7 +2,7 @@
 date: 2023-04-22T17:27:29+09:00
 draft: false
 title: "圧巻！？バリ島ビーチ前の豪華な売ヴィラ。建物600㎡、いい物件です"
-slug: "2023/04/22"
+slug: "2023/04/22/172729"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621f7b5177fc.jpg"
 feature: "blog_import_6621f7b5177fc.jpg"

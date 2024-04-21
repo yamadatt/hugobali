@@ -2,7 +2,7 @@
 date: 2022-03-14T23:12:45+09:00
 draft: false
 title: "事業再構築補助金へのトンデモナイ勘違い・誤解"
-slug: "2022/03/14"
+slug: "2022/03/14/231245"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ec0f761c0.png"
 feature: "blog_import_6621ec0f761c0.png"

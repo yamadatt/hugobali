@@ -2,7 +2,7 @@
 date: 2013-12-01T22:19:17+09:00
 draft: false
 title: "そうだ。ダイエットをしよう。"
-slug: "2013/12/01"
+slug: "2013/12/01/221917"
 tags: ["ブログ"]
 image: "blog_import_6621a33d7cff5.jpg"
 feature: "blog_import_6621a33d7cff5.jpg"

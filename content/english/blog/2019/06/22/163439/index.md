@@ -2,7 +2,7 @@
 date: 2019-06-22T16:34:39+09:00
 draft: false
 title: "衝撃物件！？バリ島ウブドゥの売ヴィラ　約５２００万円　利回り１５.６％"
-slug: "2019/06/22"
+slug: "2019/06/22/163439"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621cddc09c63.jpg"
 feature: "blog_import_6621cddc09c63.jpg"

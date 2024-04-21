@@ -2,7 +2,7 @@
 date: 2017-02-28T18:05:56+09:00
 draft: false
 title: "「金のために働くステージ」から卒業しようよ"
-slug: "2017/02/28"
+slug: "2017/02/28/180556"
 tags: ["プライベートな話"]
 image: "blog_import_6621ba0ad6c23.jpg"
 feature: "blog_import_6621ba0ad6c23.jpg"

@@ -2,7 +2,7 @@
 date: 2017-02-27T19:34:00+09:00
 draft: false
 title: "３月１日からクタ・レギャンの渋滞は解消されるのか！？"
-slug: "2017/02/27"
+slug: "2017/02/27/193400"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621ba12c646c.jpg"
 feature: "blog_import_6621ba12c646c.jpg"

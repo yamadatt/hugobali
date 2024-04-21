@@ -2,7 +2,7 @@
 date: 2023-02-02T03:20:26+09:00
 draft: false
 title: "効率的な旅はやめよう。。ナンボなんでも、この日の移動はキツかった。"
-slug: "2023/02/02"
+slug: "2023/02/02/032026"
 tags: ["ブログ"]
 image: "blog_import_6621f55ee7c41.jpg"
 feature: "blog_import_6621f55ee7c41.jpg"

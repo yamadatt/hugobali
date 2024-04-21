@@ -2,7 +2,7 @@
 date: 2016-09-21T22:51:37+09:00
 draft: false
 title: "５０歳までに失敗しよう！？"
-slug: "2016/09/21"
+slug: "2016/09/21/225137"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b39acb9f7.jpg"
 feature: "blog_import_6621b39acb9f7.jpg"

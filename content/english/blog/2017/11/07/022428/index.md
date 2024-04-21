@@ -2,7 +2,7 @@
 date: 2017-11-07T02:24:28+09:00
 draft: false
 title: "世の中には、スゴい金持ちがいるんだな。「シグネチャー ドゥ シャネル展示会」"
-slug: "2017/11/07"
+slug: "2017/11/07/022428"
 tags: ["プライベートな話"]
 image: "blog_import_6621be6ade340.jpg"
 feature: "blog_import_6621be6ade340.jpg"

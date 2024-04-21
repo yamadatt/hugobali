@@ -2,7 +2,7 @@
 date: 2023-08-31T18:10:27+09:00
 draft: false
 title: "苦節３年、８０台が見えてきた！？その理由は？"
-slug: "2023/08/31"
+slug: "2023/08/31/181027"
 tags: ["ゴルフ"]
 image: "blog_import_6621fc70e9c4c.jpg"
 feature: "blog_import_6621fc70e9c4c.jpg"

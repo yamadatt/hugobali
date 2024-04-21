@@ -2,7 +2,7 @@
 date: 2019-04-28T19:15:48+09:00
 draft: false
 title: "「インドネシアの大統領選挙で、２５０人超が過労死！？」本当？どういうこと？"
-slug: "2019/04/28"
+slug: "2019/04/28/191548"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621cc37e6f7a.png"
 feature: "blog_import_6621cc37e6f7a.png"

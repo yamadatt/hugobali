@@ -2,7 +2,7 @@
 date: 2019-06-13T18:57:39+09:00
 draft: false
 title: "お詫び。６月２０日の「生ハム原木を食べる会」開催場所が変更になりました。"
-slug: "2019/06/13"
+slug: "2019/06/13/185739"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cd67b047e.jpg"
 feature: "blog_import_6621cd67b047e.jpg"

@@ -2,7 +2,7 @@
 date: 2017-09-13T23:15:58+09:00
 draft: false
 title: "デワ、来日決定！？"
-slug: "2017/09/13"
+slug: "2017/09/13/231558"
 tags: ["プライベートな話"]
 image: "blog_import_6621bd5b6f6e1.jpg"
 feature: "blog_import_6621bd5b6f6e1.jpg"

@@ -2,7 +2,7 @@
 date: 2020-08-30T23:40:00+09:00
 draft: false
 title: "女子に勉強のやる気を出させるには？"
-slug: "2020/08/30"
+slug: "2020/08/30/234000"
 tags: ["プライベートな話"]
 image: "blog_import_6621dc6feb638.png"
 feature: "blog_import_6621dc6feb638.png"

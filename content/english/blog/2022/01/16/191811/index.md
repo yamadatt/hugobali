@@ -2,7 +2,7 @@
 date: 2022-01-16T19:18:11+09:00
 draft: false
 title: "利回り７２％！？ロレックス投資とは。"
-slug: "2022/01/16"
+slug: "2022/01/16/191811"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621e9b92aa88.jpg"
 feature: "blog_import_6621e9b92aa88.jpg"

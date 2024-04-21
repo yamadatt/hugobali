@@ -2,7 +2,7 @@
 date: 2020-04-25T00:15:49+09:00
 draft: false
 title: "アベノマスクが届いた。小さすぎないか、コレ！？画像アリ"
-slug: "2020/04/25"
+slug: "2020/04/25/001549"
 tags: ["プライベートな話"]
 image: "blog_import_6621d971d0168.jpg"
 feature: "blog_import_6621d971d0168.jpg"

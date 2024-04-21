@@ -2,7 +2,7 @@
 date: 2018-07-18T00:01:25+09:00
 draft: false
 title: "ラブホ社長 ＆ ふりーパパ の株式投資入門 「株は新高値で買え！！」"
-slug: "2018/07/18"
+slug: "2018/07/18/000125"
 tags: ["プライベートな話"]
 image: "blog_import_6621c50abeba7.jpg"
 feature: "blog_import_6621c50abeba7.jpg"

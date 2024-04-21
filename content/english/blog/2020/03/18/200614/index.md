@@ -2,7 +2,7 @@
 date: 2020-03-18T20:06:14+09:00
 draft: false
 title: "長田先生からのメッセージ【その３】「下がったときに買い付けのペースを上げない」"
-slug: "2020/03/18"
+slug: "2020/03/18/200614"
 tags: ["株式投資"]
 image: "blog_import_6621d7cde6039.png"
 feature: "blog_import_6621d7cde6039.png"

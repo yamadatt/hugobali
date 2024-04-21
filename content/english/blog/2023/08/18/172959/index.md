@@ -2,7 +2,7 @@
 date: 2023-08-18T17:29:59+09:00
 draft: false
 title: "バリ島に登場！？セレブな打ちっぱなしゴルフ練習場"
-slug: "2023/08/18"
+slug: "2023/08/18/172959"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621fc018128a.png"
 feature: "blog_import_6621fc018128a.png"

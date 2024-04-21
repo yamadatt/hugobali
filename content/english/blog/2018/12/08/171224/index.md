@@ -2,7 +2,7 @@
 date: 2018-12-08T17:12:24+09:00
 draft: false
 title: "【おススメ物件】これは安い！！バリ島サヌール売ヴィラ約１２００万円"
-slug: "2018/12/08"
+slug: "2018/12/08/171224"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621c82c5b973.jpg"
 feature: "blog_import_6621c82c5b973.jpg"

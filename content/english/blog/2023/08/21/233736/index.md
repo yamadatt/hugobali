@@ -2,7 +2,7 @@
 date: 2023-08-21T23:37:36+09:00
 draft: false
 title: "怪しげなジェル。でもゴルフ後のふくらはぎの疲れがなくなった！？"
-slug: "2023/08/21"
+slug: "2023/08/21/233736"
 tags: ["プライベートな話"]
 image: "blog_import_6621fc3ab709c.jpg"
 feature: "blog_import_6621fc3ab709c.jpg"

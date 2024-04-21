@@ -2,7 +2,7 @@
 date: 2019-01-20T23:12:46+09:00
 draft: false
 title: "バリ島で日本人が働くのは難しい理由！？"
-slug: "2019/01/20"
+slug: "2019/01/20/231246"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c96730f50.jpg"
 feature: "blog_import_6621c96730f50.jpg"

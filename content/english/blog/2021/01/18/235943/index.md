@@ -2,7 +2,7 @@
 date: 2021-01-18T23:59:43+09:00
 draft: false
 title: "トヨタの社債、日本は０％、海外では約３％。ソフトバンクは、１％と６％！？"
-slug: "2021/01/18"
+slug: "2021/01/18/235943"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621dfee6d23d.png"
 feature: "blog_import_6621dfee6d23d.png"

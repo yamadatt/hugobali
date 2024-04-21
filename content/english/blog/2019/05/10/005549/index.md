@@ -2,7 +2,7 @@
 date: 2019-05-10T00:55:49+09:00
 draft: false
 title: "悔しいけど、レビュー書き込み脅しの客に屈した！？"
-slug: "2019/05/10"
+slug: "2019/05/10/005549"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621cc6fc218e.jpg"
 feature: "blog_import_6621cc6fc218e.jpg"

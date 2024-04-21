@@ -2,7 +2,7 @@
 date: 2017-05-18T21:59:16+09:00
 draft: false
 title: "プロフィールを作ってみた。難しいな"
-slug: "2017/05/18"
+slug: "2017/05/18/215916"
 tags: ["プライベートな話"]
 image: "blog_import_6621bb7b0277c.png"
 feature: "blog_import_6621bb7b0277c.png"

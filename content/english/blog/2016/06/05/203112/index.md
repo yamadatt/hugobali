@@ -2,7 +2,7 @@
 date: 2016-06-05T20:31:12+09:00
 draft: false
 title: "知ったかぶりの女"
-slug: "2016/06/05"
+slug: "2016/06/05/203112"
 tags: ["ブログ"]
 image: "blog_import_6621afd4153bc.jpg"
 feature: "blog_import_6621afd4153bc.jpg"

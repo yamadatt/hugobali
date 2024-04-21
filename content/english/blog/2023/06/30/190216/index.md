@@ -2,7 +2,7 @@
 date: 2023-06-30T19:02:16+09:00
 draft: false
 title: "今年のサザンLIVEは、転売対策がハンパない！？"
-slug: "2023/06/30"
+slug: "2023/06/30/190216"
 tags: ["プライベートな話"]
 image: "blog_import_6621faa30d0d1.jpg"
 feature: "blog_import_6621faa30d0d1.jpg"

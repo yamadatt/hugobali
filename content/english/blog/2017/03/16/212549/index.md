@@ -2,7 +2,7 @@
 date: 2017-03-16T21:25:49+09:00
 draft: false
 title: "第３０回 バリ島不動産セミナー募集開始　４月１５日、１６日"
-slug: "2017/03/16"
+slug: "2017/03/16/212549"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ba6e6cedc.jpg"
 feature: "blog_import_6621ba6e6cedc.jpg"

@@ -2,7 +2,7 @@
 date: 2017-08-28T22:41:58+09:00
 draft: false
 title: "金を稼ぎたいならバカになれ、計算するな、確率で考えるな"
-slug: "2017/08/28"
+slug: "2017/08/28/224158"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621bd0213988.jpg"
 feature: "blog_import_6621bd0213988.jpg"

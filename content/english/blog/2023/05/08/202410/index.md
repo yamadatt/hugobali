@@ -2,7 +2,7 @@
 date: 2023-05-08T20:24:10+09:00
 draft: false
 title: "出世する人の共通点。"
-slug: "2023/05/08"
+slug: "2023/05/08/202410"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f90f0989a.jpg"
 feature: "blog_import_6621f90f0989a.jpg"

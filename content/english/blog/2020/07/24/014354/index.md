@@ -2,7 +2,7 @@
 date: 2020-07-24T01:43:54+09:00
 draft: false
 title: "成功者は、学ぶことをやめない。それを知る価値。"
-slug: "2020/07/24"
+slug: "2020/07/24/014354"
 tags: ["株式投資"]
 image: "blog_import_6621dbaf87637.png"
 feature: "blog_import_6621dbaf87637.png"

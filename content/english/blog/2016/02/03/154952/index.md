@@ -2,7 +2,7 @@
 date: 2016-02-03T15:49:52+09:00
 draft: false
 title: "清原選手の逮捕"
-slug: "2016/02/03"
+slug: "2016/02/03/154952"
 tags: ["プライベートな話"]
 image: "blog_import_6621ac9e49a3d.jpg"
 feature: "blog_import_6621ac9e49a3d.jpg"

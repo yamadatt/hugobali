@@ -2,7 +2,7 @@
 date: 2021-12-03T00:01:43+09:00
 draft: false
 title: "２０２１年１２月２日。今日はホントに１０００年ぶりの幸運日か！？"
-slug: "2021/12/03"
+slug: "2021/12/03/000143"
 tags: ["プライベートな話"]
 image: "blog_import_6621e825a5a26.png"
 feature: "blog_import_6621e825a5a26.png"

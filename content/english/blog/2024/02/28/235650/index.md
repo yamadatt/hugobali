@@ -2,7 +2,7 @@
 date: 2024-02-28T23:56:50+09:00
 draft: false
 title: "株高を個人が享受できないのは、なぜか！？資本主義ではリスクを取らないと利益も取れない。"
-slug: "2024/02/28"
+slug: "2024/02/28/235650"
 tags: ["株式投資"]
 image: "blog_import_66220045ded6a.png"
 feature: "blog_import_66220045ded6a.png"

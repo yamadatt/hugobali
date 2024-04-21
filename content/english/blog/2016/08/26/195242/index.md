@@ -2,7 +2,7 @@
 date: 2016-08-26T19:52:42+09:00
 draft: false
 title: "大人になると虫が嫌いになるのはナゼか！？"
-slug: "2016/08/26"
+slug: "2016/08/26/195242"
 tags: ["プライベートな話"]
 image: "blog_import_6621b2ecaf0dc.jpg"
 feature: "blog_import_6621b2ecaf0dc.jpg"

@@ -2,7 +2,7 @@
 date: 2016-11-07T17:44:06+09:00
 draft: false
 title: "物乞いをする子どもたちへ"
-slug: "2016/11/07"
+slug: "2016/11/07/174406"
 tags: ["プライベートな話"]
 image: "blog_import_6621b647b6b70.jpg"
 feature: "blog_import_6621b647b6b70.jpg"

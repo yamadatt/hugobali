@@ -2,7 +2,7 @@
 date: 2015-06-24T00:21:03+09:00
 draft: false
 title: "満員御礼！！バリ島不動産セミナー"
-slug: "2015/06/24"
+slug: "2015/06/24/002103"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621aada84020.jpg"
 feature: "blog_import_6621aada84020.jpg"

@@ -2,7 +2,7 @@
 date: 2018-09-03T20:27:18+09:00
 draft: false
 title: "残席３名！！９月６日のバリ島不動産セミナーはオーナーさんが５名参加"
-slug: "2018/09/03"
+slug: "2018/09/03/202718"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c5ed55858.jpg"
 feature: "blog_import_6621c5ed55858.jpg"

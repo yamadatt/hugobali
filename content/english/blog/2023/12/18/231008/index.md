@@ -2,7 +2,7 @@
 date: 2023-12-18T23:10:08+09:00
 draft: false
 title: "久しぶりに一発逆転人生を見せてもらった！？"
-slug: "2023/12/18"
+slug: "2023/12/18/231008"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621feff8e1db.png"
 feature: "blog_import_6621feff8e1db.png"

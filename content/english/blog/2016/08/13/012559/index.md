@@ -2,7 +2,7 @@
 date: 2016-08-13T01:25:59+09:00
 draft: false
 title: "これからバリ島で儲かるビジネスは何か！？"
-slug: "2016/08/13"
+slug: "2016/08/13/012559"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b26a8c55a.jpg"
 feature: "blog_import_6621b26a8c55a.jpg"

@@ -2,7 +2,7 @@
 date: 2019-01-21T19:03:34+09:00
 draft: false
 title: "タケシの結婚！？奴は本当にマリアと結婚するのか？"
-slug: "2019/01/21"
+slug: "2019/01/21/190334"
 tags: ["タケシ（バリ島現地スタッフ）の話"]
 image: "blog_import_6621c96a692d0.jpg"
 feature: "blog_import_6621c96a692d0.jpg"

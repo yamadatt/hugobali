@@ -2,7 +2,7 @@
 date: 2016-04-12T19:57:30+09:00
 draft: false
 title: "サラリーマンって、リスクあるよな"
-slug: "2016/04/12"
+slug: "2016/04/12/195730"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621af03ba95e.jpg"
 feature: "blog_import_6621af03ba95e.jpg"

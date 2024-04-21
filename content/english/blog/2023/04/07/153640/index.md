@@ -2,7 +2,7 @@
 date: 2023-04-07T15:36:40+09:00
 draft: false
 title: "4月13日(木）第６回暗号通貨セミナー「バイナンスを使いこなそう」"
-slug: "2023/04/07"
+slug: "2023/04/07/153640"
 tags: ["仮想通貨・暗号通貨"]
 image: "blog_import_6621f73b1a8b3.png"
 feature: "blog_import_6621f73b1a8b3.png"

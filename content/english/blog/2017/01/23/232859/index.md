@@ -2,7 +2,7 @@
 date: 2017-01-23T23:28:59+09:00
 draft: false
 title: "稀勢の里優勝、横綱昇進おめでとう！"
-slug: "2017/01/23"
+slug: "2017/01/23/232859"
 tags: ["プライベートな話"]
 image: "blog_import_6621b8dc9221c.jpg"
 feature: "blog_import_6621b8dc9221c.jpg"

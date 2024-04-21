@@ -2,7 +2,7 @@
 date: 2019-06-03T22:24:31+09:00
 draft: false
 title: "６月２２日「生ハムを原木から思いっきり食べる会」開催！！長田氏絶賛！？"
-slug: "2019/06/03"
+slug: "2019/06/03/222431"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cd36c286a.png"
 feature: "blog_import_6621cd36c286a.png"

@@ -2,7 +2,7 @@
 date: 2016-12-24T00:10:37+09:00
 draft: false
 title: "また日本人が、競り負けた！？ 利回り28.5％の売ヴィラ"
-slug: "2016/12/24"
+slug: "2016/12/24/001037"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b7ba0fa1b.jpg"
 feature: "blog_import_6621b7ba0fa1b.jpg"

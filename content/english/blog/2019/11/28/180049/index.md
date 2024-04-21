@@ -2,7 +2,7 @@
 date: 2019-11-28T18:00:49+09:00
 draft: false
 title: "生ハムの切り出しが始まった。リアルタイム画像"
-slug: "2019/11/28"
+slug: "2019/11/28/180049"
 tags: ["プライベートな話"]
 image: "blog_import_6621d2c432bca.jpg"
 feature: "blog_import_6621d2c432bca.jpg"

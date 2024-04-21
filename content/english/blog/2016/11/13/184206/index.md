@@ -2,7 +2,7 @@
 date: 2016-11-13T18:42:06+09:00
 draft: false
 title: "バリ島の不動産は、権利関係を考え出すと前に進まない！？"
-slug: "2016/11/13"
+slug: "2016/11/13/184206"
 tags: ["日本とバリ島の不動産取引の違い"]
 image: "blog_import_6621b687b12b0.jpg"
 feature: "blog_import_6621b687b12b0.jpg"

@@ -2,7 +2,7 @@
 date: 2020-08-08T18:08:06+09:00
 draft: false
 title: "知らないほうが幸せなこともあるが、、。"
-slug: "2020/08/08"
+slug: "2020/08/08/180806"
 tags: ["プライベートな話"]
 image: "blog_import_6621dc1ec65e0.png"
 feature: "blog_import_6621dc1ec65e0.png"

@@ -2,7 +2,7 @@
 date: 2020-06-19T19:03:59+09:00
 draft: false
 title: "Hamme(3134）と野村マイクロ(6254)、先に2000円超になるのは！？"
-slug: "2020/06/19"
+slug: "2020/06/19/190359"
 tags: ["株式投資"]
 image: "blog_import_6621dac1e47a2.png"
 feature: "blog_import_6621dac1e47a2.png"

@@ -2,7 +2,7 @@
 date: 2020-09-22T02:55:21+09:00
 draft: false
 title: "男には、月１０万円の「遊び金」が必要だ"
-slug: "2020/09/22"
+slug: "2020/09/22/025521"
 tags: ["プライベートな話"]
 image: "blog_import_6621dcf3b514b.png"
 feature: "blog_import_6621dcf3b514b.png"

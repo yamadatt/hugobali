@@ -2,7 +2,7 @@
 date: 2022-10-11T22:50:40+09:00
 draft: false
 title: "第４期「成長株セミナー」について"
-slug: "2022/10/11"
+slug: "2022/10/11/225040"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621f1ae896b2.png"
 feature: "blog_import_6621f1ae896b2.png"

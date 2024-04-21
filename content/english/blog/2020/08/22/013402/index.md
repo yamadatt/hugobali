@@ -2,7 +2,7 @@
 date: 2020-08-22T01:34:02+09:00
 draft: false
 title: "松屋の角煮丼に思うピケティの理論"
-slug: "2020/08/22"
+slug: "2020/08/22/013402"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621dc465b953.png"
 feature: "blog_import_6621dc465b953.png"

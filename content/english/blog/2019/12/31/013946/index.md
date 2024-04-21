@@ -2,7 +2,7 @@
 date: 2019-12-31T01:39:46+09:00
 draft: false
 title: "ガチンコ勝負。証拠公開！？今年、株式投資でいくら儲かったのか"
-slug: "2019/12/31"
+slug: "2019/12/31/013946"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d4d0121a7.png"
 feature: "blog_import_6621d4d0121a7.png"

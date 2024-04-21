@@ -2,7 +2,7 @@
 date: 2021-05-08T19:14:02+09:00
 draft: false
 title: "技術革新は、人を幸せにするのか！？"
-slug: "2021/05/08"
+slug: "2021/05/08/191402"
 tags: ["プライベートな話"]
 image: "blog_import_6621e2774e6ac.png"
 feature: "blog_import_6621e2774e6ac.png"

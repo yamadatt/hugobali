@@ -2,7 +2,7 @@
 date: 2020-03-25T23:16:52+09:00
 draft: false
 title: "コロナの影響でバリ島の治安は悪化！？ルピア安、物件安。チャンスかも？"
-slug: "2020/03/25"
+slug: "2020/03/25/231652"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621d7e45f6b9.png"
 feature: "blog_import_6621d7e45f6b9.png"

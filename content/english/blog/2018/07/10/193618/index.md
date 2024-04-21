@@ -2,7 +2,7 @@
 date: 2018-07-10T19:36:18+09:00
 draft: false
 title: "日々是決戦！？スタッフの採用活動"
-slug: "2018/07/10"
+slug: "2018/07/10/193618"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c4e2dc775.jpg"
 feature: "blog_import_6621c4e2dc775.jpg"

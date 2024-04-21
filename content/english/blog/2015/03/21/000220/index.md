@@ -2,7 +2,7 @@
 date: 2015-03-21T00:02:20+09:00
 draft: false
 title: "明日からハワイ出張"
-slug: "2015/03/21"
+slug: "2015/03/21/000220"
 tags: ["プライベートな話"]
 image: "blog_import_6621aa82a25ee.jpg"
 feature: "blog_import_6621aa82a25ee.jpg"

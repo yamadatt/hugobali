@@ -2,7 +2,7 @@
 date: 2023-10-04T16:31:29+09:00
 draft: false
 title: "ガルーダ・インドネシア航空：成田－デンパサール間「待望のデイリー運航再開」"
-slug: "2023/10/04"
+slug: "2023/10/04/163129"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621fd37526a9.png"
 feature: "blog_import_6621fd37526a9.png"

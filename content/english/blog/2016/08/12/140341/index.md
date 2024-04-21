@@ -2,7 +2,7 @@
 date: 2016-08-12T14:03:41+09:00
 draft: false
 title: "日本人が、バリ島でカネを稼ぐには何をすればいい！？"
-slug: "2016/08/12"
+slug: "2016/08/12/140341"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b26690ed9.jpg"
 feature: "blog_import_6621b26690ed9.jpg"

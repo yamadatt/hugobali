@@ -2,7 +2,7 @@
 date: 2018-09-29T18:44:14+09:00
 draft: false
 title: "投資家募集！！ワンツー転売　手付けを打って押さえている格安ヴィラ"
-slug: "2018/09/29"
+slug: "2018/09/29/184414"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621c6812e399.jpg"
 feature: "blog_import_6621c6812e399.jpg"

@@ -2,7 +2,7 @@
 date: 2015-04-17T21:58:55+09:00
 draft: false
 title: "AIIB不参加について"
-slug: "2015/04/17"
+slug: "2015/04/17/215855"
 tags: ["ブログ"]
 image: "blog_import_6621aab4caa82.jpg"
 feature: "blog_import_6621aab4caa82.jpg"

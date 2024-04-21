@@ -2,7 +2,7 @@
 date: 2019-11-28T01:12:11+09:00
 draft: false
 title: "１月２４日(金）第１０回成長株投資の実践会「今年も結果がすべて。実践会Lineで勝ちに行く！！」"
-slug: "2019/11/28"
+slug: "2019/11/28/011211"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d2b78e39f.png"
 feature: "blog_import_6621d2b78e39f.png"

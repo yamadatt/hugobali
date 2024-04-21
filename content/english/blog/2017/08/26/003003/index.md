@@ -2,7 +2,7 @@
 date: 2017-08-26T00:30:03+09:00
 draft: false
 title: "このヴィラはいい、利回り１８％！？フランス総領事のヴィラ"
-slug: "2017/08/26"
+slug: "2017/08/26/003003"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621bcf56b62a.png"
 feature: "blog_import_6621bcf56b62a.png"

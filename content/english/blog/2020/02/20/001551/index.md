@@ -2,7 +2,7 @@
 date: 2020-02-20T00:15:51+09:00
 draft: false
 title: "東ティモールの売アパート：利回り１６％超！？「最後のビックチャンスか！？」"
-slug: "2020/02/20"
+slug: "2020/02/20/001551"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621d735bb29f.jpg"
 feature: "blog_import_6621d735bb29f.jpg"

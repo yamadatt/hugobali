@@ -2,7 +2,7 @@
 date: 2014-08-31T05:13:45+09:00
 draft: false
 title: "売ヴィラ　バリ島ギャニャール　12.4アール　約7500万円"
-slug: "2014/08/31"
+slug: "2014/08/31/051345"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621a79f6cd62.jpg"
 feature: "blog_import_6621a79f6cd62.jpg"

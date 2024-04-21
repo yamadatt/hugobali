@@ -2,7 +2,7 @@
 date: 2016-12-12T23:59:00+09:00
 draft: false
 title: "グローバリズムからナショナリズムへの転換期に、海外投資をする意味"
-slug: "2016/12/12"
+slug: "2016/12/12/235900"
 tags: ["プライベートな話"]
 image: "blog_import_6621b741d1fb7.jpg"
 feature: "blog_import_6621b741d1fb7.jpg"

@@ -2,7 +2,7 @@
 date: 2022-09-11T17:55:23+09:00
 draft: false
 title: "南極セミナー生方正さん（自衛官からFire）がSPAチャンネルに出た！？"
-slug: "2022/09/11"
+slug: "2022/09/11/175523"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621f0f4c212c.png"
 feature: "blog_import_6621f0f4c212c.png"

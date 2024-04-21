@@ -2,7 +2,7 @@
 date: 2020-02-12T20:26:50+09:00
 draft: false
 title: "〝あぶく銭”の獲得と、格差の拡大をどう考えるか。"
-slug: "2020/02/12"
+slug: "2020/02/12/202650"
 tags: ["プライベートな話"]
 image: "blog_import_6621d6dbe0e9d.jpg"
 feature: "blog_import_6621d6dbe0e9d.jpg"

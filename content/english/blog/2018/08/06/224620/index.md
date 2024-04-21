@@ -2,7 +2,7 @@
 date: 2018-08-06T22:46:20+09:00
 draft: false
 title: "ロンボク北部の地震 マグニチュード6.9。バリの被害は…。"
-slug: "2018/08/06"
+slug: "2018/08/06/224620"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c57289aa9.jpg"
 feature: "blog_import_6621c57289aa9.jpg"

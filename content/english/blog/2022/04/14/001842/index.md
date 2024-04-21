@@ -2,7 +2,7 @@
 date: 2022-04-14T00:18:42+09:00
 draft: false
 title: "人生一発逆転・ラブホ社長募集！！「小さなホテルはチャンスがある！？」"
-slug: "2022/04/14"
+slug: "2022/04/14/001842"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621ed192baea.jpg"
 feature: "blog_import_6621ed192baea.jpg"

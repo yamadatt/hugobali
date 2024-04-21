@@ -2,7 +2,7 @@
 date: 2019-02-21T01:16:40+09:00
 draft: false
 title: "友人から仕事でお金を取ることは後ろめたいことか"
-slug: "2019/02/21"
+slug: "2019/02/21/011640"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621c9e7e7854.jpg"
 feature: "blog_import_6621c9e7e7854.jpg"

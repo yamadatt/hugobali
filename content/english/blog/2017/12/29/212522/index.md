@@ -2,7 +2,7 @@
 date: 2017-12-29T21:25:22+09:00
 draft: false
 title: "社長が借金のために動き回ったら、会社は潰れる"
-slug: "2017/12/29"
+slug: "2017/12/29/212522"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c03fbd13a.png"
 feature: "blog_import_6621c03fbd13a.png"

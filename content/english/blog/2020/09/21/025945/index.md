@@ -2,7 +2,7 @@
 date: 2020-09-21T02:59:45+09:00
 draft: false
 title: "【初心者向け勉強会：第１回～第１２回】動画リスト"
-slug: "2020/09/21"
+slug: "2020/09/21/025945"
 tags: ["株式投資"]
 image: "blog_import_6621dcf16b9b7.png"
 feature: "blog_import_6621dcf16b9b7.png"

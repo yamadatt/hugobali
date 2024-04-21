@@ -2,7 +2,7 @@
 date: 2019-08-04T18:59:29+09:00
 draft: false
 title: "欲に折り合いをつけ、ラクに生きるのもいい"
-slug: "2019/08/04"
+slug: "2019/08/04/185929"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621cf5b57226.png"
 feature: "blog_import_6621cf5b57226.png"

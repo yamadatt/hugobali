@@ -2,7 +2,7 @@
 date: 2016-07-25T22:09:40+09:00
 draft: false
 title: "ジャカルタの空港での時間の潰し方「同胞の報告」"
-slug: "2016/07/25"
+slug: "2016/07/25/220940"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621b18788c11.jpg"
 feature: "blog_import_6621b18788c11.jpg"

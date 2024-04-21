@@ -2,7 +2,7 @@
 date: 2024-01-21T01:54:39+09:00
 draft: false
 title: "近い将来、投資家の運用先は「株式」と「暗号通貨」なる。その理由は！？"
-slug: "2024/01/21"
+slug: "2024/01/21/015439"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ff6bdbd70.png"
 feature: "blog_import_6621ff6bdbd70.png"

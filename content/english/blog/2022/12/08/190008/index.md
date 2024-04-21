@@ -2,7 +2,7 @@
 date: 2022-12-08T19:00:08+09:00
 draft: false
 title: "神頼みより、運頼み"
-slug: "2022/12/08"
+slug: "2022/12/08/190008"
 tags: ["プライベートな話"]
 image: "blog_import_6621f3962f213.png"
 feature: "blog_import_6621f3962f213.png"

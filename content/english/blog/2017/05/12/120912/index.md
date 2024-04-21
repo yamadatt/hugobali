@@ -2,7 +2,7 @@
 date: 2017-05-12T12:09:12+09:00
 draft: false
 title: "人材確保の妙手になるか！？「ホテル専門学校との提携」"
-slug: "2017/05/12"
+slug: "2017/05/12/120912"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621bb6288743.jpg"
 feature: "blog_import_6621bb6288743.jpg"

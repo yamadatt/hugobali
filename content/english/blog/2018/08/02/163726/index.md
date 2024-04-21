@@ -2,7 +2,7 @@
 date: 2018-08-02T16:37:26+09:00
 draft: false
 title: "株で利回り１００％超を稼ぎ続ける友人とその証拠"
-slug: "2018/08/02"
+slug: "2018/08/02/163726"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621c55695eb4.jpg"
 feature: "blog_import_6621c55695eb4.jpg"

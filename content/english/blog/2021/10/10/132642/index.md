@@ -2,7 +2,7 @@
 date: 2021-10-10T13:26:42+09:00
 draft: false
 title: "バリ島ングラライ空港が国際線を再開！？"
-slug: "2021/10/10"
+slug: "2021/10/10/132642"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621e671476b8.jpg"
 feature: "blog_import_6621e671476b8.jpg"

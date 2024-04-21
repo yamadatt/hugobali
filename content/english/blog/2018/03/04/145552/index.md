@@ -2,7 +2,7 @@
 date: 2018-03-04T14:55:52+09:00
 draft: false
 title: "ただ今、セミナー中！！さすが有楽町だ。"
-slug: "2018/03/04"
+slug: "2018/03/04/145552"
 tags: ["プライベートな話"]
 image: "blog_import_6621c1fc44f37.jpg"
 feature: "blog_import_6621c1fc44f37.jpg"

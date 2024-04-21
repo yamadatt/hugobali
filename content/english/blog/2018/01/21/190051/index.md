@@ -2,7 +2,7 @@
 date: 2018-01-21T19:00:51+09:00
 draft: false
 title: "バリ島クタのロータリーが、ついに立体交差する！？"
-slug: "2018/01/21"
+slug: "2018/01/21/190051"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c0c717d36.jpg"
 feature: "blog_import_6621c0c717d36.jpg"

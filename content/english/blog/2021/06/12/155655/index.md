@@ -2,7 +2,7 @@
 date: 2021-06-12T15:56:55+09:00
 draft: false
 title: "第５回馬場ゴルフ部コンペの報告。自社製品を提供してもらい賞品が充実！？"
-slug: "2021/06/12"
+slug: "2021/06/12/155655"
 tags: ["ゴルフ"]
 image: "blog_import_6621e32e6962c.jpg"
 feature: "blog_import_6621e32e6962c.jpg"

@@ -2,7 +2,7 @@
 date: 2019-02-13T00:09:00+09:00
 draft: false
 title: "２月１７日のセミナーで、ＸＸさんの「株式実践編」を紹介します"
-slug: "2019/02/13"
+slug: "2019/02/13/000900"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c9ca276a9.jpg"
 feature: "blog_import_6621c9ca276a9.jpg"

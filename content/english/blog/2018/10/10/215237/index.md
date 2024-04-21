@@ -2,7 +2,7 @@
 date: 2018-10-10T21:52:37+09:00
 draft: false
 title: "満員御礼！！昨日のＸＸさんの株式勉強会"
-slug: "2018/10/10"
+slug: "2018/10/10/215237"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c6c67ee19.jpg"
 feature: "blog_import_6621c6c67ee19.jpg"

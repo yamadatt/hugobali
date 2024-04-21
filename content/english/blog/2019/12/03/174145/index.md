@@ -2,7 +2,7 @@
 date: 2019-12-03T17:41:45+09:00
 draft: false
 title: "茨城県の売ラブホテル４８００万円。利回り２０％超。２０ルーム超。これは安い！！"
-slug: "2019/12/03"
+slug: "2019/12/03/174145"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621d35162cba.png"
 feature: "blog_import_6621d35162cba.png"

@@ -2,7 +2,7 @@
 date: 2019-07-10T23:47:12+09:00
 draft: false
 title: "デートを重ねると人を好きになる。仕事も投資もタネ銭作りも同じだ"
-slug: "2019/07/10"
+slug: "2019/07/10/234712"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621cea42c474.png"
 feature: "blog_import_6621cea42c474.png"

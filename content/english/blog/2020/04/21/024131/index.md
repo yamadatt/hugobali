@@ -2,7 +2,7 @@
 date: 2020-04-21T02:41:31+09:00
 draft: false
 title: "ラブホの料金看板、パターンＢ２、Ｂ３を追加。これが最後です！！"
-slug: "2020/04/21"
+slug: "2020/04/21/024131"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621d91b281ac.png"
 feature: "blog_import_6621d91b281ac.png"

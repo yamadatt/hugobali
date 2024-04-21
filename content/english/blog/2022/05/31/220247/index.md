@@ -2,7 +2,7 @@
 date: 2022-05-31T22:02:47+09:00
 draft: false
 title: "やはり僕はADHDだった！？"
-slug: "2022/05/31"
+slug: "2022/05/31/220247"
 tags: ["プライベートな話"]
 image: "blog_import_6621ee36d6e4d.jpg"
 feature: "blog_import_6621ee36d6e4d.jpg"

@@ -2,7 +2,7 @@
 date: 2019-04-22T17:59:21+09:00
 draft: false
 title: "シウマイ弁当に思うロングセラーの秘密"
-slug: "2019/04/22"
+slug: "2019/04/22/175921"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621cc09c5873.jpg"
 feature: "blog_import_6621cc09c5873.jpg"

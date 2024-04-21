@@ -2,7 +2,7 @@
 date: 2019-07-11T11:59:45+09:00
 draft: false
 title: "新しい節税対策！？５００万円一発償却！？高級腕時計へ投資"
-slug: "2019/07/11"
+slug: "2019/07/11/115945"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621ce9540c10.png"
 feature: "blog_import_6621ce9540c10.png"

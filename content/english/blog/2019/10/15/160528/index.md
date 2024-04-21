@@ -2,7 +2,7 @@
 date: 2019-10-15T16:05:28+09:00
 draft: false
 title: "6086シンメンテがストップ高！！ホルダーの皆さま、おめでとうございます！！"
-slug: "2019/10/15"
+slug: "2019/10/15/160528"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d11934517.png"
 feature: "blog_import_6621d11934517.png"

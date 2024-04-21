@@ -2,7 +2,7 @@
 date: 2021-11-19T01:17:26+09:00
 draft: false
 title: "効果的な資金援助の方法とは？「１０：１の法則」"
-slug: "2021/11/19"
+slug: "2021/11/19/011726"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e7cb7f95f.png"
 feature: "blog_import_6621e7cb7f95f.png"

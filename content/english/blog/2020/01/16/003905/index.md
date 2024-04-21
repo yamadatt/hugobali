@@ -2,7 +2,7 @@
 date: 2020-01-16T00:39:05+09:00
 draft: false
 title: "２月７日(金）全１２回⑤第１１回初心者向け成長株セミナー「決算書を投資に役立てよう」"
-slug: "2020/01/16"
+slug: "2020/01/16/003905"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d59343ab5.png"
 feature: "blog_import_6621d59343ab5.png"

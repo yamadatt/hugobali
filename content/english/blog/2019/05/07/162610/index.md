@@ -2,7 +2,7 @@
 date: 2019-05-07T16:26:10+09:00
 draft: false
 title: "５月１７日の長田氏「成長株の勉強会」に、ふりーパパが参戦！？"
-slug: "2019/05/07"
+slug: "2019/05/07/162610"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cc6804428.png"
 feature: "blog_import_6621cc6804428.png"

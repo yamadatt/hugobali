@@ -2,7 +2,7 @@
 date: 2022-01-13T19:30:44+09:00
 draft: false
 title: "暗号通貨、DIFIの世界はもはや避けられない！？"
-slug: "2022/01/13"
+slug: "2022/01/13/193044"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e9a898d19.png"
 feature: "blog_import_6621e9a898d19.png"

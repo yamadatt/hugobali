@@ -2,7 +2,7 @@
 date: 2020-09-28T01:17:19+09:00
 draft: false
 title: "老子の言葉「魚を与えるな。釣り方を教えよ」だが、いや、まず魚を与えよう"
-slug: "2020/09/28"
+slug: "2020/09/28/011719"
 tags: ["株式投資"]
 image: "blog_import_6621dd20dfba1.png"
 feature: "blog_import_6621dd20dfba1.png"

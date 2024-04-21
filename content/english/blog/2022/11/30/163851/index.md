@@ -2,7 +2,7 @@
 date: 2022-11-30T16:38:51+09:00
 draft: false
 title: "後輩の著書「日本のシン富裕層」に思う。～男子三日会わざれば刮目して見よ～"
-slug: "2022/11/30"
+slug: "2022/11/30/163851"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f3645d64c.png"
 feature: "blog_import_6621f3645d64c.png"

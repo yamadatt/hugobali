@@ -2,7 +2,7 @@
 date: 2016-07-20T01:50:56+09:00
 draft: false
 title: "僕がラブホテルを始めた理由"
-slug: "2016/07/20"
+slug: "2016/07/20/015056"
 tags: ["プライベートな話"]
 image: "blog_import_6621b14a1d974.jpg"
 feature: "blog_import_6621b14a1d974.jpg"

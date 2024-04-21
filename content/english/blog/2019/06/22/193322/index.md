@@ -2,7 +2,7 @@
 date: 2019-06-22T19:33:22+09:00
 draft: false
 title: "昨日（２１日）初心者向け成長株勉強会の報告といただいた感想"
-slug: "2019/06/22"
+slug: "2019/06/22/193322"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ce04ec453.png"
 feature: "blog_import_6621ce04ec453.png"

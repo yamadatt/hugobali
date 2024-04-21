@@ -2,7 +2,7 @@
 date: 2022-07-16T15:33:52+09:00
 draft: false
 title: "無料アプリコイン「Sweatcoin」が9月12日に上場決定！？"
-slug: "2022/07/16"
+slug: "2022/07/16/153352"
 tags: ["仮想通貨・暗号通貨"]
 image: "blog_import_6621ef736b84c.png"
 feature: "blog_import_6621ef736b84c.png"

@@ -2,7 +2,7 @@
 date: 2016-10-20T23:58:17+09:00
 draft: false
 title: "11月7日まで30％off バリ島スミニャックに建設中の４つ星ホテル"
-slug: "2016/10/20"
+slug: "2016/10/20/235817"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621b5900eca7.jpg"
 feature: "blog_import_6621b5900eca7.jpg"

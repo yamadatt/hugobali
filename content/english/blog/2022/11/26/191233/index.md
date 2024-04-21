@@ -2,7 +2,7 @@
 date: 2022-11-26T19:12:33+09:00
 draft: false
 title: "安い地方物件投資は儲かるのか？"
-slug: "2022/11/26"
+slug: "2022/11/26/191233"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f317ac409.jpg"
 feature: "blog_import_6621f317ac409.jpg"

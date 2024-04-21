@@ -2,7 +2,7 @@
 date: 2016-06-12T20:56:22+09:00
 draft: false
 title: "建築屋はお客をダマす【実例】エアコンの場合"
-slug: "2016/06/12"
+slug: "2016/06/12/205622"
 tags: ["プライベートな話"]
 image: "blog_import_6621b029d1acc.jpg"
 feature: "blog_import_6621b029d1acc.jpg"

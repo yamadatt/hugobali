@@ -2,7 +2,7 @@
 date: 2017-12-11T23:49:58+09:00
 draft: false
 title: "起業で大切なことは、根拠のない肯定"
-slug: "2017/12/11"
+slug: "2017/12/11/234958"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621bf52abcd1.jpg"
 feature: "blog_import_6621bf52abcd1.jpg"

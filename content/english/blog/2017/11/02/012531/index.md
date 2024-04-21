@@ -2,7 +2,7 @@
 date: 2017-11-02T01:25:31+09:00
 draft: false
 title: "満員御礼！！株投資セミナー　受付は本日２3時59分まで。"
-slug: "2017/11/02"
+slug: "2017/11/02/012531"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621be5e81b2a.jpg"
 feature: "blog_import_6621be5e81b2a.jpg"

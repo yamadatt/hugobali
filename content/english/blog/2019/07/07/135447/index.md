@@ -2,7 +2,7 @@
 date: 2019-07-07T13:54:47+09:00
 draft: false
 title: "「&#34;タネ銭″座談会」の講師、和田憲治という男 ～大学時代の思い出～"
-slug: "2019/07/07"
+slug: "2019/07/07/135447"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ce63cdc85.png"
 feature: "blog_import_6621ce63cdc85.png"

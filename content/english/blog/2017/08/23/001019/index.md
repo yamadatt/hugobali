@@ -2,7 +2,7 @@
 date: 2017-08-23T00:10:19+09:00
 draft: false
 title: "想定利回り１２.６％！？店舗つき住宅３９００万円"
-slug: "2017/08/23"
+slug: "2017/08/23/001019"
 tags: ["プライベートな話"]
 image: "blog_import_6621bced3ed38.jpg"
 feature: "blog_import_6621bced3ed38.jpg"

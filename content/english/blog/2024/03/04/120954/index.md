@@ -2,7 +2,7 @@
 date: 2024-03-04T12:09:54+09:00
 draft: false
 title: "３月１５日(金）第60回成長株実践セミナー「順張り投資：勇気を出して上昇銘柄に乗ろう！！」"
-slug: "2024/03/04"
+slug: "2024/03/04/120954"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6622005ea18bb.png"
 feature: "blog_import_6622005ea18bb.png"

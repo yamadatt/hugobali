@@ -2,7 +2,7 @@
 date: 2021-01-08T17:39:16+09:00
 draft: false
 title: "男はカネがなくなると、魅力もなくなるのか！？"
-slug: "2021/01/08"
+slug: "2021/01/08/173916"
 tags: ["プライベートな話"]
 image: "blog_import_6621dfacc53fa.png"
 feature: "blog_import_6621dfacc53fa.png"

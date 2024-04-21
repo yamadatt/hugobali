@@ -2,7 +2,7 @@
 date: 2019-08-03T22:44:43+09:00
 draft: false
 title: "学生時代、僕がアルバイトで本気で稼がなくてはならなかった理由"
-slug: "2019/08/03"
+slug: "2019/08/03/224443"
 tags: ["プライベートな話"]
 image: "blog_import_6621cf50afecf.png"
 feature: "blog_import_6621cf50afecf.png"

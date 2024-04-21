@@ -2,7 +2,7 @@
 date: 2023-06-25T19:36:01+09:00
 draft: false
 title: "こだまゴルフクラブで野村ＯＢ会員になっちゃった！？"
-slug: "2023/06/25"
+slug: "2023/06/25/193601"
 tags: ["ゴルフ"]
 image: "blog_import_6621fa589226d.png"
 feature: "blog_import_6621fa589226d.png"

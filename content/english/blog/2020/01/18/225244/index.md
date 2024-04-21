@@ -2,7 +2,7 @@
 date: 2020-01-18T22:52:44+09:00
 draft: false
 title: "目の保養に。。ウブドゥの王族のホテル。これはすごい！？"
-slug: "2020/01/18"
+slug: "2020/01/18/225244"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621d5fc943d0.jpg"
 feature: "blog_import_6621d5fc943d0.jpg"

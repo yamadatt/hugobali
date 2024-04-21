@@ -2,7 +2,7 @@
 date: 2019-11-18T23:07:19+09:00
 draft: false
 title: "ＦＭ放送「東京スターラジオ」に出演しちゃった！？"
-slug: "2019/11/18"
+slug: "2019/11/18/230719"
 tags: ["プライベートな話"]
 image: "blog_import_6621d2522e071.png"
 feature: "blog_import_6621d2522e071.png"

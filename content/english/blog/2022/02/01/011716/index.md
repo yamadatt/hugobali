@@ -2,7 +2,7 @@
 date: 2022-02-01T01:17:16+09:00
 draft: false
 title: "もはや暗号通貨を使いこなせないとマズい時代か！？"
-slug: "2022/02/01"
+slug: "2022/02/01/011716"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621ea23514eb.png"
 feature: "blog_import_6621ea23514eb.png"

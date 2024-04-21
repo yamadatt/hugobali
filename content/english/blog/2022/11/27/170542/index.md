@@ -2,7 +2,7 @@
 date: 2022-11-27T17:05:42+09:00
 draft: false
 title: "安い地方ボロ物件で儲ける方法"
-slug: "2022/11/27"
+slug: "2022/11/27/170542"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f328948de.jpg"
 feature: "blog_import_6621f328948de.jpg"

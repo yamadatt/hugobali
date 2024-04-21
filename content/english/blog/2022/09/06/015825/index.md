@@ -2,7 +2,7 @@
 date: 2022-09-06T01:58:25+09:00
 draft: false
 title: "「桑田佳祐ライブツアー2022」ファンクラブ先行抽選は当たるのか！？"
-slug: "2022/09/06"
+slug: "2022/09/06/015825"
 tags: ["プライベートな話"]
 image: "blog_import_6621f0c6ee761.png"
 feature: "blog_import_6621f0c6ee761.png"

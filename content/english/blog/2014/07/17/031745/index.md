@@ -2,7 +2,7 @@
 date: 2014-07-17T03:17:45+09:00
 draft: false
 title: "バリ島の床屋は２００円也"
-slug: "2014/07/17"
+slug: "2014/07/17/031745"
 tags: ["ブログ"]
 image: "blog_import_6621a403def17.jpg"
 feature: "blog_import_6621a403def17.jpg"

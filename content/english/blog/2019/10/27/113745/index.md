@@ -2,7 +2,7 @@
 date: 2019-10-27T11:37:45+09:00
 draft: false
 title: "スキミングの容疑者が、バリ島の管理物件で逮捕された！？"
-slug: "2019/10/27"
+slug: "2019/10/27/113745"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621d18422a0c.jpg"
 feature: "blog_import_6621d18422a0c.jpg"

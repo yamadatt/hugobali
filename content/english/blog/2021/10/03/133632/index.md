@@ -2,7 +2,7 @@
 date: 2021-10-03T13:36:32+09:00
 draft: false
 title: "僕らは、徳川家康より幸せ！？"
-slug: "2021/10/03"
+slug: "2021/10/03/133632"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e66132492.png"
 feature: "blog_import_6621e66132492.png"

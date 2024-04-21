@@ -2,7 +2,7 @@
 date: 2024-01-10T02:11:15+09:00
 draft: false
 title: "ポンコツ警察官。なくした財布で思う警察の怠慢対応。"
-slug: "2024/01/10"
+slug: "2024/01/10/021115"
 tags: ["プライベートな話"]
 image: "blog_import_6621ff3c1fc76.jpg"
 feature: "blog_import_6621ff3c1fc76.jpg"

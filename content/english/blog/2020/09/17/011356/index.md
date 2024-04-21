@@ -2,7 +2,7 @@
 date: 2020-09-17T01:13:56+09:00
 draft: false
 title: "長田先生の成長株セミナーは、他のセミナーと何が違うのか？"
-slug: "2020/09/17"
+slug: "2020/09/17/011356"
 tags: ["株式投資"]
 image: "blog_import_6621dccd85939.png"
 feature: "blog_import_6621dccd85939.png"

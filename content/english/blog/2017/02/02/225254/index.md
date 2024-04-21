@@ -2,7 +2,7 @@
 date: 2017-02-02T22:52:54+09:00
 draft: false
 title: "１２の春　第２志望の結果発表"
-slug: "2017/02/02"
+slug: "2017/02/02/225254"
 tags: ["プライベートな話"]
 image: "blog_import_6621b96ce5816.jpg"
 feature: "blog_import_6621b96ce5816.jpg"

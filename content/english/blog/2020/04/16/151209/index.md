@@ -2,7 +2,7 @@
 date: 2020-04-16T15:12:09+09:00
 draft: false
 title: "インドネシア人の〝朝令暮改″っぷりは凄い！？報道は信じるべきか。"
-slug: "2020/04/16"
+slug: "2020/04/16/151209"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621d8d33df1e.png"
 feature: "blog_import_6621d8d33df1e.png"

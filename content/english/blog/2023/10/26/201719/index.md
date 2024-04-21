@@ -2,7 +2,7 @@
 date: 2023-10-26T20:17:19+09:00
 draft: false
 title: "友人の豪華ヴィラ（南伊豆）が完成。宿泊特典アリ！？"
-slug: "2023/10/26"
+slug: "2023/10/26/201719"
 tags: ["プライベートな話"]
 image: "blog_import_6621fdbdae85a.jpg"
 feature: "blog_import_6621fdbdae85a.jpg"

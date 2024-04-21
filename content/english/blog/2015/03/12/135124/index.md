@@ -2,7 +2,7 @@
 date: 2015-03-12T13:51:24+09:00
 draft: false
 title: "不動産がネットで売れるなんて。"
-slug: "2015/03/12"
+slug: "2015/03/12/135124"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621aa41c07b8.jpg"
 feature: "blog_import_6621aa41c07b8.jpg"

@@ -2,7 +2,7 @@
 date: 2020-09-02T23:06:46+09:00
 draft: false
 title: "株の利益１０００万突破！？明後日の「初心者向け株セミナー」。重大発表はあるのか！？"
-slug: "2020/09/02"
+slug: "2020/09/02/230646"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621dc803e6f6.png"
 feature: "blog_import_6621dc803e6f6.png"

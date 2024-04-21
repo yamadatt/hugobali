@@ -2,7 +2,7 @@
 date: 2021-01-10T23:05:33+09:00
 draft: false
 title: "コロナ商法？これは詐欺なのか？"
-slug: "2021/01/10"
+slug: "2021/01/10/230533"
 tags: ["プライベートな話"]
 image: "blog_import_6621dfb1aebc0.jpg"
 feature: "blog_import_6621dfb1aebc0.jpg"

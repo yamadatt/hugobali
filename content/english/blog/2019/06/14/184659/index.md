@@ -2,7 +2,7 @@
 date: 2019-06-14T18:46:59+09:00
 draft: false
 title: "ＭＭＴ（現代貨幣理論）の考え方は分かるけど、正しいのかな。。"
-slug: "2019/06/14"
+slug: "2019/06/14/184659"
 tags: ["プライベートな話"]
 image: "blog_import_6621cd6c598e9.jpg"
 feature: "blog_import_6621cd6c598e9.jpg"

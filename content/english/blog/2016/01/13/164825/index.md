@@ -2,7 +2,7 @@
 date: 2016-01-13T16:48:25+09:00
 draft: false
 title: "引きこもり三四郎の結婚"
-slug: "2016/01/13"
+slug: "2016/01/13/164825"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621abd155c5b.jpg"
 feature: "blog_import_6621abd155c5b.jpg"

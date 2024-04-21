@@ -2,7 +2,7 @@
 date: 2014-06-13T21:32:37+09:00
 draft: false
 title: "はじめに。超実践！インドネシア語会話"
-slug: "2014/06/13"
+slug: "2014/06/13/213237"
 tags: ["超実践！インドネシア語会話"]
 image: "blog_import_6621a4dd8cef0.jpg"
 feature: "blog_import_6621a4dd8cef0.jpg"

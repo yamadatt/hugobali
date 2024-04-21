@@ -2,7 +2,7 @@
 date: 2018-10-31T20:41:43+09:00
 draft: false
 title: "バリ島の地上げ。スミニャックで３棟新築土地の仕込み"
-slug: "2018/10/31"
+slug: "2018/10/31/204143"
 tags: ["バリ島の自社物件"]
 image: "blog_import_6621c73337422.jpg"
 feature: "blog_import_6621c73337422.jpg"

@@ -2,7 +2,7 @@
 date: 2019-07-03T02:42:28+09:00
 draft: false
 title: "【税務調査：実体験その１】税務調査では、調査官を怒らせてはいけない！？"
-slug: "2019/07/03"
+slug: "2019/07/03/024228"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ce549fd6c.png"
 feature: "blog_import_6621ce549fd6c.png"

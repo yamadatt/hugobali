@@ -2,7 +2,7 @@
 date: 2016-10-22T21:36:31+09:00
 draft: false
 title: "騙されて、高値で土地を買ったバリ人の話"
-slug: "2016/10/22"
+slug: "2016/10/22/213631"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621b5c3679ef.jpg"
 feature: "blog_import_6621b5c3679ef.jpg"

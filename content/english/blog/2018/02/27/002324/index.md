@@ -2,7 +2,7 @@
 date: 2018-02-27T00:23:24+09:00
 draft: false
 title: "３月４日オフ会やります"
-slug: "2018/02/27"
+slug: "2018/02/27/002324"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c1eb4022b.jpg"
 feature: "blog_import_6621c1eb4022b.jpg"

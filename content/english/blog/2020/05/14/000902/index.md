@@ -2,7 +2,7 @@
 date: 2020-05-14T00:09:02+09:00
 draft: false
 title: "コロナの致死率は、６０歳以下は１／５００００！？"
-slug: "2020/05/14"
+slug: "2020/05/14/000902"
 tags: ["プライベートな話"]
 image: "blog_import_6621d9f896d15.png"
 feature: "blog_import_6621d9f896d15.png"

@@ -2,7 +2,7 @@
 date: 2023-04-04T00:25:47+09:00
 draft: false
 title: "親が子どもに言ってはいけない言葉"
-slug: "2023/04/04"
+slug: "2023/04/04/002547"
 tags: ["プライベートな話"]
 image: "blog_import_6621f72fb2d93.png"
 feature: "blog_import_6621f72fb2d93.png"

@@ -2,7 +2,7 @@
 date: 2019-06-30T17:11:31+09:00
 draft: false
 title: "７月２１日（日）初心者向け座談会の参加費５０００円 → ３０００円へ"
-slug: "2019/06/30"
+slug: "2019/06/30/171131"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ce2abeab9.jpg"
 feature: "blog_import_6621ce2abeab9.jpg"

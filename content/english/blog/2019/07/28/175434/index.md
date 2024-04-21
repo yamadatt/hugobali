@@ -2,7 +2,7 @@
 date: 2019-07-28T17:54:34+09:00
 draft: false
 title: "「今一時の気持ち」を思い出す。国学院久我山、甲子園へ"
-slug: "2019/07/28"
+slug: "2019/07/28/175434"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621cf05ebadf.jpg"
 feature: "blog_import_6621cf05ebadf.jpg"

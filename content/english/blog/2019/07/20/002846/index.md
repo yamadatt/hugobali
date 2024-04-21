@@ -2,7 +2,7 @@
 date: 2019-07-20T00:28:46+09:00
 draft: false
 title: "アンティークコインの勉強会　皆さまありがとうございました！！"
-slug: "2019/07/20"
+slug: "2019/07/20/002846"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cecd5b8b3.jpg"
 feature: "blog_import_6621cecd5b8b3.jpg"

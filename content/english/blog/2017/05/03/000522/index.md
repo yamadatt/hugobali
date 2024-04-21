@@ -2,7 +2,7 @@
 date: 2017-05-03T00:05:22+09:00
 draft: false
 title: "長時間労働は、悪いことなのか！？"
-slug: "2017/05/03"
+slug: "2017/05/03/000522"
 tags: ["プライベートな話"]
 image: "blog_import_6621bb43d5652.jpg"
 feature: "blog_import_6621bb43d5652.jpg"

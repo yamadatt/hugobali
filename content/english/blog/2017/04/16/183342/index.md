@@ -2,7 +2,7 @@
 date: 2017-04-16T18:33:42+09:00
 draft: false
 title: "満員御礼！ 第30回バリ島不動産セミナー。ありがとうございました。"
-slug: "2017/04/16"
+slug: "2017/04/16/183342"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621baecbb614.jpg"
 feature: "blog_import_6621baecbb614.jpg"

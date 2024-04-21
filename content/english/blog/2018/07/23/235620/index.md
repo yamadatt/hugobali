@@ -2,7 +2,7 @@
 date: 2018-07-23T23:56:20+09:00
 draft: false
 title: "横領発覚！？"
-slug: "2018/07/23"
+slug: "2018/07/23/235620"
 tags: ["トラブルの話"]
 image: "blog_import_6621c51e9500f.jpg"
 feature: "blog_import_6621c51e9500f.jpg"

@@ -2,7 +2,7 @@
 date: 2019-07-23T17:41:32+09:00
 draft: false
 title: "初心者向けの株式勉強会、、再開しようかな"
-slug: "2019/07/23"
+slug: "2019/07/23/174132"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cee317666.jpg"
 feature: "blog_import_6621cee317666.jpg"

@@ -2,7 +2,7 @@
 date: 2022-05-25T19:10:23+09:00
 draft: false
 title: "ネコ"
-slug: "2022/05/25"
+slug: "2022/05/25/191023"
 tags: ["プライベートな話"]
 image: "blog_import_6621ee1437e42.png"
 feature: "blog_import_6621ee1437e42.png"

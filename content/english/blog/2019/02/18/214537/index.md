@@ -2,7 +2,7 @@
 date: 2019-02-18T21:45:37+09:00
 draft: false
 title: "希少！！売地。ＪＲ山手線巣鴨駅２分、売地９０㎡商業地域、坪単価２５０万円"
-slug: "2019/02/18"
+slug: "2019/02/18/214537"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621c9e28a855.jpg"
 feature: "blog_import_6621c9e28a855.jpg"

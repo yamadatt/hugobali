@@ -2,7 +2,7 @@
 date: 2023-12-06T09:34:46+09:00
 draft: false
 title: "バリ島の銀行で、インドネシア国債を買う。金利は！？"
-slug: "2023/12/06"
+slug: "2023/12/06/093446"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621feb3f1e81.jpg"
 feature: "blog_import_6621feb3f1e81.jpg"

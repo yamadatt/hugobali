@@ -2,7 +2,7 @@
 date: 2018-08-08T23:37:38+09:00
 draft: false
 title: "ふりーパパより「勉強は、最低限に留めて実践する！」"
-slug: "2018/08/08"
+slug: "2018/08/08/233738"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c58f746f0.jpg"
 feature: "blog_import_6621c58f746f0.jpg"

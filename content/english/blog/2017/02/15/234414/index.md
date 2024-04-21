@@ -2,7 +2,7 @@
 date: 2017-02-15T23:44:14+09:00
 draft: false
 title: "サヌールの不良債権「指値が通ればラッキーだな」"
-slug: "2017/02/15"
+slug: "2017/02/15/234414"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621b9d566424.jpg"
 feature: "blog_import_6621b9d566424.jpg"

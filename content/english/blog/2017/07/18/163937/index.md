@@ -2,7 +2,7 @@
 date: 2017-07-18T16:39:37+09:00
 draft: false
 title: "JR東日本「変えたかったのは歴史じゃない。日常だ」"
-slug: "2017/07/18"
+slug: "2017/07/18/163937"
 tags: ["プライベートな話"]
 image: "blog_import_6621bc584c48e.jpg"
 feature: "blog_import_6621bc584c48e.jpg"

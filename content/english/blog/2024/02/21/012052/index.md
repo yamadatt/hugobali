@@ -2,7 +2,7 @@
 date: 2024-02-21T01:20:52+09:00
 draft: false
 title: "ADHD「不注意優勢型」について。社会人編"
-slug: "2024/02/21"
+slug: "2024/02/21/012052"
 tags: ["ADHD不注意優勢型"]
 image: "blog_import_66220014129f2.png"
 feature: "blog_import_66220014129f2.png"

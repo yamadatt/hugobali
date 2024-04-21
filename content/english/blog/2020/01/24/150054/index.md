@@ -2,7 +2,7 @@
 date: 2020-01-24T15:00:54+09:00
 draft: false
 title: "チャイコン５連発でソリスト比較！？昨年の樫本大進さんのコンサートより"
-slug: "2020/01/24"
+slug: "2020/01/24/150054"
 tags: ["プライベートな話"]
 image: "blog_import_6621d68b4a28a.png"
 feature: "blog_import_6621d68b4a28a.png"

@@ -2,7 +2,7 @@
 date: 2020-05-09T00:40:26+09:00
 draft: false
 title: "日本の首相は、リーダーシップを発揮できない構造になっている！？"
-slug: "2020/05/09"
+slug: "2020/05/09/004026"
 tags: ["株式投資"]
 image: "blog_import_6621d9db85fc8.png"
 feature: "blog_import_6621d9db85fc8.png"

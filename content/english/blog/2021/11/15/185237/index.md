@@ -2,7 +2,7 @@
 date: 2021-11-15T18:52:37+09:00
 draft: false
 title: "「あたって砕けろ」って、大切だな"
-slug: "2021/11/15"
+slug: "2021/11/15/185237"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e7bf4b5eb.png"
 feature: "blog_import_6621e7bf4b5eb.png"

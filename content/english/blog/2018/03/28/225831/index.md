@@ -2,7 +2,7 @@
 date: 2018-03-28T22:58:31+09:00
 draft: false
 title: "改装への投資利回りは６０％を超える！？"
-slug: "2018/03/28"
+slug: "2018/03/28/225831"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c27d3b805.jpg"
 feature: "blog_import_6621c27d3b805.jpg"

@@ -2,7 +2,7 @@
 date: 2014-08-11T10:59:14+09:00
 draft: false
 title: "なぜインドネシア語が必要か（インドネシア語会話）"
-slug: "2014/08/11"
+slug: "2014/08/11/105914"
 tags: ["超実践！インドネシア語会話"]
 image: "blog_import_6621a4e8d42df.jpg"
 feature: "blog_import_6621a4e8d42df.jpg"

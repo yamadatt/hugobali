@@ -2,7 +2,7 @@
 date: 2018-12-22T00:39:15+09:00
 draft: false
 title: "ＢＮＩ銀行からクリスマスプレゼント"
-slug: "2018/12/22"
+slug: "2018/12/22/003915"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c88d70496.jpg"
 feature: "blog_import_6621c88d70496.jpg"

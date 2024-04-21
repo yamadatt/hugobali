@@ -2,7 +2,7 @@
 date: 2022-08-26T23:14:37+09:00
 draft: false
 title: "第18回馬場ゴルフ部月例コンペのご報告「素人がドラコン３００ｙ超！？」"
-slug: "2022/08/26"
+slug: "2022/08/26/231437"
 tags: ["ゴルフ"]
 image: "blog_import_6621f04a1a5b2.jpg"
 feature: "blog_import_6621f04a1a5b2.jpg"

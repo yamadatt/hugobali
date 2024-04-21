@@ -2,7 +2,7 @@
 date: 2019-09-28T18:26:19+09:00
 draft: false
 title: "うおおおっ！！アイルランドに勝った！？"
-slug: "2019/09/28"
+slug: "2019/09/28/182619"
 tags: ["プライベートな話"]
 image: "blog_import_6621d01b61b9e.jpg"
 feature: "blog_import_6621d01b61b9e.jpg"

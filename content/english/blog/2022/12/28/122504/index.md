@@ -2,7 +2,7 @@
 date: 2022-12-28T12:25:04+09:00
 draft: false
 title: "良ホテル物件。川越ラブホテル実質利回り１２％"
-slug: "2022/12/28"
+slug: "2022/12/28/122504"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621f43a99c30.png"
 feature: "blog_import_6621f43a99c30.png"

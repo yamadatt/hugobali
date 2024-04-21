@@ -2,7 +2,7 @@
 date: 2024-03-04T22:07:42+09:00
 draft: false
 title: "３年前「日経平均５万円時代がやってくる」を書いたテリーさんはスゴい！？"
-slug: "2024/03/04"
+slug: "2024/03/04/220742"
 tags: ["株式投資"]
 image: "blog_import_66220064580d7.png"
 feature: "blog_import_66220064580d7.png"

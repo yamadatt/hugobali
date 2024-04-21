@@ -2,7 +2,7 @@
 date: 2017-11-10T00:31:13+09:00
 draft: false
 title: "成長するインドネシア市場での、ローカル向け不動産開発はチャンスなのか"
-slug: "2017/11/10"
+slug: "2017/11/10/003113"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621be7fdd0de.jpg"
 feature: "blog_import_6621be7fdd0de.jpg"

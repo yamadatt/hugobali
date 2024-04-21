@@ -2,7 +2,7 @@
 date: 2019-12-19T23:26:33+09:00
 draft: false
 title: "昨日の成長株の実践会（懇親会）の報告＆感想"
-slug: "2019/12/19"
+slug: "2019/12/19/232633"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d3c90a37e.jpg"
 feature: "blog_import_6621d3c90a37e.jpg"

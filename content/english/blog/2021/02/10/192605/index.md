@@ -2,7 +2,7 @@
 date: 2021-02-10T19:26:05+09:00
 draft: false
 title: "２月２６日(金）の成長株実践会は「アフターコロナ、一発逆転の黒字転換株を狙う！！」"
-slug: "2021/02/10"
+slug: "2021/02/10/192605"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621e059b3587.png"
 feature: "blog_import_6621e059b3587.png"

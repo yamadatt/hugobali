@@ -2,7 +2,7 @@
 date: 2020-10-10T19:27:44+09:00
 draft: false
 title: "昨日の報告。【第２期】第１回初心者向け成長株セミナー"
-slug: "2020/10/10"
+slug: "2020/10/10/192744"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621dd703f3b0.jpg"
 feature: "blog_import_6621dd703f3b0.jpg"

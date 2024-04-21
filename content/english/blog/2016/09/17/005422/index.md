@@ -2,7 +2,7 @@
 date: 2016-09-17T00:54:22+09:00
 draft: false
 title: "ハイテク凧上げ"
-slug: "2016/09/17"
+slug: "2016/09/17/005422"
 tags: ["プライベートな話"]
 image: "blog_import_6621b3831b1ec.jpg"
 feature: "blog_import_6621b3831b1ec.jpg"

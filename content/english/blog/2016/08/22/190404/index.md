@@ -2,7 +2,7 @@
 date: 2016-08-22T19:04:04+09:00
 draft: false
 title: "１８禁！？閲覧注意！！天井裏のネズミの駆除"
-slug: "2016/08/22"
+slug: "2016/08/22/190404"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621b2cb2c0a1.jpg"
 feature: "blog_import_6621b2cb2c0a1.jpg"

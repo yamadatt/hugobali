@@ -2,7 +2,7 @@
 date: 2018-12-31T17:53:31+09:00
 draft: false
 title: "バリ島の年末年始"
-slug: "2018/12/31"
+slug: "2018/12/31/175331"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c8c4ee448.jpg"
 feature: "blog_import_6621c8c4ee448.jpg"

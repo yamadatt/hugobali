@@ -2,7 +2,7 @@
 date: 2019-07-31T19:09:11+09:00
 draft: false
 title: "練馬区大泉町の格安売地：約２７坪１４００万円　５２万円／坪"
-slug: "2019/07/31"
+slug: "2019/07/31/190911"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621cf2cd3964.png"
 feature: "blog_import_6621cf2cd3964.png"

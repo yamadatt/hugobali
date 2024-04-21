@@ -2,7 +2,7 @@
 date: 2019-08-10T00:52:15+09:00
 draft: false
 title: "タケシ、勇者になる！？その３ 放置した胎盤がマリアに見つかる！？"
-slug: "2019/08/10"
+slug: "2019/08/10/005215"
 tags: ["タケシ（バリ島現地スタッフ）の話"]
 image: "blog_import_6621cf7ff0c95.jpg"
 feature: "blog_import_6621cf7ff0c95.jpg"

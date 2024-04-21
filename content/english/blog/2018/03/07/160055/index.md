@@ -2,7 +2,7 @@
 date: 2018-03-07T16:00:55+09:00
 draft: false
 title: "出版本の出稿、最終段階"
-slug: "2018/03/07"
+slug: "2018/03/07/160055"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c203cc8ab.jpg"
 feature: "blog_import_6621c203cc8ab.jpg"

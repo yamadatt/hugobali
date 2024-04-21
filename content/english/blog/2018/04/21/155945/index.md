@@ -2,7 +2,7 @@
 date: 2018-04-21T15:59:45+09:00
 draft: false
 title: "紀伊国屋書店へ偵察！？"
-slug: "2018/04/21"
+slug: "2018/04/21/155945"
 tags: ["プライベートな話"]
 image: "blog_import_6621c2f1db2f4.jpg"
 feature: "blog_import_6621c2f1db2f4.jpg"

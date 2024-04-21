@@ -2,7 +2,7 @@
 date: 2019-06-23T16:41:41+09:00
 draft: false
 title: "第５０回バリ島不動産投資セミナーのご案内７月１３日ｉｎ高田馬場"
-slug: "2019/06/23"
+slug: "2019/06/23/164141"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ce068fad8.jpg"
 feature: "blog_import_6621ce068fad8.jpg"

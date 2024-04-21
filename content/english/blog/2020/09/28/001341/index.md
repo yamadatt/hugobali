@@ -2,7 +2,7 @@
 date: 2020-09-28T00:13:41+09:00
 draft: false
 title: "なんじゃ、こりゃ！？「中高生向け株の勉強会」に思う、親の格差が子の格差。"
-slug: "2020/09/28"
+slug: "2020/09/28/001341"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621dd1e80f86.png"
 feature: "blog_import_6621dd1e80f86.png"

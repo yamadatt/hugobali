@@ -2,7 +2,7 @@
 date: 2019-04-05T17:13:00+09:00
 draft: false
 title: "群馬からの帰り、、看板サイズ決定"
-slug: "2019/04/05"
+slug: "2019/04/05/171300"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621cae8405e2.jpg"
 feature: "blog_import_6621cae8405e2.jpg"

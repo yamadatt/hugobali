@@ -2,7 +2,7 @@
 date: 2020-11-30T22:55:26+09:00
 draft: false
 title: "１１月４日初心者向け成長株セミナー「１年前の銘柄は２００％超え！？」"
-slug: "2020/11/30"
+slug: "2020/11/30/225526"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621dee8f3b53.png"
 feature: "blog_import_6621dee8f3b53.png"

@@ -2,7 +2,7 @@
 date: 2022-08-04T15:32:10+09:00
 draft: false
 title: "明日8月5日の成長株の基礎セミナー「地合いよし！？いよいよか」"
-slug: "2022/08/04"
+slug: "2022/08/04/153210"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621eff6ed2ea.png"
 feature: "blog_import_6621eff6ed2ea.png"

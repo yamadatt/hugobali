@@ -2,7 +2,7 @@
 date: 2021-09-23T15:34:09+09:00
 draft: false
 title: "明日２４日の成長株の実践セミナーは、2130と6580。"
-slug: "2021/09/23"
+slug: "2021/09/23/153409"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621e638ab39d.jpg"
 feature: "blog_import_6621e638ab39d.jpg"

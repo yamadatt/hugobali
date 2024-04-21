@@ -2,7 +2,7 @@
 date: 2019-08-19T23:34:41+09:00
 draft: false
 title: "ヴァイオリンの聖地、クレモナに来た"
-slug: "2019/08/19"
+slug: "2019/08/19/233441"
 tags: ["プライベートな話"]
 image: "blog_import_6621cf9d1c077.jpg"
 feature: "blog_import_6621cf9d1c077.jpg"

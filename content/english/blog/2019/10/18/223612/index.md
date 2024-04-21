@@ -2,7 +2,7 @@
 date: 2019-10-18T22:36:12+09:00
 draft: false
 title: "長田先生からのレポート：誰でもできる！？配当金投資のメリット"
-slug: "2019/10/18"
+slug: "2019/10/18/223612"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d12d92df8.png"
 feature: "blog_import_6621d12d92df8.png"

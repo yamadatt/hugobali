@@ -2,7 +2,7 @@
 date: 2020-04-17T18:08:02+09:00
 draft: false
 title: "床屋からのハガキ"
-slug: "2020/04/17"
+slug: "2020/04/17/180802"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d8e451302.jpg"
 feature: "blog_import_6621d8e451302.jpg"

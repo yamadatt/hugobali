@@ -2,7 +2,7 @@
 date: 2016-08-01T16:27:56+09:00
 draft: false
 title: "相続案件！タバナンの売地５４アール１９６０万円"
-slug: "2016/08/01"
+slug: "2016/08/01/162756"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621b1b48463f.jpg"
 feature: "blog_import_6621b1b48463f.jpg"

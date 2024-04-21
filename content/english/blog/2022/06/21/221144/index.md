@@ -2,7 +2,7 @@
 date: 2022-06-21T22:11:44+09:00
 draft: false
 title: "月利１６％の仮想通貨オンラインカジノの仕組み"
-slug: "2022/06/21"
+slug: "2022/06/21/221144"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621eecb24ff8.png"
 feature: "blog_import_6621eecb24ff8.png"

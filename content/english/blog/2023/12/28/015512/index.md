@@ -2,7 +2,7 @@
 date: 2023-12-28T01:55:12+09:00
 draft: false
 title: "2023年：株式と暗号通貨の躍進、その背景にインフレの影響は？"
-slug: "2023/12/28"
+slug: "2023/12/28/015512"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ff1d4eb29.png"
 feature: "blog_import_6621ff1d4eb29.png"

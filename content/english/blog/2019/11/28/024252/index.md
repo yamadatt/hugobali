@@ -2,7 +2,7 @@
 date: 2019-11-28T02:42:52+09:00
 draft: false
 title: "生ハム原木をセットした！？"
-slug: "2019/11/28"
+slug: "2019/11/28/024252"
 tags: ["プライベートな話"]
 image: "blog_import_6621d2b9b4a4b.jpg"
 feature: "blog_import_6621d2b9b4a4b.jpg"

@@ -2,7 +2,7 @@
 date: 2019-06-15T22:43:08+09:00
 draft: false
 title: "デフレの日本人は、相対的に貧乏になっているのか？その２"
-slug: "2019/06/15"
+slug: "2019/06/15/224308"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621cd79d5f8a.png"
 feature: "blog_import_6621cd79d5f8a.png"

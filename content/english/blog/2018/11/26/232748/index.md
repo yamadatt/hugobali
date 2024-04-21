@@ -2,7 +2,7 @@
 date: 2018-11-26T23:27:48+09:00
 draft: false
 title: "バリ島クタのロータリー立体交差化で渋滞は解消！？"
-slug: "2018/11/26"
+slug: "2018/11/26/232748"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c7ed3ab8f.jpg"
 feature: "blog_import_6621c7ed3ab8f.jpg"

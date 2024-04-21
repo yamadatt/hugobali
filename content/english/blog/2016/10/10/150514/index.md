@@ -2,7 +2,7 @@
 date: 2016-10-10T15:05:14+09:00
 draft: false
 title: "国境警備のインドネシア軍人に危険なパプアニューギニアを聞いた"
-slug: "2016/10/10"
+slug: "2016/10/10/150514"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621b4b43b46e.jpg"
 feature: "blog_import_6621b4b43b46e.jpg"

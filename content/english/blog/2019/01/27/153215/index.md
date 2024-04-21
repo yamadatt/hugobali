@@ -2,7 +2,7 @@
 date: 2019-01-27T15:32:15+09:00
 draft: false
 title: "まずは一歩踏み出すことだ。一歩踏み出せば、そこに新しい世界が広がる"
-slug: "2019/01/27"
+slug: "2019/01/27/153215"
 tags: ["プライベートな話"]
 image: "blog_import_6621c9861a8c0.jpg"
 feature: "blog_import_6621c9861a8c0.jpg"

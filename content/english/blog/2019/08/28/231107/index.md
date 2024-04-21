@@ -2,7 +2,7 @@
 date: 2019-08-28T23:11:07+09:00
 draft: false
 title: "日本人（男性）とインドネシア人（女性）の結婚は金目当て！？タケシは珍しいパターンだ"
-slug: "2019/08/28"
+slug: "2019/08/28/231107"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621cfb1efd3d.png"
 feature: "blog_import_6621cfb1efd3d.png"

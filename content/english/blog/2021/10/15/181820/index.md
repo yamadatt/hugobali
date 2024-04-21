@@ -2,7 +2,7 @@
 date: 2021-10-15T18:18:20+09:00
 draft: false
 title: "バリ島不動産の契約書のトラブル　その３「土地を売買で、名義変更しなかった理由は！？」"
-slug: "2021/10/15"
+slug: "2021/10/15/181820"
 tags: ["トラブルの話"]
 image: "blog_import_6621e6e060bf7.jpg"
 feature: "blog_import_6621e6e060bf7.jpg"

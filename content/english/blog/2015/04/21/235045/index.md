@@ -2,7 +2,7 @@
 date: 2015-04-21T23:50:45+09:00
 draft: false
 title: "バリ島　カラオケ　dangdutとは"
-slug: "2015/04/21"
+slug: "2015/04/21/235045"
 tags: ["超実践！インドネシア語会話"]
 image: ""
 feature: ""

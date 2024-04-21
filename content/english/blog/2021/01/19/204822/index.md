@@ -2,7 +2,7 @@
 date: 2021-01-19T20:48:22+09:00
 draft: false
 title: "成功する人は、会社の備品・他人の金を大切に使う。"
-slug: "2021/01/19"
+slug: "2021/01/19/204822"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621dff54f9af.png"
 feature: "blog_import_6621dff54f9af.png"

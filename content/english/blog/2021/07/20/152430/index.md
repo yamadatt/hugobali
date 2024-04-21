@@ -2,7 +2,7 @@
 date: 2021-07-20T15:24:30+09:00
 draft: false
 title: "インドネシアからの帰国者の隔離体験談【バリ大将】②「ドアの開閉は館内放送で許可される？」"
-slug: "2021/07/20"
+slug: "2021/07/20/152430"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621e46cafad7.jpg"
 feature: "blog_import_6621e46cafad7.jpg"

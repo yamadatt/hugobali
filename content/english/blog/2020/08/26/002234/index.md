@@ -2,7 +2,7 @@
 date: 2020-08-26T00:22:34+09:00
 draft: false
 title: "「ほどほど」が幸せなんだろうな"
-slug: "2020/08/26"
+slug: "2020/08/26/002234"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621dc622e7c8.png"
 feature: "blog_import_6621dc622e7c8.png"

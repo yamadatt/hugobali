@@ -2,7 +2,7 @@
 date: 2022-01-17T11:49:36+09:00
 draft: false
 title: "【終了です】ロレックス投資"
-slug: "2022/01/17"
+slug: "2022/01/17/114936"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621e9bbc7199.jpg"
 feature: "blog_import_6621e9bbc7199.jpg"

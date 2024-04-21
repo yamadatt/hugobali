@@ -2,7 +2,7 @@
 date: 2023-07-15T19:51:16+09:00
 draft: false
 title: "ゴルフウォーキングは、健康維持に最適！？"
-slug: "2023/07/15"
+slug: "2023/07/15/195116"
 tags: ["ゴルフ"]
 image: "blog_import_6621fb4212eee.jpg"
 feature: "blog_import_6621fb4212eee.jpg"

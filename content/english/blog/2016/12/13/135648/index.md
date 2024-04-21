@@ -2,7 +2,7 @@
 date: 2016-12-13T13:56:48+09:00
 draft: false
 title: "忘年会、満員御礼！！"
-slug: "2016/12/13"
+slug: "2016/12/13/135648"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621b746605e2.jpg"
 feature: "blog_import_6621b746605e2.jpg"

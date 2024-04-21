@@ -2,7 +2,7 @@
 date: 2020-07-14T20:35:25+09:00
 draft: false
 title: "感想＆質問（10）「配当狙いの銀行株は、今後も安全か？」への回答"
-slug: "2020/07/14"
+slug: "2020/07/14/203525"
 tags: ["株式投資"]
 image: "blog_import_6621db7569c20.jpg"
 feature: "blog_import_6621db7569c20.jpg"

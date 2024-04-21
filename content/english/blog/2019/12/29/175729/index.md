@@ -2,7 +2,7 @@
 date: 2019-12-29T17:57:29+09:00
 draft: false
 title: "絶景が広がる〝非日常の隠れ家″利回り３０％超！？これぞバリ島ドリームだ！！"
-slug: "2019/12/29"
+slug: "2019/12/29/175729"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621d4a3d5c9e.png"
 feature: "blog_import_6621d4a3d5c9e.png"

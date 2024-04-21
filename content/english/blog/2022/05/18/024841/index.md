@@ -2,7 +2,7 @@
 date: 2022-05-18T02:48:41+09:00
 draft: false
 title: "６月から暗号通貨セミナーをやる！？「暗号通貨のプロも得意分野は様々だ」"
-slug: "2022/05/18"
+slug: "2022/05/18/024841"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621edec338e2.png"
 feature: "blog_import_6621edec338e2.png"

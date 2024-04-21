@@ -2,7 +2,7 @@
 date: 2020-02-11T21:57:52+09:00
 draft: false
 title: "株の１０億は、給与１０億、資産１０億より楽しめる！？"
-slug: "2020/02/11"
+slug: "2020/02/11/215752"
 tags: ["プライベートな話"]
 image: "blog_import_6621d6d373ea6.jpg"
 feature: "blog_import_6621d6d373ea6.jpg"

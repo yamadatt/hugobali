@@ -2,7 +2,7 @@
 date: 2022-06-25T00:45:43+09:00
 draft: false
 title: "バリ島格安物件！？ウブドゥ売ヴィラ900万円"
-slug: "2022/06/25"
+slug: "2022/06/25/004543"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621eecfdd38e.jpg"
 feature: "blog_import_6621eecfdd38e.jpg"

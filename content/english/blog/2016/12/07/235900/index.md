@@ -2,7 +2,7 @@
 date: 2016-12-07T23:59:00+09:00
 draft: false
 title: "ラブホテルへのこだわり"
-slug: "2016/12/07"
+slug: "2016/12/07/235900"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621b72840c82.jpg"
 feature: "blog_import_6621b72840c82.jpg"

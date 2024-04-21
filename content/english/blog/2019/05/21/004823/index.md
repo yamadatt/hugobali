@@ -2,7 +2,7 @@
 date: 2019-05-21T00:48:23+09:00
 draft: false
 title: "世界的な芸術家、前川先生の１０００万超の作品はオーラがあるな。。"
-slug: "2019/05/21"
+slug: "2019/05/21/004823"
 tags: ["プライベートな話"]
 image: "blog_import_6621cca10615a.png"
 feature: "blog_import_6621cca10615a.png"

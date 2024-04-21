@@ -2,7 +2,7 @@
 date: 2017-12-22T21:42:40+09:00
 draft: false
 title: "役人のワイロへの執着はすごいな"
-slug: "2017/12/22"
+slug: "2017/12/22/214240"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c00fecda7.jpg"
 feature: "blog_import_6621c00fecda7.jpg"

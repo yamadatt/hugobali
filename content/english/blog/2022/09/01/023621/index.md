@@ -2,7 +2,7 @@
 date: 2022-09-01T02:36:21+09:00
 draft: false
 title: "暗号通貨をカード決済で購入するのが難しくなった。でも、なんとかやった。"
-slug: "2022/09/01"
+slug: "2022/09/01/023621"
 tags: ["仮想通貨・暗号通貨"]
 image: "blog_import_6621f08ae7a20.png"
 feature: "blog_import_6621f08ae7a20.png"

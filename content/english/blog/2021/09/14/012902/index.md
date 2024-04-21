@@ -2,7 +2,7 @@
 date: 2021-09-14T01:29:02+09:00
 draft: false
 title: "ここから２０年、社会は大きく変わる！？チャンスはいつだってある"
-slug: "2021/09/14"
+slug: "2021/09/14/012902"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e5f8c0c2c.png"
 feature: "blog_import_6621e5f8c0c2c.png"

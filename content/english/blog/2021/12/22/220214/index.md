@@ -2,7 +2,7 @@
 date: 2021-12-22T22:02:14+09:00
 draft: false
 title: "今年も「一陽来復」。良いことも悪いことも結局プラマイゼロなんだ。"
-slug: "2021/12/22"
+slug: "2021/12/22/220214"
 tags: ["プライベートな話"]
 image: "blog_import_6621e8a25c8ec.jpg"
 feature: "blog_import_6621e8a25c8ec.jpg"

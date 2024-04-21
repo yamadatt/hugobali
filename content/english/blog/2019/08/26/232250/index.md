@@ -2,7 +2,7 @@
 date: 2019-08-26T23:22:50+09:00
 draft: false
 title: "千葉の売ラブホテル終了です！！「いい客になることは大切だ」"
-slug: "2019/08/26"
+slug: "2019/08/26/232250"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621cfb00c719.png"
 feature: "blog_import_6621cfb00c719.png"

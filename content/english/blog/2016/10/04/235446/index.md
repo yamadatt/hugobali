@@ -2,7 +2,7 @@
 date: 2016-10-04T23:54:46+09:00
 draft: false
 title: "アンネ＝ゾフィ・ムター公演「やっぱり日本はいいな」"
-slug: "2016/10/04"
+slug: "2016/10/04/235446"
 tags: ["プライベートな話"]
 image: "blog_import_6621b449be908.jpg"
 feature: "blog_import_6621b449be908.jpg"

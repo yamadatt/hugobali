@@ -2,7 +2,7 @@
 date: 2019-01-19T18:04:40+09:00
 draft: false
 title: "昨日の歌舞伎町の土地は、民泊して利回り２６％の話だった！？"
-slug: "2019/01/19"
+slug: "2019/01/19/180440"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621c964f00dd.jpg"
 feature: "blog_import_6621c964f00dd.jpg"

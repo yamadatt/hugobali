@@ -2,7 +2,7 @@
 date: 2024-01-31T14:33:06+09:00
 draft: false
 title: "パンチャカルマ中、ブログが書けない理由"
-slug: "2024/01/31"
+slug: "2024/01/31/143306"
 tags: ["インド旅行パンチャカルマ"]
 image: "blog_import_6621ffbc46bab.jpg"
 feature: "blog_import_6621ffbc46bab.jpg"

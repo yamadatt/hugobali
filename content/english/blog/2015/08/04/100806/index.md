@@ -2,7 +2,7 @@
 date: 2015-08-04T10:08:06+09:00
 draft: false
 title: "バリ島の交通事情＆警察ワイロ"
-slug: "2015/08/04"
+slug: "2015/08/04/100806"
 tags: ["トラブルの話"]
 image: "blog_import_6621aafb448dc.jpg"
 feature: "blog_import_6621aafb448dc.jpg"

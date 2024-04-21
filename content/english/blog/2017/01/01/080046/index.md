@@ -2,7 +2,7 @@
 date: 2017-01-01T08:00:46+09:00
 draft: false
 title: "謹賀新年！！"
-slug: "2017/01/01"
+slug: "2017/01/01/080046"
 tags: ["プライベートな話"]
 image: "blog_import_6621b7e650d33.jpg"
 feature: "blog_import_6621b7e650d33.jpg"

@@ -2,7 +2,7 @@
 date: 2022-06-18T20:20:04+09:00
 draft: false
 title: "金持ちは苦労が多い！？「ロト６詐欺」"
-slug: "2022/06/18"
+slug: "2022/06/18/202004"
 tags: ["プライベートな話"]
 image: "blog_import_6621eec32ce25.png"
 feature: "blog_import_6621eec32ce25.png"

@@ -2,7 +2,7 @@
 date: 2023-09-19T18:30:13+09:00
 draft: false
 title: "会社役員任期満了での登記を忘れ過料決定が来た。その金額は意外に高額！？"
-slug: "2023/09/19"
+slug: "2023/09/19/183013"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621fce90bd1f.png"
 feature: "blog_import_6621fce90bd1f.png"

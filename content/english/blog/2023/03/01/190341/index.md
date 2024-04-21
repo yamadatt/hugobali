@@ -2,7 +2,7 @@
 date: 2023-03-01T19:03:41+09:00
 draft: false
 title: "大人になって武器になるのは、子どもの頃に好きだったことだ。"
-slug: "2023/03/01"
+slug: "2023/03/01/190341"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f660c41b8.png"
 feature: "blog_import_6621f660c41b8.png"

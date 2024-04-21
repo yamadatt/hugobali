@@ -2,7 +2,7 @@
 date: 2017-03-28T14:20:34+09:00
 draft: false
 title: "チャングー売地、売主が１０日で価格を上げた！？この展開は残念"
-slug: "2017/03/28"
+slug: "2017/03/28/142034"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621bab35e472.jpg"
 feature: "blog_import_6621bab35e472.jpg"

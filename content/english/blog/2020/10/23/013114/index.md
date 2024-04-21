@@ -2,7 +2,7 @@
 date: 2020-10-23T01:31:14+09:00
 draft: false
 title: "３月２６日（金） 第２４回「成長株投資の実践会」のお知らせ"
-slug: "2020/10/23"
+slug: "2020/10/23/013114"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621de02545e1.jpg"
 feature: "blog_import_6621de02545e1.jpg"

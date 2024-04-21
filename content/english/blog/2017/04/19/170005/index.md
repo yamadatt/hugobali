@@ -2,7 +2,7 @@
 date: 2017-04-19T17:00:05+09:00
 draft: false
 title: "このヴィラは、儲かる！？いいヴィラです！！"
-slug: "2017/04/19"
+slug: "2017/04/19/170005"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621bb0800b8b.jpg"
 feature: "blog_import_6621bb0800b8b.jpg"

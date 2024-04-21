@@ -2,7 +2,7 @@
 date: 2014-02-14T23:36:28+09:00
 draft: false
 title: "切ないランドセル"
-slug: "2014/02/14"
+slug: "2014/02/14/233628"
 tags: ["プライベートな話"]
 image: "blog_import_6621a3b533cac.png"
 feature: "blog_import_6621a3b533cac.png"

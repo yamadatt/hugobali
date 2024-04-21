@@ -2,7 +2,7 @@
 date: 2021-10-29T18:15:20+09:00
 draft: false
 title: "ビジネスは続けられるネタにしよう。「実践会セミナーの初回参加者は４名だった！？」"
-slug: "2021/10/29"
+slug: "2021/10/29/181520"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e737b98c0.jpg"
 feature: "blog_import_6621e737b98c0.jpg"

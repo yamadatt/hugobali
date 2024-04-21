@@ -2,7 +2,7 @@
 date: 2020-09-15T01:08:39+09:00
 draft: false
 title: "１０月からの第２期「成長株セミナー」、新体制について"
-slug: "2020/09/15"
+slug: "2020/09/15/010839"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621dcb1484d4.png"
 feature: "blog_import_6621dcb1484d4.png"

@@ -2,7 +2,7 @@
 date: 2017-01-26T21:45:44+09:00
 draft: false
 title: "２月１１日のバリ島不動産セミナーは締め切りました"
-slug: "2017/01/26"
+slug: "2017/01/26/214544"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621b911414cc.jpg"
 feature: "blog_import_6621b911414cc.jpg"

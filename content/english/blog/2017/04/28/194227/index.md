@@ -2,7 +2,7 @@
 date: 2017-04-28T19:42:27+09:00
 draft: false
 title: "利回り１２％確定！？箱根の温泉付き民泊用物件"
-slug: "2017/04/28"
+slug: "2017/04/28/194227"
 tags: ["プライベートな話"]
 image: "blog_import_6621bb3c7985c.jpg"
 feature: "blog_import_6621bb3c7985c.jpg"

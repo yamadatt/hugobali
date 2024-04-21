@@ -2,7 +2,7 @@
 date: 2020-08-07T02:45:05+09:00
 draft: false
 title: "コロナ後の「生ハム会」は、イベリコベジョータか！？"
-slug: "2020/08/07"
+slug: "2020/08/07/024505"
 tags: ["プライベートな話"]
 image: "blog_import_6621dc1556c8e.png"
 feature: "blog_import_6621dc1556c8e.png"

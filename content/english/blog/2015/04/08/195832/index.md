@@ -2,7 +2,7 @@
 date: 2015-04-08T19:58:32+09:00
 draft: false
 title: "バリ島とハワイの比較（食事、物価）"
-slug: "2015/04/08"
+slug: "2015/04/08/195832"
 tags: ["ブログ"]
 image: "blog_import_6621aa96871a0.jpg"
 feature: "blog_import_6621aa96871a0.jpg"

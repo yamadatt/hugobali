@@ -2,7 +2,7 @@
 date: 2017-04-02T18:37:52+09:00
 draft: false
 title: "サラリーマンが今、不動産を買うのはマジで危ない！？その２"
-slug: "2017/04/02"
+slug: "2017/04/02/183752"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621bac1ac7f6.jpg"
 feature: "blog_import_6621bac1ac7f6.jpg"

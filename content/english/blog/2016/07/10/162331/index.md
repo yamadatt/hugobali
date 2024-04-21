@@ -2,7 +2,7 @@
 date: 2016-07-10T16:23:31+09:00
 draft: false
 title: "良い物件を安く買うポイント"
-slug: "2016/07/10"
+slug: "2016/07/10/162331"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b0dea39cd.jpg"
 feature: "blog_import_6621b0dea39cd.jpg"

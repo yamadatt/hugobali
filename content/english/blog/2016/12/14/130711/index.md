@@ -2,7 +2,7 @@
 date: 2016-12-14T13:07:11+09:00
 draft: false
 title: "外国人との意思疎通は難しい「あれっ！？なんで？」"
-slug: "2016/12/14"
+slug: "2016/12/14/130711"
 tags: ["プライベートな話"]
 image: "blog_import_6621b74aacd58.jpg"
 feature: "blog_import_6621b74aacd58.jpg"

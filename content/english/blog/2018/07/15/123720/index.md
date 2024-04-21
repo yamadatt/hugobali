@@ -2,7 +2,7 @@
 date: 2018-07-15T12:37:20+09:00
 draft: false
 title: "このラブホテルもったいないな。引きこもりの人、勝負してみませんか！？"
-slug: "2018/07/15"
+slug: "2018/07/15/123720"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621c4f9b331c.jpg"
 feature: "blog_import_6621c4f9b331c.jpg"

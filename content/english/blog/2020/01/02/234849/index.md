@@ -2,7 +2,7 @@
 date: 2020-01-02T23:48:49+09:00
 draft: false
 title: "ブログは「本当に読んでほしい」と思って書こう。２０１９年のフォロワー数３１３０人。"
-slug: "2020/01/02"
+slug: "2020/01/02/234849"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d4df4047a.png"
 feature: "blog_import_6621d4df4047a.png"

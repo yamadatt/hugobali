@@ -2,7 +2,7 @@
 date: 2016-02-23T18:34:12+09:00
 draft: false
 title: "カワイイ子がサンバル食べまくりの店"
-slug: "2016/02/23"
+slug: "2016/02/23/183412"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621ace3b8416.jpg"
 feature: "blog_import_6621ace3b8416.jpg"

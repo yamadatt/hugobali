@@ -2,7 +2,7 @@
 date: 2019-02-24T17:54:27+09:00
 draft: false
 title: "タケシの結婚！？その５　マリアの実家にて初夜？"
-slug: "2019/02/24"
+slug: "2019/02/24/175427"
 tags: ["タケシ（バリ島現地スタッフ）の話"]
 image: "blog_import_6621c9f5010ce.jpg"
 feature: "blog_import_6621c9f5010ce.jpg"

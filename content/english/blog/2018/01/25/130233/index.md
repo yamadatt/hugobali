@@ -2,7 +2,7 @@
 date: 2018-01-25T13:02:33+09:00
 draft: false
 title: "満員御礼。昨日のバリ島不動産セミナー"
-slug: "2018/01/25"
+slug: "2018/01/25/130233"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c0e5da905.jpg"
 feature: "blog_import_6621c0e5da905.jpg"

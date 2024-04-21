@@ -2,7 +2,7 @@
 date: 2019-05-14T15:31:07+09:00
 draft: false
 title: "埼玉の太陽光案件 約１億４０００万円　利回り１０％、今ドキならいい案件だと思う"
-slug: "2019/05/14"
+slug: "2019/05/14/153107"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621cc7f831ff.png"
 feature: "blog_import_6621cc7f831ff.png"

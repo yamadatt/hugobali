@@ -2,7 +2,7 @@
 date: 2020-01-08T23:41:38+09:00
 draft: false
 title: "〝貸株で儲ける？&#34;そんな美味しい話があるのか。。"
-slug: "2020/01/08"
+slug: "2020/01/08/234138"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d52d8321c.png"
 feature: "blog_import_6621d52d8321c.png"

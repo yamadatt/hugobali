@@ -2,7 +2,7 @@
 date: 2021-08-05T00:45:36+09:00
 draft: false
 title: "友人の選挙事務所を訪れる。床で寝るのも悪くない。"
-slug: "2021/08/05"
+slug: "2021/08/05/004536"
 tags: ["プライベートな話"]
 image: "blog_import_6621e4d21beac.jpg"
 feature: "blog_import_6621e4d21beac.jpg"

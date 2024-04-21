@@ -2,7 +2,7 @@
 date: 2017-12-24T13:57:10+09:00
 draft: false
 title: "ワイロを使って金儲けはアリか！？"
-slug: "2017/12/24"
+slug: "2017/12/24/135710"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c01abfba3.png"
 feature: "blog_import_6621c01abfba3.png"

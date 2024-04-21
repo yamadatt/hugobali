@@ -2,7 +2,7 @@
 date: 2020-09-17T02:04:46+09:00
 draft: false
 title: "一番大切なこと「投資家マインド」とは、何か？"
-slug: "2020/09/17"
+slug: "2020/09/17/020446"
 tags: ["株式投資"]
 image: "blog_import_6621dccf7cdc1.png"
 feature: "blog_import_6621dccf7cdc1.png"

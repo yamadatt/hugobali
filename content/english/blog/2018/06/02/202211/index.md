@@ -2,7 +2,7 @@
 date: 2018-06-02T20:22:11+09:00
 draft: false
 title: "バリ島レンタルヴィラ　年159万円　格安優良物件！！"
-slug: "2018/06/02"
+slug: "2018/06/02/202211"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621c3b920992.jpg"
 feature: "blog_import_6621c3b920992.jpg"

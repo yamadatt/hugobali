@@ -2,7 +2,7 @@
 date: 2019-11-28T00:42:54+09:00
 draft: false
 title: "１月１０日(金）全１２回④第１０回初心者向け成長株セミナー「お宝銘柄を探そう」"
-slug: "2019/11/28"
+slug: "2019/11/28/004254"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d2b064c30.png"
 feature: "blog_import_6621d2b064c30.png"

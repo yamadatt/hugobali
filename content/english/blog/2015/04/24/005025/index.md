@@ -2,7 +2,7 @@
 date: 2015-04-24T00:50:25+09:00
 draft: false
 title: "バリ島　カラオケ　実践編　gegana"
-slug: "2015/04/24"
+slug: "2015/04/24/005025"
 tags: ["超実践！インドネシア語会話"]
 image: ""
 feature: ""

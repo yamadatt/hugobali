@@ -2,7 +2,7 @@
 date: 2021-05-17T23:20:03+09:00
 draft: false
 title: "怪しい投資話が継続する確率は！？"
-slug: "2021/05/17"
+slug: "2021/05/17/232003"
 tags: ["プライベートな話"]
 image: "blog_import_6621e2a47bcf9.png"
 feature: "blog_import_6621e2a47bcf9.png"

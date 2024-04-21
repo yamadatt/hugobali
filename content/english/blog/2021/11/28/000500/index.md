@@ -2,7 +2,7 @@
 date: 2021-11-28T00:05:00+09:00
 draft: false
 title: "昨日の成長株実践セミナーのご報告「ここは、損切りのタイミング！？」"
-slug: "2021/11/28"
+slug: "2021/11/28/000500"
 tags: ["株式投資"]
 image: "blog_import_6621e80917f2c.jpg"
 feature: "blog_import_6621e80917f2c.jpg"

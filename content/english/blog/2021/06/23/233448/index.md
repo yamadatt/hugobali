@@ -2,7 +2,7 @@
 date: 2021-06-23T23:34:48+09:00
 draft: false
 title: "配当金って馬鹿にならない。「誰でも勝てる」って、こうこうことなんだな。"
-slug: "2021/06/23"
+slug: "2021/06/23/233448"
 tags: ["株式投資"]
 image: "blog_import_6621e37896300.jpg"
 feature: "blog_import_6621e37896300.jpg"

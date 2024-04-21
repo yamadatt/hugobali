@@ -2,7 +2,7 @@
 date: 2014-08-20T01:44:54+09:00
 draft: false
 title: "祝？？サヌールの土地が売れた！"
-slug: "2014/08/20"
+slug: "2014/08/20/014454"
 tags: ["トラブルの話"]
 image: "blog_import_6621a744c2543.jpg"
 feature: "blog_import_6621a744c2543.jpg"

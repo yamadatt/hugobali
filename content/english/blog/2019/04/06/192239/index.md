@@ -2,7 +2,7 @@
 date: 2019-04-06T19:22:39+09:00
 draft: false
 title: "ミズテツオの世界・・芸術作品やヴァイオリンへの投資も悪くない！？"
-slug: "2019/04/06"
+slug: "2019/04/06/192239"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621caef7bcb5.jpg"
 feature: "blog_import_6621caef7bcb5.jpg"

@@ -2,7 +2,7 @@
 date: 2020-04-23T23:12:55+09:00
 draft: false
 title: "自粛ムードに思う正論の怖さ「岡江久美子さん死去はショックだなぁ」"
-slug: "2020/04/23"
+slug: "2020/04/23/231255"
 tags: ["プライベートな話"]
 image: "blog_import_6621d956696d2.png"
 feature: "blog_import_6621d956696d2.png"

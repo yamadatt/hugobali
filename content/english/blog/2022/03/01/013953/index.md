@@ -2,7 +2,7 @@
 date: 2022-03-01T01:39:53+09:00
 draft: false
 title: "日本円はもはや「安全通貨」じゃない！？"
-slug: "2022/03/01"
+slug: "2022/03/01/013953"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621eb20b5856.png"
 feature: "blog_import_6621eb20b5856.png"

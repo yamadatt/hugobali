@@ -2,7 +2,7 @@
 date: 2022-11-04T17:38:07+09:00
 draft: false
 title: "小学館DIMEに掲載「感情を入れると失敗する？個人投資家の強みを生かした株式投資術」"
-slug: "2022/11/04"
+slug: "2022/11/04/173807"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f272e16dc.png"
 feature: "blog_import_6621f272e16dc.png"

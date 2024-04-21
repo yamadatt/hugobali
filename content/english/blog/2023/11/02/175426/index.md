@@ -2,7 +2,7 @@
 date: 2023-11-02T17:54:26+09:00
 draft: false
 title: "AIは、世の中を変える。人生を変える！？"
-slug: "2023/11/02"
+slug: "2023/11/02/175426"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621fdfc491fb.png"
 feature: "blog_import_6621fdfc491fb.png"

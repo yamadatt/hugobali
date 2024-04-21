@@ -2,7 +2,7 @@
 date: 2020-01-06T22:56:34+09:00
 draft: false
 title: "やる気が出ない。。いいんだよ。誰だってそう、僕だってそうなんだ。"
-slug: "2020/01/06"
+slug: "2020/01/06/225634"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d5216587b.png"
 feature: "blog_import_6621d5216587b.png"

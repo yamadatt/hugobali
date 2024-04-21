@@ -2,7 +2,7 @@
 date: 2019-03-11T19:19:45+09:00
 draft: false
 title: "元金が３倍！？個人投資家のメリットを生かした「成長株投資」とは？"
-slug: "2019/03/11"
+slug: "2019/03/11/191945"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ca2331f1c.jpg"
 feature: "blog_import_6621ca2331f1c.jpg"

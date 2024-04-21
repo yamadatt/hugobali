@@ -2,7 +2,7 @@
 date: 2022-03-12T17:59:59+09:00
 draft: false
 title: "「事業再構築補助金」は、やる価値アリ！？"
-slug: "2022/03/12"
+slug: "2022/03/12/175959"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621ec080f8ec.jpg"
 feature: "blog_import_6621ec080f8ec.jpg"

@@ -2,7 +2,7 @@
 date: 2023-09-16T22:05:22+09:00
 draft: false
 title: "男にこだわりは必要か？"
-slug: "2023/09/16"
+slug: "2023/09/16/220522"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621fce47d68c.png"
 feature: "blog_import_6621fce47d68c.png"

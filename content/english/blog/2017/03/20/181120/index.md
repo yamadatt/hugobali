@@ -2,7 +2,7 @@
 date: 2017-03-20T18:11:20+09:00
 draft: false
 title: "成功の条件１「自分を客観視しよう」"
-slug: "2017/03/20"
+slug: "2017/03/20/181120"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ba876418a.jpg"
 feature: "blog_import_6621ba876418a.jpg"

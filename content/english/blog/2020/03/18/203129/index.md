@@ -2,7 +2,7 @@
 date: 2020-03-18T20:31:29+09:00
 draft: false
 title: "長田先生からのメッセージ【その５】「補給線を確保、健康で株式ができることに感謝」"
-slug: "2020/03/18"
+slug: "2020/03/18/203129"
 tags: ["株式投資"]
 image: "blog_import_6621d7d390d6d.png"
 feature: "blog_import_6621d7d390d6d.png"

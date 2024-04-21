@@ -2,7 +2,7 @@
 date: 2021-04-16T02:08:49+09:00
 draft: false
 title: "第３回馬場ゴルフ部コンペの報告。ハンデ方式は何がいいのか？"
-slug: "2021/04/16"
+slug: "2021/04/16/020849"
 tags: ["ゴルフ"]
 image: "blog_import_6621e20290618.png"
 feature: "blog_import_6621e20290618.png"

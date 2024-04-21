@@ -2,7 +2,7 @@
 date: 2017-09-11T13:44:00+09:00
 draft: false
 title: "バリ島セミナー満席につき、６席追加"
-slug: "2017/09/11"
+slug: "2017/09/11/134400"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621bd50ddfde.jpg"
 feature: "blog_import_6621bd50ddfde.jpg"

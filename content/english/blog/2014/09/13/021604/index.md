@@ -2,7 +2,7 @@
 date: 2014-09-13T02:16:04+09:00
 draft: false
 title: "バリ島のバイク事故"
-slug: "2014/09/13"
+slug: "2014/09/13/021604"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621a894238d9.jpg"
 feature: "blog_import_6621a894238d9.jpg"

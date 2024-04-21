@@ -2,7 +2,7 @@
 date: 2017-02-24T23:00:00+09:00
 draft: false
 title: "インドネシアでの起業には、チャンスがある！？"
-slug: "2017/02/24"
+slug: "2017/02/24/230000"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ba07a9206.jpg"
 feature: "blog_import_6621ba07a9206.jpg"

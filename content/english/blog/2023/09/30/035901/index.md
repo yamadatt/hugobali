@@ -2,7 +2,7 @@
 date: 2023-09-30T03:59:01+09:00
 draft: false
 title: "ラブホテル業界の雄たち。「いい時代があったんだなぁ」"
-slug: "2023/09/30"
+slug: "2023/09/30/035901"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621fd0b1435b.png"
 feature: "blog_import_6621fd0b1435b.png"

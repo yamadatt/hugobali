@@ -2,7 +2,7 @@
 date: 2021-08-12T23:35:28+09:00
 draft: false
 title: "事業再生・復活で、大切なことは何か。その２「カネを生むことだけをやる」"
-slug: "2021/08/12"
+slug: "2021/08/12/233528"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e4fa57a94.png"
 feature: "blog_import_6621e4fa57a94.png"

@@ -2,7 +2,7 @@
 date: 2016-01-29T19:25:16+09:00
 draft: false
 title: "ジャカルタの不動産投資"
-slug: "2016/01/29"
+slug: "2016/01/29/192516"
 tags: ["ブログ"]
 image: ""
 feature: ""

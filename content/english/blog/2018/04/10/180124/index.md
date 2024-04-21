@@ -2,7 +2,7 @@
 date: 2018-04-10T18:01:24+09:00
 draft: false
 title: "満員御礼。第３９回バリ島不動産セミナー"
-slug: "2018/04/10"
+slug: "2018/04/10/180124"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c2d0a110d.jpg"
 feature: "blog_import_6621c2d0a110d.jpg"

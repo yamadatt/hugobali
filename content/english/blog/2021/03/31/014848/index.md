@@ -2,7 +2,7 @@
 date: 2021-03-31T01:48:48+09:00
 draft: false
 title: "１２月３日（金）【第３期】第３回「成長株基礎セミナー」のご案内"
-slug: "2021/03/31"
+slug: "2021/03/31/014848"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621e1a7cd453.jpg"
 feature: "blog_import_6621e1a7cd453.jpg"

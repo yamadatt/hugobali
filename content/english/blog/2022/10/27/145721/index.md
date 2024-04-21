@@ -2,7 +2,7 @@
 date: 2022-10-27T14:57:21+09:00
 draft: false
 title: "第２０回馬場ゴルフ部月例の報告「金目鯛の煮つけ」"
-slug: "2022/10/27"
+slug: "2022/10/27/145721"
 tags: ["ゴルフ"]
 image: "blog_import_6621f20a52efa.jpg"
 feature: "blog_import_6621f20a52efa.jpg"

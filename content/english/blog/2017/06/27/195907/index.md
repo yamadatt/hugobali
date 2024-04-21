@@ -2,7 +2,7 @@
 date: 2017-06-27T19:59:07+09:00
 draft: false
 title: "華がある、遊び心がある物件（ヴィラ）を選ぼう"
-slug: "2017/06/27"
+slug: "2017/06/27/195907"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621bc1e7a37e.jpg"
 feature: "blog_import_6621bc1e7a37e.jpg"

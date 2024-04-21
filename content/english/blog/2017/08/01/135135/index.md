@@ -2,7 +2,7 @@
 date: 2017-08-01T13:51:35+09:00
 draft: false
 title: "第３２回 バリ島不動産セミナーの日程９月２０日に変更"
-slug: "2017/08/01"
+slug: "2017/08/01/135135"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621bc919b48a.jpg"
 feature: "blog_import_6621bc919b48a.jpg"

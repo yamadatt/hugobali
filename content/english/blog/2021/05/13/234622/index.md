@@ -2,7 +2,7 @@
 date: 2021-05-13T23:46:22+09:00
 draft: false
 title: "「たら」「れば」思考。つい、やってしまう"
-slug: "2021/05/13"
+slug: "2021/05/13/234622"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e29536b79.jpg"
 feature: "blog_import_6621e29536b79.jpg"

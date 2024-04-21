@@ -2,7 +2,7 @@
 date: 2019-09-17T23:01:22+09:00
 draft: false
 title: "１０月４日第７回（全１２回①）初心者向け成長株投資セミナー「どうやって株で儲けるのか？」"
-slug: "2019/09/17"
+slug: "2019/09/17/230122"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cfe7ce58b.jpg"
 feature: "blog_import_6621cfe7ce58b.jpg"

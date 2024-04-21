@@ -2,7 +2,7 @@
 date: 2017-01-07T18:18:47+09:00
 draft: false
 title: "正月から３ヶ所責め「巨人オーナーと水トラブルの決着」"
-slug: "2017/01/07"
+slug: "2017/01/07/181847"
 tags: ["トラブルの話"]
 image: "blog_import_6621b833d38af.jpg"
 feature: "blog_import_6621b833d38af.jpg"

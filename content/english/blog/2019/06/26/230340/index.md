@@ -2,7 +2,7 @@
 date: 2019-06-26T23:03:40+09:00
 draft: false
 title: "社内恋愛の果てに。。残るのはどちらだ！？"
-slug: "2019/06/26"
+slug: "2019/06/26/230340"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621ce2114c16.png"
 feature: "blog_import_6621ce2114c16.png"

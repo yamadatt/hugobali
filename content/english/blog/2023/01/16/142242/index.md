@@ -2,7 +2,7 @@
 date: 2023-01-16T14:22:42+09:00
 draft: false
 title: "売店舗１００万！！友人から営業中の焼肉店。千葉県船橋市の幹線道路沿い。"
-slug: "2023/01/16"
+slug: "2023/01/16/142242"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621f4844c537.png"
 feature: "blog_import_6621f4844c537.png"

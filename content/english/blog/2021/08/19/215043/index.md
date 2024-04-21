@@ -2,7 +2,7 @@
 date: 2021-08-19T21:50:43+09:00
 draft: false
 title: "これは安い！？ バリ島ウブド売ヴィラ１０００万円　利回り１５.３％！？"
-slug: "2021/08/19"
+slug: "2021/08/19/215043"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621e52b3efad.jpg"
 feature: "blog_import_6621e52b3efad.jpg"

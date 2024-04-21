@@ -2,7 +2,7 @@
 date: 2017-04-03T22:14:40+09:00
 draft: false
 title: "今を生きよう。破産した先輩に思う"
-slug: "2017/04/03"
+slug: "2017/04/03/221440"
 tags: ["プライベートな話"]
 image: "blog_import_6621bac5004fb.jpg"
 feature: "blog_import_6621bac5004fb.jpg"

@@ -2,7 +2,7 @@
 date: 2022-04-17T08:08:01+09:00
 draft: false
 title: "情報商材で3億円稼いだ人の話"
-slug: "2022/04/17"
+slug: "2022/04/17/080801"
 tags: ["プライベートな話"]
 image: "blog_import_6621ed31d0732.jpg"
 feature: "blog_import_6621ed31d0732.jpg"

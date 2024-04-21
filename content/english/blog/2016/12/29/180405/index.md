@@ -2,7 +2,7 @@
 date: 2016-12-29T18:04:05+09:00
 draft: false
 title: "「だからオマエ貧乏なんだよ」成功したけりゃ、頑固は捨てろ"
-slug: "2016/12/29"
+slug: "2016/12/29/180405"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b76037021.jpg"
 feature: "blog_import_6621b76037021.jpg"

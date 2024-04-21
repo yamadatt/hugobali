@@ -2,7 +2,7 @@
 date: 2019-10-03T23:48:33+09:00
 draft: false
 title: "お金持ちが株をやる理由。なぜ、株の税金は優遇されているのか？"
-slug: "2019/10/03"
+slug: "2019/10/03/234833"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d048375db.png"
 feature: "blog_import_6621d048375db.png"

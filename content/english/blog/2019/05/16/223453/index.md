@@ -2,7 +2,7 @@
 date: 2019-05-16T22:34:53+09:00
 draft: false
 title: "５月１８日のふりーパパのセミナーは、満席となりました！！"
-slug: "2019/05/16"
+slug: "2019/05/16/223453"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cc8e6d958.jpg"
 feature: "blog_import_6621cc8e6d958.jpg"

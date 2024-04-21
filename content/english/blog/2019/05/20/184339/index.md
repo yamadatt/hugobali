@@ -2,7 +2,7 @@
 date: 2019-05-20T18:43:39+09:00
 draft: false
 title: "バリ島ヴィラで、ホタル狩り、ヨガ教室を開始！？"
-slug: "2019/05/20"
+slug: "2019/05/20/184339"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621cc9a118c0.png"
 feature: "blog_import_6621cc9a118c0.png"

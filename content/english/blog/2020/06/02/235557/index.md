@@ -2,7 +2,7 @@
 date: 2020-06-02T23:55:57+09:00
 draft: false
 title: "お金を生む、という概念を見直してみよう"
-slug: "2020/06/02"
+slug: "2020/06/02/235557"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621da621dc29.png"
 feature: "blog_import_6621da621dc29.png"

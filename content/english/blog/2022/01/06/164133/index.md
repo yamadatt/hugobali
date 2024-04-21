@@ -2,7 +2,7 @@
 date: 2022-01-06T16:41:33+09:00
 draft: false
 title: "不寛容社会は世知辛い。大らかに生きよう"
-slug: "2022/01/06"
+slug: "2022/01/06/164133"
 tags: ["プライベートな話"]
 image: "blog_import_6621e9595fbd7.jpg"
 feature: "blog_import_6621e9595fbd7.jpg"

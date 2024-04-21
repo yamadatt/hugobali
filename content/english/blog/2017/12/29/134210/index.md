@@ -2,7 +2,7 @@
 date: 2017-12-29T13:42:10+09:00
 draft: false
 title: "第３５回バリ島不動産セミナー１月２４日（水）に決定！"
-slug: "2017/12/29"
+slug: "2017/12/29/134210"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c043f26c7.jpg"
 feature: "blog_import_6621c043f26c7.jpg"

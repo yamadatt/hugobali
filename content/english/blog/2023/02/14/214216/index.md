@@ -2,7 +2,7 @@
 date: 2023-02-14T21:42:16+09:00
 draft: false
 title: "プライベートバンカー案件：未公開株「ファンディーノ」。２年で２倍くらい！？興味ありますか？"
-slug: "2023/02/14"
+slug: "2023/02/14/214216"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621f5f697273.png"
 feature: "blog_import_6621f5f697273.png"

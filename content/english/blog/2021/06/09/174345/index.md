@@ -2,7 +2,7 @@
 date: 2021-06-09T17:43:45+09:00
 draft: false
 title: "クロマグロ釣り、、夢があるなあ。"
-slug: "2021/06/09"
+slug: "2021/06/09/174345"
 tags: ["プライベートな話"]
 image: "blog_import_6621e325915b5.png"
 feature: "blog_import_6621e325915b5.png"

@@ -2,7 +2,7 @@
 date: 2019-11-07T01:14:19+09:00
 draft: false
 title: "恥ずかしい姿をガルーダのCAに見られた！？"
-slug: "2019/11/07"
+slug: "2019/11/07/011419"
 tags: ["プライベートな話"]
 image: "blog_import_6621d1ddf2f8b.png"
 feature: "blog_import_6621d1ddf2f8b.png"

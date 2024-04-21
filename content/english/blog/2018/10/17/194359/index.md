@@ -2,7 +2,7 @@
 date: 2018-10-17T19:43:59+09:00
 draft: false
 title: "ロボット化した世界って、豊かなのかな。どうなるのかな。"
-slug: "2018/10/17"
+slug: "2018/10/17/194359"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c6e628d92.jpg"
 feature: "blog_import_6621c6e628d92.jpg"

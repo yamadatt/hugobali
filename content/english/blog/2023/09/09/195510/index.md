@@ -2,7 +2,7 @@
 date: 2023-09-09T19:55:10+09:00
 draft: false
 title: "サラリーマンの長期休暇で年2回、一人旅をする若者。「一人旅のよさ」とは？"
-slug: "2023/09/09"
+slug: "2023/09/09/195510"
 tags: ["プライベートな話"]
 image: "blog_import_6621fcb1046be.png"
 feature: "blog_import_6621fcb1046be.png"

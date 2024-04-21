@@ -2,7 +2,7 @@
 date: 2016-08-23T17:25:22+09:00
 draft: false
 title: "倒れた看板が車を直撃！？"
-slug: "2016/08/23"
+slug: "2016/08/23/172522"
 tags: ["ブログ"]
 image: "blog_import_6621b2d46ce6c.jpg"
 feature: "blog_import_6621b2d46ce6c.jpg"

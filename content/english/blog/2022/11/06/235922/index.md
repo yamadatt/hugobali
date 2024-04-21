@@ -2,7 +2,7 @@
 date: 2022-11-06T23:59:22+09:00
 draft: false
 title: "子どもの習い事の目的。「娘のヴァイオリン発表会に思う」"
-slug: "2022/11/06"
+slug: "2022/11/06/235922"
 tags: ["プライベートな話"]
 image: "blog_import_6621f27b39a8b.png"
 feature: "blog_import_6621f27b39a8b.png"

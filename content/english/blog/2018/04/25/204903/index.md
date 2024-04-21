@@ -2,7 +2,7 @@
 date: 2018-04-25T20:49:03+09:00
 draft: false
 title: "呪術師バリアンのいじめ！？"
-slug: "2018/04/25"
+slug: "2018/04/25/204903"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c32017dbc.jpg"
 feature: "blog_import_6621c32017dbc.jpg"

@@ -2,7 +2,7 @@
 date: 2018-09-21T00:24:51+09:00
 draft: false
 title: "ラブホテルの改装は、大変なんですぞ"
-slug: "2018/09/21"
+slug: "2018/09/21/002451"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621c63cbdc36.jpg"
 feature: "blog_import_6621c63cbdc36.jpg"

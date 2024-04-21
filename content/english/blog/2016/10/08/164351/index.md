@@ -2,7 +2,7 @@
 date: 2016-10-08T16:43:51+09:00
 draft: false
 title: "「どうだ！？　このホテル、スゴくない！？」"
-slug: "2016/10/08"
+slug: "2016/10/08/164351"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621b4a8c9bc2.jpg"
 feature: "blog_import_6621b4a8c9bc2.jpg"

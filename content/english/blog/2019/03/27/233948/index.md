@@ -2,7 +2,7 @@
 date: 2019-03-27T23:39:48+09:00
 draft: false
 title: "なぜ、株式や不動産などの安定運用を勧めるのか？"
-slug: "2019/03/27"
+slug: "2019/03/27/233948"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ca8bc3b51.png"
 feature: "blog_import_6621ca8bc3b51.png"

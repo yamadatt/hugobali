@@ -2,7 +2,7 @@
 date: 2015-01-07T22:23:59+09:00
 draft: false
 title: "バリ島　売店舗　サーフショップ　６００万円"
-slug: "2015/01/07"
+slug: "2015/01/07/222359"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621a94353746.jpg"
 feature: "blog_import_6621a94353746.jpg"

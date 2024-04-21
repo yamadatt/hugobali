@@ -2,7 +2,7 @@
 date: 2020-09-04T01:16:08+09:00
 draft: false
 title: "竹岡式ラーメン発祥の「梅乃家」。まだやってたんだ。。頑張れ、飲食店！！"
-slug: "2020/09/04"
+slug: "2020/09/04/011608"
 tags: ["プライベートな話"]
 image: "blog_import_6621dc851b118.png"
 feature: "blog_import_6621dc851b118.png"

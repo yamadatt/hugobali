@@ -2,7 +2,7 @@
 date: 2021-04-04T23:53:04+09:00
 draft: false
 title: "人生は答えがないもの。就職活動中の娘を見て思う。"
-slug: "2021/04/04"
+slug: "2021/04/04/235304"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e1e562562.png"
 feature: "blog_import_6621e1e562562.png"

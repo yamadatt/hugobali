@@ -2,7 +2,7 @@
 date: 2021-09-13T00:20:59+09:00
 draft: false
 title: "【ご報告】決定！！釣道楽「ジグ鉄」ロゴデザイン"
-slug: "2021/09/13"
+slug: "2021/09/13/002059"
 tags: ["マグロ釣り"]
 image: "blog_import_6621e5f317c0b.png"
 feature: "blog_import_6621e5f317c0b.png"

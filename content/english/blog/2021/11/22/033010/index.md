@@ -2,7 +2,7 @@
 date: 2021-11-22T03:30:10+09:00
 draft: false
 title: "浜野ゴルフの新入会員コンペで優勝を目指す。その結果は！？"
-slug: "2021/11/22"
+slug: "2021/11/22/033010"
 tags: ["ゴルフ"]
 image: "blog_import_6621e7da66e0b.jpg"
 feature: "blog_import_6621e7da66e0b.jpg"

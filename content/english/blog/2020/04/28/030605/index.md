@@ -2,7 +2,7 @@
 date: 2020-04-28T03:06:05+09:00
 draft: false
 title: "インドネシアの国内航空停止で、ヤバい航空会社が淘汰されるのか！？"
-slug: "2020/04/28"
+slug: "2020/04/28/030605"
 tags: ["プライベートな話"]
 image: "blog_import_6621d988b08b9.png"
 feature: "blog_import_6621d988b08b9.png"

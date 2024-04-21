@@ -2,7 +2,7 @@
 date: 2018-05-11T02:10:37+09:00
 draft: false
 title: "日本人がバリ島、新興国で働く優位性"
-slug: "2018/05/11"
+slug: "2018/05/11/021037"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c348df08e.jpg"
 feature: "blog_import_6621c348df08e.jpg"

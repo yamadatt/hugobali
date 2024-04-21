@@ -2,7 +2,7 @@
 date: 2020-04-14T04:36:21+09:00
 draft: false
 title: "沖縄は、暖かくて住みやすい場所なのか？"
-slug: "2020/04/14"
+slug: "2020/04/14/043621"
 tags: ["プライベートな話"]
 image: "blog_import_6621d88756cbe.png"
 feature: "blog_import_6621d88756cbe.png"

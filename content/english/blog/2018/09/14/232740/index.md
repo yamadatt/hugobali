@@ -2,7 +2,7 @@
 date: 2018-09-14T23:27:40+09:00
 draft: false
 title: "海外投資は、今後どの国が面白いのか。"
-slug: "2018/09/14"
+slug: "2018/09/14/232740"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c61018eec.jpg"
 feature: "blog_import_6621c61018eec.jpg"

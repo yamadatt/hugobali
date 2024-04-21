@@ -2,7 +2,7 @@
 date: 2019-05-13T23:59:56+09:00
 draft: false
 title: "インスタグラムをプロに頼んだら、、いきなりフォロワーが増えた。１３０００人超！？"
-slug: "2019/05/13"
+slug: "2019/05/13/235956"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621cc7bdaaa9.png"
 feature: "blog_import_6621cc7bdaaa9.png"

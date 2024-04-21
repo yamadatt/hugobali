@@ -2,7 +2,7 @@
 date: 2017-02-12T17:24:07+09:00
 draft: false
 title: "満員御礼！バリ島不動産セミナー「資産を増やすのは難しいことじゃない」"
-slug: "2017/02/12"
+slug: "2017/02/12/172407"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621b9b8841a4.jpg"
 feature: "blog_import_6621b9b8841a4.jpg"

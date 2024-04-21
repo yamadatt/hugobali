@@ -2,7 +2,7 @@
 date: 2016-11-08T23:21:37+09:00
 draft: false
 title: "今思い出しても秀逸な◯◯女子大の「奇跡」の学園祭企画"
-slug: "2016/11/08"
+slug: "2016/11/08/232137"
 tags: ["ブログ"]
 image: "blog_import_6621b64d4de25.jpg"
 feature: "blog_import_6621b64d4de25.jpg"

@@ -2,7 +2,7 @@
 date: 2022-10-14T17:59:05+09:00
 draft: false
 title: "国立市の高級住宅街の売り豪邸。これは儲かる！？"
-slug: "2022/10/14"
+slug: "2022/10/14/175905"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621f1b7ee17c.png"
 feature: "blog_import_6621f1b7ee17c.png"

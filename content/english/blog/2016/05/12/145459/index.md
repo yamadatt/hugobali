@@ -2,7 +2,7 @@
 date: 2016-05-12T14:54:59+09:00
 draft: false
 title: "相続物件　利回り１６％八王子のアパート"
-slug: "2016/05/12"
+slug: "2016/05/12/145459"
 tags: ["プライベートな話"]
 image: "blog_import_6621af86b2008.jpg"
 feature: "blog_import_6621af86b2008.jpg"

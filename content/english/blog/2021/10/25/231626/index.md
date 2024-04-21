@@ -2,7 +2,7 @@
 date: 2021-10-25T23:16:26+09:00
 draft: false
 title: "２つの封筒のパラドックスで「株を買った方が得なのか？」検証する"
-slug: "2021/10/25"
+slug: "2021/10/25/231626"
 tags: ["株式投資"]
 image: "blog_import_6621e7177b298.png"
 feature: "blog_import_6621e7177b298.png"

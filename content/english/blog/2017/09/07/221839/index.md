@@ -2,7 +2,7 @@
 date: 2017-09-07T22:18:39+09:00
 draft: false
 title: "お詫び。連日のテレビ報道での誤解について"
-slug: "2017/09/07"
+slug: "2017/09/07/221839"
 tags: ["バリ島でのロングステイ"]
 image: "blog_import_6621bd4443b3d.jpg"
 feature: "blog_import_6621bd4443b3d.jpg"

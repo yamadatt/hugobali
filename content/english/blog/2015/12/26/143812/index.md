@@ -2,7 +2,7 @@
 date: 2015-12-26T14:38:12+09:00
 draft: false
 title: "バリ島の祭日"
-slug: "2015/12/26"
+slug: "2015/12/26/143812"
 tags: ["バリ島あれこれ"]
 image: ""
 feature: ""

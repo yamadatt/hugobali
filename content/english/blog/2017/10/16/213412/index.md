@@ -2,7 +2,7 @@
 date: 2017-10-16T21:34:12+09:00
 draft: false
 title: "オーナーご夫婦の訪バリ。バリ島の不動産は実際のところ儲かるのか！？"
-slug: "2017/10/16"
+slug: "2017/10/16/213412"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621bdf3204c3.jpg"
 feature: "blog_import_6621bdf3204c3.jpg"

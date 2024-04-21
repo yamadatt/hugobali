@@ -2,7 +2,7 @@
 date: 2018-05-21T18:07:53+09:00
 draft: false
 title: "即興コンサルセミナーが、めちゃくちゃ疲れた理由"
-slug: "2018/05/21"
+slug: "2018/05/21/180753"
 tags: ["プライベートな話"]
 image: "blog_import_6621c36e905f5.jpg"
 feature: "blog_import_6621c36e905f5.jpg"

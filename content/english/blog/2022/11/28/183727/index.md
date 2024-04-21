@@ -2,7 +2,7 @@
 date: 2022-11-28T18:37:27+09:00
 draft: false
 title: "再生医療。上清液の原液で試してみようかな。。"
-slug: "2022/11/28"
+slug: "2022/11/28/183727"
 tags: ["プライベートな話"]
 image: "blog_import_6621f342b1c7b.png"
 feature: "blog_import_6621f342b1c7b.png"

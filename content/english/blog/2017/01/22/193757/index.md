@@ -2,7 +2,7 @@
 date: 2017-01-22T19:37:57+09:00
 draft: false
 title: "日本人をナメんなよ！？「建築隣地のクレーマー」"
-slug: "2017/01/22"
+slug: "2017/01/22/193757"
 tags: ["トラブルの話"]
 image: "blog_import_6621b8aab803f.jpg"
 feature: "blog_import_6621b8aab803f.jpg"

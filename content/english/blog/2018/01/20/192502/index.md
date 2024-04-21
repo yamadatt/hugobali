@@ -2,7 +2,7 @@
 date: 2018-01-20T19:25:02+09:00
 draft: false
 title: "先進国の人間は、新興国でのビジネスチャンスは多い"
-slug: "2018/01/20"
+slug: "2018/01/20/192502"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c0c2874a5.jpg"
 feature: "blog_import_6621c0c2874a5.jpg"

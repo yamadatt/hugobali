@@ -2,7 +2,7 @@
 date: 2017-04-11T17:18:59+09:00
 draft: false
 title: "売りラブホが出た。急遽、新潟へ。"
-slug: "2017/04/11"
+slug: "2017/04/11/171859"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621badf322e4.jpg"
 feature: "blog_import_6621badf322e4.jpg"

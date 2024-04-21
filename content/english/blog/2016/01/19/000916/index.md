@@ -2,7 +2,7 @@
 date: 2016-01-19T00:09:16+09:00
 draft: false
 title: "マイルの威力"
-slug: "2016/01/19"
+slug: "2016/01/19/000916"
 tags: ["プライベートな話"]
 image: ""
 feature: ""

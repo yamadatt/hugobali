@@ -2,7 +2,7 @@
 date: 2019-10-12T17:08:15+09:00
 draft: false
 title: "バリ島ウブドゥ売ヴィラ　２８３６万円　利回り１４.８％！？"
-slug: "2019/10/12"
+slug: "2019/10/12/170815"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621d0d0f1a8a.jpg"
 feature: "blog_import_6621d0d0f1a8a.jpg"

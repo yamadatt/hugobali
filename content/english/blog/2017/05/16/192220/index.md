@@ -2,7 +2,7 @@
 date: 2017-05-16T19:22:20+09:00
 draft: false
 title: "ビッグボス宅、ジンバランの豪邸でパーティー"
-slug: "2017/05/16"
+slug: "2017/05/16/192220"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621bb6832873.jpg"
 feature: "blog_import_6621bb6832873.jpg"

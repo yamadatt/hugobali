@@ -2,7 +2,7 @@
 date: 2019-07-10T00:12:14+09:00
 draft: false
 title: "超優良！？青森市　売ラブホテル　利回り２５％　６８００万円"
-slug: "2019/07/10"
+slug: "2019/07/10/001214"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621ce7e77bef.png"
 feature: "blog_import_6621ce7e77bef.png"

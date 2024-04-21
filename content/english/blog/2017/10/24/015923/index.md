@@ -2,7 +2,7 @@
 date: 2017-10-24T01:59:23+09:00
 draft: false
 title: "小池百合子さんらと一夜を共にした話"
-slug: "2017/10/24"
+slug: "2017/10/24/015923"
 tags: ["プライベートな話"]
 image: "blog_import_6621be1221949.jpg"
 feature: "blog_import_6621be1221949.jpg"

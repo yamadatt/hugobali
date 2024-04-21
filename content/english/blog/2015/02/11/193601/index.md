@@ -2,7 +2,7 @@
 date: 2015-02-11T19:36:01+09:00
 draft: false
 title: "バリ島　サヌール土地　1300㎡　約2200万円"
-slug: "2015/02/11"
+slug: "2015/02/11/193601"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621a9520e7cb.jpg"
 feature: "blog_import_6621a9520e7cb.jpg"

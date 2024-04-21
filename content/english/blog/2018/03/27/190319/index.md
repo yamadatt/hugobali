@@ -2,7 +2,7 @@
 date: 2018-03-27T19:03:19+09:00
 draft: false
 title: "海外では、いい業者を知っていることがノウハウだ"
-slug: "2018/03/27"
+slug: "2018/03/27/190319"
 tags: ["トラブルの話"]
 image: "blog_import_6621c206bb909.jpg"
 feature: "blog_import_6621c206bb909.jpg"

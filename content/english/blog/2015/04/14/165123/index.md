@@ -2,7 +2,7 @@
 date: 2015-04-14T16:51:23+09:00
 draft: false
 title: "成功者は少数派"
-slug: "2015/04/14"
+slug: "2015/04/14/165123"
 tags: ["ブログ"]
 image: "blog_import_6621aaa796ce7.jpg"
 feature: "blog_import_6621aaa796ce7.jpg"

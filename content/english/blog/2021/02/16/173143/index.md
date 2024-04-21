@@ -2,7 +2,7 @@
 date: 2021-02-16T17:31:43+09:00
 draft: false
 title: "ヒザの痛みがなくなった！？NASAの機械はスゴい"
-slug: "2021/02/16"
+slug: "2021/02/16/173143"
 tags: ["プライベートな話"]
 image: "blog_import_6621e06ca973e.png"
 feature: "blog_import_6621e06ca973e.png"

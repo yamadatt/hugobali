@@ -2,7 +2,7 @@
 date: 2018-10-16T20:21:18+09:00
 draft: false
 title: "ラブホテルとＡＩ・ロボットは親和性が高い！？"
-slug: "2018/10/16"
+slug: "2018/10/16/202118"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621c6e0aee2e.jpg"
 feature: "blog_import_6621c6e0aee2e.jpg"

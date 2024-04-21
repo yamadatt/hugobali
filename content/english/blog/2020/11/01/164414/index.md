@@ -2,7 +2,7 @@
 date: 2020-11-01T16:44:14+09:00
 draft: false
 title: "成長株の調整局面での対応は？"
-slug: "2020/11/01"
+slug: "2020/11/01/164414"
 tags: ["株式投資"]
 image: "blog_import_6621de350a264.png"
 feature: "blog_import_6621de350a264.png"

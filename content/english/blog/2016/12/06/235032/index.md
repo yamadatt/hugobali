@@ -2,7 +2,7 @@
 date: 2016-12-06T23:50:32+09:00
 draft: false
 title: "宿泊客からのクレーム「WIFI」"
-slug: "2016/12/06"
+slug: "2016/12/06/235032"
 tags: ["トラブルの話"]
 image: "blog_import_6621b724a8763.jpg"
 feature: "blog_import_6621b724a8763.jpg"

@@ -2,7 +2,7 @@
 date: 2021-07-14T23:20:06+09:00
 draft: false
 title: "千葉ゴルフ＆新潟マグロ。ハードな１日。"
-slug: "2021/07/14"
+slug: "2021/07/14/232006"
 tags: ["プライベートな話"]
 image: "blog_import_6621e40d3161a.jpg"
 feature: "blog_import_6621e40d3161a.jpg"

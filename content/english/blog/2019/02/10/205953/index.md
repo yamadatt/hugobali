@@ -2,7 +2,7 @@
 date: 2019-02-10T20:59:53+09:00
 draft: false
 title: "茨城の売ラブホテル２軒　賃料保証１０％超！？"
-slug: "2019/02/10"
+slug: "2019/02/10/205953"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621c9b025e23.jpg"
 feature: "blog_import_6621c9b025e23.jpg"

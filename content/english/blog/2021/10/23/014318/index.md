@@ -2,7 +2,7 @@
 date: 2021-10-23T01:43:18+09:00
 draft: false
 title: "人生を楽しむ達人「人力車男優」"
-slug: "2021/10/23"
+slug: "2021/10/23/014318"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e703a2c30.jpg"
 feature: "blog_import_6621e703a2c30.jpg"

@@ -2,7 +2,7 @@
 date: 2022-08-09T18:00:35+09:00
 draft: false
 title: "「出会うの確率」から「国防の危うさ」を感じる。日本も核を持とう。"
-slug: "2022/08/09"
+slug: "2022/08/09/180035"
 tags: ["プライベートな話"]
 image: "blog_import_6621f00c34551.png"
 feature: "blog_import_6621f00c34551.png"

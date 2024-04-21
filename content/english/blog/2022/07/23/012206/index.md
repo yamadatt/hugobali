@@ -2,7 +2,7 @@
 date: 2022-07-23T01:22:06+09:00
 draft: false
 title: "ファスティング合宿初日"
-slug: "2022/07/23"
+slug: "2022/07/23/012206"
 tags: ["ファスティング合宿ダイエット"]
 image: "blog_import_6621efb26dcd5.jpg"
 feature: "blog_import_6621efb26dcd5.jpg"

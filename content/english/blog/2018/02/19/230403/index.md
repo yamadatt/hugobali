@@ -2,7 +2,7 @@
 date: 2018-02-19T23:04:03+09:00
 draft: false
 title: "ヴィラの改装はやるべき！？ビフォー＆アフター"
-slug: "2018/02/19"
+slug: "2018/02/19/230403"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621c1b91539c.jpg"
 feature: "blog_import_6621c1b91539c.jpg"

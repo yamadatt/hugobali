@@ -2,7 +2,7 @@
 date: 2021-05-14T23:56:07+09:00
 draft: false
 title: "インドネシア人は、コロナ感染防止でも規制を破る！？さすがだな。。"
-slug: "2021/05/14"
+slug: "2021/05/14/235607"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621e29acd884.jpg"
 feature: "blog_import_6621e29acd884.jpg"

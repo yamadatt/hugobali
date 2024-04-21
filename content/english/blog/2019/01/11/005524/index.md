@@ -2,7 +2,7 @@
 date: 2019-01-11T00:55:24+09:00
 draft: false
 title: "千葉県売ラブホテル１億円。利回り２０％。"
-slug: "2019/01/11"
+slug: "2019/01/11/005524"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621c91f44990.jpg"
 feature: "blog_import_6621c91f44990.jpg"

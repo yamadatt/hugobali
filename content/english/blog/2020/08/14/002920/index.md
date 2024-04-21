@@ -2,7 +2,7 @@
 date: 2020-08-14T00:29:20+09:00
 draft: false
 title: "第１１回「初心者向け成長株セミナー」に寄せられた感想。チャンスをつかむ準備をしておこう"
-slug: "2020/08/14"
+slug: "2020/08/14/002920"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621dc30a776f.jpg"
 feature: "blog_import_6621dc30a776f.jpg"

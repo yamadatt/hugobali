@@ -2,7 +2,7 @@
 date: 2020-07-16T22:43:20+09:00
 draft: false
 title: "今日は食べ過ぎ飲み過ぎで書く気がしない。それでいいじゃないか。"
-slug: "2020/07/16"
+slug: "2020/07/16/224320"
 tags: ["プライベートな話"]
 image: "blog_import_6621db8c81794.png"
 feature: "blog_import_6621db8c81794.png"

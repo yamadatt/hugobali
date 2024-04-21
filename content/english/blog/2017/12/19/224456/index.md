@@ -2,7 +2,7 @@
 date: 2017-12-19T22:44:56+09:00
 draft: false
 title: "オーラ出まくりの関西の女性投資家さま"
-slug: "2017/12/19"
+slug: "2017/12/19/224456"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621bf8a77370.jpg"
 feature: "blog_import_6621bf8a77370.jpg"

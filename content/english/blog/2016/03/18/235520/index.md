@@ -2,7 +2,7 @@
 date: 2016-03-18T23:55:20+09:00
 draft: false
 title: "金は貯金、人も貯金、信用を貯金してるかい！？"
-slug: "2016/03/18"
+slug: "2016/03/18/235520"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ae2a7fce4.jpg"
 feature: "blog_import_6621ae2a7fce4.jpg"

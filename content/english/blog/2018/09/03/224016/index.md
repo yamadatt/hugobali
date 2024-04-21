@@ -2,7 +2,7 @@
 date: 2018-09-03T22:40:16+09:00
 draft: false
 title: "ペンネーム「純平」は、『土佐の一本釣り』から！？"
-slug: "2018/09/03"
+slug: "2018/09/03/224016"
 tags: ["プライベートな話"]
 image: "blog_import_6621c5f0d6eff.png"
 feature: "blog_import_6621c5f0d6eff.png"

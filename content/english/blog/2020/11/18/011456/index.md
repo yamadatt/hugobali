@@ -2,7 +2,7 @@
 date: 2020-11-18T01:14:56+09:00
 draft: false
 title: "バリ島の大将、借金苦の家族を救う！？"
-slug: "2020/11/18"
+slug: "2020/11/18/011456"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621de9d06ae2.png"
 feature: "blog_import_6621de9d06ae2.png"

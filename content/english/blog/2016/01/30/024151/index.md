@@ -2,7 +2,7 @@
 date: 2016-01-30T02:41:51+09:00
 draft: false
 title: "18禁ひとりカラオケ"
-slug: "2016/01/30"
+slug: "2016/01/30/024151"
 tags: ["ブログ"]
 image: "blog_import_6621ac5d4d9bb.jpg"
 feature: "blog_import_6621ac5d4d9bb.jpg"

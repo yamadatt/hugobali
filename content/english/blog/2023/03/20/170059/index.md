@@ -2,7 +2,7 @@
 date: 2023-03-20T17:00:59+09:00
 draft: false
 title: "先輩の突然死に思う。「みまもりサポート」の必要性。孤独に注意しよう"
-slug: "2023/03/20"
+slug: "2023/03/20/170059"
 tags: ["プライベートな話"]
 image: "blog_import_6621f6cde9367.png"
 feature: "blog_import_6621f6cde9367.png"

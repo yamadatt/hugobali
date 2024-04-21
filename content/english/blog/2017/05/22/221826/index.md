@@ -2,7 +2,7 @@
 date: 2017-05-22T22:18:26+09:00
 draft: false
 title: "本ブログが、幻冬舎に連載デビュー！？"
-slug: "2017/05/22"
+slug: "2017/05/22/221826"
 tags: ["プライベートな話"]
 image: "blog_import_6621bb89f0457.png"
 feature: "blog_import_6621bb89f0457.png"

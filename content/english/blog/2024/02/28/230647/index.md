@@ -2,7 +2,7 @@
 date: 2024-02-28T23:06:47+09:00
 draft: false
 title: "バブル期の最高値を超えた日経平均。構成銘柄が変わったのに単純比較していい！？"
-slug: "2024/02/28"
+slug: "2024/02/28/230647"
 tags: ["株式投資"]
 image: "blog_import_6622002f8e57d.png"
 feature: "blog_import_6622002f8e57d.png"

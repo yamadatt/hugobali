@@ -2,7 +2,7 @@
 date: 2015-10-16T21:09:00+09:00
 draft: false
 title: "１１月２６日　バリ島不動産投資セミナーのご案内"
-slug: "2015/10/16"
+slug: "2015/10/16/210900"
 tags: ["ブログ"]
 image: "blog_import_6621ab5f67b0a.jpg"
 feature: "blog_import_6621ab5f67b0a.jpg"

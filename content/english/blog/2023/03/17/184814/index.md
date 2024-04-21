@@ -2,7 +2,7 @@
 date: 2023-03-17T18:48:14+09:00
 draft: false
 title: "第25回馬場ゴルフ部月例の報告＆武蔵野園飲み会"
-slug: "2023/03/17"
+slug: "2023/03/17/184814"
 tags: ["ゴルフ"]
 image: "blog_import_6621f6ad5e4c0.jpg"
 feature: "blog_import_6621f6ad5e4c0.jpg"

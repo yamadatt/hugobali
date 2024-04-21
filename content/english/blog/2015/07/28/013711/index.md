@@ -2,7 +2,7 @@
 date: 2015-07-28T01:37:11+09:00
 draft: false
 title: "バリ島　サヌール売ヴィラ８棟+レストラン+事務所　約２.2億円"
-slug: "2015/07/28"
+slug: "2015/07/28/013711"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621aae96781b.jpg"
 feature: "blog_import_6621aae96781b.jpg"

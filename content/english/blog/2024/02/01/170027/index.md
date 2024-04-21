@@ -2,7 +2,7 @@
 date: 2024-02-01T17:00:27+09:00
 draft: false
 title: "下剤療法ヴィレチャナ。ハンパない不味さで、こんな顔になった！？"
-slug: "2024/02/01"
+slug: "2024/02/01/170027"
 tags: ["インド旅行パンチャカルマ"]
 image: "blog_import_6621ffbeae37f.jpg"
 feature: "blog_import_6621ffbeae37f.jpg"

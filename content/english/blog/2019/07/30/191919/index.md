@@ -2,7 +2,7 @@
 date: 2019-07-30T19:19:19+09:00
 draft: false
 title: "タネ銭座談会：「自分を信じる心」それが一番に必要な才能だ"
-slug: "2019/07/30"
+slug: "2019/07/30/191919"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cf2331107.png"
 feature: "blog_import_6621cf2331107.png"

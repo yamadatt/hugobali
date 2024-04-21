@@ -2,7 +2,7 @@
 date: 2017-01-11T19:00:51+09:00
 draft: false
 title: "ロングレンタル　移住に最適なウブドゥの貸ヴィラ　US＄1000/月"
-slug: "2017/01/11"
+slug: "2017/01/11/190051"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621b84fc31c9.jpg"
 feature: "blog_import_6621b84fc31c9.jpg"

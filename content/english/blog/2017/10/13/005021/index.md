@@ -2,7 +2,7 @@
 date: 2017-10-13T00:50:21+09:00
 draft: false
 title: "利回り１７.８％！？ スミニャックの洒落た売ヴィラ 約３３００万円"
-slug: "2017/10/13"
+slug: "2017/10/13/005021"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621bdd87648e.jpg"
 feature: "blog_import_6621bdd87648e.jpg"

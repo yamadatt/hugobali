@@ -2,7 +2,7 @@
 date: 2020-11-16T23:56:16+09:00
 draft: false
 title: "高級ローカル住宅とヴィラは何が違うのか！？"
-slug: "2020/11/16"
+slug: "2020/11/16/235616"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621de7e61825.jpg"
 feature: "blog_import_6621de7e61825.jpg"

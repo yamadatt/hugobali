@@ -2,7 +2,7 @@
 date: 2018-01-06T00:27:05+09:00
 draft: false
 title: "親友の急死。その日。"
-slug: "2018/01/06"
+slug: "2018/01/06/002705"
 tags: ["プライベートな話"]
 image: "blog_import_6621c05b5e46a.jpg"
 feature: "blog_import_6621c05b5e46a.jpg"

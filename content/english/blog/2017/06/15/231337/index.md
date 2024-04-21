@@ -2,7 +2,7 @@
 date: 2017-06-15T23:13:37+09:00
 draft: false
 title: "なぜ、弊社にはバリ島不動産のよい売り情報が来るのか！？"
-slug: "2017/06/15"
+slug: "2017/06/15/231337"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621bc015a4c1.jpg"
 feature: "blog_import_6621bc015a4c1.jpg"

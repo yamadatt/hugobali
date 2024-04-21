@@ -2,7 +2,7 @@
 date: 2020-05-24T12:12:38+09:00
 draft: false
 title: "【時間変更１３時→１９時】５月２９日(金）「第１４回成長株投資の実践会」のご案内"
-slug: "2020/05/24"
+slug: "2020/05/24/121238"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621da3a57af0.png"
 feature: "blog_import_6621da3a57af0.png"

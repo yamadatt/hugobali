@@ -2,7 +2,7 @@
 date: 2020-03-08T02:13:40+09:00
 draft: false
 title: "昨日の「初心者向け成長株セミナー」の報告。「しくじり先生」"
-slug: "2020/03/08"
+slug: "2020/03/08/021340"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d7a1b480b.jpg"
 feature: "blog_import_6621d7a1b480b.jpg"

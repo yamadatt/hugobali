@@ -2,7 +2,7 @@
 date: 2019-12-23T22:46:55+09:00
 draft: false
 title: "「損出し」節税クロス取引のために「年間の損益」を調べるには？"
-slug: "2019/12/23"
+slug: "2019/12/23/224655"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d40d2c30a.png"
 feature: "blog_import_6621d40d2c30a.png"

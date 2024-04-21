@@ -2,7 +2,7 @@
 date: 2021-08-25T00:15:39+09:00
 draft: false
 title: "バリ島売りヴィラ９８８万円。コロナ禍といえども安い！？"
-slug: "2021/08/25"
+slug: "2021/08/25/001539"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621e54acb984.jpg"
 feature: "blog_import_6621e54acb984.jpg"

@@ -2,7 +2,7 @@
 date: 2021-07-23T22:48:17+09:00
 draft: false
 title: "インドネシアからの帰国者の隔離体験談【鯛焼きさん】③「警備員が必死に追ってきた！？」"
-slug: "2021/07/23"
+slug: "2021/07/23/224817"
 tags: ["新型コロナウィルス"]
 image: "blog_import_6621e48ddd533.png"
 feature: "blog_import_6621e48ddd533.png"

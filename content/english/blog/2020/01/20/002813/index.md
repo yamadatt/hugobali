@@ -2,7 +2,7 @@
 date: 2020-01-20T00:28:13+09:00
 draft: false
 title: "株式投資で成功する心得「センスはいらない。どうすれば技術を習得できるのか」"
-slug: "2020/01/20"
+slug: "2020/01/20/002813"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d653a6c0a.png"
 feature: "blog_import_6621d653a6c0a.png"

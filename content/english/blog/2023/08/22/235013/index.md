@@ -2,7 +2,7 @@
 date: 2023-08-22T23:50:13+09:00
 draft: false
 title: "第29回馬場ゴルフ部月例の報告。「会う頻度が多いと信頼関係が深まる」"
-slug: "2023/08/22"
+slug: "2023/08/22/235013"
 tags: ["ゴルフ"]
 image: "blog_import_6621fc3e5cf3a.png"
 feature: "blog_import_6621fc3e5cf3a.png"

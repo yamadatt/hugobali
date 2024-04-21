@@ -2,7 +2,7 @@
 date: 2023-02-28T23:59:25+09:00
 draft: false
 title: "ブログを長く続けるコツとは？"
-slug: "2023/02/28"
+slug: "2023/02/28/235925"
 tags: ["プライベートな話"]
 image: "blog_import_6621f65dbd4e4.png"
 feature: "blog_import_6621f65dbd4e4.png"

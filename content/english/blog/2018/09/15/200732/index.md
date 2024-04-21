@@ -2,7 +2,7 @@
 date: 2018-09-15T20:07:32+09:00
 draft: false
 title: "インドネシアルピアの出口を、どう考えるか"
-slug: "2018/09/15"
+slug: "2018/09/15/200732"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c615d2ae3.jpg"
 feature: "blog_import_6621c615d2ae3.jpg"

@@ -2,7 +2,7 @@
 date: 2018-11-14T20:49:56+09:00
 draft: false
 title: "バリ島のスタッフ、タケシの春"
-slug: "2018/11/14"
+slug: "2018/11/14/204956"
 tags: ["タケシ（バリ島現地スタッフ）の話"]
 image: "blog_import_6621c7b3df24d.jpg"
 feature: "blog_import_6621c7b3df24d.jpg"

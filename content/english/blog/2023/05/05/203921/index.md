@@ -2,7 +2,7 @@
 date: 2023-05-05T20:39:21+09:00
 draft: false
 title: "人とは良いカタチでお別れしよう"
-slug: "2023/05/05"
+slug: "2023/05/05/203921"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f8e6b9c5e.png"
 feature: "blog_import_6621f8e6b9c5e.png"

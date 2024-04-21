@@ -2,7 +2,7 @@
 date: 2018-08-16T22:02:07+09:00
 draft: false
 title: "バックパッカー女子一人旅（タイの田舎Ｐai編）"
-slug: "2018/08/16"
+slug: "2018/08/16/220207"
 tags: ["プライベートな話"]
 image: "blog_import_6621c5abe289e.jpg"
 feature: "blog_import_6621c5abe289e.jpg"

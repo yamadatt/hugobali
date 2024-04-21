@@ -2,7 +2,7 @@
 date: 2019-04-18T22:07:20+09:00
 draft: false
 title: "５０００万円出せる人は必見！！　スミニャックの希少物件。このヴィラはいいです！！"
-slug: "2019/04/18"
+slug: "2019/04/18/220720"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621cbb68fd8d.jpg"
 feature: "blog_import_6621cbb68fd8d.jpg"

@@ -2,7 +2,7 @@
 date: 2019-01-17T20:37:15+09:00
 draft: false
 title: "巨木、ガジュマルの伐採"
-slug: "2019/01/17"
+slug: "2019/01/17/203715"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c956b0e8c.jpg"
 feature: "blog_import_6621c956b0e8c.jpg"

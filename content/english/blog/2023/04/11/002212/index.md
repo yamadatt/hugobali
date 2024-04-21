@@ -2,7 +2,7 @@
 date: 2023-04-11T00:22:12+09:00
 draft: false
 title: "鼻ひも通し(スートラネティ）を２ヶ月続けた成果は！？鼻ひも通しの個人指導！？"
-slug: "2023/04/11"
+slug: "2023/04/11/002212"
 tags: ["ファスティング合宿ダイエット"]
 image: "blog_import_6621f746250e8.jpg"
 feature: "blog_import_6621f746250e8.jpg"

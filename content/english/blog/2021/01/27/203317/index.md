@@ -2,7 +2,7 @@
 date: 2021-01-27T20:33:17+09:00
 draft: false
 title: "明日、香港保険のＺＯＯＭ説明会をくれることになった。貯蓄型保険のメリットは？"
-slug: "2021/01/27"
+slug: "2021/01/27/203317"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621e019109e8.png"
 feature: "blog_import_6621e019109e8.png"

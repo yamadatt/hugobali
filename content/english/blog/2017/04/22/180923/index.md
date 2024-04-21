@@ -2,7 +2,7 @@
 date: 2017-04-22T18:09:23+09:00
 draft: false
 title: "地主が相場を知らない！？　ワンツー転売物件"
-slug: "2017/04/22"
+slug: "2017/04/22/180923"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621bb2d6bef7.jpg"
 feature: "blog_import_6621bb2d6bef7.jpg"

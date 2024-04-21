@@ -2,7 +2,7 @@
 date: 2023-03-21T17:48:30+09:00
 draft: false
 title: "WBC苦悩の村上選手に思う。なぜ、苦しくても続けられるのか"
-slug: "2023/03/21"
+slug: "2023/03/21/174830"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f6d8cf06f.png"
 feature: "blog_import_6621f6d8cf06f.png"

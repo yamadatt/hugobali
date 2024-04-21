@@ -2,7 +2,7 @@
 date: 2019-04-17T23:35:41+09:00
 draft: false
 title: "今日はインドネシア大統領選挙の投票日。投票方法が日本と違う。。"
-slug: "2019/04/17"
+slug: "2019/04/17/233541"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621cba3a72c7.jpg"
 feature: "blog_import_6621cba3a72c7.jpg"

@@ -2,7 +2,7 @@
 date: 2018-01-11T23:47:44+09:00
 draft: false
 title: "外国人向けのヴィラをローカル（インドネシア人）に貸すべきか！？"
-slug: "2018/01/11"
+slug: "2018/01/11/234744"
 tags: ["トラブルの話"]
 image: "blog_import_6621c09f40409.jpg"
 feature: "blog_import_6621c09f40409.jpg"

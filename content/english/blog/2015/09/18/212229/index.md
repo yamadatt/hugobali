@@ -2,7 +2,7 @@
 date: 2015-09-18T21:22:29+09:00
 draft: false
 title: "バリ島不動産個別相談会"
-slug: "2015/09/18"
+slug: "2015/09/18/212229"
 tags: ["ブログ"]
 image: ""
 feature: ""

@@ -2,7 +2,7 @@
 date: 2021-09-05T13:03:31+09:00
 draft: false
 title: "マグロ釣りプロジェクト始動！？「ジグ鉄」"
-slug: "2021/09/05"
+slug: "2021/09/05/130331"
 tags: ["マグロ釣り"]
 image: "blog_import_6621e5aa68cb3.jpg"
 feature: "blog_import_6621e5aa68cb3.jpg"

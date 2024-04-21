@@ -2,7 +2,7 @@
 date: 2020-04-03T15:42:41+09:00
 draft: false
 title: "本日の「第７回　成長株投資セミナー」は、全員参加のＬＩＶＥに決定！！"
-slug: "2020/04/03"
+slug: "2020/04/03/154241"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d80ab9f13.png"
 feature: "blog_import_6621d80ab9f13.png"

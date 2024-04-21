@@ -2,7 +2,7 @@
 date: 2022-08-27T22:03:59+09:00
 draft: false
 title: "鬼塚友章県警本部長が安倍元首相襲撃の引責辞任。「寛容な社会がいいなぁ」"
-slug: "2022/08/27"
+slug: "2022/08/27/220359"
 tags: ["プライベートな話"]
 image: "blog_import_6621f06124bb8.png"
 feature: "blog_import_6621f06124bb8.png"

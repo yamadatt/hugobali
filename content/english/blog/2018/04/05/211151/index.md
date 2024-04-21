@@ -2,7 +2,7 @@
 date: 2018-04-05T21:11:51+09:00
 draft: false
 title: "遵法意識は大切だけど、、折り合いが難しいな"
-slug: "2018/04/05"
+slug: "2018/04/05/211151"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c2b26998e.jpg"
 feature: "blog_import_6621c2b26998e.jpg"

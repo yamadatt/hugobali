@@ -2,7 +2,7 @@
 date: 2017-08-04T22:34:25+09:00
 draft: false
 title: "鳥の鳴き声コンテストの賞金は！？"
-slug: "2017/08/04"
+slug: "2017/08/04/223425"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621bca17cc64.jpg"
 feature: "blog_import_6621bca17cc64.jpg"

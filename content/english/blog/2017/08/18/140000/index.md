@@ -2,7 +2,7 @@
 date: 2017-08-18T14:00:00+09:00
 draft: false
 title: "バリ島と日本の夏、日本の方が暑いのはナゼだ！？"
-slug: "2017/08/18"
+slug: "2017/08/18/140000"
 tags: ["プライベートな話"]
 image: "blog_import_6621bccb27392.jpg"
 feature: "blog_import_6621bccb27392.jpg"

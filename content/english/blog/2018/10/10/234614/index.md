@@ -2,7 +2,7 @@
 date: 2018-10-10T23:46:14+09:00
 draft: false
 title: "アジアで美人の産地といえば“バンドン”"
-slug: "2018/10/10"
+slug: "2018/10/10/234614"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c6ce6a53b.jpg"
 feature: "blog_import_6621c6ce6a53b.jpg"

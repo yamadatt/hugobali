@@ -2,7 +2,7 @@
 date: 2018-03-24T17:56:26+09:00
 draft: false
 title: "バリ島には花粉症がない！？"
-slug: "2018/03/24"
+slug: "2018/03/24/175626"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c2764e81d.jpg"
 feature: "blog_import_6621c2764e81d.jpg"

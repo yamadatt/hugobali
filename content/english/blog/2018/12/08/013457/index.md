@@ -2,7 +2,7 @@
 date: 2018-12-08T01:34:57+09:00
 draft: false
 title: "いよいよバリ島ツアーが始まる！？使用するヴィラの紹介"
-slug: "2018/12/08"
+slug: "2018/12/08/013457"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c80d0bfce.png"
 feature: "blog_import_6621c80d0bfce.png"

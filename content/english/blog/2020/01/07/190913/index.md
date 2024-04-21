@@ -2,7 +2,7 @@
 date: 2020-01-07T19:09:13+09:00
 draft: false
 title: "〝過ちを素直に認め、お詫びをする″それができない高校球児の客"
-slug: "2020/01/07"
+slug: "2020/01/07/190913"
 tags: ["トラブルの話"]
 image: "blog_import_6621d529b4816.jpg"
 feature: "blog_import_6621d529b4816.jpg"

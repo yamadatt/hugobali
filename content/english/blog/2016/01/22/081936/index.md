@@ -2,7 +2,7 @@
 date: 2016-01-22T08:19:36+09:00
 draft: false
 title: "わがままな宿泊客"
-slug: "2016/01/22"
+slug: "2016/01/22/081936"
 tags: ["ブログ"]
 image: ""
 feature: ""

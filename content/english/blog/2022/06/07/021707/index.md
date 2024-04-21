@@ -2,7 +2,7 @@
 date: 2022-06-07T02:17:07+09:00
 draft: false
 title: "【保存版】ファスティングの効果。身体に起きる変化を時系列で解説する！！"
-slug: "2022/06/07"
+slug: "2022/06/07/021707"
 tags: ["ファスティング合宿ダイエット"]
 image: "blog_import_6621ee57165b4.png"
 feature: "blog_import_6621ee57165b4.png"

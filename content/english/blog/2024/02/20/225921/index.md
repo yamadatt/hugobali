@@ -2,7 +2,7 @@
 date: 2024-02-20T22:59:21+09:00
 draft: false
 title: "ADHD「不注意優勢型」について。学生時代編"
-slug: "2024/02/20"
+slug: "2024/02/20/225921"
 tags: ["プライベートな話"]
 image: "blog_import_6622001208057.png"
 feature: "blog_import_6622001208057.png"

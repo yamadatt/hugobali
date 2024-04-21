@@ -2,7 +2,7 @@
 date: 2022-02-09T03:53:53+09:00
 draft: false
 title: "続けていれば、大逆転ってあるんだよな。。"
-slug: "2022/02/09"
+slug: "2022/02/09/035353"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ea7caea1d.png"
 feature: "blog_import_6621ea7caea1d.png"

@@ -2,7 +2,7 @@
 date: 2021-02-09T18:24:46+09:00
 draft: false
 title: "頑張ろうよ、ロスジェネ。"
-slug: "2021/02/09"
+slug: "2021/02/09/182446"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e0563fd93.png"
 feature: "blog_import_6621e0563fd93.png"

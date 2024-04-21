@@ -2,7 +2,7 @@
 date: 2020-01-15T22:35:29+09:00
 draft: false
 title: "シンメンテ(6086）ストップ高。ホルダーの皆さま、おめでとうございます！！"
-slug: "2020/01/15"
+slug: "2020/01/15/223529"
 tags: ["株式投資"]
 image: "blog_import_6621d587a8a55.png"
 feature: "blog_import_6621d587a8a55.png"

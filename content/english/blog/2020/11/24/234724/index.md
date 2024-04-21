@@ -2,7 +2,7 @@
 date: 2020-11-24T23:47:24+09:00
 draft: false
 title: "人生一発逆転のチャンス！？ラブホ経営者（スタッフ？）募集！？"
-slug: "2020/11/24"
+slug: "2020/11/24/234724"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621dec117532.jpg"
 feature: "blog_import_6621dec117532.jpg"

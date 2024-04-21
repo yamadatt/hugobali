@@ -2,7 +2,7 @@
 date: 2020-07-31T01:11:05+09:00
 draft: false
 title: "苦節１ヶ月半。満を持して臨んだ初ゴルフは、ＯＢ５回、スコアは？"
-slug: "2020/07/31"
+slug: "2020/07/31/011105"
 tags: ["プライベートな話"]
 image: "blog_import_6621dbe534b0e.png"
 feature: "blog_import_6621dbe534b0e.png"

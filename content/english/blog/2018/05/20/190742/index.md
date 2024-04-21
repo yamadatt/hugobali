@@ -2,7 +2,7 @@
 date: 2018-05-20T19:07:42+09:00
 draft: false
 title: "「引きこもりの就職シンポジウム」に出席して思ったこと"
-slug: "2018/05/20"
+slug: "2018/05/20/190742"
 tags: ["プライベートな話"]
 image: "blog_import_6621c36a8630b.png"
 feature: "blog_import_6621c36a8630b.png"

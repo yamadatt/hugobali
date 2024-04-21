@@ -2,7 +2,7 @@
 date: 2020-02-23T22:47:41+09:00
 draft: false
 title: "２月２８日(金）第１１回成長株投資の実践会「下げ相場も踏まえた、今後の戦略」"
-slug: "2020/02/23"
+slug: "2020/02/23/224741"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d7795c086.png"
 feature: "blog_import_6621d7795c086.png"

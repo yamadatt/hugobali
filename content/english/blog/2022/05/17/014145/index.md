@@ -2,7 +2,7 @@
 date: 2022-05-17T01:41:45+09:00
 draft: false
 title: "古いラブホ再生物語その２「伐採前→伐採後」の写真"
-slug: "2022/05/17"
+slug: "2022/05/17/014145"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621eddb8d2fa.jpg"
 feature: "blog_import_6621eddb8d2fa.jpg"

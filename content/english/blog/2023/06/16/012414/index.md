@@ -2,7 +2,7 @@
 date: 2023-06-16T01:24:14+09:00
 draft: false
 title: "小泉進次郎氏のスピーチは抜群に上手かった。何が魅力なのか！？"
-slug: "2023/06/16"
+slug: "2023/06/16/012414"
 tags: ["プライベートな話"]
 image: "blog_import_6621fa2bd7111.png"
 feature: "blog_import_6621fa2bd7111.png"

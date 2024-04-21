@@ -2,7 +2,7 @@
 date: 2020-09-28T13:40:34+09:00
 draft: false
 title: "バリ島のヴィラが４０％ｏｆｆ。いよいよチャンス到来か！？"
-slug: "2020/09/28"
+slug: "2020/09/28/134034"
 tags: ["ブログ"]
 image: "blog_import_6621dd24a8163.jpg"
 feature: "blog_import_6621dd24a8163.jpg"

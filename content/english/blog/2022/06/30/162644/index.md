@@ -2,7 +2,7 @@
 date: 2022-06-30T16:26:44+09:00
 draft: false
 title: "７月１１日 第２回「暗号通貨の実践会」～この人を引っ張り出した自分をホメてあげたいレアな勉強会～"
-slug: "2022/06/30"
+slug: "2022/06/30/162644"
 tags: ["仮想通貨・暗号通貨"]
 image: "blog_import_6621eeff63791.png"
 feature: "blog_import_6621eeff63791.png"

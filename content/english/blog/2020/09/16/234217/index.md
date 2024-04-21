@@ -2,7 +2,7 @@
 date: 2020-09-16T23:42:17+09:00
 draft: false
 title: "成長株投資に向いている人は？向かない人は？"
-slug: "2020/09/16"
+slug: "2020/09/16/234217"
 tags: ["株式投資"]
 image: "blog_import_6621dcc8cfe93.png"
 feature: "blog_import_6621dcc8cfe93.png"

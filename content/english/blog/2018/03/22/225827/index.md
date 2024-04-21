@@ -2,7 +2,7 @@
 date: 2018-03-22T22:58:27+09:00
 draft: false
 title: "超アホらしくなった不動産の契約"
-slug: "2018/03/22"
+slug: "2018/03/22/225827"
 tags: ["トラブルの話"]
 image: "blog_import_6621c25ce2a90.png"
 feature: "blog_import_6621c25ce2a90.png"

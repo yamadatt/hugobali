@@ -2,7 +2,7 @@
 date: 2021-08-01T10:25:43+09:00
 draft: false
 title: "コロナワクチン２回目の倦怠感と高熱。「病は気から」ではなかった。経過報告。"
-slug: "2021/08/01"
+slug: "2021/08/01/102543"
 tags: ["新型コロナウィルス"]
 image: "blog_import_6621e4c075064.jpg"
 feature: "blog_import_6621e4c075064.jpg"

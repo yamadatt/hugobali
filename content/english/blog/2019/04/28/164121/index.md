@@ -2,7 +2,7 @@
 date: 2019-04-28T16:41:21+09:00
 draft: false
 title: "１０日前に紹介したウブドゥのヴィラは、終了しました。"
-slug: "2019/04/28"
+slug: "2019/04/28/164121"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621cc304015a.jpg"
 feature: "blog_import_6621cc304015a.jpg"

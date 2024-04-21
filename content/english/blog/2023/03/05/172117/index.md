@@ -2,7 +2,7 @@
 date: 2023-03-05T17:21:17+09:00
 draft: false
 title: "DIYは高くつく！？業者に任せる内容、DIYでもいい内容"
-slug: "2023/03/05"
+slug: "2023/03/05/172117"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f66b13cee.png"
 feature: "blog_import_6621f66b13cee.png"

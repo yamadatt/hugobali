@@ -2,7 +2,7 @@
 date: 2018-08-13T18:56:13+09:00
 draft: false
 title: "Airbnb予約サイト一時閲覧禁止のお詫び"
-slug: "2018/08/13"
+slug: "2018/08/13/185613"
 tags: ["トラブルの話"]
 image: "blog_import_6621c5a94711b.jpg"
 feature: "blog_import_6621c5a94711b.jpg"

@@ -2,7 +2,7 @@
 date: 2014-08-02T16:19:30+09:00
 draft: false
 title: "急ぎ売物件　サヌールのアパート４部屋　約1000万円"
-slug: "2014/08/02"
+slug: "2014/08/02/161930"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621a44c7d775.jpg"
 feature: "blog_import_6621a44c7d775.jpg"

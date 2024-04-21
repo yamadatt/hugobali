@@ -2,7 +2,7 @@
 date: 2022-07-29T02:11:09+09:00
 draft: false
 title: "信頼の基本は、正直であること"
-slug: "2022/07/29"
+slug: "2022/07/29/021109"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621efd25b2b6.png"
 feature: "blog_import_6621efd25b2b6.png"

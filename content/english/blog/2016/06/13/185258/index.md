@@ -2,7 +2,7 @@
 date: 2016-06-13T18:52:58+09:00
 draft: false
 title: "朗報！海外不動産への融資"
-slug: "2016/06/13"
+slug: "2016/06/13/185258"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b0325037a.jpg"
 feature: "blog_import_6621b0325037a.jpg"

@@ -2,7 +2,7 @@
 date: 2020-04-21T01:08:18+09:00
 draft: false
 title: "ラブホテル料金看板のアンケートの結果。「売れるデザインとは？」"
-slug: "2020/04/21"
+slug: "2020/04/21/010818"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621d9119b973.png"
 feature: "blog_import_6621d9119b973.png"

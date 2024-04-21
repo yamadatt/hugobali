@@ -2,7 +2,7 @@
 date: 2019-02-26T00:28:49+09:00
 draft: false
 title: "高スペックなオーナーさんに、誰かいい人いないかな。。"
-slug: "2019/02/26"
+slug: "2019/02/26/002849"
 tags: ["プライベートな話"]
 image: "blog_import_6621c9fddb66d.jpg"
 feature: "blog_import_6621c9fddb66d.jpg"

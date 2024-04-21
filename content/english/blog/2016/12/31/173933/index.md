@@ -2,7 +2,7 @@
 date: 2016-12-31T17:39:33+09:00
 draft: false
 title: "一念"
-slug: "2016/12/31"
+slug: "2016/12/31/173933"
 tags: ["プライベートな話"]
 image: "blog_import_6621b7f167076.jpg"
 feature: "blog_import_6621b7f167076.jpg"

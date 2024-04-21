@@ -2,7 +2,7 @@
 date: 2016-05-31T00:48:21+09:00
 draft: false
 title: "お詫び"
-slug: "2016/05/31"
+slug: "2016/05/31/004821"
 tags: ["ブログ"]
 image: ""
 feature: ""

@@ -2,7 +2,7 @@
 date: 2023-02-07T20:06:14+09:00
 draft: false
 title: "１７日ぶりに帰国。たまには不潔さ不便さを感じよう「日本がよい国だと実感できるから」"
-slug: "2023/02/07"
+slug: "2023/02/07/200614"
 tags: ["インド旅行パンチャカルマ"]
 image: "blog_import_6621f5a38dcf5.png"
 feature: "blog_import_6621f5a38dcf5.png"

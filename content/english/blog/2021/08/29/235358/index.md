@@ -2,7 +2,7 @@
 date: 2021-08-29T23:53:58+09:00
 draft: false
 title: "LIVEチケット抽選外れまくり！？「本音と建前」にみるアフターコロナ。"
-slug: "2021/08/29"
+slug: "2021/08/29/235358"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e586b82ca.png"
 feature: "blog_import_6621e586b82ca.png"

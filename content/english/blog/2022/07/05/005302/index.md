@@ -2,7 +2,7 @@
 date: 2022-07-05T00:53:02+09:00
 draft: false
 title: "「参政党」は怪しい？「暗号通貨」は怪しい！？"
-slug: "2022/07/05"
+slug: "2022/07/05/005302"
 tags: ["仮想通貨・暗号通貨"]
 image: "blog_import_6621ef272cc5d.png"
 feature: "blog_import_6621ef272cc5d.png"

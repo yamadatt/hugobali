@@ -2,7 +2,7 @@
 date: 2022-05-06T20:12:20+09:00
 draft: false
 title: "新規ホテルの引継ぎ＆立ち上げ「巨木を倒す！？」"
-slug: "2022/05/06"
+slug: "2022/05/06/201220"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621ed9cb5b92.jpg"
 feature: "blog_import_6621ed9cb5b92.jpg"

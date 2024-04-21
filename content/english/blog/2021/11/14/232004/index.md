@@ -2,7 +2,7 @@
 date: 2021-11-14T23:20:04+09:00
 draft: false
 title: "満員御礼！！１２月４日「生ハムの会：ベジョータ編」"
-slug: "2021/11/14"
+slug: "2021/11/14/232004"
 tags: ["プライベートな話"]
 image: "blog_import_6621e7ba81942.png"
 feature: "blog_import_6621e7ba81942.png"

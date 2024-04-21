@@ -2,7 +2,7 @@
 date: 2023-06-23T23:56:15+09:00
 draft: false
 title: "助成金は美味しい！？助成金バブルの今、おススメの助成金は？"
-slug: "2023/06/23"
+slug: "2023/06/23/235615"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621fa5568e72.png"
 feature: "blog_import_6621fa5568e72.png"

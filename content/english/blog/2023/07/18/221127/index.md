@@ -2,7 +2,7 @@
 date: 2023-07-18T22:11:27+09:00
 draft: false
 title: "こう暑いと、ロクなことを考えない。。"
-slug: "2023/07/18"
+slug: "2023/07/18/221127"
 tags: ["プライベートな話"]
 image: "blog_import_6621fb67573c0.jpg"
 feature: "blog_import_6621fb67573c0.jpg"

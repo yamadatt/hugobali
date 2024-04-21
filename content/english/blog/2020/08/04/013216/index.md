@@ -2,7 +2,7 @@
 date: 2020-08-04T01:32:16+09:00
 draft: false
 title: "長田先生の大作１０万文字：成長株セミナー「フォローレポート」の書き方"
-slug: "2020/08/04"
+slug: "2020/08/04/013216"
 tags: ["株式投資"]
 image: "blog_import_6621dc0deb511.png"
 feature: "blog_import_6621dc0deb511.png"

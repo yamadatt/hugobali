@@ -2,7 +2,7 @@
 date: 2021-07-18T16:53:11+09:00
 draft: false
 title: "ラブホは楽しい！？古いホテルを購入するポイント"
-slug: "2021/07/18"
+slug: "2021/07/18/165311"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621e445b0cf4.jpg"
 feature: "blog_import_6621e445b0cf4.jpg"

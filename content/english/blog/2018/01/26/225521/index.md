@@ -2,7 +2,7 @@
 date: 2018-01-26T22:55:21+09:00
 draft: false
 title: "「はれのひ」社長にみた最悪の負け方「復活したいなら、逃げるな」"
-slug: "2018/01/26"
+slug: "2018/01/26/225521"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c0eee82c1.jpg"
 feature: "blog_import_6621c0eee82c1.jpg"

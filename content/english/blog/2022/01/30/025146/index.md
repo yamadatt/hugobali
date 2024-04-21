@@ -2,7 +2,7 @@
 date: 2022-01-30T02:51:46+09:00
 draft: false
 title: "人気の軽量折りたたみバイクBLAZEの在庫処分！？この価格なら遊びで１台いかがですか！！"
-slug: "2022/01/30"
+slug: "2022/01/30/025146"
 tags: ["プライベートな話"]
 image: "blog_import_6621ea180eb36.png"
 feature: "blog_import_6621ea180eb36.png"

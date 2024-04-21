@@ -2,7 +2,7 @@
 date: 2019-10-28T21:51:39+09:00
 draft: false
 title: "第２回「生ハムを原木から食べる会」１１月２８日（木）開催決定！！"
-slug: "2019/10/28"
+slug: "2019/10/28/215139"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d189a5bf9.jpg"
 feature: "blog_import_6621d189a5bf9.jpg"

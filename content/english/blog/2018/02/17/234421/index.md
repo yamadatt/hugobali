@@ -2,7 +2,7 @@
 date: 2018-02-17T23:44:21+09:00
 draft: false
 title: "４０００万円で買える！？ラブホテル３連発"
-slug: "2018/02/17"
+slug: "2018/02/17/234421"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621c1b58b21d.png"
 feature: "blog_import_6621c1b58b21d.png"

@@ -2,7 +2,7 @@
 date: 2017-03-22T20:10:22+09:00
 draft: false
 title: "成功の条件２「自分の型を持とう」キャバクラ編"
-slug: "2017/03/22"
+slug: "2017/03/22/201022"
 tags: ["プライベートな話"]
 image: "blog_import_6621ba8c9880e.jpg"
 feature: "blog_import_6621ba8c9880e.jpg"

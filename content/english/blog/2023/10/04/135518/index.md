@@ -2,7 +2,7 @@
 date: 2023-10-04T13:55:18+09:00
 draft: false
 title: "霞が関キャピタルがストップ高。成長株はやめられない！？"
-slug: "2023/10/04"
+slug: "2023/10/04/135518"
 tags: ["株式投資"]
 image: "blog_import_6621fd2ee5ef7.png"
 feature: "blog_import_6621fd2ee5ef7.png"

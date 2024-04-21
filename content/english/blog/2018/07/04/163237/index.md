@@ -2,7 +2,7 @@
 date: 2018-07-04T16:32:37+09:00
 draft: false
 title: "すみません。８０００万の太陽光案件、売却先決まりました"
-slug: "2018/07/04"
+slug: "2018/07/04/163237"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621c498611c5.jpg"
 feature: "blog_import_6621c498611c5.jpg"

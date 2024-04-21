@@ -2,7 +2,7 @@
 date: 2022-08-15T22:45:30+09:00
 draft: false
 title: "８月３０日第３回「暗号通貨の実践会」～ローンチ、ＩＣＯで有望コインに乗る準備をしよう～"
-slug: "2022/08/15"
+slug: "2022/08/15/224530"
 tags: ["仮想通貨・暗号通貨"]
 image: "blog_import_6621f0171aff4.jpg"
 feature: "blog_import_6621f0171aff4.jpg"

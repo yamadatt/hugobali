@@ -2,7 +2,7 @@
 date: 2021-01-14T23:01:32+09:00
 draft: false
 title: "１月８日【第２期】第４回の成長株セミナーにいただいたご感想"
-slug: "2021/01/14"
+slug: "2021/01/14/230132"
 tags: ["株式投資"]
 image: "blog_import_6621dfda91763.png"
 feature: "blog_import_6621dfda91763.png"

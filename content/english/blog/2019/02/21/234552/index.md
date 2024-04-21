@@ -2,7 +2,7 @@
 date: 2019-02-21T23:45:52+09:00
 draft: false
 title: "ダイエットって、そんなにいいものか！？"
-slug: "2019/02/21"
+slug: "2019/02/21/234552"
 tags: ["プライベートな話"]
 image: "blog_import_6621c9ea8d58e.jpg"
 feature: "blog_import_6621c9ea8d58e.jpg"

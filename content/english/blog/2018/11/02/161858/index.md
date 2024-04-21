@@ -2,7 +2,7 @@
 date: 2018-11-02T16:18:58+09:00
 draft: false
 title: "【緊急値下げ！！】利回り２３％！？ハンパない節税効果！！売ラブホテル"
-slug: "2018/11/02"
+slug: "2018/11/02/161858"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621c73d21bdd.jpg"
 feature: "blog_import_6621c73d21bdd.jpg"

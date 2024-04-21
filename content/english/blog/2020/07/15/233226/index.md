@@ -2,7 +2,7 @@
 date: 2020-07-15T23:32:26+09:00
 draft: false
 title: "感想＆質問（21）「１０倍株を見つけたいが、３倍で売ってしまいそう」への回答"
-slug: "2020/07/15"
+slug: "2020/07/15/233226"
 tags: ["株式投資"]
 image: "blog_import_6621db89e0bba.jpg"
 feature: "blog_import_6621db89e0bba.jpg"

@@ -2,7 +2,7 @@
 date: 2019-02-08T23:55:20+09:00
 draft: false
 title: "経営者＆投資家ＸＸさんの「株式？精神論」"
-slug: "2019/02/08"
+slug: "2019/02/08/235520"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c9c170a10.jpg"
 feature: "blog_import_6621c9c170a10.jpg"

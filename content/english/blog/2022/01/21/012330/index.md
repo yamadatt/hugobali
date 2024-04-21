@@ -2,7 +2,7 @@
 date: 2022-01-21T01:23:30+09:00
 draft: false
 title: "漫画を一気読みするためにホテルへ。激辛マニアは辛かった！？"
-slug: "2022/01/21"
+slug: "2022/01/21/012330"
 tags: ["プライベートな話"]
 image: "blog_import_6621e9c8dd939.jpg"
 feature: "blog_import_6621e9c8dd939.jpg"

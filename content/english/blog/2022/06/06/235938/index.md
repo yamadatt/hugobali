@@ -2,7 +2,7 @@
 date: 2022-06-06T23:59:38+09:00
 draft: false
 title: "ファスティングの効果を実感する「快眠感。目覚めがスッキリしてる！？」"
-slug: "2022/06/06"
+slug: "2022/06/06/235938"
 tags: ["ファスティング合宿ダイエット"]
 image: "blog_import_6621ee565d4a0.png"
 feature: "blog_import_6621ee565d4a0.png"

@@ -2,7 +2,7 @@
 date: 2022-10-23T01:34:19+09:00
 draft: false
 title: "「茅ケ崎サザン芸術花火2022」皆さまへ〝おすそ分け″！？"
-slug: "2022/10/23"
+slug: "2022/10/23/013419"
 tags: ["プライベートな話"]
 image: "blog_import_6621f1e8a3ba5.png"
 feature: "blog_import_6621f1e8a3ba5.png"

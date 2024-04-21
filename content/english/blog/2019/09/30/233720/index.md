@@ -2,7 +2,7 @@
 date: 2019-09-30T23:37:20+09:00
 draft: false
 title: "株式投資は、なぜ儲かるのか？"
-slug: "2019/09/30"
+slug: "2019/09/30/233720"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d028c134e.png"
 feature: "blog_import_6621d028c134e.png"

@@ -2,7 +2,7 @@
 date: 2016-11-14T11:08:36+09:00
 draft: false
 title: "自殺した野村證券時代の同僚を思い出す"
-slug: "2016/11/14"
+slug: "2016/11/14/110836"
 tags: ["プライベートな話"]
 image: "blog_import_6621b68ecba13.jpg"
 feature: "blog_import_6621b68ecba13.jpg"

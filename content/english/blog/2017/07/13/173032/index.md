@@ -2,7 +2,7 @@
 date: 2017-07-13T17:30:32+09:00
 draft: false
 title: "最近、懐かしい友人からの誘いが多いな"
-slug: "2017/07/13"
+slug: "2017/07/13/173032"
 tags: ["プライベートな話"]
 image: "blog_import_6621bc44ccbe5.jpg"
 feature: "blog_import_6621bc44ccbe5.jpg"

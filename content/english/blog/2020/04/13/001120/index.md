@@ -2,7 +2,7 @@
 date: 2020-04-13T00:11:20+09:00
 draft: false
 title: "沖縄の自粛がハンパない！？東京以上かも。。"
-slug: "2020/04/13"
+slug: "2020/04/13/001120"
 tags: ["プライベートな話"]
 image: "blog_import_6621d87259044.jpg"
 feature: "blog_import_6621d87259044.jpg"

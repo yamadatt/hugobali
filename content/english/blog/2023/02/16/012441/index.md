@@ -2,7 +2,7 @@
 date: 2023-02-16T01:24:41+09:00
 draft: false
 title: "愛すべき自由人、木室知憲さんを偲ぶ会"
-slug: "2023/02/16"
+slug: "2023/02/16/012441"
 tags: ["プライベートな話"]
 image: "blog_import_6621f604b48e4.jpg"
 feature: "blog_import_6621f604b48e4.jpg"

@@ -2,7 +2,7 @@
 date: 2015-03-04T22:35:47+09:00
 draft: false
 title: "売りヴィラのコスト"
-slug: "2015/03/04"
+slug: "2015/03/04/223547"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621a9eb8dbc0.jpg"
 feature: "blog_import_6621a9eb8dbc0.jpg"

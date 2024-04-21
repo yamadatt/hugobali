@@ -2,7 +2,7 @@
 date: 2020-07-05T00:16:46+09:00
 draft: false
 title: "「タマゴを１つのカゴに盛るな」は、宿泊サイトも同じ！？"
-slug: "2020/07/05"
+slug: "2020/07/05/001646"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621db3041fbc.png"
 feature: "blog_import_6621db3041fbc.png"

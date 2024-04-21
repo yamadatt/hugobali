@@ -2,7 +2,7 @@
 date: 2016-03-03T13:02:32+09:00
 draft: false
 title: "「排水溝はどうなってるの！？」の続き"
-slug: "2016/03/03"
+slug: "2016/03/03/130232"
 tags: ["トラブルの話"]
 image: "blog_import_6621ad62cda3c.jpg"
 feature: "blog_import_6621ad62cda3c.jpg"

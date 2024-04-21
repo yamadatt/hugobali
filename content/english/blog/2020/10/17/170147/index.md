@@ -2,7 +2,7 @@
 date: 2020-10-17T17:01:47+09:00
 draft: false
 title: "沸騰理論？"
-slug: "2020/10/17"
+slug: "2020/10/17/170147"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621dda6776ad.png"
 feature: "blog_import_6621dda6776ad.png"

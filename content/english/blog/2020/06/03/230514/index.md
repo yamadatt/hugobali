@@ -2,7 +2,7 @@
 date: 2020-06-03T23:05:14+09:00
 draft: false
 title: "長崎では、コロナ感染警戒で県外者拒否の貼り紙が。。いつまで続くのかな"
-slug: "2020/06/03"
+slug: "2020/06/03/230514"
 tags: ["プライベートな話"]
 image: "blog_import_6621da6561dc0.jpg"
 feature: "blog_import_6621da6561dc0.jpg"

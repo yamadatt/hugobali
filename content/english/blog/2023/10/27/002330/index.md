@@ -2,7 +2,7 @@
 date: 2023-10-27T00:23:30+09:00
 draft: false
 title: "懐かしのバニーガール「エスカイヤクラブ」"
-slug: "2023/10/27"
+slug: "2023/10/27/002330"
 tags: ["プライベートな話"]
 image: "blog_import_6621fdd22cc87.png"
 feature: "blog_import_6621fdd22cc87.png"

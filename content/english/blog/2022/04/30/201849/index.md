@@ -2,7 +2,7 @@
 date: 2022-04-30T20:18:49+09:00
 draft: false
 title: "ホテルの売買。現場スタッフが全員辞める！？その１"
-slug: "2022/04/30"
+slug: "2022/04/30/201849"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621ed766ac4e.jpg"
 feature: "blog_import_6621ed766ac4e.jpg"

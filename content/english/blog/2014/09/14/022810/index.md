@@ -2,7 +2,7 @@
 date: 2014-09-14T02:28:10+09:00
 draft: false
 title: "バリ島からバニュワンギへ"
-slug: "2014/09/14"
+slug: "2014/09/14/022810"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621a8976f59e.jpg"
 feature: "blog_import_6621a8976f59e.jpg"

@@ -2,7 +2,7 @@
 date: 2022-08-06T16:03:07+09:00
 draft: false
 title: "バリ島のステーキは美味い！？「３ヶ月先まで予約が取れない店：Si Jin」"
-slug: "2022/08/06"
+slug: "2022/08/06/160307"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621eff8d217c.png"
 feature: "blog_import_6621eff8d217c.png"

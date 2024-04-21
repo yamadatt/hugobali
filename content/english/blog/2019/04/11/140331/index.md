@@ -2,7 +2,7 @@
 date: 2019-04-11T14:03:31+09:00
 draft: false
 title: "訳アリ！？下北沢の売マンション利回り７.６９％１億円"
-slug: "2019/04/11"
+slug: "2019/04/11/140331"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621cb3e41460.png"
 feature: "blog_import_6621cb3e41460.png"

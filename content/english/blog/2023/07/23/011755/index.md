@@ -2,7 +2,7 @@
 date: 2023-07-23T01:17:55+09:00
 draft: false
 title: "第29回馬場ゴルフ部コンペの報告。早起きは三文の得！？"
-slug: "2023/07/23"
+slug: "2023/07/23/011755"
 tags: ["ゴルフ"]
 image: "blog_import_6621fb877aa0d.png"
 feature: "blog_import_6621fb877aa0d.png"

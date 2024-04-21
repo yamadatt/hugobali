@@ -2,7 +2,7 @@
 date: 2018-06-26T16:47:03+09:00
 draft: false
 title: "安いなぁ、この物件。バリ島サヌール売ヴィラ「これで９５０万円は安い」"
-slug: "2018/06/26"
+slug: "2018/06/26/164703"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621c4778675b.jpg"
 feature: "blog_import_6621c4778675b.jpg"

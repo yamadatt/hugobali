@@ -2,7 +2,7 @@
 date: 2020-03-25T01:36:32+09:00
 draft: false
 title: "インドネシア、バリ島は入国規制の中、ニュピに突入。タケシ活躍か！？"
-slug: "2020/03/25"
+slug: "2020/03/25/013632"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621d7df037ef.png"
 feature: "blog_import_6621d7df037ef.png"

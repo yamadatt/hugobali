@@ -2,7 +2,7 @@
 date: 2021-10-13T22:23:57+09:00
 draft: false
 title: "バリ島不動産の契約書のトラブル　その２「『自分の建物を借りる？』ってなんだ！？」"
-slug: "2021/10/13"
+slug: "2021/10/13/222357"
 tags: ["トラブルの話"]
 image: "blog_import_6621e6d189776.jpg"
 feature: "blog_import_6621e6d189776.jpg"

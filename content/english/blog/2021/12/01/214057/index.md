@@ -2,7 +2,7 @@
 date: 2021-12-01T21:40:57+09:00
 draft: false
 title: "最初の一歩が踏み出せない人へ「１回はバクチが必要だ」"
-slug: "2021/12/01"
+slug: "2021/12/01/214057"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e822c2f06.png"
 feature: "blog_import_6621e822c2f06.png"

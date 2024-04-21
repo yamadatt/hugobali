@@ -2,7 +2,7 @@
 date: 2023-08-17T19:13:53+09:00
 draft: false
 title: "【売り物件】目白駅の築８年デザイナーズマンション。利回り５.６％！？"
-slug: "2023/08/17"
+slug: "2023/08/17/191353"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621fbfd454ad.png"
 feature: "blog_import_6621fbfd454ad.png"

@@ -2,7 +2,7 @@
 date: 2018-12-07T01:30:51+09:00
 draft: false
 title: "まいったな。。バリ島の税関で罰金３００万！？"
-slug: "2018/12/07"
+slug: "2018/12/07/013051"
 tags: ["トラブルの話"]
 image: "blog_import_6621c80538ad0.jpg"
 feature: "blog_import_6621c80538ad0.jpg"

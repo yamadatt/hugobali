@@ -2,7 +2,7 @@
 date: 2017-12-31T16:42:19+09:00
 draft: false
 title: "金を稼ぎたいなら、なぜ稼いでいる人とつき合うべきか"
-slug: "2017/12/31"
+slug: "2017/12/31/164219"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c04d8893a.jpg"
 feature: "blog_import_6621c04d8893a.jpg"

@@ -2,7 +2,7 @@
 date: 2020-02-19T15:01:31+09:00
 draft: false
 title: "明後日２１日の最強カードセミナーに寄せられた質問。「カード戦略は労せずメリットある」"
-slug: "2020/02/19"
+slug: "2020/02/19/150131"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d7321c2e0.jpg"
 feature: "blog_import_6621d7321c2e0.jpg"

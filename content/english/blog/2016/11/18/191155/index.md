@@ -2,7 +2,7 @@
 date: 2016-11-18T19:11:55+09:00
 draft: false
 title: "巨人オーナーとの契約"
-slug: "2016/11/18"
+slug: "2016/11/18/191155"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621b6ca7c2bf.jpg"
 feature: "blog_import_6621b6ca7c2bf.jpg"

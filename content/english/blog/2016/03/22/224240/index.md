@@ -2,7 +2,7 @@
 date: 2016-03-22T22:42:40+09:00
 draft: false
 title: "原油が下がると、なぜ株が下がる！？"
-slug: "2016/03/22"
+slug: "2016/03/22/224240"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ae37a58c3.png"
 feature: "blog_import_6621ae37a58c3.png"

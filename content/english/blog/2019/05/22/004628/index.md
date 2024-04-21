@@ -2,7 +2,7 @@
 date: 2019-05-22T00:46:28+09:00
 draft: false
 title: "仕事を引退してタリーズコーヒーを始めた先輩"
-slug: "2019/05/22"
+slug: "2019/05/22/004628"
 tags: ["プライベートな話"]
 image: "blog_import_6621ccbbce002.jpg"
 feature: "blog_import_6621ccbbce002.jpg"

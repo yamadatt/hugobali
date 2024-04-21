@@ -2,7 +2,7 @@
 date: 2018-07-04T18:55:48+09:00
 draft: false
 title: "百均(１００円均一）ダイソーの出現に感動したが・・・。"
-slug: "2018/07/04"
+slug: "2018/07/04/185548"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c49ab1b7a.jpg"
 feature: "blog_import_6621c49ab1b7a.jpg"

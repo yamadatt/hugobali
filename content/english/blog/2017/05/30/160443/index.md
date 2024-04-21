@@ -2,7 +2,7 @@
 date: 2017-05-30T16:04:43+09:00
 draft: false
 title: "バリ島では、ジャコウネコの肉を食べる！？"
-slug: "2017/05/30"
+slug: "2017/05/30/160443"
 tags: ["ブログ"]
 image: "blog_import_6621bbc707001.jpg"
 feature: "blog_import_6621bbc707001.jpg"

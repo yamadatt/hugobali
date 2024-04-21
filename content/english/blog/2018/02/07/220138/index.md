@@ -2,7 +2,7 @@
 date: 2018-02-07T22:01:38+09:00
 draft: false
 title: "えっ、この豪邸が３０００万円！？ アグン山の影響？破格値で売買が成立"
-slug: "2018/02/07"
+slug: "2018/02/07/220138"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621c14e6d41d.jpg"
 feature: "blog_import_6621c14e6d41d.jpg"

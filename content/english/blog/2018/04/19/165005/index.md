@@ -2,7 +2,7 @@
 date: 2018-04-19T16:50:05+09:00
 draft: false
 title: "アマゾン売れ筋ランキング８位！？"
-slug: "2018/04/19"
+slug: "2018/04/19/165005"
 tags: ["プライベートな話"]
 image: "blog_import_6621c2e8d31dc.png"
 feature: "blog_import_6621c2e8d31dc.png"

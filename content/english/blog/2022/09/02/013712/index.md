@@ -2,7 +2,7 @@
 date: 2022-09-02T01:37:12+09:00
 draft: false
 title: "大人の合宿in南伊豆「暗号通貨で閉塞感を打ち破れ！！」9月30日～10月2日"
-slug: "2022/09/02"
+slug: "2022/09/02/013712"
 tags: ["仮想通貨・暗号通貨"]
 image: "blog_import_6621f0a7ecc4f.jpg"
 feature: "blog_import_6621f0a7ecc4f.jpg"

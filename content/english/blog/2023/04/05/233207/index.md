@@ -2,7 +2,7 @@
 date: 2023-04-05T23:32:07+09:00
 draft: false
 title: "ラブホテルの売り物件は、どのように出てくるのか？"
-slug: "2023/04/05"
+slug: "2023/04/05/233207"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621f73308426.png"
 feature: "blog_import_6621f73308426.png"

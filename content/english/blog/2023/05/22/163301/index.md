@@ -2,7 +2,7 @@
 date: 2023-05-22T16:33:01+09:00
 draft: false
 title: "出国時には、つい牛丼を食べてしまう。"
-slug: "2023/05/22"
+slug: "2023/05/22/163301"
 tags: ["プライベートな話"]
 image: "blog_import_6621f94a3c458.jpg"
 feature: "blog_import_6621f94a3c458.jpg"

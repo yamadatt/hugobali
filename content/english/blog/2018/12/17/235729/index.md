@@ -2,7 +2,7 @@
 date: 2018-12-17T23:57:29+09:00
 draft: false
 title: "バリ島売り物件。３億円のヴィラはスゴイな"
-slug: "2018/12/17"
+slug: "2018/12/17/235729"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621c83d9281c.jpg"
 feature: "blog_import_6621c83d9281c.jpg"

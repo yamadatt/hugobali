@@ -2,7 +2,7 @@
 date: 2021-10-12T00:00:32+09:00
 draft: false
 title: "浜野ゴルフ２回目の月例。ハンデのおかげで１６位！？"
-slug: "2021/10/12"
+slug: "2021/10/12/000032"
 tags: ["ゴルフ"]
 image: "blog_import_6621e6b9cbc64.jpg"
 feature: "blog_import_6621e6b9cbc64.jpg"

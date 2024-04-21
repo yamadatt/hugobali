@@ -2,7 +2,7 @@
 date: 2018-09-24T18:37:19+09:00
 draft: false
 title: "なんでも口利き料を要求するインドネシア人"
-slug: "2018/09/24"
+slug: "2018/09/24/183719"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c65a9edc8.jpg"
 feature: "blog_import_6621c65a9edc8.jpg"

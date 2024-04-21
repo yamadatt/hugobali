@@ -2,7 +2,7 @@
 date: 2019-11-26T22:50:14+09:00
 draft: false
 title: "成長株の利益４２９万円！？全銘柄を公開する！！"
-slug: "2019/11/26"
+slug: "2019/11/26/225014"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d2931d18a.png"
 feature: "blog_import_6621d2931d18a.png"

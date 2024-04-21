@@ -2,7 +2,7 @@
 date: 2016-11-02T17:17:27+09:00
 draft: false
 title: "お断り・・・危ない質問には、メールでは回答できません。"
-slug: "2016/11/02"
+slug: "2016/11/02/171727"
 tags: ["よくある質問"]
 image: "blog_import_6621b5f5753f5.jpg"
 feature: "blog_import_6621b5f5753f5.jpg"

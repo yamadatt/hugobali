@@ -2,7 +2,7 @@
 date: 2024-03-01T04:13:34+09:00
 draft: false
 title: "投資で勝つポイント。カンニング理論！？"
-slug: "2024/03/01"
+slug: "2024/03/01/041334"
 tags: ["株式投資"]
 image: "blog_import_6622004c6dd83.png"
 feature: "blog_import_6622004c6dd83.png"

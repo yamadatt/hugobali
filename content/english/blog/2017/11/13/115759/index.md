@@ -2,7 +2,7 @@
 date: 2017-11-13T11:57:59+09:00
 draft: false
 title: "明日は、第３３回バリ島不動産セミナー"
-slug: "2017/11/13"
+slug: "2017/11/13/115759"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621be88e9b77.jpg"
 feature: "blog_import_6621be88e9b77.jpg"

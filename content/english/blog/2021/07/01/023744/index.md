@@ -2,7 +2,7 @@
 date: 2021-07-01T02:37:44+09:00
 draft: false
 title: "７月２日成長株セミナー「ＣＭからお宝銘柄を探そう！！」取り上げる銘柄は？"
-slug: "2021/07/01"
+slug: "2021/07/01/023744"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621e3beeeb3f.png"
 feature: "blog_import_6621e3beeeb3f.png"

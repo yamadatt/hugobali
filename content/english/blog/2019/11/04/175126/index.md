@@ -2,7 +2,7 @@
 date: 2019-11-04T17:51:26+09:00
 draft: false
 title: "１１月１日の「初心者向け成長株セミナー」の御礼とご感想"
-slug: "2019/11/04"
+slug: "2019/11/04/175126"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d1cf3c474.jpg"
 feature: "blog_import_6621d1cf3c474.jpg"

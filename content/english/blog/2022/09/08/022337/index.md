@@ -2,7 +2,7 @@
 date: 2022-09-08T02:23:37+09:00
 draft: false
 title: "バリ島不動産でのトラブル「二重契約」"
-slug: "2022/09/08"
+slug: "2022/09/08/022337"
 tags: ["トラブルの話"]
 image: "blog_import_6621f0d21f579.png"
 feature: "blog_import_6621f0d21f579.png"

@@ -2,7 +2,7 @@
 date: 2017-06-21T19:52:25+09:00
 draft: false
 title: "高スペックな男が、最後に選ぶ女とは！？"
-slug: "2017/06/21"
+slug: "2017/06/21/195225"
 tags: ["プライベートな話"]
 image: "blog_import_6621bc0b87359.jpg"
 feature: "blog_import_6621bc0b87359.jpg"

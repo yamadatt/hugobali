@@ -2,7 +2,7 @@
 date: 2017-01-08T18:40:25+09:00
 draft: false
 title: "新規開拓！？バリ島ローカルカラオケ"
-slug: "2017/01/08"
+slug: "2017/01/08/184025"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621b8372b783.jpg"
 feature: "blog_import_6621b8372b783.jpg"

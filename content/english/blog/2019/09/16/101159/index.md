@@ -2,7 +2,7 @@
 date: 2019-09-16T10:11:59+09:00
 draft: false
 title: "本日16日、早稲田大学「地球感謝祭」で焼きそばやってます！！"
-slug: "2019/09/16"
+slug: "2019/09/16/101159"
 tags: ["プライベートな話"]
 image: "blog_import_6621cfda5b75f.jpg"
 feature: "blog_import_6621cfda5b75f.jpg"

@@ -2,7 +2,7 @@
 date: 2018-06-12T21:26:14+09:00
 draft: false
 title: "ちょっとしたことに、いちいち金を要求してくるバリ人スタッフたち。"
-slug: "2018/06/12"
+slug: "2018/06/12/212614"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c41187d5d.jpg"
 feature: "blog_import_6621c41187d5d.jpg"

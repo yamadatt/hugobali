@@ -2,7 +2,7 @@
 date: 2019-10-19T16:44:14+09:00
 draft: false
 title: "１０月２５日（金）成長株投資の実践会は、ＩＰＯから２年以内銘柄で１０倍を目指す！？"
-slug: "2019/10/19"
+slug: "2019/10/19/164414"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d1355b10f.png"
 feature: "blog_import_6621d1355b10f.png"

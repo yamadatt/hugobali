@@ -2,7 +2,7 @@
 date: 2019-10-07T18:11:57+09:00
 draft: false
 title: "横浜スタジアムへ！！プロ野球 CS 1ステージ第３戦 横浜VS阪神"
-slug: "2019/10/07"
+slug: "2019/10/07/181157"
 tags: ["プライベートな話"]
 image: "blog_import_6621d061bc2cd.jpg"
 feature: "blog_import_6621d061bc2cd.jpg"

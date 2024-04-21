@@ -2,7 +2,7 @@
 date: 2020-10-07T02:10:17+09:00
 draft: false
 title: "株を学ぶ中学生高校生へ「お金は手段。目的にするな」"
-slug: "2020/10/07"
+slug: "2020/10/07/021017"
 tags: ["株式投資"]
 image: "blog_import_6621dd53a3390.png"
 feature: "blog_import_6621dd53a3390.png"

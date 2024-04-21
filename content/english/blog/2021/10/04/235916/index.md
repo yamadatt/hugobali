@@ -2,7 +2,7 @@
 date: 2021-10-04T23:59:16+09:00
 draft: false
 title: "現在のジャカルタでの隔離状況。インドネシアはいよいよ解禁か！？"
-slug: "2021/10/04"
+slug: "2021/10/04/235916"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621e66990aa4.png"
 feature: "blog_import_6621e66990aa4.png"

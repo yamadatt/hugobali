@@ -2,7 +2,7 @@
 date: 2017-11-01T22:43:57+09:00
 draft: false
 title: "緊急！？シークレット株投資セミナー　来週１１月７日(火)"
-slug: "2017/11/01"
+slug: "2017/11/01/224357"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621be5a0301f.jpg"
 feature: "blog_import_6621be5a0301f.jpg"

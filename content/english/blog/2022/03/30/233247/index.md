@@ -2,7 +2,7 @@
 date: 2022-03-30T23:32:47+09:00
 draft: false
 title: "ユーミンのLIVEに思う「生涯現役のススメ」"
-slug: "2022/03/30"
+slug: "2022/03/30/233247"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ecc6352d2.jpg"
 feature: "blog_import_6621ecc6352d2.jpg"

@@ -2,7 +2,7 @@
 date: 2019-02-16T00:41:39+09:00
 draft: false
 title: "バリ島の強風と日本の台風、どちらが凄い！？"
-slug: "2019/02/16"
+slug: "2019/02/16/004139"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c9d6a02d6.png"
 feature: "blog_import_6621c9d6a02d6.png"

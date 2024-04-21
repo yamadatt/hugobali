@@ -2,7 +2,7 @@
 date: 2023-11-20T19:41:38+09:00
 draft: false
 title: "ゴルフに対する様々な姿勢。「ルールに厳格な人とのゴルフにて。。」"
-slug: "2023/11/20"
+slug: "2023/11/20/194138"
 tags: ["ゴルフ"]
 image: "blog_import_6621fe5dd4ec0.png"
 feature: "blog_import_6621fe5dd4ec0.png"

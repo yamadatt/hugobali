@@ -2,7 +2,7 @@
 date: 2013-11-30T23:41:50+09:00
 draft: false
 title: "サヌールヴィラ7.6R　完成予想CG"
-slug: "2013/11/30"
+slug: "2013/11/30/234150"
 tags: ["バリ島の自社物件"]
 image: "blog_import_6621a3670b6aa.jpg"
 feature: "blog_import_6621a3670b6aa.jpg"

@@ -2,7 +2,7 @@
 date: 2017-07-17T14:46:05+09:00
 draft: false
 title: "明日から新潟へ"
-slug: "2017/07/17"
+slug: "2017/07/17/144605"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621bc4e1ff7c.jpg"
 feature: "blog_import_6621bc4e1ff7c.jpg"

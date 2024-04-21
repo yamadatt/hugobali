@@ -2,7 +2,7 @@
 date: 2022-11-27T18:22:01+09:00
 draft: false
 title: "Ｗカップ銘柄。。勝負しておけばよかったなぁ"
-slug: "2022/11/27"
+slug: "2022/11/27/182201"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f32d834d1.png"
 feature: "blog_import_6621f32d834d1.png"

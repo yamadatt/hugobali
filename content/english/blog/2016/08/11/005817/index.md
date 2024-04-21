@@ -2,7 +2,7 @@
 date: 2016-08-11T00:58:17+09:00
 draft: false
 title: "バリ島不動産勉強会 ９月５日(月)､１０日(土)に決定！！"
-slug: "2016/08/11"
+slug: "2016/08/11/005817"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621b262ee96d.jpg"
 feature: "blog_import_6621b262ee96d.jpg"

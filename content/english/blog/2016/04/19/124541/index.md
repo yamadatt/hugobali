@@ -2,7 +2,7 @@
 date: 2016-04-19T12:45:41+09:00
 draft: false
 title: "バリ島セミナー、まだ参加者６名"
-slug: "2016/04/19"
+slug: "2016/04/19/124541"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621af151c837.jpg"
 feature: "blog_import_6621af151c837.jpg"

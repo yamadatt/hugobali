@@ -2,7 +2,7 @@
 date: 2022-08-28T16:01:26+09:00
 draft: false
 title: "７０代社長の人生最後の勝負「日本酒酒蔵が作るウイスキー『房総』がヒット！？」"
-slug: "2022/08/28"
+slug: "2022/08/28/160126"
 tags: ["プライベートな話"]
 image: "blog_import_6621f0768f010.jpg"
 feature: "blog_import_6621f0768f010.jpg"

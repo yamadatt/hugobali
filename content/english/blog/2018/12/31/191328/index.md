@@ -2,7 +2,7 @@
 date: 2018-12-31T19:13:28+09:00
 draft: false
 title: "ワヤンの奇跡。４０過ぎの田舎男が２０歳美人と結婚！？"
-slug: "2018/12/31"
+slug: "2018/12/31/191328"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c8c759d4d.jpg"
 feature: "blog_import_6621c8c759d4d.jpg"

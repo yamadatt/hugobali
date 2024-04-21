@@ -2,7 +2,7 @@
 date: 2018-04-30T16:41:22+09:00
 draft: false
 title: "僕の本がコンビニでエロ本扱いされてる！？"
-slug: "2018/04/30"
+slug: "2018/04/30/164122"
 tags: ["プライベートな話"]
 image: "blog_import_6621c32d532b9.jpg"
 feature: "blog_import_6621c32d532b9.jpg"

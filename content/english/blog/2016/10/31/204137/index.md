@@ -2,7 +2,7 @@
 date: 2016-10-31T20:41:37+09:00
 draft: false
 title: "オオトカゲ！？を捕獲した。"
-slug: "2016/10/31"
+slug: "2016/10/31/204137"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621b5e22ddb2.jpg"
 feature: "blog_import_6621b5e22ddb2.jpg"

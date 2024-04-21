@@ -2,7 +2,7 @@
 date: 2023-01-22T11:47:24+09:00
 draft: false
 title: "インドへ出発。今回は後ろ髪を引かれるなぁ"
-slug: "2023/01/22"
+slug: "2023/01/22/114724"
 tags: ["インド旅行パンチャカルマ"]
 image: "blog_import_6621f4a5c1047.jpg"
 feature: "blog_import_6621f4a5c1047.jpg"

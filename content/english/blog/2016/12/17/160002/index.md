@@ -2,7 +2,7 @@
 date: 2016-12-17T16:00:02+09:00
 draft: false
 title: "ワクワクする忘年会にだけ参加しよう"
-slug: "2016/12/17"
+slug: "2016/12/17/160002"
 tags: ["プライベートな話"]
 image: "blog_import_6621b76a6ffee.jpg"
 feature: "blog_import_6621b76a6ffee.jpg"

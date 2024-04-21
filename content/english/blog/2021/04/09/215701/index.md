@@ -2,7 +2,7 @@
 date: 2021-04-09T21:57:01+09:00
 draft: false
 title: "どうしようもないオッサンに思う。「歳を取ったら自分のために時間を使おう」"
-slug: "2021/04/09"
+slug: "2021/04/09/215701"
 tags: ["プライベートな話"]
 image: "blog_import_6621e1f178bf2.png"
 feature: "blog_import_6621e1f178bf2.png"

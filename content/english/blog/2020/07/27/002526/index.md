@@ -2,7 +2,7 @@
 date: 2020-07-27T00:25:26+09:00
 draft: false
 title: "「素直に謝る」「すぐに謝る」。これ、大切だよね"
-slug: "2020/07/27"
+slug: "2020/07/27/002526"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621dbc032f9f.png"
 feature: "blog_import_6621dbc032f9f.png"

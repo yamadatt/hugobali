@@ -2,7 +2,7 @@
 date: 2019-12-17T22:52:21+09:00
 draft: false
 title: "天才は、見えているものが違う！？「コートールド美術館展」にて。"
-slug: "2019/12/17"
+slug: "2019/12/17/225221"
 tags: ["プライベートな話"]
 image: "blog_import_6621d3b70a894.jpg"
 feature: "blog_import_6621d3b70a894.jpg"

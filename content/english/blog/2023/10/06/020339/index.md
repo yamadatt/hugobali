@@ -2,7 +2,7 @@
 date: 2023-10-06T02:03:39+09:00
 draft: false
 title: "凡人が成功するには、どうしたらいいか？「成功者を味方につける方法」"
-slug: "2023/10/06"
+slug: "2023/10/06/020339"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621fd3db3fd2.jpg"
 feature: "blog_import_6621fd3db3fd2.jpg"

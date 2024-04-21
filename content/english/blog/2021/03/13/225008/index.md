@@ -2,7 +2,7 @@
 date: 2021-03-13T22:50:08+09:00
 draft: false
 title: "バリ島の観光再開を早める施策「グリーンゾーン構想」とは。"
-slug: "2021/03/13"
+slug: "2021/03/13/225008"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621e10531a9c.jpg"
 feature: "blog_import_6621e10531a9c.jpg"

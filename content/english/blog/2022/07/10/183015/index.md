@@ -2,7 +2,7 @@
 date: 2022-07-10T18:30:15+09:00
 draft: false
 title: "安倍晋三元首相の死に思う。「僕は死を受け入れられるのだろうか」"
-slug: "2022/07/10"
+slug: "2022/07/10/183015"
 tags: ["プライベートな話"]
 image: "blog_import_6621ef537088e.png"
 feature: "blog_import_6621ef537088e.png"

@@ -2,7 +2,7 @@
 date: 2019-06-07T22:15:06+09:00
 draft: false
 title: "鎌倉市売り土地、激安！？坪２０万円　１２０坪２５００万円"
-slug: "2019/06/07"
+slug: "2019/06/07/221506"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621cd4f0748a.png"
 feature: "blog_import_6621cd4f0748a.png"

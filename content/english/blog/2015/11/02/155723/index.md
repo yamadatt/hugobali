@@ -2,7 +2,7 @@
 date: 2015-11-02T15:57:23+09:00
 draft: false
 title: "バリの金利は、日本の７９２倍！？"
-slug: "2015/11/02"
+slug: "2015/11/02/155723"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ab68ca9dc.png"
 feature: "blog_import_6621ab68ca9dc.png"

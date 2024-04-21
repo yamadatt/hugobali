@@ -2,7 +2,7 @@
 date: 2020-05-26T16:51:46+09:00
 draft: false
 title: "長田レポート～コロナ後の投資戦略～その３「なぜ、下落時に買えなかったか考えよう」"
-slug: "2020/05/26"
+slug: "2020/05/26/165146"
 tags: ["株式投資"]
 image: "blog_import_6621da4591cb6.png"
 feature: "blog_import_6621da4591cb6.png"

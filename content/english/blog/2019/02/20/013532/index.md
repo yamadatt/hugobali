@@ -2,7 +2,7 @@
 date: 2019-02-20T01:35:32+09:00
 draft: false
 title: "証拠を公開！？３月１５日の株式セミナー講師：長田淳司は「今、いくら儲かっているのか？」"
-slug: "2019/02/20"
+slug: "2019/02/20/013532"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c9e5b347c.jpg"
 feature: "blog_import_6621c9e5b347c.jpg"

@@ -2,7 +2,7 @@
 date: 2020-09-01T01:22:15+09:00
 draft: false
 title: "９月４日(金）第１２回初心者向け成長株セミナーのご案内"
-slug: "2020/09/01"
+slug: "2020/09/01/012215"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621dc7374915.png"
 feature: "blog_import_6621dc7374915.png"

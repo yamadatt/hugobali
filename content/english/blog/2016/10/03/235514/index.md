@@ -2,7 +2,7 @@
 date: 2016-10-03T23:55:14+09:00
 draft: false
 title: "ミャンマー視察４日目「タイムマシン投資ができる最後のチャンスかも」"
-slug: "2016/10/03"
+slug: "2016/10/03/235514"
 tags: ["プライベートな話"]
 image: "blog_import_6621b3fcb72cd.jpg"
 feature: "blog_import_6621b3fcb72cd.jpg"

@@ -2,7 +2,7 @@
 date: 2020-06-13T18:08:56+09:00
 draft: false
 title: "誰も投資から逃れることはできない！？"
-slug: "2020/06/13"
+slug: "2020/06/13/180856"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621da90aff93.png"
 feature: "blog_import_6621da90aff93.png"

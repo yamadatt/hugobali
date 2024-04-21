@@ -2,7 +2,7 @@
 date: 2016-10-23T19:43:37+09:00
 draft: false
 title: "ブログを書く者として、責任を感じます。"
-slug: "2016/10/23"
+slug: "2016/10/23/194337"
 tags: ["プライベートな話"]
 image: "blog_import_6621b5ccb6875.jpg"
 feature: "blog_import_6621b5ccb6875.jpg"

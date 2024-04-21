@@ -2,7 +2,7 @@
 date: 2020-02-24T22:53:09+09:00
 draft: false
 title: "ひき逃げの犯人にされた！？「妥協してもいい。前に進もう」"
-slug: "2020/02/24"
+slug: "2020/02/24/225309"
 tags: ["プライベートな話"]
 image: "blog_import_6621d77dcc2d2.jpg"
 feature: "blog_import_6621d77dcc2d2.jpg"

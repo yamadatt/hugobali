@@ -2,7 +2,7 @@
 date: 2020-12-05T00:28:36+09:00
 draft: false
 title: "バリ島では、葬式もコロナバージョンに変わった！？"
-slug: "2020/12/05"
+slug: "2020/12/05/002836"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621def367fb3.jpg"
 feature: "blog_import_6621def367fb3.jpg"

@@ -2,7 +2,7 @@
 date: 2016-06-29T15:17:11+09:00
 draft: false
 title: "満員御礼！昨日のバリ島不動産セミナー"
-slug: "2016/06/29"
+slug: "2016/06/29/151711"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621b0919e3fc.jpg"
 feature: "blog_import_6621b0919e3fc.jpg"

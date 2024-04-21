@@ -2,7 +2,7 @@
 date: 2019-10-03T18:31:03+09:00
 draft: false
 title: "ラグビーＷ杯　スコットランド戦　チケットをゲットしたものの。。。"
-slug: "2019/10/03"
+slug: "2019/10/03/183103"
 tags: ["プライベートな話"]
 image: "blog_import_6621d044989fb.jpg"
 feature: "blog_import_6621d044989fb.jpg"

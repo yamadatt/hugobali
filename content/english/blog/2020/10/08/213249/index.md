@@ -2,7 +2,7 @@
 date: 2020-10-08T21:32:49+09:00
 draft: false
 title: "第２期「初心者向け成長株セミナー」は、資料もバージョンアップ！？"
-slug: "2020/10/08"
+slug: "2020/10/08/213249"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621dd5935bae.png"
 feature: "blog_import_6621dd5935bae.png"

@@ -2,7 +2,7 @@
 date: 2022-05-10T00:03:36+09:00
 draft: false
 title: "新規ホテルの樹木の伐採「若者のパワーはハンパない！？」ホテル作りはお祭りだ。"
-slug: "2022/05/10"
+slug: "2022/05/10/000336"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621edb160b9c.png"
 feature: "blog_import_6621edb160b9c.png"

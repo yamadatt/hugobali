@@ -2,7 +2,7 @@
 date: 2022-12-11T00:39:07+09:00
 draft: false
 title: "経営者は、頑固さを捨てよう。"
-slug: "2022/12/11"
+slug: "2022/12/11/003907"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f3a068e73.png"
 feature: "blog_import_6621f3a068e73.png"

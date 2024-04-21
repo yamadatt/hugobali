@@ -2,7 +2,7 @@
 date: 2014-08-12T21:22:32+09:00
 draft: false
 title: "売ヴィラサヌール　９アール約6000万円"
-slug: "2014/08/12"
+slug: "2014/08/12/212232"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621a4ff4850e.jpg"
 feature: "blog_import_6621a4ff4850e.jpg"

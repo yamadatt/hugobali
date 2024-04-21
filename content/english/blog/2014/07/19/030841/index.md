@@ -2,7 +2,7 @@
 date: 2014-07-19T03:08:41+09:00
 draft: false
 title: "バリ島・タバナンの土地紹介"
-slug: "2014/07/19"
+slug: "2014/07/19/030841"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621a3fadab6d.jpg"
 feature: "blog_import_6621a3fadab6d.jpg"

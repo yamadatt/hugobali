@@ -2,7 +2,7 @@
 date: 2016-03-29T18:22:47+09:00
 draft: false
 title: "BMI銀行が休日でも口座開設してくれた"
-slug: "2016/03/29"
+slug: "2016/03/29/182247"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621ae77da1f2.jpg"
 feature: "blog_import_6621ae77da1f2.jpg"

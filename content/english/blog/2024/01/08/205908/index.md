@@ -2,7 +2,7 @@
 date: 2024-01-08T20:59:08+09:00
 draft: false
 title: "1月12日(金）第58回成長株実践セミナー「低PBR銘柄は、ローリスク・ハイリターン！？」"
-slug: "2024/01/08"
+slug: "2024/01/08/205908"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ff3923516.png"
 feature: "blog_import_6621ff3923516.png"

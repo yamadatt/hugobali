@@ -2,7 +2,7 @@
 date: 2020-09-19T21:41:27+09:00
 draft: false
 title: "高額セミナー「成長株投資の実践会」の内容とは？"
-slug: "2020/09/19"
+slug: "2020/09/19/214127"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621dce095463.jpg"
 feature: "blog_import_6621dce095463.jpg"

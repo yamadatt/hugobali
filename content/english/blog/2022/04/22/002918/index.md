@@ -2,7 +2,7 @@
 date: 2022-04-22T00:29:18+09:00
 draft: false
 title: "第１４回馬場ゴルフ部月例の報告。リゾートトラストの営業さんが来るようになった！？"
-slug: "2022/04/22"
+slug: "2022/04/22/002918"
 tags: ["ゴルフ"]
 image: "blog_import_6621ed4c52fb0.jpg"
 feature: "blog_import_6621ed4c52fb0.jpg"

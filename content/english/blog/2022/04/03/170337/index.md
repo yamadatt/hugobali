@@ -2,7 +2,7 @@
 date: 2022-04-03T17:03:37+09:00
 draft: false
 title: "今やれることだけを考えよう"
-slug: "2022/04/03"
+slug: "2022/04/03/170337"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ecd31ebe0.png"
 feature: "blog_import_6621ecd31ebe0.png"

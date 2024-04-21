@@ -2,7 +2,7 @@
 date: 2022-12-23T21:06:18+09:00
 draft: false
 title: "【保存用】来年（2023年）の成長株セミナーの日程決定！！"
-slug: "2022/12/23"
+slug: "2022/12/23/210618"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621f3cfe5481.png"
 feature: "blog_import_6621f3cfe5481.png"

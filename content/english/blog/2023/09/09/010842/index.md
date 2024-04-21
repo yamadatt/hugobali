@@ -2,7 +2,7 @@
 date: 2023-09-09T01:08:42+09:00
 draft: false
 title: "アーリーリタイアした億万長者に聞く！「会社員時代にやるべき準備とは？」"
-slug: "2023/09/09"
+slug: "2023/09/09/010842"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621fcb036dda.png"
 feature: "blog_import_6621fcb036dda.png"

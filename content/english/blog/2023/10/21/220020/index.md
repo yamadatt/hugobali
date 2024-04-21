@@ -2,7 +2,7 @@
 date: 2023-10-21T22:00:20+09:00
 draft: false
 title: "自己破産は、得か損か？債務整理その１"
-slug: "2023/10/21"
+slug: "2023/10/21/220020"
 tags: ["トラブルの話"]
 image: "blog_import_6621fda306bbc.png"
 feature: "blog_import_6621fda306bbc.png"

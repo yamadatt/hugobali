@@ -2,7 +2,7 @@
 date: 2016-08-09T21:04:29+09:00
 draft: false
 title: "バリ島スミニャック 売ヴィラ270,000ドル お洒落"
-slug: "2016/08/09"
+slug: "2016/08/09/210429"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621b24eb91f9.jpg"
 feature: "blog_import_6621b24eb91f9.jpg"

@@ -2,7 +2,7 @@
 date: 2024-04-03T02:58:54+09:00
 draft: false
 title: "諸君はきのうの専門家であるかもしれん。しかしあすの専門家ではない。軍神・児玉源太郎"
-slug: "2024/04/03"
+slug: "2024/04/03/025854"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_66219aeec52b6.jpg"
 feature: "blog_import_66219aeec52b6.jpg"

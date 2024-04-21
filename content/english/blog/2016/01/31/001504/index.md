@@ -2,7 +2,7 @@
 date: 2016-01-31T00:15:04+09:00
 draft: false
 title: "ジャカルタ、スカルノハッタ国際空港での時間の潰し方"
-slug: "2016/01/31"
+slug: "2016/01/31/001504"
 tags: ["ブログ"]
 image: "blog_import_6621ac73c9d6d.jpg"
 feature: "blog_import_6621ac73c9d6d.jpg"

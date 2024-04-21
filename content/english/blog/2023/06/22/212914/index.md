@@ -2,7 +2,7 @@
 date: 2023-06-22T21:29:14+09:00
 draft: false
 title: "帰ろうと思ったら自転車がない！？マジか。。"
-slug: "2023/06/22"
+slug: "2023/06/22/212914"
 tags: ["プライベートな話"]
 image: "blog_import_6621fa48dc13d.png"
 feature: "blog_import_6621fa48dc13d.png"

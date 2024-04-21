@@ -2,7 +2,7 @@
 date: 2023-12-12T01:35:12+09:00
 draft: false
 title: "バリ島でホテル向けインテリアを購入"
-slug: "2023/12/12"
+slug: "2023/12/12/013512"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621fed48d76d.jpg"
 feature: "blog_import_6621fed48d76d.jpg"

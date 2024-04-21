@@ -2,7 +2,7 @@
 date: 2019-11-23T04:14:28+09:00
 draft: false
 title: "「韓国銘柄が来る！？HANATOUR」実践会Lineグループでの長田先生のつぶやき"
-slug: "2019/11/23"
+slug: "2019/11/23/041428"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d2850443a.png"
 feature: "blog_import_6621d2850443a.png"

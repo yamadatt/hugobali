@@ -2,7 +2,7 @@
 date: 2021-02-15T15:43:07+09:00
 draft: false
 title: "ニュース記事を見てその通りなら、皆、儲かります"
-slug: "2021/02/15"
+slug: "2021/02/15/154307"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e06a94386.png"
 feature: "blog_import_6621e06a94386.png"

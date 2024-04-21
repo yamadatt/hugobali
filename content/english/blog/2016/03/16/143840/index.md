@@ -2,7 +2,7 @@
 date: 2016-03-16T14:38:40+09:00
 draft: false
 title: "ウルワツ　売ヴィラ　約1850万円　これもいいです！"
-slug: "2016/03/16"
+slug: "2016/03/16/143840"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621ae1274777.jpg"
 feature: "blog_import_6621ae1274777.jpg"

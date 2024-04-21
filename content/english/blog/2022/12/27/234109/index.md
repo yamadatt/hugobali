@@ -2,7 +2,7 @@
 date: 2022-12-27T23:41:09+09:00
 draft: false
 title: "１月１９日(木）第５回暗号通貨の実践会「草コイン短期トレードで勝ちまくる若者！？」"
-slug: "2022/12/27"
+slug: "2022/12/27/234109"
 tags: ["仮想通貨・暗号通貨"]
 image: "blog_import_6621f42dc69b4.jpg"
 feature: "blog_import_6621f42dc69b4.jpg"

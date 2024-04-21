@@ -2,7 +2,7 @@
 date: 2019-03-15T21:39:49+09:00
 draft: false
 title: "ただ今、飲み会中！？ 株式投資セミナーin高田馬場"
-slug: "2019/03/15"
+slug: "2019/03/15/213949"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ca30de9e4.jpg"
 feature: "blog_import_6621ca30de9e4.jpg"

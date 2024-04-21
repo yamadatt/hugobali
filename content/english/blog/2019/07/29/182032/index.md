@@ -2,7 +2,7 @@
 date: 2019-07-29T18:20:32+09:00
 draft: false
 title: "反日ヒステリック韓国に、八神が立ち寄った"
-slug: "2019/07/29"
+slug: "2019/07/29/182032"
 tags: ["プライベートな話"]
 image: "blog_import_6621cf137e39a.jpg"
 feature: "blog_import_6621cf137e39a.jpg"

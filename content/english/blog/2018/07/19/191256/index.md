@@ -2,7 +2,7 @@
 date: 2018-07-19T19:12:56+09:00
 draft: false
 title: "テレビを壊して認めない宿泊客。開き直られても。。"
-slug: "2018/07/19"
+slug: "2018/07/19/191256"
 tags: ["トラブルの話"]
 image: "blog_import_6621c50ebac0e.jpg"
 feature: "blog_import_6621c50ebac0e.jpg"

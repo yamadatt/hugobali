@@ -2,7 +2,7 @@
 date: 2020-10-16T01:37:39+09:00
 draft: false
 title: "第２期「初心者向け成長株セミナー」参加者からの感想"
-slug: "2020/10/16"
+slug: "2020/10/16/013739"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621dd9c37db1.jpg"
 feature: "blog_import_6621dd9c37db1.jpg"

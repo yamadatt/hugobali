@@ -2,7 +2,7 @@
 date: 2019-11-26T01:22:54+09:00
 draft: false
 title: "元手３００万円で利益１７０万円！？チャッカリさんからワインの差し入れ。生ハム会はワインも豪華"
-slug: "2019/11/26"
+slug: "2019/11/26/012254"
 tags: ["プライベートな話"]
 image: "blog_import_6621d28cb4267.jpg"
 feature: "blog_import_6621d28cb4267.jpg"

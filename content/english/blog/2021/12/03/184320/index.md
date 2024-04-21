@@ -2,7 +2,7 @@
 date: 2021-12-03T18:43:20+09:00
 draft: false
 title: "１０キロオーバーのベジョータ参上！！"
-slug: "2021/12/03"
+slug: "2021/12/03/184320"
 tags: ["プライベートな話"]
 image: "blog_import_6621e82f0d225.jpg"
 feature: "blog_import_6621e82f0d225.jpg"

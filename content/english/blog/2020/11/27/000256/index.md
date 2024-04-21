@@ -2,7 +2,7 @@
 date: 2020-11-27T00:02:56+09:00
 draft: false
 title: "カントリーオークビレッヂは、やはり難しかった！？"
-slug: "2020/11/27"
+slug: "2020/11/27/000256"
 tags: ["プライベートな話"]
 image: "blog_import_6621dec719e44.png"
 feature: "blog_import_6621dec719e44.png"

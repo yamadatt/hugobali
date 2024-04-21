@@ -2,7 +2,7 @@
 date: 2023-01-17T17:37:29+09:00
 draft: false
 title: "売マンション目黒区本町２.５億円。利回り６％弱。築浅で相続に最適！？"
-slug: "2023/01/17"
+slug: "2023/01/17/173729"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621f496acecb.jpg"
 feature: "blog_import_6621f496acecb.jpg"

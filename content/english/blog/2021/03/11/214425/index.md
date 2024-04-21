@@ -2,7 +2,7 @@
 date: 2021-03-11T21:44:25+09:00
 draft: false
 title: "１３日の中高生株式セミナー「上場企業の社長は、自社の株価をどう考えるのか」講師は上場企業の筆頭株"
-slug: "2021/03/11"
+slug: "2021/03/11/214425"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621e0fe03a9b.jpg"
 feature: "blog_import_6621e0fe03a9b.jpg"

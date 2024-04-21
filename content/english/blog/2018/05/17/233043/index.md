@@ -2,7 +2,7 @@
 date: 2018-05-17T23:30:43+09:00
 draft: false
 title: "成功したいなら、人に好かれたいなら、人を傷つける勇気を持とう"
-slug: "2018/05/17"
+slug: "2018/05/17/233043"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c36837a29.jpg"
 feature: "blog_import_6621c36837a29.jpg"

@@ -2,7 +2,7 @@
 date: 2022-05-23T02:08:58+09:00
 draft: false
 title: "阿武町の誤送金に思う「しょうもない自治体は潰せばいい！？」"
-slug: "2022/05/23"
+slug: "2022/05/23/020858"
 tags: ["プライベートな話"]
 image: "blog_import_6621ee02b129a.png"
 feature: "blog_import_6621ee02b129a.png"

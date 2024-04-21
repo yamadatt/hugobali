@@ -2,7 +2,7 @@
 date: 2014-05-02T20:35:12+09:00
 draft: false
 title: "１，インドネシアは世界一の親日国である"
-slug: "2014/05/02"
+slug: "2014/05/02/203512"
 tags: ["バリ島でのロングステイ"]
 image: "blog_import_6621a49b7ed8e.png"
 feature: "blog_import_6621a49b7ed8e.png"

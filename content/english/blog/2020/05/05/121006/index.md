@@ -2,7 +2,7 @@
 date: 2020-05-05T12:10:06+09:00
 draft: false
 title: "アップ動画への辛辣な意見をいただいた。「ピンチでは銀行にカネを返すな」"
-slug: "2020/05/05"
+slug: "2020/05/05/121006"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d9b57b0a6.png"
 feature: "blog_import_6621d9b57b0a6.png"

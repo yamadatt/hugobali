@@ -2,7 +2,7 @@
 date: 2017-05-09T23:18:21+09:00
 draft: false
 title: "ビーチフロントは一瞬で売れるな。"
-slug: "2017/05/09"
+slug: "2017/05/09/231821"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621bb52be97d.jpg"
 feature: "blog_import_6621bb52be97d.jpg"

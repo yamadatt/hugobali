@@ -2,7 +2,7 @@
 date: 2021-11-24T21:45:49+09:00
 draft: false
 title: "ある女性投資家の死に思う「金があって不幸な人って、山ほどいるな」"
-slug: "2021/11/24"
+slug: "2021/11/24/214549"
 tags: ["プライベートな話"]
 image: "blog_import_6621e7f87efb7.png"
 feature: "blog_import_6621e7f87efb7.png"

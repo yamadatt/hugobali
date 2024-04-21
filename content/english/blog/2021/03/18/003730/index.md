@@ -2,7 +2,7 @@
 date: 2021-03-18T00:37:30+09:00
 draft: false
 title: "やっぱり僕は、おかしい。。浜野にギャディバッグを忘れて帰る"
-slug: "2021/03/18"
+slug: "2021/03/18/003730"
 tags: ["プライベートな話"]
 image: "blog_import_6621e132ae679.jpg"
 feature: "blog_import_6621e132ae679.jpg"

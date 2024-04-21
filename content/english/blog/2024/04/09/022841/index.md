@@ -2,7 +2,7 @@
 date: 2024-04-09T02:28:41+09:00
 draft: false
 title: "４月１２日(金）第61回成長株実践セミナー「そろそろ成長株の物色か！？」"
-slug: "2024/04/09"
+slug: "2024/04/09/022841"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_66219af54a225.png"
 feature: "blog_import_66219af54a225.png"

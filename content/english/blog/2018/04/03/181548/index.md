@@ -2,7 +2,7 @@
 date: 2018-04-03T18:15:48+09:00
 draft: false
 title: "【王族との契約】バリ島の王家はプライドが高いが金がない"
-slug: "2018/04/03"
+slug: "2018/04/03/181548"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c2b01f9dc.png"
 feature: "blog_import_6621c2b01f9dc.png"

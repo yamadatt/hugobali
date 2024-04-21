@@ -2,7 +2,7 @@
 date: 2022-03-02T01:26:51+09:00
 draft: false
 title: "昔の車は、大衆車でも１０００万円！？クラシックカー博物館にて。"
-slug: "2022/03/02"
+slug: "2022/03/02/012651"
 tags: ["プライベートな話"]
 image: "blog_import_6621eb2f24ba5.png"
 feature: "blog_import_6621eb2f24ba5.png"

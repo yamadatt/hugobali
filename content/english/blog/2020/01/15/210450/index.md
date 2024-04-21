@@ -2,7 +2,7 @@
 date: 2020-01-15T21:04:50+09:00
 draft: false
 title: "アメブロのフォロワーが１日で急増（約１０００人）。その理由は！？"
-slug: "2020/01/15"
+slug: "2020/01/15/210450"
 tags: ["プライベートな話"]
 image: "blog_import_6621d583bdb7e.png"
 feature: "blog_import_6621d583bdb7e.png"

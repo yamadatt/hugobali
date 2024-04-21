@@ -2,7 +2,7 @@
 date: 2023-04-25T23:36:41+09:00
 draft: false
 title: "ソウルで生肉を食べまくり！？"
-slug: "2023/04/25"
+slug: "2023/04/25/233641"
 tags: ["プライベートな話"]
 image: "blog_import_6621f8ab2e754.jpg"
 feature: "blog_import_6621f8ab2e754.jpg"

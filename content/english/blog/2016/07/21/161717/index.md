@@ -2,7 +2,7 @@
 date: 2016-07-21T16:17:17+09:00
 draft: false
 title: "お詫び"
-slug: "2016/07/21"
+slug: "2016/07/21/161717"
 tags: ["プライベートな話"]
 image: "blog_import_6621b155b86c4.jpg"
 feature: "blog_import_6621b155b86c4.jpg"

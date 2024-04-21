@@ -2,7 +2,7 @@
 date: 2019-03-27T19:00:56+09:00
 draft: false
 title: "同じ建築工事で２倍の差！？ボるにも限度があるだろ。この積算はひどいな。。"
-slug: "2019/03/27"
+slug: "2019/03/27/190056"
 tags: ["トラブルの話"]
 image: "blog_import_6621ca878dfb6.png"
 feature: "blog_import_6621ca878dfb6.png"

@@ -2,7 +2,7 @@
 date: 2023-11-26T20:30:23+09:00
 draft: false
 title: "【保存用】2024年度「株式セミナー」の開催日。今年はいくら儲かったのか？"
-slug: "2023/11/26"
+slug: "2023/11/26/203023"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621fe6a90155.png"
 feature: "blog_import_6621fe6a90155.png"

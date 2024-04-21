@@ -2,7 +2,7 @@
 date: 2019-10-06T18:17:15+09:00
 draft: false
 title: "長期的にみれば株は儲かる。その証拠を見せる。その２"
-slug: "2019/10/06"
+slug: "2019/10/06/181715"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d05420812.png"
 feature: "blog_import_6621d05420812.png"

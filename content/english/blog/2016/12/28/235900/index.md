@@ -2,7 +2,7 @@
 date: 2016-12-28T23:59:00+09:00
 draft: false
 title: "指値は、いくらが適正か！？「国籍にかかわらず、売主の気持ちは同じ」"
-slug: "2016/12/28"
+slug: "2016/12/28/235900"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b7cd54f80.jpg"
 feature: "blog_import_6621b7cd54f80.jpg"

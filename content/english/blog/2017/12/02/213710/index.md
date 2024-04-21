@@ -2,7 +2,7 @@
 date: 2017-12-02T21:37:10+09:00
 draft: false
 title: "資金が少ない人が、資産を作るには何をすればいいか？"
-slug: "2017/12/02"
+slug: "2017/12/02/213710"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621bf321cfc2.jpg"
 feature: "blog_import_6621bf321cfc2.jpg"

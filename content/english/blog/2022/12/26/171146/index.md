@@ -2,7 +2,7 @@
 date: 2022-12-26T17:11:46+09:00
 draft: false
 title: "１月２０日～訪インド　パンチャカルマ＆リシケシ(ヨガの聖地）ツアー詳細"
-slug: "2022/12/26"
+slug: "2022/12/26/171146"
 tags: ["ファスティング合宿ダイエット"]
 image: "blog_import_6621f4250b72e.png"
 feature: "blog_import_6621f4250b72e.png"

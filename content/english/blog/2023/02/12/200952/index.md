@@ -2,7 +2,7 @@
 date: 2023-02-12T20:09:52+09:00
 draft: false
 title: "インドのぼったくり。「気は心」は通じない！？料金は先に決めよう"
-slug: "2023/02/12"
+slug: "2023/02/12/200952"
 tags: ["インド旅行パンチャカルマ"]
 image: "blog_import_6621f5e0e5c49.jpg"
 feature: "blog_import_6621f5e0e5c49.jpg"

@@ -2,7 +2,7 @@
 date: 2021-12-23T17:23:34+09:00
 draft: false
 title: "「名門ゴルフ場」と「大衆ゴルフ場」は、何が違うのか？"
-slug: "2021/12/23"
+slug: "2021/12/23/172334"
 tags: ["ゴルフ"]
 image: "blog_import_6621e8d43e2a1.png"
 feature: "blog_import_6621e8d43e2a1.png"

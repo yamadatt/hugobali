@@ -2,7 +2,7 @@
 date: 2016-04-20T21:50:59+09:00
 draft: false
 title: "救えない貧困者"
-slug: "2016/04/20"
+slug: "2016/04/20/215059"
 tags: ["ラブホテルの話"]
 image: ""
 feature: ""

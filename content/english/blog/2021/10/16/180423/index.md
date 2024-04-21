@@ -2,7 +2,7 @@
 date: 2021-10-16T18:04:23+09:00
 draft: false
 title: "バリ島不動産の契約書のトラブル　その４「詐欺話の登場人物は、いい人だった！？」"
-slug: "2021/10/16"
+slug: "2021/10/16/180423"
 tags: ["トラブルの話"]
 image: "blog_import_6621e6e3d36f9.jpg"
 feature: "blog_import_6621e6e3d36f9.jpg"

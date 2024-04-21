@@ -2,7 +2,7 @@
 date: 2023-05-11T18:24:25+09:00
 draft: false
 title: "ラブホテル優良物件。利回り２５％！？群馬県伊勢崎市"
-slug: "2023/05/11"
+slug: "2023/05/11/182425"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621f91a42c5c.png"
 feature: "blog_import_6621f91a42c5c.png"

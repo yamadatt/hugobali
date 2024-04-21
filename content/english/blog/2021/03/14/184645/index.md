@@ -2,7 +2,7 @@
 date: 2021-03-14T18:46:45+09:00
 draft: false
 title: "起業に向いている人は、どんな人？"
-slug: "2021/03/14"
+slug: "2021/03/14/184645"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e10c5930a.jpg"
 feature: "blog_import_6621e10c5930a.jpg"

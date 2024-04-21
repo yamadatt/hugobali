@@ -2,7 +2,7 @@
 date: 2014-06-05T18:59:21+09:00
 draft: false
 title: "日本人を騙す日本人"
-slug: "2014/06/05"
+slug: "2014/06/05/185921"
 tags: ["ブログ"]
 image: ""
 feature: ""

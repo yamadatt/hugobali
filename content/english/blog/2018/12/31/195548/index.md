@@ -2,7 +2,7 @@
 date: 2018-12-31T19:55:48+09:00
 draft: false
 title: "今年インドネシアは災害が多かったな。。"
-slug: "2018/12/31"
+slug: "2018/12/31/195548"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c8d15ebcf.jpg"
 feature: "blog_import_6621c8d15ebcf.jpg"

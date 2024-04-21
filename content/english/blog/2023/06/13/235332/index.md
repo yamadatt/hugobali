@@ -2,7 +2,7 @@
 date: 2023-06-13T23:53:32+09:00
 draft: false
 title: "50代でメガバンクを退職。起業した山口曜一郎氏が「日経ビジネス」に掲載された！！"
-slug: "2023/06/13"
+slug: "2023/06/13/235332"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621fa222d6d8.png"
 feature: "blog_import_6621fa222d6d8.png"

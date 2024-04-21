@@ -2,7 +2,7 @@
 date: 2018-03-01T22:43:59+09:00
 draft: false
 title: "ずる賢いスタッフを辞めさせるのは大変だ【その３】"
-slug: "2018/03/01"
+slug: "2018/03/01/224359"
 tags: ["トラブルの話"]
 image: "blog_import_6621c1f3a798d.jpg"
 feature: "blog_import_6621c1f3a798d.jpg"

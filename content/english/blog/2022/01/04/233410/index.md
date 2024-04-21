@@ -2,7 +2,7 @@
 date: 2022-01-04T23:34:10+09:00
 draft: false
 title: "ガリガリ君の従弟「ソフト君」を見つけた！！「お味は！？」"
-slug: "2022/01/04"
+slug: "2022/01/04/233410"
 tags: ["プライベートな話"]
 image: "blog_import_6621e9444797a.jpg"
 feature: "blog_import_6621e9444797a.jpg"

@@ -2,7 +2,7 @@
 date: 2020-09-02T20:50:22+09:00
 draft: false
 title: "冷凍庫のドアを閉め忘れて数日したら、どうなるのか！？"
-slug: "2020/09/02"
+slug: "2020/09/02/205022"
 tags: ["プライベートな話"]
 image: "blog_import_6621dc75674c4.jpg"
 feature: "blog_import_6621dc75674c4.jpg"

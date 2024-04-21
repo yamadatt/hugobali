@@ -2,7 +2,7 @@
 date: 2016-09-10T00:35:18+09:00
 draft: false
 title: "サヌールも捨てたもんじゃない！？"
-slug: "2016/09/10"
+slug: "2016/09/10/003518"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621b350d4d7b.jpg"
 feature: "blog_import_6621b350d4d7b.jpg"

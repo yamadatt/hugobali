@@ -2,7 +2,7 @@
 date: 2020-03-30T21:34:45+09:00
 draft: false
 title: "志村けんさんを偲ぶ"
-slug: "2020/03/30"
+slug: "2020/03/30/213445"
 tags: ["プライベートな話"]
 image: "blog_import_6621d7f307a34.png"
 feature: "blog_import_6621d7f307a34.png"

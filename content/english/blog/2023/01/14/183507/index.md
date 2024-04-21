@@ -2,7 +2,7 @@
 date: 2023-01-14T18:35:07+09:00
 draft: false
 title: "１月１９日(木）暗号通貨セミナーは「その場で実践する！？」講師のプロフィール紹介。"
-slug: "2023/01/14"
+slug: "2023/01/14/183507"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621f478ef0e3.png"
 feature: "blog_import_6621f478ef0e3.png"

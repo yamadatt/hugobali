@@ -2,7 +2,7 @@
 date: 2015-05-13T20:40:26+09:00
 draft: false
 title: "勝ち切ることの大切さ"
-slug: "2015/05/13"
+slug: "2015/05/13/204026"
 tags: ["ブログ"]
 image: ""
 feature: ""

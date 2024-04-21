@@ -2,7 +2,7 @@
 date: 2016-04-03T19:49:49+09:00
 draft: false
 title: "工事進捗状況と女性担当者　New World Grand Suites"
-slug: "2016/04/03"
+slug: "2016/04/03/194949"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621aeb43230c.jpg"
 feature: "blog_import_6621aeb43230c.jpg"

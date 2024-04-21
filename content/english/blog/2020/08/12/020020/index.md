@@ -2,7 +2,7 @@
 date: 2020-08-12T02:00:20+09:00
 draft: false
 title: "コロナで思う「田舎って生きにくいな」"
-slug: "2020/08/12"
+slug: "2020/08/12/020020"
 tags: ["プライベートな話"]
 image: "blog_import_6621dc2e4ea36.png"
 feature: "blog_import_6621dc2e4ea36.png"

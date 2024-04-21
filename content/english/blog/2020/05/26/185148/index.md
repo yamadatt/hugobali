@@ -2,7 +2,7 @@
 date: 2020-05-26T18:51:48+09:00
 draft: false
 title: "「株は、さらに下がる」というノブスケさんのコメントへ"
-slug: "2020/05/26"
+slug: "2020/05/26/185148"
 tags: ["株式投資"]
 image: "blog_import_6621da4a13a1c.png"
 feature: "blog_import_6621da4a13a1c.png"

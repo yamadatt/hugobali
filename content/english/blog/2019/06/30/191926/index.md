@@ -2,7 +2,7 @@
 date: 2019-06-30T19:19:26+09:00
 draft: false
 title: "ラブホテルの料金は、オーナーが決めると失敗する！？"
-slug: "2019/06/30"
+slug: "2019/06/30/191926"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ce2de6e44.jpg"
 feature: "blog_import_6621ce2de6e44.jpg"

@@ -2,7 +2,7 @@
 date: 2023-01-28T15:44:22+09:00
 draft: false
 title: "〝場″は大切。身体はガタガタ、でもなんとかやれてる。"
-slug: "2023/01/28"
+slug: "2023/01/28/154422"
 tags: ["インド旅行パンチャカルマ"]
 image: "blog_import_6621f50e2475b.jpg"
 feature: "blog_import_6621f50e2475b.jpg"

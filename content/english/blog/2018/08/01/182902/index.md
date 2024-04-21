@@ -2,7 +2,7 @@
 date: 2018-08-01T18:29:02+09:00
 draft: false
 title: "今後、ヴィラの宿泊客はイミグレに登録することになるのか！？"
-slug: "2018/08/01"
+slug: "2018/08/01/182902"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c5507e226.png"
 feature: "blog_import_6621c5507e226.png"

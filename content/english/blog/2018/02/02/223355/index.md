@@ -2,7 +2,7 @@
 date: 2018-02-02T22:33:55+09:00
 draft: false
 title: "中学入試に思う。「上昇志向は、人を幸せにするのか」"
-slug: "2018/02/02"
+slug: "2018/02/02/223355"
 tags: ["プライベートな話"]
 image: "blog_import_6621c10c1bd0f.jpg"
 feature: "blog_import_6621c10c1bd0f.jpg"

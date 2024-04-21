@@ -2,7 +2,7 @@
 date: 2022-08-27T20:45:39+09:00
 draft: false
 title: "８月３０日の暗号通貨セミナー「宝くじよりは、確率が高い！？」"
-slug: "2022/08/27"
+slug: "2022/08/27/204539"
 tags: ["仮想通貨・暗号通貨"]
 image: "blog_import_6621f05d95838.png"
 feature: "blog_import_6621f05d95838.png"

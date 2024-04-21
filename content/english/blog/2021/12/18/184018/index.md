@@ -2,7 +2,7 @@
 date: 2021-12-18T18:40:18+09:00
 draft: false
 title: "小さな失敗を経験しよう"
-slug: "2021/12/18"
+slug: "2021/12/18/184018"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e88c9b65c.png"
 feature: "blog_import_6621e88c9b65c.png"

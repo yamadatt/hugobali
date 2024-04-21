@@ -2,7 +2,7 @@
 date: 2018-04-24T11:28:41+09:00
 draft: false
 title: "【 閲覧注意！画像アリ】拷問？虐待？"
-slug: "2018/04/24"
+slug: "2018/04/24/112841"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c315d1589.jpg"
 feature: "blog_import_6621c315d1589.jpg"

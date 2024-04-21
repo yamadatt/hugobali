@@ -2,7 +2,7 @@
 date: 2016-05-05T03:54:49+09:00
 draft: false
 title: "皮を剥いたカエル"
-slug: "2016/05/05"
+slug: "2016/05/05/035449"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621af7096d52.jpg"
 feature: "blog_import_6621af7096d52.jpg"

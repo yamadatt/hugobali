@@ -2,7 +2,7 @@
 date: 2022-11-29T15:23:34+09:00
 draft: false
 title: "12月22日忘年会(生ハムベジョータの会）。満席につき若干名追加。原木３本購入！？"
-slug: "2022/11/29"
+slug: "2022/11/29/152334"
 tags: ["プライベートな話"]
 image: "blog_import_6621f350e92c8.png"
 feature: "blog_import_6621f350e92c8.png"

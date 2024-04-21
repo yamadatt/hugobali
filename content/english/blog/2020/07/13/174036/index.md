@@ -2,7 +2,7 @@
 date: 2020-07-13T17:40:36+09:00
 draft: false
 title: "感想＆質問（３）「高値でつかみ、狼狽売りしてしまう」への回答"
-slug: "2020/07/13"
+slug: "2020/07/13/174036"
 tags: ["株式投資"]
 image: "blog_import_6621db68471d9.jpg"
 feature: "blog_import_6621db68471d9.jpg"

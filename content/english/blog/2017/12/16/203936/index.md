@@ -2,7 +2,7 @@
 date: 2017-12-16T20:39:36+09:00
 draft: false
 title: "ついに、、日本の銀行が、バリ島の不動産に融資する！？"
-slug: "2017/12/16"
+slug: "2017/12/16/203936"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621bf739a716.png"
 feature: "blog_import_6621bf739a716.png"

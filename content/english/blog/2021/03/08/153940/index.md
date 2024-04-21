@@ -2,7 +2,7 @@
 date: 2021-03-08T15:39:40+09:00
 draft: false
 title: "バリ島で面倒なルールが１つ増えた。「火曜日のエンデ（布）の着用」"
-slug: "2021/03/08"
+slug: "2021/03/08/153940"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621e0dc630b4.jpg"
 feature: "blog_import_6621e0dc630b4.jpg"

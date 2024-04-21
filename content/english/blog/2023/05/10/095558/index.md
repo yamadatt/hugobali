@@ -2,7 +2,7 @@
 date: 2023-05-10T09:55:58+09:00
 draft: false
 title: "５月１２日第４期８回成長株基礎セミナー「投資用語から投資戦略を探る」"
-slug: "2023/05/10"
+slug: "2023/05/10/095558"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621f9183f791.png"
 feature: "blog_import_6621f9183f791.png"

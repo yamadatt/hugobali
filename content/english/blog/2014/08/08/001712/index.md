@@ -2,7 +2,7 @@
 date: 2014-08-08T00:17:12+09:00
 draft: false
 title: "拾ってきた家具"
-slug: "2014/08/08"
+slug: "2014/08/08/001712"
 tags: ["ブログ"]
 image: "blog_import_6621a4a8d2c3c.jpg"
 feature: "blog_import_6621a4a8d2c3c.jpg"

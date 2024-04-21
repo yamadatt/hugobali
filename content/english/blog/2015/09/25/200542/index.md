@@ -2,7 +2,7 @@
 date: 2015-09-25T20:05:42+09:00
 draft: false
 title: "日本人と欧米人の違い１"
-slug: "2015/09/25"
+slug: "2015/09/25/200542"
 tags: ["ブログ"]
 image: ""
 feature: ""

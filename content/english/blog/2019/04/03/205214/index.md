@@ -2,7 +2,7 @@
 date: 2019-04-03T20:52:14+09:00
 draft: false
 title: "貧困から抜け出すには。。自信を持とう。小さな成功を積み重ねよう。"
-slug: "2019/04/03"
+slug: "2019/04/03/205214"
 tags: ["プライベートな話"]
 image: "blog_import_6621cab6ea8da.png"
 feature: "blog_import_6621cab6ea8da.png"

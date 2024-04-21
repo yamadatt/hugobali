@@ -2,7 +2,7 @@
 date: 2018-06-06T22:30:42+09:00
 draft: false
 title: "バリ島の空港で送迎代を踏み倒したデンマーク人カップル"
-slug: "2018/06/06"
+slug: "2018/06/06/223042"
 tags: ["トラブルの話"]
 image: "blog_import_6621c3f8bcf46.jpg"
 feature: "blog_import_6621c3f8bcf46.jpg"

@@ -2,7 +2,7 @@
 date: 2016-07-16T14:35:23+09:00
 draft: false
 title: "スミニャック　売ヴィラ約３０８０万円　指値が入れば、、"
-slug: "2016/07/16"
+slug: "2016/07/16/143523"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621b11dcd958.jpg"
 feature: "blog_import_6621b11dcd958.jpg"

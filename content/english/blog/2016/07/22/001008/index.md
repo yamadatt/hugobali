@@ -2,7 +2,7 @@
 date: 2016-07-22T00:10:08+09:00
 draft: false
 title: "ウマラス売地1000㎡　約1280万円　建築して利回り17％可能"
-slug: "2016/07/22"
+slug: "2016/07/22/001008"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621b158a705e.jpg"
 feature: "blog_import_6621b158a705e.jpg"

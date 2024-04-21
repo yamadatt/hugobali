@@ -2,7 +2,7 @@
 date: 2021-07-09T22:50:01+09:00
 draft: false
 title: "元金保証！？半年で予想利回り４０％！？横浜の戸建て投資"
-slug: "2021/07/09"
+slug: "2021/07/09/225001"
 tags: ["株式投資"]
 image: "blog_import_6621e3f3a19c8.png"
 feature: "blog_import_6621e3f3a19c8.png"

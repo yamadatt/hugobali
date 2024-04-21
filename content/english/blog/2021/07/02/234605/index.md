@@ -2,7 +2,7 @@
 date: 2021-07-02T23:46:05+09:00
 draft: false
 title: "コロナ隔離（日本とインドネシア）は、実際どのようなものなのか？その１"
-slug: "2021/07/02"
+slug: "2021/07/02/234605"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621e3d35a7cc.png"
 feature: "blog_import_6621e3d35a7cc.png"

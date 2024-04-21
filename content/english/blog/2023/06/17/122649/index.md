@@ -2,7 +2,7 @@
 date: 2023-06-17T12:26:49+09:00
 draft: false
 title: "ゴルフ場のレストラン。もう少し、企業努力してほしいな"
-slug: "2023/06/17"
+slug: "2023/06/17/122649"
 tags: ["ゴルフ"]
 image: "blog_import_6621fa2e8ab8a.jpg"
 feature: "blog_import_6621fa2e8ab8a.jpg"

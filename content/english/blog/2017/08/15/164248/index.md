@@ -2,7 +2,7 @@
 date: 2017-08-15T16:42:48+09:00
 draft: false
 title: "８月１８日 バリ島セミナー懇親会 in 仙台"
-slug: "2017/08/15"
+slug: "2017/08/15/164248"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621bcbb9c0a9.jpg"
 feature: "blog_import_6621bcbb9c0a9.jpg"

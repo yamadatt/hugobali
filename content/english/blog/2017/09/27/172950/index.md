@@ -2,7 +2,7 @@
 date: 2017-09-27T17:29:50+09:00
 draft: false
 title: "デワ来日４日目「もてなす」って難しいな"
-slug: "2017/09/27"
+slug: "2017/09/27/172950"
 tags: ["プライベートな話"]
 image: "blog_import_6621bd9a93cd3.jpg"
 feature: "blog_import_6621bd9a93cd3.jpg"

@@ -2,7 +2,7 @@
 date: 2017-08-16T17:42:25+09:00
 draft: false
 title: "家具の街ジェパラ。給料は３０万円！？"
-slug: "2017/08/16"
+slug: "2017/08/16/174225"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621bcbeaee8f.jpg"
 feature: "blog_import_6621bcbeaee8f.jpg"

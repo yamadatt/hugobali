@@ -2,7 +2,7 @@
 date: 2020-01-15T01:43:04+09:00
 draft: false
 title: "長田先生の勉強会フォロー資料がハンパない！？ 先生、フツーじゃないから！！"
-slug: "2020/01/15"
+slug: "2020/01/15/014304"
 tags: ["株式投資"]
 image: "blog_import_6621d5807b274.png"
 feature: "blog_import_6621d5807b274.png"

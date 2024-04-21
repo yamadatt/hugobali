@@ -2,7 +2,7 @@
 date: 2014-11-19T00:21:21+09:00
 draft: false
 title: "バリ島不動産　サヌール３棟現場ついに完成！"
-slug: "2014/11/19"
+slug: "2014/11/19/002121"
 tags: ["バリ島の自社物件"]
 image: "blog_import_6621a92915054.jpg"
 feature: "blog_import_6621a92915054.jpg"

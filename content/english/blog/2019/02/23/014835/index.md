@@ -2,7 +2,7 @@
 date: 2019-02-23T01:48:35+09:00
 draft: false
 title: "タケシの結婚！？その４　マリアの実家ににて。"
-slug: "2019/02/23"
+slug: "2019/02/23/014835"
 tags: ["タケシ（バリ島現地スタッフ）の話"]
 image: "blog_import_6621c9f2e17ab.jpg"
 feature: "blog_import_6621c9f2e17ab.jpg"

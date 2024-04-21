@@ -2,7 +2,7 @@
 date: 2020-08-16T23:43:25+09:00
 draft: false
 title: "年間利回り２０％超！？バイオマス発電所２件。"
-slug: "2020/08/16"
+slug: "2020/08/16/234325"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621dc336ce11.png"
 feature: "blog_import_6621dc336ce11.png"

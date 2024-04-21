@@ -2,7 +2,7 @@
 date: 2024-01-23T02:14:39+09:00
 draft: false
 title: "高い年金保険料を負担し続け、一円も貰えない金持ち。逆差別ではないか！？"
-slug: "2024/01/23"
+slug: "2024/01/23/021439"
 tags: ["プライベートな話"]
 image: "blog_import_6621ff7a88099.png"
 feature: "blog_import_6621ff7a88099.png"

@@ -2,7 +2,7 @@
 date: 2018-10-23T16:57:23+09:00
 draft: false
 title: "起業のチャンスかも！？バッタ商品の販売【その２】ビジネスにするには？"
-slug: "2018/10/23"
+slug: "2018/10/23/165723"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621c70e02c8c.jpg"
 feature: "blog_import_6621c70e02c8c.jpg"

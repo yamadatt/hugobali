@@ -2,7 +2,7 @@
 date: 2017-04-04T22:26:16+09:00
 draft: false
 title: "友人がヴィラを買った!？僕が安心してバリ島不動産を勧められるワケ"
-slug: "2017/04/04"
+slug: "2017/04/04/222616"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621bac5caa77.jpg"
 feature: "blog_import_6621bac5caa77.jpg"

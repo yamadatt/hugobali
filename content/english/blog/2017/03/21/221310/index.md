@@ -2,7 +2,7 @@
 date: 2017-03-21T22:13:10+09:00
 draft: false
 title: "成功の条件２「自分の型を持とう」"
-slug: "2017/03/21"
+slug: "2017/03/21/221310"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ba8a02ad8.jpg"
 feature: "blog_import_6621ba8a02ad8.jpg"

@@ -2,7 +2,7 @@
 date: 2017-12-20T03:14:38+09:00
 draft: false
 title: "新潟のホテル、、チープ感がハンパないな"
-slug: "2017/12/20"
+slug: "2017/12/20/031438"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621bf8fd469d.jpg"
 feature: "blog_import_6621bf8fd469d.jpg"

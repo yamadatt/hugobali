@@ -2,7 +2,7 @@
 date: 2017-06-22T22:50:33+09:00
 draft: false
 title: "「ギヤナリゾート＆スパ」の専任になっちゃった！？"
-slug: "2017/06/22"
+slug: "2017/06/22/225033"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621bc1005dd7.jpg"
 feature: "blog_import_6621bc1005dd7.jpg"

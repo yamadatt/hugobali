@@ -2,7 +2,7 @@
 date: 2016-12-11T19:40:54+09:00
 draft: false
 title: "バリ島ローカル不動産の価格交渉のやり方"
-slug: "2016/12/11"
+slug: "2016/12/11/194054"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b73e41e91.jpg"
 feature: "blog_import_6621b73e41e91.jpg"

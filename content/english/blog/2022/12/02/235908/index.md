@@ -2,7 +2,7 @@
 date: 2022-12-02T23:59:08+09:00
 draft: false
 title: "運命は紙一重。Ｗ杯、日本の勝利に思う「なるようにしかならない」"
-slug: "2022/12/02"
+slug: "2022/12/02/235908"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f36e09aec.png"
 feature: "blog_import_6621f36e09aec.png"

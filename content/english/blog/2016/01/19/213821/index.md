@@ -2,7 +2,7 @@
 date: 2016-01-19T21:38:21+09:00
 draft: false
 title: "第２３回　バリ島不動産投資セミナー　２月１２日(金) 、１３日(土)"
-slug: "2016/01/19"
+slug: "2016/01/19/213821"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621abd53e966.jpg"
 feature: "blog_import_6621abd53e966.jpg"

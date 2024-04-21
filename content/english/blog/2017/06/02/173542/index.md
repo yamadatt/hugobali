@@ -2,7 +2,7 @@
 date: 2017-06-02T17:35:42+09:00
 draft: false
 title: "LINEをやらないモテ男"
-slug: "2017/06/02"
+slug: "2017/06/02/173542"
 tags: ["プライベートな話"]
 image: "blog_import_6621bbca9b317.jpg"
 feature: "blog_import_6621bbca9b317.jpg"

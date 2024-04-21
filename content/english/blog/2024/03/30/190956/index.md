@@ -2,7 +2,7 @@
 date: 2024-03-30T19:09:56+09:00
 draft: false
 title: "「運がいい」とか「運が悪い」って、なんだろう。"
-slug: "2024/03/30"
+slug: "2024/03/30/190956"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_66219ae300df2.png"
 feature: "blog_import_66219ae300df2.png"

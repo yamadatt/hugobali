@@ -2,7 +2,7 @@
 date: 2020-08-04T18:16:09+09:00
 draft: false
 title: "長田レポート「文章の書き方」～はじめに～"
-slug: "2020/08/04"
+slug: "2020/08/04/181609"
 tags: ["株式投資"]
 image: "blog_import_6621dc12dd939.jpg"
 feature: "blog_import_6621dc12dd939.jpg"

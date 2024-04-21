@@ -2,7 +2,7 @@
 date: 2020-11-06T02:41:17+09:00
 draft: false
 title: "お金が集まる雰囲気を持とう。貧乏から抜け出せない人の共通点。"
-slug: "2020/11/06"
+slug: "2020/11/06/024117"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621de453ad18.png"
 feature: "blog_import_6621de453ad18.png"

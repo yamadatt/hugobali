@@ -2,7 +2,7 @@
 date: 2023-08-25T17:58:28+09:00
 draft: false
 title: "今年の「ラブホ川柳」選考中"
-slug: "2023/08/25"
+slug: "2023/08/25/175828"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621fc50284cc.png"
 feature: "blog_import_6621fc50284cc.png"

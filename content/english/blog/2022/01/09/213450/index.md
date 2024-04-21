@@ -2,7 +2,7 @@
 date: 2022-01-09T21:34:50+09:00
 draft: false
 title: "指導者が結果を出すために一番大切なこととは。"
-slug: "2022/01/09"
+slug: "2022/01/09/213450"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e97425abc.png"
 feature: "blog_import_6621e97425abc.png"

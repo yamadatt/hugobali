@@ -2,7 +2,7 @@
 date: 2014-08-06T14:52:38+09:00
 draft: false
 title: "３，不動産物件情報のコストについて"
-slug: "2014/08/06"
+slug: "2014/08/06/145238"
 tags: ["日本とバリ島の不動産取引の違い"]
 image: "blog_import_6621a49523e29.jpg"
 feature: "blog_import_6621a49523e29.jpg"

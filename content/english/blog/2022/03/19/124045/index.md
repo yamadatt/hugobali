@@ -2,7 +2,7 @@
 date: 2022-03-19T12:40:45+09:00
 draft: false
 title: "4月22日～24日リトリート合宿「１dayファスティング：自然と温泉とヨガ」の概要"
-slug: "2022/03/19"
+slug: "2022/03/19/124045"
 tags: ["ファスティング合宿ダイエット"]
 image: "blog_import_6621ec2f7083a.jpg"
 feature: "blog_import_6621ec2f7083a.jpg"

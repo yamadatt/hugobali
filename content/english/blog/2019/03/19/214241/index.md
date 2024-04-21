@@ -2,7 +2,7 @@
 date: 2019-03-19T21:42:41+09:00
 draft: false
 title: "タケシの結婚！？その６　タケシは彼女の実家でポイントを稼げるのか！？"
-slug: "2019/03/19"
+slug: "2019/03/19/214241"
 tags: ["タケシ（バリ島現地スタッフ）の話"]
 image: "blog_import_6621ca6486fd1.jpg"
 feature: "blog_import_6621ca6486fd1.jpg"

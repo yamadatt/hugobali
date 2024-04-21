@@ -2,7 +2,7 @@
 date: 2019-07-09T22:25:13+09:00
 draft: false
 title: "【フランス・パリ発】値段がないマンションを買う、ってどういうこと？"
-slug: "2019/07/09"
+slug: "2019/07/09/222513"
 tags: ["プライベートな話"]
 image: "blog_import_6621ce70f14f5.jpg"
 feature: "blog_import_6621ce70f14f5.jpg"

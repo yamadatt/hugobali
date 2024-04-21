@@ -2,7 +2,7 @@
 date: 2014-08-12T10:10:14+09:00
 draft: false
 title: "バリ島個室カラオケ編１（インドネシア語会話）"
-slug: "2014/08/12"
+slug: "2014/08/12/101014"
 tags: ["超実践！インドネシア語会話"]
 image: "blog_import_6621a4ec591d3.jpg"
 feature: "blog_import_6621a4ec591d3.jpg"

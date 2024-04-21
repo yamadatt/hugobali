@@ -2,7 +2,7 @@
 date: 2017-10-10T01:28:38+09:00
 draft: false
 title: "ヴィラレンタルの諸経費 その２(人件費）"
-slug: "2017/10/10"
+slug: "2017/10/10/012838"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621bdcee8d09.jpg"
 feature: "blog_import_6621bdcee8d09.jpg"

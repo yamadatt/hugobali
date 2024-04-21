@@ -2,7 +2,7 @@
 date: 2018-06-22T20:10:44+09:00
 draft: false
 title: "実質利回り２０％超！？　千葉県某所のラブホテル"
-slug: "2018/06/22"
+slug: "2018/06/22/201044"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621c44a1b19e.jpg"
 feature: "blog_import_6621c44a1b19e.jpg"

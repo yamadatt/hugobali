@@ -2,7 +2,7 @@
 date: 2022-03-20T19:17:05+09:00
 draft: false
 title: "インドネシアでモトＧＰが開催。観光客も戻りつつあり、成長も再開か！？"
-slug: "2022/03/20"
+slug: "2022/03/20/191705"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621ec36b8885.png"
 feature: "blog_import_6621ec36b8885.png"

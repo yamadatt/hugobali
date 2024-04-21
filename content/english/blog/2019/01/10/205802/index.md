@@ -2,7 +2,7 @@
 date: 2019-01-10T20:58:02+09:00
 draft: false
 title: "昨日の新年会。皆さまありがとうございました！！"
-slug: "2019/01/10"
+slug: "2019/01/10/205802"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c917a5651.jpg"
 feature: "blog_import_6621c917a5651.jpg"

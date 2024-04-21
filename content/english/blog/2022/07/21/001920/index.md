@@ -2,7 +2,7 @@
 date: 2022-07-21T00:19:20+09:00
 draft: false
 title: "野球の番狂わせは、なぜ起きるのか？"
-slug: "2022/07/21"
+slug: "2022/07/21/001920"
 tags: ["プライベートな話"]
 image: "blog_import_6621efad8ecda.png"
 feature: "blog_import_6621efad8ecda.png"

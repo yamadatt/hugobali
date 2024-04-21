@@ -2,7 +2,7 @@
 date: 2016-05-13T20:05:11+09:00
 draft: false
 title: "バリ島夜遊びガイド"
-slug: "2016/05/13"
+slug: "2016/05/13/200511"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621af8a3c134.jpg"
 feature: "blog_import_6621af8a3c134.jpg"

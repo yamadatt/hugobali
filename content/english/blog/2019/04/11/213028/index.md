@@ -2,7 +2,7 @@
 date: 2019-04-11T21:30:28+09:00
 draft: false
 title: "焼却施設がないバリ島　ごみの処理はどうしてる！？"
-slug: "2019/04/11"
+slug: "2019/04/11/213028"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621cb360dbcf.png"
 feature: "blog_import_6621cb360dbcf.png"

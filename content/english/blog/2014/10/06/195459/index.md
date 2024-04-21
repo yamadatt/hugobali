@@ -2,7 +2,7 @@
 date: 2014-10-06T19:54:59+09:00
 draft: false
 title: "懐かしのバリ島安宿"
-slug: "2014/10/06"
+slug: "2014/10/06/195459"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621a9017057d.jpg"
 feature: "blog_import_6621a9017057d.jpg"

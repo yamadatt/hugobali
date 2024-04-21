@@ -2,7 +2,7 @@
 date: 2017-12-17T12:02:47+09:00
 draft: false
 title: "今、インドネシアでは、飲食店投資がアツい！？"
-slug: "2017/12/17"
+slug: "2017/12/17/120247"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621bf76b4ae8.jpg"
 feature: "blog_import_6621bf76b4ae8.jpg"

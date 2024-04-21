@@ -2,7 +2,7 @@
 date: 2017-08-03T18:58:03+09:00
 draft: false
 title: "バリ島不動産投資は、２度おいしい！？３度おいしい！？"
-slug: "2017/08/03"
+slug: "2017/08/03/185803"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621bca9a392a.png"
 feature: "blog_import_6621bca9a392a.png"

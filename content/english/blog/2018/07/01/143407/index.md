@@ -2,7 +2,7 @@
 date: 2018-07-01T14:34:07+09:00
 draft: false
 title: "５００万円下げ！！昨日の太陽光案件。実質利回り１１.３％！？"
-slug: "2018/07/01"
+slug: "2018/07/01/143407"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621c48e65578.jpg"
 feature: "blog_import_6621c48e65578.jpg"

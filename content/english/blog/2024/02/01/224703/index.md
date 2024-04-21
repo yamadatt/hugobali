@@ -2,7 +2,7 @@
 date: 2024-02-01T22:47:03+09:00
 draft: false
 title: "罪悪感からの解放"
-slug: "2024/02/01"
+slug: "2024/02/01/224703"
 tags: ["インド旅行パンチャカルマ"]
 image: "blog_import_6621ffc4abdfc.jpg"
 feature: "blog_import_6621ffc4abdfc.jpg"

@@ -2,7 +2,7 @@
 date: 2023-11-11T01:45:41+09:00
 draft: false
 title: "来年発売される2000万のレクサスLMに思う。「経済的豊かさと幸福感の限界」"
-slug: "2023/11/11"
+slug: "2023/11/11/014541"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621fe27a7cc8.png"
 feature: "blog_import_6621fe27a7cc8.png"

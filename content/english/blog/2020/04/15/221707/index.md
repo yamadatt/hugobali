@@ -2,7 +2,7 @@
 date: 2020-04-15T22:17:07+09:00
 draft: false
 title: "ＡＮＡ・ＪＡＬは生き残れるのか？マイルは大丈夫なのか！？"
-slug: "2020/04/15"
+slug: "2020/04/15/221707"
 tags: ["プライベートな話"]
 image: "blog_import_6621d8cb1aec5.jpg"
 feature: "blog_import_6621d8cb1aec5.jpg"

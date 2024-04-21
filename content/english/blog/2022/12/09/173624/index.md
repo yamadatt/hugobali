@@ -2,7 +2,7 @@
 date: 2022-12-09T17:36:24+09:00
 draft: false
 title: "満員御礼！！12月22日忘年会(生ハムベジョータの会）参加者７０名超で受付終了です。"
-slug: "2022/12/09"
+slug: "2022/12/09/173624"
 tags: ["プライベートな話"]
 image: "blog_import_6621f39d3abf3.png"
 feature: "blog_import_6621f39d3abf3.png"

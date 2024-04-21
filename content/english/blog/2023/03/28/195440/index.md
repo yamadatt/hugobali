@@ -2,7 +2,7 @@
 date: 2023-03-28T19:54:40+09:00
 draft: false
 title: "政治家に向いている人、いない人"
-slug: "2023/03/28"
+slug: "2023/03/28/195440"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f6f5afb0c.png"
 feature: "blog_import_6621f6f5afb0c.png"

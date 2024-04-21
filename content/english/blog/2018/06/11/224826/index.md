@@ -2,7 +2,7 @@
 date: 2018-06-11T22:48:26+09:00
 draft: false
 title: "インドネシア人従業員に成果報酬導入を試みた。その２"
-slug: "2018/06/11"
+slug: "2018/06/11/224826"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c40dc5d7f.jpg"
 feature: "blog_import_6621c40dc5d7f.jpg"

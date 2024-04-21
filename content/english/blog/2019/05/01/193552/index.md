@@ -2,7 +2,7 @@
 date: 2019-05-01T19:35:52+09:00
 draft: false
 title: "５月の投資勉強会【長田氏１７日、３１日】【ふりーパパ１８日】【現代アート投資勉強会３０日】"
-slug: "2019/05/01"
+slug: "2019/05/01/193552"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cc443b93b.jpg"
 feature: "blog_import_6621cc443b93b.jpg"

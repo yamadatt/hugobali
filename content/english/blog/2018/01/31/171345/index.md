@@ -2,7 +2,7 @@
 date: 2018-01-31T17:13:45+09:00
 draft: false
 title: "日本人はウソつき！？インドネシア人に「日本に来いよ」って言わないで"
-slug: "2018/01/31"
+slug: "2018/01/31/171345"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621bd7d39f2b.jpg"
 feature: "blog_import_6621bd7d39f2b.jpg"

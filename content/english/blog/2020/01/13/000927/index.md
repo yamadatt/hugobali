@@ -2,7 +2,7 @@
 date: 2020-01-13T00:09:27+09:00
 draft: false
 title: "第４回（1月10日）の株式セミナー参加者の感想。その１"
-slug: "2020/01/13"
+slug: "2020/01/13/000927"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d57231902.jpg"
 feature: "blog_import_6621d57231902.jpg"

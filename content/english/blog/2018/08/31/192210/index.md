@@ -2,7 +2,7 @@
 date: 2018-08-31T19:22:10+09:00
 draft: false
 title: "残７席　９月６日バリ島不動産セミナー"
-slug: "2018/08/31"
+slug: "2018/08/31/192210"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c5e51b3fa.jpg"
 feature: "blog_import_6621c5e51b3fa.jpg"

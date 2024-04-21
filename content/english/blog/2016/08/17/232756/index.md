@@ -2,7 +2,7 @@
 date: 2016-08-17T23:27:56+09:00
 draft: false
 title: "最新！！バリ島の日雇い労働者の日給は？"
-slug: "2016/08/17"
+slug: "2016/08/17/232756"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621b2ba53047.jpg"
 feature: "blog_import_6621b2ba53047.jpg"

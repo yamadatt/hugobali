@@ -2,7 +2,7 @@
 date: 2017-07-21T23:59:50+09:00
 draft: false
 title: "超格安！？サヌール売ヴィラ　４４５０㎡で６６００万円はありえない！？"
-slug: "2017/07/21"
+slug: "2017/07/21/235950"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621bc64593bb.jpg"
 feature: "blog_import_6621bc64593bb.jpg"

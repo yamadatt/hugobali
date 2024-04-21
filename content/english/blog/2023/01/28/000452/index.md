@@ -2,7 +2,7 @@
 date: 2023-01-28T00:04:52+09:00
 draft: false
 title: "眼・鼻・耳のアーユルヴェーダ治療はキツかった！？"
-slug: "2023/01/28"
+slug: "2023/01/28/000452"
 tags: ["インド旅行パンチャカルマ"]
 image: "blog_import_6621f4e28e77a.jpg"
 feature: "blog_import_6621f4e28e77a.jpg"

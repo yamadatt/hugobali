@@ -2,7 +2,7 @@
 date: 2021-06-16T23:23:33+09:00
 draft: false
 title: "ジゴロは金がない女性も騙すのか？"
-slug: "2021/06/16"
+slug: "2021/06/16/232333"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621e349ba9db.png"
 feature: "blog_import_6621e349ba9db.png"

@@ -2,7 +2,7 @@
 date: 2018-11-28T01:03:15+09:00
 draft: false
 title: "ラブホの看板を見る男の心理「看板デザインって難しいな」"
-slug: "2018/11/28"
+slug: "2018/11/28/010315"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621c7efa6d41.jpg"
 feature: "blog_import_6621c7efa6d41.jpg"

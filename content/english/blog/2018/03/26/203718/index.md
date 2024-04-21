@@ -2,7 +2,7 @@
 date: 2018-03-26T20:37:18+09:00
 draft: false
 title: "不法滞在で強制送還された彼は、再入国できるのか！？"
-slug: "2018/03/26"
+slug: "2018/03/26/203718"
 tags: ["トラブルの話"]
 image: "blog_import_6621c279d2a21.jpg"
 feature: "blog_import_6621c279d2a21.jpg"

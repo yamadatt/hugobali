@@ -2,7 +2,7 @@
 date: 2024-03-12T00:36:58+09:00
 draft: false
 title: "バリ島スカワティ豪華売ヴィラ。土地1,239㎡ 約6,000万円。見る価値アリ。"
-slug: "2024/03/12"
+slug: "2024/03/12/003658"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_662200819a116.jpg"
 feature: "blog_import_662200819a116.jpg"

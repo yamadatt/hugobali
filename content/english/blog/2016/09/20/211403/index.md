@@ -2,7 +2,7 @@
 date: 2016-09-20T21:14:03+09:00
 draft: false
 title: "青春の場所"
-slug: "2016/09/20"
+slug: "2016/09/20/211403"
 tags: ["プライベートな話"]
 image: "blog_import_6621b3975c69e.jpg"
 feature: "blog_import_6621b3975c69e.jpg"

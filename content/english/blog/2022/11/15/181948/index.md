@@ -2,7 +2,7 @@
 date: 2022-11-15T18:19:48+09:00
 draft: false
 title: "昨日の乗合タクシーでの出来事。「自分から挨拶しよう。話しかけよう」"
-slug: "2022/11/15"
+slug: "2022/11/15/181948"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f2b92dfee.jpg"
 feature: "blog_import_6621f2b92dfee.jpg"

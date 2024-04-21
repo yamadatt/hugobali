@@ -2,7 +2,7 @@
 date: 2023-05-27T12:07:33+09:00
 draft: false
 title: "マニラの物価は、日本と変わらない！？"
-slug: "2023/05/27"
+slug: "2023/05/27/120733"
 tags: ["プライベートな話"]
 image: "blog_import_6621f9768449d.jpg"
 feature: "blog_import_6621f9768449d.jpg"

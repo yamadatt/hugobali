@@ -2,7 +2,7 @@
 date: 2018-02-24T15:11:49+09:00
 draft: false
 title: "【昨日の続き】勝負しないのは、優しさと責任感があるからかもな"
-slug: "2018/02/24"
+slug: "2018/02/24/151149"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c1e5d6e6b.jpg"
 feature: "blog_import_6621c1e5d6e6b.jpg"

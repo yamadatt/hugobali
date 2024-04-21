@@ -2,7 +2,7 @@
 date: 2023-05-14T18:18:50+09:00
 draft: false
 title: "報道を信じるのは、ほどほどに。。"
-slug: "2023/05/14"
+slug: "2023/05/14/181850"
 tags: ["プライベートな話"]
 image: "blog_import_6621f93219de2.jpg"
 feature: "blog_import_6621f93219de2.jpg"

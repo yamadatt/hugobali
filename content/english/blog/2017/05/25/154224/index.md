@@ -2,7 +2,7 @@
 date: 2017-05-25T15:42:24+09:00
 draft: false
 title: "圧巻の豪邸！？サイズ、立地、センスとも文句なしの物件"
-slug: "2017/05/25"
+slug: "2017/05/25/154224"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621bb9088b40.jpg"
 feature: "blog_import_6621bb9088b40.jpg"

@@ -2,7 +2,7 @@
 date: 2016-07-17T13:06:09+09:00
 draft: false
 title: "世界同時ゼロ金利へ突入！！"
-slug: "2016/07/17"
+slug: "2016/07/17/130609"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b13b04299.jpg"
 feature: "blog_import_6621b13b04299.jpg"

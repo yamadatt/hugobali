@@ -2,7 +2,7 @@
 date: 2020-04-24T17:34:00+09:00
 draft: false
 title: "「いきなりステーキ」の奇襲〝牛タン″を試してみた。株価は復活するのか！？"
-slug: "2020/04/24"
+slug: "2020/04/24/173400"
 tags: ["プライベートな話"]
 image: "blog_import_6621d96005956.jpg"
 feature: "blog_import_6621d96005956.jpg"

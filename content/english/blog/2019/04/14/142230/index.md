@@ -2,7 +2,7 @@
 date: 2019-04-14T14:22:30+09:00
 draft: false
 title: "チャンスの女神に後ろ髪はない！？　６日前に紹介したウブドゥのヴィラは終了しました。"
-slug: "2019/04/14"
+slug: "2019/04/14/142230"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621cb51e6b64.jpg"
 feature: "blog_import_6621cb51e6b64.jpg"

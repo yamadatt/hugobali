@@ -2,7 +2,7 @@
 date: 2018-04-22T17:58:18+09:00
 draft: false
 title: "大学時代のカンニングと麻雀"
-slug: "2018/04/22"
+slug: "2018/04/22/175818"
 tags: ["プライベートな話"]
 image: "blog_import_6621c308bc5af.jpg"
 feature: "blog_import_6621c308bc5af.jpg"

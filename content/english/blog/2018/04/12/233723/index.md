@@ -2,7 +2,7 @@
 date: 2018-04-12T23:37:23+09:00
 draft: false
 title: "バリ島の不動産で格安物件が出る理由【外国人の場合】"
-slug: "2018/04/12"
+slug: "2018/04/12/233723"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c2d69ee32.jpg"
 feature: "blog_import_6621c2d69ee32.jpg"

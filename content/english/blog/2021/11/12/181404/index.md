@@ -2,7 +2,7 @@
 date: 2021-11-12T18:14:04+09:00
 draft: false
 title: "【お詫び】12月4日「生ハムの会」参加費を変更します。「KENZOワイン投入！？」"
-slug: "2021/11/12"
+slug: "2021/11/12/181404"
 tags: ["プライベートな話"]
 image: "blog_import_6621e7968dfbb.png"
 feature: "blog_import_6621e7968dfbb.png"

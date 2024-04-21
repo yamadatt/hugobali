@@ -2,7 +2,7 @@
 date: 2020-08-19T22:12:38+09:00
 draft: false
 title: "太陽光発電の保険。見直すメリットがあるかも！？"
-slug: "2020/08/19"
+slug: "2020/08/19/221238"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621dc39662ab.png"
 feature: "blog_import_6621dc39662ab.png"

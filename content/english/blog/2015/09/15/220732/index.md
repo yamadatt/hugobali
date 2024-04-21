@@ -2,7 +2,7 @@
 date: 2015-09-15T22:07:32+09:00
 draft: false
 title: "このヴィラは儲かるだろうな。"
-slug: "2015/09/15"
+slug: "2015/09/15/220732"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621ab2b24353.jpg"
 feature: "blog_import_6621ab2b24353.jpg"

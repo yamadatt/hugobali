@@ -2,7 +2,7 @@
 date: 2021-08-30T23:38:40+09:00
 draft: false
 title: "対立する人から「違う形で会いたかった」と言われる人でありたい"
-slug: "2021/08/30"
+slug: "2021/08/30/233840"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e58f10d70.png"
 feature: "blog_import_6621e58f10d70.png"

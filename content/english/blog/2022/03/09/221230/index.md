@@ -2,7 +2,7 @@
 date: 2022-03-09T22:12:30+09:00
 draft: false
 title: "３月１１日(金）成長株基礎セミナー「ウクライナ紛争は手打ちできない！？こんな時はどうする？」"
-slug: "2022/03/09"
+slug: "2022/03/09/221230"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ebf4cc0b2.png"
 feature: "blog_import_6621ebf4cc0b2.png"

@@ -2,7 +2,7 @@
 date: 2014-12-23T02:08:48+09:00
 draft: false
 title: "バリ島ではお金が働く！? 預金には利息がつくんです。"
-slug: "2014/12/23"
+slug: "2014/12/23/020848"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621a93561f67.jpg"
 feature: "blog_import_6621a93561f67.jpg"

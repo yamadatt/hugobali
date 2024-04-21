@@ -2,7 +2,7 @@
 date: 2023-01-15T17:52:45+09:00
 draft: false
 title: "ビジネスの交渉では「ブラフ」は程々にしよう"
-slug: "2023/01/15"
+slug: "2023/01/15/175245"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f47f25a0e.png"
 feature: "blog_import_6621f47f25a0e.png"

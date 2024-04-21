@@ -2,7 +2,7 @@
 date: 2021-09-12T00:28:35+09:00
 draft: false
 title: "【最後のお願い。アンケート決選投票！？】釣り道楽「ジグ鉄」ロゴデザイン"
-slug: "2021/09/12"
+slug: "2021/09/12/002835"
 tags: ["マグロ釣り"]
 image: "blog_import_6621e5ec2d451.jpg"
 feature: "blog_import_6621e5ec2d451.jpg"

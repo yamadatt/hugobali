@@ -2,7 +2,7 @@
 date: 2020-05-06T17:35:08+09:00
 draft: false
 title: "政権批判にウンザリ。今は誰が首相でも大変だよ。今日のライブで質問しようかな"
-slug: "2020/05/06"
+slug: "2020/05/06/173508"
 tags: ["プライベートな話"]
 image: "blog_import_6621d9b8b9d4d.png"
 feature: "blog_import_6621d9b8b9d4d.png"

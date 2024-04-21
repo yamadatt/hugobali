@@ -2,7 +2,7 @@
 date: 2021-09-28T23:57:42+09:00
 draft: false
 title: "新型コロナ重篤化体験談。その４「生存率３０％と宣告、人工呼吸器へ」"
-slug: "2021/09/28"
+slug: "2021/09/28/235742"
 tags: ["プライベートな話"]
 image: "blog_import_6621e64ecfa6e.jpg"
 feature: "blog_import_6621e64ecfa6e.jpg"

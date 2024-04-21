@@ -2,7 +2,7 @@
 date: 2021-12-10T15:18:10+09:00
 draft: false
 title: "１２月１７日：第３３回成長株の実践会のご案内"
-slug: "2021/12/10"
+slug: "2021/12/10/151810"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621e855bcf3f.jpg"
 feature: "blog_import_6621e855bcf3f.jpg"

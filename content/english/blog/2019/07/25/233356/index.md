@@ -2,7 +2,7 @@
 date: 2019-07-25T23:33:56+09:00
 draft: false
 title: "明日は、成長株の実践会。ズバリ決め打ち５銘柄！！そろそろ増額しようかな。。"
-slug: "2019/07/25"
+slug: "2019/07/25/233356"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cef7c4a09.png"
 feature: "blog_import_6621cef7c4a09.png"

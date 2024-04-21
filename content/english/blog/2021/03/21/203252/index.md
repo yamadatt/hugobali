@@ -2,7 +2,7 @@
 date: 2021-03-21T20:32:52+09:00
 draft: false
 title: "バリ島は将来、ノマド天国になる！？"
-slug: "2021/03/21"
+slug: "2021/03/21/203252"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621e1650be4a.jpg"
 feature: "blog_import_6621e1650be4a.jpg"

@@ -2,7 +2,7 @@
 date: 2021-11-02T11:07:33+09:00
 draft: false
 title: "山の中にポツリとタイ料理屋が。。なぜこんな所に！？"
-slug: "2021/11/02"
+slug: "2021/11/02/110733"
 tags: ["プライベートな話"]
 image: "blog_import_6621e75cdfd98.jpg"
 feature: "blog_import_6621e75cdfd98.jpg"

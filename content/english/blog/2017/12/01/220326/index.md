@@ -2,7 +2,7 @@
 date: 2017-12-01T22:03:26+09:00
 draft: false
 title: "バリ島の外国人資本法人(PTPMA）設立、ついにできた！？"
-slug: "2017/12/01"
+slug: "2017/12/01/220326"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621bf2f5171a.jpg"
 feature: "blog_import_6621bf2f5171a.jpg"

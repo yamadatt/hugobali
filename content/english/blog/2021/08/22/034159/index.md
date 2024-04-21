@@ -2,7 +2,7 @@
 date: 2021-08-22T03:41:59+09:00
 draft: false
 title: "横浜市長選。共産党支持の山中氏はマズい！？小此木さんじゃないの？"
-slug: "2021/08/22"
+slug: "2021/08/22/034159"
 tags: ["プライベートな話"]
 image: "blog_import_6621e54291445.png"
 feature: "blog_import_6621e54291445.png"

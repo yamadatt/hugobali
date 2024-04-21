@@ -2,7 +2,7 @@
 date: 2018-07-29T20:20:17+09:00
 draft: false
 title: "ふりーパパより書籍の感想「上手くいくイメージを持とう」"
-slug: "2018/07/29"
+slug: "2018/07/29/202017"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c5454d50a.jpg"
 feature: "blog_import_6621c5454d50a.jpg"

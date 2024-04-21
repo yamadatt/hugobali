@@ -2,7 +2,7 @@
 date: 2022-10-25T11:47:00+09:00
 draft: false
 title: "１１月１５日(火）再生医療セミナー「夢の治療とは、どんなものなのか！？」"
-slug: "2022/10/25"
+slug: "2022/10/25/114700"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621f1ef9fa4b.png"
 feature: "blog_import_6621f1ef9fa4b.png"

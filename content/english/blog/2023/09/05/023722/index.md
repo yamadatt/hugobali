@@ -2,7 +2,7 @@
 date: 2023-09-05T02:37:22+09:00
 draft: false
 title: "借金が返済できなくなったら！？債権者への対応。その２「債権者が打ってくる手と対応」"
-slug: "2023/09/05"
+slug: "2023/09/05/023722"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621fc9cd02e0.png"
 feature: "blog_import_6621fc9cd02e0.png"

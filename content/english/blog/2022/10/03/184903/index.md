@@ -2,7 +2,7 @@
 date: 2022-10-03T18:49:03+09:00
 draft: false
 title: "大人の合宿「暗号通貨決起集会」の報告"
-slug: "2022/10/03"
+slug: "2022/10/03/184903"
 tags: ["仮想通貨・暗号通貨"]
 image: "blog_import_6621f17539854.jpg"
 feature: "blog_import_6621f17539854.jpg"

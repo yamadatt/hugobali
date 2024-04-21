@@ -2,7 +2,7 @@
 date: 2020-04-11T17:24:26+09:00
 draft: false
 title: "沖縄県那覇市、好立地の豪邸１億5000万円！？「この物件、夢があるなぁ」"
-slug: "2020/04/11"
+slug: "2020/04/11/172426"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621d84b4c6bf.jpg"
 feature: "blog_import_6621d84b4c6bf.jpg"

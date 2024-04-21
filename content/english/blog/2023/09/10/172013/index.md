@@ -2,7 +2,7 @@
 date: 2023-09-10T17:20:13+09:00
 draft: false
 title: "神輿ファッションも、ストレッチ素材になったらいいのに。。"
-slug: "2023/09/10"
+slug: "2023/09/10/172013"
 tags: ["プライベートな話"]
 image: "blog_import_6621fcbfbb3e7.jpg"
 feature: "blog_import_6621fcbfbb3e7.jpg"

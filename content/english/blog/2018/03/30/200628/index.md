@@ -2,7 +2,7 @@
 date: 2018-03-30T20:06:28+09:00
 draft: false
 title: "揉めないで折り合うことが大切。面倒な人はソンをする。"
-slug: "2018/03/30"
+slug: "2018/03/30/200628"
 tags: ["トラブルの話"]
 image: "blog_import_6621c2841fbc5.jpg"
 feature: "blog_import_6621c2841fbc5.jpg"

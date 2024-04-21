@@ -2,7 +2,7 @@
 date: 2018-07-31T22:01:33+09:00
 draft: false
 title: "読者が少ないブログも悪くないな"
-slug: "2018/07/31"
+slug: "2018/07/31/220133"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c54a31a4d.jpg"
 feature: "blog_import_6621c54a31a4d.jpg"

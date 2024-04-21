@@ -2,7 +2,7 @@
 date: 2019-11-01T15:15:15+09:00
 draft: false
 title: "一昨日紹介した和風居酒屋（東久留米駅）が終わりました。"
-slug: "2019/11/01"
+slug: "2019/11/01/151515"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621d1c56593a.png"
 feature: "blog_import_6621d1c56593a.png"

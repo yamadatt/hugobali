@@ -2,7 +2,7 @@
 date: 2024-03-10T03:12:07+09:00
 draft: false
 title: "紙一重の場面を、どう乗り切るか。。グレーゾーンが勝負だ"
-slug: "2024/03/10"
+slug: "2024/03/10/031207"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6622007ce8730.png"
 feature: "blog_import_6622007ce8730.png"

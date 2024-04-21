@@ -2,7 +2,7 @@
 date: 2021-06-28T22:15:59+09:00
 draft: false
 title: "浜野ゴルフでの月例に初参加。前日、一人ラブホする！？"
-slug: "2021/06/28"
+slug: "2021/06/28/221559"
 tags: ["ゴルフ"]
 image: "blog_import_6621e395b3a8d.png"
 feature: "blog_import_6621e395b3a8d.png"

@@ -2,7 +2,7 @@
 date: 2017-06-29T16:23:29+09:00
 draft: false
 title: "いざ出陣！？"
-slug: "2017/06/29"
+slug: "2017/06/29/162329"
 tags: ["ブログ"]
 image: ""
 feature: ""

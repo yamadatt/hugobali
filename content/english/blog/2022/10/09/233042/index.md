@@ -2,7 +2,7 @@
 date: 2022-10-09T23:30:42+09:00
 draft: false
 title: "サラリーマンの副業は、趣味の延長がいい！？"
-slug: "2022/10/09"
+slug: "2022/10/09/233042"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f19e29041.png"
 feature: "blog_import_6621f19e29041.png"

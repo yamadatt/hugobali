@@ -2,7 +2,7 @@
 date: 2022-03-23T20:34:37+09:00
 draft: false
 title: "気持ちよく誘われる人になろう"
-slug: "2022/03/23"
+slug: "2022/03/23/203437"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ec78ac2d2.png"
 feature: "blog_import_6621ec78ac2d2.png"

@@ -2,7 +2,7 @@
 date: 2017-05-19T13:42:07+09:00
 draft: false
 title: "面倒臭さ満載のフランス人だが、今回の売り主はいい人だった"
-slug: "2017/05/19"
+slug: "2017/05/19/134207"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621bb7e72478.jpg"
 feature: "blog_import_6621bb7e72478.jpg"

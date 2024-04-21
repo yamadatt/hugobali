@@ -2,7 +2,7 @@
 date: 2017-02-13T23:40:19+09:00
 draft: false
 title: "１６日の懇親会は、満席となりました"
-slug: "2017/02/13"
+slug: "2017/02/13/234019"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621b9bba938f.jpg"
 feature: "blog_import_6621b9bba938f.jpg"

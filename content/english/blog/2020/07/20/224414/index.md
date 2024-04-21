@@ -2,7 +2,7 @@
 date: 2020-07-20T22:44:14+09:00
 draft: false
 title: "マスク姿の女性を見ると、口裂け女を思い出す"
-slug: "2020/07/20"
+slug: "2020/07/20/224414"
 tags: ["プライベートな話"]
 image: "blog_import_6621db9a1dd03.png"
 feature: "blog_import_6621db9a1dd03.png"

@@ -2,7 +2,7 @@
 date: 2019-10-23T20:48:22+09:00
 draft: false
 title: "いよいよ明後日は「目指せ１０倍。ＩＰＯ直後の銘柄特集！？」成長株投資の実践会。"
-slug: "2019/10/23"
+slug: "2019/10/23/204822"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d16dc6be7.jpg"
 feature: "blog_import_6621d16dc6be7.jpg"

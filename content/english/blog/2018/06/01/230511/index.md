@@ -2,7 +2,7 @@
 date: 2018-06-01T23:05:11+09:00
 draft: false
 title: "自分にとっての幸せは、自分にしかわからない"
-slug: "2018/06/01"
+slug: "2018/06/01/230511"
 tags: ["プライベートな話"]
 image: "blog_import_6621c3b636f1f.jpg"
 feature: "blog_import_6621c3b636f1f.jpg"

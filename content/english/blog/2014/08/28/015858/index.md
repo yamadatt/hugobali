@@ -2,7 +2,7 @@
 date: 2014-08-28T01:58:58+09:00
 draft: false
 title: "インドネシアの経済成長と安定性"
-slug: "2014/08/28"
+slug: "2014/08/28/015858"
 tags: ["バリ島でのロングステイ"]
 image: "blog_import_6621a76daf3aa.png"
 feature: "blog_import_6621a76daf3aa.png"

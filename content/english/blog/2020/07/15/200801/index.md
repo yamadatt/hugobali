@@ -2,7 +2,7 @@
 date: 2020-07-15T20:08:01+09:00
 draft: false
 title: "感想＆質問（19）「株を買うタイミング、とか基準はありますか？」への回答"
-slug: "2020/07/15"
+slug: "2020/07/15/200801"
 tags: ["株式投資"]
 image: "blog_import_6621db85e267f.jpg"
 feature: "blog_import_6621db85e267f.jpg"

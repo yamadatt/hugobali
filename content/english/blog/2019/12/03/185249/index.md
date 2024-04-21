@@ -2,7 +2,7 @@
 date: 2019-12-03T18:52:49+09:00
 draft: false
 title: "１２月１８日の成長株投資の実践会は１０バーガー第２弾！？「２０１７年ＩＰＯ銘柄特集」"
-slug: "2019/12/03"
+slug: "2019/12/03/185249"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d354ecd7d.png"
 feature: "blog_import_6621d354ecd7d.png"

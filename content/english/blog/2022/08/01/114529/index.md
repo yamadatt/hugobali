@@ -2,7 +2,7 @@
 date: 2022-08-01T11:45:29+09:00
 draft: false
 title: "このブログも捨てたもんじゃない！？「交流会での人とのつながり方」"
-slug: "2022/08/01"
+slug: "2022/08/01/114529"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621efea9f125.jpg"
 feature: "blog_import_6621efea9f125.jpg"

@@ -2,7 +2,7 @@
 date: 2016-12-31T22:04:50+09:00
 draft: false
 title: "バリ島の大晦日２０１６"
-slug: "2016/12/31"
+slug: "2016/12/31/220450"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621b7faef996.jpg"
 feature: "blog_import_6621b7faef996.jpg"

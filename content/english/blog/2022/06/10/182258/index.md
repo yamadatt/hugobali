@@ -2,7 +2,7 @@
 date: 2022-06-10T18:22:58+09:00
 draft: false
 title: "「第５回事業再構築補助金」採択の結果は？採用される計画書は何が違うのか？"
-slug: "2022/06/10"
+slug: "2022/06/10/182258"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621ee8666c86.png"
 feature: "blog_import_6621ee8666c86.png"

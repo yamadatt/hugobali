@@ -2,7 +2,7 @@
 date: 2020-01-22T13:20:40+09:00
 draft: false
 title: "太陽光案件：利回り１２％　希少＠３６円案件　年間売電額１億２０００万円！？"
-slug: "2020/01/22"
+slug: "2020/01/22/132040"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621d666c4189.png"
 feature: "blog_import_6621d666c4189.png"

@@ -2,7 +2,7 @@
 date: 2020-01-25T18:19:40+09:00
 draft: false
 title: "長田先生の成長株投資が、リスク限定・利益最大のワケ。～昨日の実践会の報告～"
-slug: "2020/01/25"
+slug: "2020/01/25/181940"
 tags: ["株式投資"]
 image: "blog_import_6621d68e73e1f.jpg"
 feature: "blog_import_6621d68e73e1f.jpg"

@@ -2,7 +2,7 @@
 date: 2019-02-05T21:57:55+09:00
 draft: false
 title: "２月１７日(日）バリ島不動産投資セミナー　無料開催！？サンワード貿易さま主催"
-slug: "2019/02/05"
+slug: "2019/02/05/215755"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c9aeb41b2.jpg"
 feature: "blog_import_6621c9aeb41b2.jpg"

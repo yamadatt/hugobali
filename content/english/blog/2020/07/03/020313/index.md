@@ -2,7 +2,7 @@
 date: 2020-07-03T02:03:13+09:00
 draft: false
 title: "成長株のブチ上げの証拠公開！？「株を買ったら無人島へ行け」"
-slug: "2020/07/03"
+slug: "2020/07/03/020313"
 tags: ["株式投資"]
 image: "blog_import_6621db1f5f872.png"
 feature: "blog_import_6621db1f5f872.png"

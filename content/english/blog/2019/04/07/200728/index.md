@@ -2,7 +2,7 @@
 date: 2019-04-07T20:07:28+09:00
 draft: false
 title: "早大前のフリマで、NYXのバッタもん化粧品を売る！？"
-slug: "2019/04/07"
+slug: "2019/04/07/200728"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621cb0281a9b.jpg"
 feature: "blog_import_6621cb0281a9b.jpg"

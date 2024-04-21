@@ -2,7 +2,7 @@
 date: 2019-02-07T22:58:07+09:00
 draft: false
 title: "昨日の株の話は、結局３日で１２００万儲かった！？"
-slug: "2019/02/07"
+slug: "2019/02/07/225807"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c9bb3bdc2.jpg"
 feature: "blog_import_6621c9bb3bdc2.jpg"

@@ -2,7 +2,7 @@
 date: 2018-08-25T12:26:10+09:00
 draft: false
 title: "ちょいと香港へ"
-slug: "2018/08/25"
+slug: "2018/08/25/122610"
 tags: ["プライベートな話"]
 image: "blog_import_6621c5ca00ef8.jpg"
 feature: "blog_import_6621c5ca00ef8.jpg"

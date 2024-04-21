@@ -2,7 +2,7 @@
 date: 2020-07-06T23:49:04+09:00
 draft: false
 title: "３０年間、九九と漢字をやり続ける子"
-slug: "2020/07/06"
+slug: "2020/07/06/234904"
 tags: ["プライベートな話"]
 image: "blog_import_6621db525ea21.png"
 feature: "blog_import_6621db525ea21.png"

@@ -2,7 +2,7 @@
 date: 2023-06-27T00:13:51+09:00
 draft: false
 title: "新入社員時代(野村證券）の話　その２「損失補てん問題とは？」"
-slug: "2023/06/27"
+slug: "2023/06/27/001351"
 tags: ["プライベートな話"]
 image: "blog_import_6621fa6f4d67e.png"
 feature: "blog_import_6621fa6f4d67e.png"

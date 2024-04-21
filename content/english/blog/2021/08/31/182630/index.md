@@ -2,7 +2,7 @@
 date: 2021-08-31T18:26:30+09:00
 draft: false
 title: "３日(金）の「初心者向け成長株セミナー」は１年の総括。僕はプラスだったのか！？"
-slug: "2021/08/31"
+slug: "2021/08/31/182630"
 tags: ["株式投資"]
 image: "blog_import_6621e59647138.png"
 feature: "blog_import_6621e59647138.png"

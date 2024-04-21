@@ -2,7 +2,7 @@
 date: 2023-07-26T22:00:20+09:00
 draft: false
 title: "ラブホテルには、隠しカメラがあるのか！？"
-slug: "2023/07/26"
+slug: "2023/07/26/220020"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621fb9c02538.png"
 feature: "blog_import_6621fb9c02538.png"

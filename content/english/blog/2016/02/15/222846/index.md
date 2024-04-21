@@ -2,7 +2,7 @@
 date: 2016-02-15T22:28:46+09:00
 draft: false
 title: "今回も満員御礼！！バリ島不動産投資セミナー"
-slug: "2016/02/15"
+slug: "2016/02/15/222846"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621acb76d777.jpg"
 feature: "blog_import_6621acb76d777.jpg"

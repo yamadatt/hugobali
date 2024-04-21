@@ -2,7 +2,7 @@
 date: 2019-07-08T22:48:53+09:00
 draft: false
 title: "大宮駅：リフォーム済の６ＬＤＫ売家（７０坪）＋売地（５１坪）３０００万円。激安のワケは嫁の浮気！"
-slug: "2019/07/08"
+slug: "2019/07/08/224853"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621ce65665ff.png"
 feature: "blog_import_6621ce65665ff.png"

@@ -2,7 +2,7 @@
 date: 2018-05-22T23:46:56+09:00
 draft: false
 title: "人はなぜ働きたいのか。【引きこもりのサポートを考える】"
-slug: "2018/05/22"
+slug: "2018/05/22/234656"
 tags: ["プライベートな話"]
 image: "blog_import_6621c3710e86f.jpg"
 feature: "blog_import_6621c3710e86f.jpg"

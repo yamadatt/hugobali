@@ -2,7 +2,7 @@
 date: 2021-01-12T23:20:10+09:00
 draft: false
 title: "いいキャプテンは、チームを強くする。高校サッカーを観て。"
-slug: "2021/01/12"
+slug: "2021/01/12/232010"
 tags: ["プライベートな話"]
 image: "blog_import_6621dfbe578a9.png"
 feature: "blog_import_6621dfbe578a9.png"

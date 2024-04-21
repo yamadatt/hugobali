@@ -2,7 +2,7 @@
 date: 2022-07-22T01:57:42+09:00
 draft: false
 title: "「よく食う、勉強しない、悪さする、、」オレのこと？笑"
-slug: "2022/07/22"
+slug: "2022/07/22/015742"
 tags: ["プライベートな話"]
 image: "blog_import_6621efaf4aa33.png"
 feature: "blog_import_6621efaf4aa33.png"

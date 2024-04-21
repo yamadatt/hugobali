@@ -2,7 +2,7 @@
 date: 2022-10-10T16:36:52+09:00
 draft: false
 title: "人生１００年時代。５０歳からの準備をしよう"
-slug: "2022/10/10"
+slug: "2022/10/10/163652"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f1a543de7.png"
 feature: "blog_import_6621f1a543de7.png"

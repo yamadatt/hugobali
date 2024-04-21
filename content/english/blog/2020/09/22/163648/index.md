@@ -2,7 +2,7 @@
 date: 2020-09-22T16:36:48+09:00
 draft: false
 title: "なぜ、１０バガー達成は難しいのか【その２】"
-slug: "2020/09/22"
+slug: "2020/09/22/163648"
 tags: ["株式投資"]
 image: "blog_import_6621dcfb0fdce.png"
 feature: "blog_import_6621dcfb0fdce.png"

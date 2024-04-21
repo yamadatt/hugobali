@@ -2,7 +2,7 @@
 date: 2020-07-22T01:24:34+09:00
 draft: false
 title: "GoToキャンペーンの東京外し。平等と公平の違いを考えてしまう"
-slug: "2020/07/22"
+slug: "2020/07/22/012434"
 tags: ["プライベートな話"]
 image: "blog_import_6621dba88b59a.png"
 feature: "blog_import_6621dba88b59a.png"

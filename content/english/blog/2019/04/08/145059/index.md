@@ -2,7 +2,7 @@
 date: 2019-04-08T14:50:59+09:00
 draft: false
 title: "お勧め物件！！バリ島ウブド売ヴィラ約３８００万円 利回り１３.１％"
-slug: "2019/04/08"
+slug: "2019/04/08/145059"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621cb1257f1f.jpg"
 feature: "blog_import_6621cb1257f1f.jpg"

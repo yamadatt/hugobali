@@ -2,7 +2,7 @@
 date: 2017-06-12T22:46:22+09:00
 draft: false
 title: "６月２９日のバリ島不動産セミナーは、気合を入れるぞ！？"
-slug: "2017/06/12"
+slug: "2017/06/12/224622"
 tags: ["ブログ"]
 image: "blog_import_6621bbf79c86a.jpg"
 feature: "blog_import_6621bbf79c86a.jpg"

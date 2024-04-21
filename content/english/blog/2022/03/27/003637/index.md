@@ -2,7 +2,7 @@
 date: 2022-03-27T00:36:37+09:00
 draft: false
 title: "５月２７日(金)〜２９日(日)：第２回「ファスティングダイエット＆ヨガ合宿」のご案内"
-slug: "2022/03/27"
+slug: "2022/03/27/003637"
 tags: ["ファスティング合宿ダイエット"]
 image: "blog_import_6621eca83a54f.png"
 feature: "blog_import_6621eca83a54f.png"

@@ -2,7 +2,7 @@
 date: 2023-02-28T23:45:38+09:00
 draft: false
 title: "第２４回馬場ゴルフの報告「コンペ幹事を続けるコツは？」"
-slug: "2023/02/28"
+slug: "2023/02/28/234538"
 tags: ["ゴルフ"]
 image: "blog_import_6621f65bc9a67.jpg"
 feature: "blog_import_6621f65bc9a67.jpg"

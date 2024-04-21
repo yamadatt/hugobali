@@ -2,7 +2,7 @@
 date: 2022-11-16T18:15:59+09:00
 draft: false
 title: "１１月１８日第４４回：成長株投資の実践会「盛り上がる半導体銘柄。どれがいい！？」"
-slug: "2022/11/16"
+slug: "2022/11/16/181559"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621f2b9d0e8e.png"
 feature: "blog_import_6621f2b9d0e8e.png"

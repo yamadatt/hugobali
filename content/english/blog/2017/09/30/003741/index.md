@@ -2,7 +2,7 @@
 date: 2017-09-30T00:37:41+09:00
 draft: false
 title: "ヴィラオーナーに見た日本人のメンタリティ"
-slug: "2017/09/30"
+slug: "2017/09/30/003741"
 tags: ["プライベートな話"]
 image: "blog_import_6621bdae3b2eb.jpg"
 feature: "blog_import_6621bdae3b2eb.jpg"

@@ -2,7 +2,7 @@
 date: 2018-06-15T00:18:52+09:00
 draft: false
 title: "弊社の某ヴィラ専属シェフは、イケメンか？"
-slug: "2018/06/15"
+slug: "2018/06/15/001852"
 tags: ["バリ島の自社物件"]
 image: "blog_import_6621c41aac4e4.jpg"
 feature: "blog_import_6621c41aac4e4.jpg"

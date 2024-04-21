@@ -2,7 +2,7 @@
 date: 2019-09-07T19:10:07+09:00
 draft: false
 title: "インドネシア人と結婚して、幸せになれる女性はどんな人？"
-slug: "2019/09/07"
+slug: "2019/09/07/191007"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621cfc382bf9.png"
 feature: "blog_import_6621cfc382bf9.png"

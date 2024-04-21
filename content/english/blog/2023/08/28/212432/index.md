@@ -2,7 +2,7 @@
 date: 2023-08-28T21:24:32+09:00
 draft: false
 title: "娘に彼氏ができた。。どうしたものか。。"
-slug: "2023/08/28"
+slug: "2023/08/28/212432"
 tags: ["プライベートな話"]
 image: "blog_import_6621fc666b5c1.png"
 feature: "blog_import_6621fc666b5c1.png"

@@ -2,7 +2,7 @@
 date: 2018-06-30T17:01:35+09:00
 draft: false
 title: "至急売りたい！！太陽光発電所。利回り１３.５％　希少３２円/kw物件"
-slug: "2018/06/30"
+slug: "2018/06/30/170135"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621c48c42c30.jpg"
 feature: "blog_import_6621c48c42c30.jpg"

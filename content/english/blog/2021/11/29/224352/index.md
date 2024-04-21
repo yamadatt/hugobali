@@ -2,7 +2,7 @@
 date: 2021-11-29T22:43:52+09:00
 draft: false
 title: "起業の最初のステップは「こだわり」と「スピード」で勝負しよう"
-slug: "2021/11/29"
+slug: "2021/11/29/224352"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e81137218.jpg"
 feature: "blog_import_6621e81137218.jpg"

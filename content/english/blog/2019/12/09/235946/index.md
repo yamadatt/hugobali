@@ -2,7 +2,7 @@
 date: 2019-12-09T23:59:46+09:00
 draft: false
 title: "12月6日のセミナー「購入・売却のタイミングを知ろう」。長田先生からのフォローレポート"
-slug: "2019/12/09"
+slug: "2019/12/09/235946"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d3970148e.png"
 feature: "blog_import_6621d3970148e.png"

@@ -2,7 +2,7 @@
 date: 2022-02-16T01:05:32+09:00
 draft: false
 title: "苦節３０余年、ついに念願のゴールド免許をゲットした！？"
-slug: "2022/02/16"
+slug: "2022/02/16/010532"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621eab21c60d.jpg"
 feature: "blog_import_6621eab21c60d.jpg"

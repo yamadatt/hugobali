@@ -2,7 +2,7 @@
 date: 2021-01-16T11:47:41+09:00
 draft: false
 title: "長田先生が本を出した！？２２日発売「１０万円から始めて資産を２００倍にする小型成長株投資」"
-slug: "2021/01/16"
+slug: "2021/01/16/114741"
 tags: ["株式投資"]
 image: "blog_import_6621dfd89c665.png"
 feature: "blog_import_6621dfd89c665.png"

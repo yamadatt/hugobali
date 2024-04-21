@@ -2,7 +2,7 @@
 date: 2021-05-26T22:54:41+09:00
 draft: false
 title: "今は耐える時。勝負に出るのは控えよう。"
-slug: "2021/05/26"
+slug: "2021/05/26/225441"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e2db19cd1.png"
 feature: "blog_import_6621e2db19cd1.png"

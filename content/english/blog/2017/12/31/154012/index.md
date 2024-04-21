@@ -2,7 +2,7 @@
 date: 2017-12-31T15:40:12+09:00
 draft: false
 title: "金を稼ぎたいなら、相手の立場を考えよう"
-slug: "2017/12/31"
+slug: "2017/12/31/154012"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c04bb2818.jpg"
 feature: "blog_import_6621c04bb2818.jpg"

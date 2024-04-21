@@ -2,7 +2,7 @@
 date: 2018-10-30T20:39:06+09:00
 draft: false
 title: "１１月２１日開催　第４６回バリ島不動産セミナーのご案内"
-slug: "2018/10/30"
+slug: "2018/10/30/203906"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c72dd6349.jpg"
 feature: "blog_import_6621c72dd6349.jpg"

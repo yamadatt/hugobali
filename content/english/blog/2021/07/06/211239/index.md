@@ -2,7 +2,7 @@
 date: 2021-07-06T21:12:39+09:00
 draft: false
 title: "人生を変えたいなら、ラブホテルにはチャンスがある！？"
-slug: "2021/07/06"
+slug: "2021/07/06/211239"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621e3e9281f1.png"
 feature: "blog_import_6621e3e9281f1.png"

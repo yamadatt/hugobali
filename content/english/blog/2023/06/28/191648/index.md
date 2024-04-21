@@ -2,7 +2,7 @@
 date: 2023-06-28T19:16:48+09:00
 draft: false
 title: "自転車のサドルを交換すると快適になる！？"
-slug: "2023/06/28"
+slug: "2023/06/28/191648"
 tags: ["プライベートな話"]
 image: "blog_import_6621fa8f5906e.jpg"
 feature: "blog_import_6621fa8f5906e.jpg"

@@ -2,7 +2,7 @@
 date: 2016-08-16T20:34:02+09:00
 draft: false
 title: "ヌサペニダ島 売土地６連発⑥ 約10億円 1050アール"
-slug: "2016/08/16"
+slug: "2016/08/16/203402"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621b2a48f624.jpg"
 feature: "blog_import_6621b2a48f624.jpg"

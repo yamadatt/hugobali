@@ -2,7 +2,7 @@
 date: 2022-12-13T18:22:21+09:00
 draft: false
 title: "気が滅入った時の対処法"
-slug: "2022/12/13"
+slug: "2022/12/13/182221"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f3afc0412.png"
 feature: "blog_import_6621f3afc0412.png"

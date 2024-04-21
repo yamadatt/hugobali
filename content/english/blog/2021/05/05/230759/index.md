@@ -2,7 +2,7 @@
 date: 2021-05-05T23:07:59+09:00
 draft: false
 title: "バリ島では、コロナ感染者数が減ってきた"
-slug: "2021/05/05"
+slug: "2021/05/05/230759"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621e26d3cd68.png"
 feature: "blog_import_6621e26d3cd68.png"

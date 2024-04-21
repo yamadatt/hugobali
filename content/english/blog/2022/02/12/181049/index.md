@@ -2,7 +2,7 @@
 date: 2022-02-12T18:10:49+09:00
 draft: false
 title: "バリ島で不動産を法人で所有するメリット・デメリット"
-slug: "2022/02/12"
+slug: "2022/02/12/181049"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621ea8e81e98.png"
 feature: "blog_import_6621ea8e81e98.png"

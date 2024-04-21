@@ -2,7 +2,7 @@
 date: 2024-02-18T23:46:11+09:00
 draft: false
 title: "ADHDの息子にあった将来(仕事）は？"
-slug: "2024/02/18"
+slug: "2024/02/18/234611"
 tags: ["プライベートな話"]
 image: "blog_import_66220006be25b.png"
 feature: "blog_import_66220006be25b.png"

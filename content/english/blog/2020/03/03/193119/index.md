@@ -2,7 +2,7 @@
 date: 2020-03-03T19:31:19+09:00
 draft: false
 title: "受験生へ「受験で人生なんて決まらないよ。まだまだこれからだよ」"
-slug: "2020/03/03"
+slug: "2020/03/03/193119"
 tags: ["プライベートな話"]
 image: "blog_import_6621d7960a687.png"
 feature: "blog_import_6621d7960a687.png"

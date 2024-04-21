@@ -2,7 +2,7 @@
 date: 2019-03-28T19:27:30+09:00
 draft: false
 title: "残席５名！？　１２日長田氏の初心者向け株式投資勉強会"
-slug: "2019/03/28"
+slug: "2019/03/28/192730"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ca91a6217.png"
 feature: "blog_import_6621ca91a6217.png"

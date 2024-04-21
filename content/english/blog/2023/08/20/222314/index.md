@@ -2,7 +2,7 @@
 date: 2023-08-20T22:23:14+09:00
 draft: false
 title: "浜野ゴルフ「月例の洗礼」"
-slug: "2023/08/20"
+slug: "2023/08/20/222314"
 tags: ["ゴルフ"]
 image: "blog_import_6621fc2b5f6a0.jpg"
 feature: "blog_import_6621fc2b5f6a0.jpg"

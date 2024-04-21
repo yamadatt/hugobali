@@ -2,7 +2,7 @@
 date: 2022-12-15T00:06:12+09:00
 draft: false
 title: "１２月１６日(金）第４５回：成長株投資の実践会「取り返し戦略は、新高値銘柄で！？」"
-slug: "2022/12/15"
+slug: "2022/12/15/000612"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621f3b6014b8.png"
 feature: "blog_import_6621f3b6014b8.png"

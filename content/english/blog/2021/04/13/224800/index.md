@@ -2,7 +2,7 @@
 date: 2021-04-13T22:48:00+09:00
 draft: false
 title: "浜野ゴルフの月例にキャンセルが出た。いよいよ月例デビューか！？"
-slug: "2021/04/13"
+slug: "2021/04/13/224800"
 tags: ["ゴルフ"]
 image: "blog_import_6621e1fcdbeec.png"
 feature: "blog_import_6621e1fcdbeec.png"

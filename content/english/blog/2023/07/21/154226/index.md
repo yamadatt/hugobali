@@ -2,7 +2,7 @@
 date: 2023-07-21T15:42:26+09:00
 draft: false
 title: "盗まれた電動自転車が見つかった！？どこで？"
-slug: "2023/07/21"
+slug: "2023/07/21/154226"
 tags: ["プライベートな話"]
 image: "blog_import_6621fb7a8c0da.png"
 feature: "blog_import_6621fb7a8c0da.png"

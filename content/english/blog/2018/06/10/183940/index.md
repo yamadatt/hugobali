@@ -2,7 +2,7 @@
 date: 2018-06-10T18:39:40+09:00
 draft: false
 title: "名古屋開催決定！！「バリ島不動産セミナー」７月１３日１４日(金・土）"
-slug: "2018/06/10"
+slug: "2018/06/10/183940"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c408bfbad.jpg"
 feature: "blog_import_6621c408bfbad.jpg"

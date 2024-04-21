@@ -2,7 +2,7 @@
 date: 2020-04-08T00:20:44+09:00
 draft: false
 title: "コロナ騒ぎを喜んでいる人もいる！？チャンスと思い、前へ進もう"
-slug: "2020/04/08"
+slug: "2020/04/08/002044"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d837b016d.png"
 feature: "blog_import_6621d837b016d.png"

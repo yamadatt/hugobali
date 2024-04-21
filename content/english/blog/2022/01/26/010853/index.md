@@ -2,7 +2,7 @@
 date: 2022-01-26T01:08:53+09:00
 draft: false
 title: "「なにもしない」のも、いいもんだ"
-slug: "2022/01/26"
+slug: "2022/01/26/010853"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e9f4ef4dc.jpg"
 feature: "blog_import_6621e9f4ef4dc.jpg"

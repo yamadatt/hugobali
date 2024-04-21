@@ -2,7 +2,7 @@
 date: 2020-05-10T13:37:57+09:00
 draft: false
 title: "損切りできない政府。でも、損切りできる政府は怖くないですか！？"
-slug: "2020/05/10"
+slug: "2020/05/10/133757"
 tags: ["株式投資"]
 image: "blog_import_6621d9e64d8f5.png"
 feature: "blog_import_6621d9e64d8f5.png"

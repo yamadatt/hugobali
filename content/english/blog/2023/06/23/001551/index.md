@@ -2,7 +2,7 @@
 date: 2023-06-23T00:15:51+09:00
 draft: false
 title: "格安ラブホテル１４ルーム２０００万円。群馬県藤岡市。"
-slug: "2023/06/23"
+slug: "2023/06/23/001551"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621fa4ec4e20.png"
 feature: "blog_import_6621fa4ec4e20.png"

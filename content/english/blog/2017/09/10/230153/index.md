@@ -2,7 +2,7 @@
 date: 2017-09-10T23:01:53+09:00
 draft: false
 title: "利回り５０％！？現金の強さ"
-slug: "2017/09/10"
+slug: "2017/09/10/230153"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621bd4a4f89a.jpg"
 feature: "blog_import_6621bd4a4f89a.jpg"

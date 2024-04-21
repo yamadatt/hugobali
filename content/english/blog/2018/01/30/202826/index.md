@@ -2,7 +2,7 @@
 date: 2018-01-30T20:28:26+09:00
 draft: false
 title: "洪水でお客さんのパソコンに被害が、、弁償するのか！？"
-slug: "2018/01/30"
+slug: "2018/01/30/202826"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c0f30f41e.jpg"
 feature: "blog_import_6621c0f30f41e.jpg"

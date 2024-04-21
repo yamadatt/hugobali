@@ -2,7 +2,7 @@
 date: 2021-11-01T00:07:03+09:00
 draft: false
 title: "３度目の浜野ゴルフ月例「ついに、優勝か！？」"
-slug: "2021/11/01"
+slug: "2021/11/01/000703"
 tags: ["ゴルフ"]
 image: "blog_import_6621e74a5909f.jpg"
 feature: "blog_import_6621e74a5909f.jpg"

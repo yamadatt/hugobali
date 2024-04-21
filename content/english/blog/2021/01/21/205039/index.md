@@ -2,7 +2,7 @@
 date: 2021-01-21T20:50:39+09:00
 draft: false
 title: "長田淳司より、出版にあたり御礼。"
-slug: "2021/01/21"
+slug: "2021/01/21/205039"
 tags: ["株式投資"]
 image: "blog_import_6621e0062209d.png"
 feature: "blog_import_6621e0062209d.png"

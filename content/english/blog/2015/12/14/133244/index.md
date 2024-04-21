@@ -2,7 +2,7 @@
 date: 2015-12-14T13:32:44+09:00
 draft: false
 title: "10年後の自分が、今の自分を見てどう思う！？"
-slug: "2015/12/14"
+slug: "2015/12/14/133244"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ab862b5c3.jpg"
 feature: "blog_import_6621ab862b5c3.jpg"

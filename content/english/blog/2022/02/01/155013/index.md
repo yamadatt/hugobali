@@ -2,7 +2,7 @@
 date: 2022-02-01T15:50:13+09:00
 draft: false
 title: "日本は住みやすい？住みにくい？"
-slug: "2022/02/01"
+slug: "2022/02/01/155013"
 tags: ["プライベートな話"]
 image: "blog_import_6621ea29acee9.png"
 feature: "blog_import_6621ea29acee9.png"

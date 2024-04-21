@@ -2,7 +2,7 @@
 date: 2023-06-06T23:14:33+09:00
 draft: false
 title: "バリでの飲食店を開店。インドネシア人に和食を教えるのは至難の業！？"
-slug: "2023/06/06"
+slug: "2023/06/06/231433"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621f9e8c80a7.png"
 feature: "blog_import_6621f9e8c80a7.png"

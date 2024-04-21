@@ -2,7 +2,7 @@
 date: 2017-07-25T21:58:00+09:00
 draft: false
 title: "９月２１日バリ島セミナー　in東京"
-slug: "2017/07/25"
+slug: "2017/07/25/215800"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621bc828f5c4.jpg"
 feature: "blog_import_6621bc828f5c4.jpg"

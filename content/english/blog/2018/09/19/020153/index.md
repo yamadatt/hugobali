@@ -2,7 +2,7 @@
 date: 2018-09-19T02:01:53+09:00
 draft: false
 title: "神輿を担いで思う「僕は地元づき合いできるのかな」"
-slug: "2018/09/19"
+slug: "2018/09/19/020153"
 tags: ["プライベートな話"]
 image: "blog_import_6621c632f302e.jpg"
 feature: "blog_import_6621c632f302e.jpg"

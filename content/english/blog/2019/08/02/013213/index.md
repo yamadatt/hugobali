@@ -2,7 +2,7 @@
 date: 2019-08-02T01:32:13+09:00
 draft: false
 title: "売り家？隠れ家？売り別荘？ 東京唯一の村「檜原村」１１８０万円！！"
-slug: "2019/08/02"
+slug: "2019/08/02/013213"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621cf2f81567.jpg"
 feature: "blog_import_6621cf2f81567.jpg"

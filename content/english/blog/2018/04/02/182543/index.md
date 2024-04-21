@@ -2,7 +2,7 @@
 date: 2018-04-02T18:25:43+09:00
 draft: false
 title: "バリ島で虐待治療！？クロカンとは。"
-slug: "2018/04/02"
+slug: "2018/04/02/182543"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c2ac86f6b.jpg"
 feature: "blog_import_6621c2ac86f6b.jpg"

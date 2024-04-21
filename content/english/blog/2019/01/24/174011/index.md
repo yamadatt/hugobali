@@ -2,7 +2,7 @@
 date: 2019-01-24T17:40:11+09:00
 draft: false
 title: "使用権（HAK PAKAI　ハックパカイ）のデメリットとは？"
-slug: "2019/01/24"
+slug: "2019/01/24/174011"
 tags: ["日本とバリ島の不動産取引の違い"]
 image: "blog_import_6621c97603b42.jpg"
 feature: "blog_import_6621c97603b42.jpg"

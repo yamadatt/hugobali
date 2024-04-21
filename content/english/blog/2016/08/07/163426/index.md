@@ -2,7 +2,7 @@
 date: 2016-08-07T16:34:26+09:00
 draft: false
 title: "ヌサペニダ島 売土地６連発③ 宝くじより高確率！"
-slug: "2016/08/07"
+slug: "2016/08/07/163426"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621b21f65941.jpg"
 feature: "blog_import_6621b21f65941.jpg"

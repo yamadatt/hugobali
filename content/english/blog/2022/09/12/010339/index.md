@@ -2,7 +2,7 @@
 date: 2022-09-12T01:03:39+09:00
 draft: false
 title: "明日からの北海道ゴルフ合宿に向けて。予定の確認。"
-slug: "2022/09/12"
+slug: "2022/09/12/010339"
 tags: ["ゴルフ"]
 image: "blog_import_6621f0f8bab31.png"
 feature: "blog_import_6621f0f8bab31.png"

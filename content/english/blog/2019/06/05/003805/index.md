@@ -2,7 +2,7 @@
 date: 2019-06-05T00:38:05+09:00
 draft: false
 title: "タケシの結婚！？その１１　マリアが臨月を迎える！？"
-slug: "2019/06/05"
+slug: "2019/06/05/003805"
 tags: ["タケシ（バリ島現地スタッフ）の話"]
 image: "blog_import_6621cd3b99083.jpg"
 feature: "blog_import_6621cd3b99083.jpg"

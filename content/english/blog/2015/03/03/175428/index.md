@@ -2,7 +2,7 @@
 date: 2015-03-03T17:54:28+09:00
 draft: false
 title: "土地の購入"
-slug: "2015/03/03"
+slug: "2015/03/03/175428"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621a9e083a50.jpg"
 feature: "blog_import_6621a9e083a50.jpg"

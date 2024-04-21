@@ -2,7 +2,7 @@
 date: 2019-01-22T21:14:51+09:00
 draft: false
 title: "２４日はセミナーより、懇親会の参加者の方が多い！？"
-slug: "2019/01/22"
+slug: "2019/01/22/211451"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c96c45776.png"
 feature: "blog_import_6621c96c45776.png"

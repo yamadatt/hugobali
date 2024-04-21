@@ -2,7 +2,7 @@
 date: 2017-02-05T14:34:25+09:00
 draft: false
 title: "クビにした住み込み夫婦の話"
-slug: "2017/02/05"
+slug: "2017/02/05/143425"
 tags: ["トラブルの話"]
 image: "blog_import_6621b988d071a.jpg"
 feature: "blog_import_6621b988d071a.jpg"

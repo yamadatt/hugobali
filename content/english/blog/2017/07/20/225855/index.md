@@ -2,7 +2,7 @@
 date: 2017-07-20T22:58:55+09:00
 draft: false
 title: "ド金持ち３人組、契約３連発！？"
-slug: "2017/07/20"
+slug: "2017/07/20/225855"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621bc607c403.jpg"
 feature: "blog_import_6621bc607c403.jpg"

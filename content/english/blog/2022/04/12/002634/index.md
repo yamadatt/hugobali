@@ -2,7 +2,7 @@
 date: 2022-04-12T00:26:34+09:00
 draft: false
 title: "たまには単純作業をしよう。そんな時間があっていい"
-slug: "2022/04/12"
+slug: "2022/04/12/002634"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621ed097c02e.jpg"
 feature: "blog_import_6621ed097c02e.jpg"

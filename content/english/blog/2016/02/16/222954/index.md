@@ -2,7 +2,7 @@
 date: 2016-02-16T22:29:54+09:00
 draft: false
 title: "和風ラブホテルを作るぞ！"
-slug: "2016/02/16"
+slug: "2016/02/16/222954"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621acbdbdcca.jpg"
 feature: "blog_import_6621acbdbdcca.jpg"

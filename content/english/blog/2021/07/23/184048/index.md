@@ -2,7 +2,7 @@
 date: 2021-07-23T18:40:48+09:00
 draft: false
 title: "インドネシアからの帰国者の隔離体験談【バリ大将編】④「ガッツリと見張りれてる！？」"
-slug: "2021/07/23"
+slug: "2021/07/23/184048"
 tags: ["新型コロナウィルス"]
 image: "blog_import_6621e489804ea.jpg"
 feature: "blog_import_6621e489804ea.jpg"

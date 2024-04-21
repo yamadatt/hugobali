@@ -2,7 +2,7 @@
 date: 2021-12-21T21:40:21+09:00
 draft: false
 title: "利回り２６％超！？横浜みなとみらいの飲食店投資"
-slug: "2021/12/21"
+slug: "2021/12/21/214021"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621e88fa9180.png"
 feature: "blog_import_6621e88fa9180.png"

@@ -2,7 +2,7 @@
 date: 2014-08-20T20:01:02+09:00
 draft: false
 title: "売ヴィラ　サヌール　別荘用デラックス"
-slug: "2014/08/20"
+slug: "2014/08/20/200102"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621a629a9e00.jpg"
 feature: "blog_import_6621a629a9e00.jpg"

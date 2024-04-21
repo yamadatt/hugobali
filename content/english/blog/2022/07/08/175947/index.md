@@ -2,7 +2,7 @@
 date: 2022-07-08T17:59:47+09:00
 draft: false
 title: "暗号通貨オタク女子を実践会に引き込もう「逆転満塁ホームランを期待して。。」"
-slug: "2022/07/08"
+slug: "2022/07/08/175947"
 tags: ["仮想通貨・暗号通貨"]
 image: "blog_import_6621ef4e517a1.png"
 feature: "blog_import_6621ef4e517a1.png"

@@ -2,7 +2,7 @@
 date: 2019-04-22T13:39:55+09:00
 draft: false
 title: "社員旅行でバリ島ヴィラの利用は、アリですよ！？"
-slug: "2019/04/22"
+slug: "2019/04/22/133955"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621cbe933f14.jpg"
 feature: "blog_import_6621cbe933f14.jpg"

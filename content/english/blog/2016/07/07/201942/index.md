@@ -2,7 +2,7 @@
 date: 2016-07-07T20:19:42+09:00
 draft: false
 title: "惜しい！このヴィラ"
-slug: "2016/07/07"
+slug: "2016/07/07/201942"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621b0c4ce585.jpg"
 feature: "blog_import_6621b0c4ce585.jpg"

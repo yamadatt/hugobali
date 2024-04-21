@@ -2,7 +2,7 @@
 date: 2023-02-17T01:13:53+09:00
 draft: false
 title: "「僕が死んだら、ある女性に連絡してやってください」"
-slug: "2023/02/17"
+slug: "2023/02/17/011353"
 tags: ["プライベートな話"]
 image: "blog_import_6621f60f202bf.png"
 feature: "blog_import_6621f60f202bf.png"

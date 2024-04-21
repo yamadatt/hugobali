@@ -2,7 +2,7 @@
 date: 2016-07-14T18:00:56+09:00
 draft: false
 title: "ウルワツ売ヴィラ約２３００万円　このヴィラからの景色は最高！でも、、、"
-slug: "2016/07/14"
+slug: "2016/07/14/180056"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621b0ffd5c15.png"
 feature: "blog_import_6621b0ffd5c15.png"

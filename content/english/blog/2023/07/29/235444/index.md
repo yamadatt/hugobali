@@ -2,7 +2,7 @@
 date: 2023-07-29T23:54:44+09:00
 draft: false
 title: "先輩の嫁さんに恨まれてる！？「すき焼き事件」"
-slug: "2023/07/29"
+slug: "2023/07/29/235444"
 tags: ["プライベートな話"]
 image: "blog_import_6621fbab81762.png"
 feature: "blog_import_6621fbab81762.png"

@@ -2,7 +2,7 @@
 date: 2022-06-17T02:15:59+09:00
 draft: false
 title: "本日６月１７日開催！第３９回：成長株投資の実践会「あえて、円高銘柄に注目！？」"
-slug: "2022/06/17"
+slug: "2022/06/17/021559"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621eeba50fc2.png"
 feature: "blog_import_6621eeba50fc2.png"

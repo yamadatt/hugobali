@@ -2,7 +2,7 @@
 date: 2017-07-04T19:25:24+09:00
 draft: false
 title: "利回り５０％超の案件をもつ投資家が、バリ島のヴィラを買うワケ"
-slug: "2017/07/04"
+slug: "2017/07/04/192524"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621bc38461a2.jpg"
 feature: "blog_import_6621bc38461a2.jpg"

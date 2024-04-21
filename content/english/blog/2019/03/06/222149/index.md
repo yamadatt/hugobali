@@ -2,7 +2,7 @@
 date: 2019-03-06T22:21:49+09:00
 draft: false
 title: "貧乏な人が豊かになるには、どうしたらいいか！？その１「パブロとブルーノの話」"
-slug: "2019/03/06"
+slug: "2019/03/06/222149"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ca14a7755.jpg"
 feature: "blog_import_6621ca14a7755.jpg"

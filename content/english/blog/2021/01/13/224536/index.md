@@ -2,7 +2,7 @@
 date: 2021-01-13T22:45:36+09:00
 draft: false
 title: "１０年やれば神風が吹く。１０年計画を立てよう"
-slug: "2021/01/13"
+slug: "2021/01/13/224536"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621dfd441359.png"
 feature: "blog_import_6621dfd441359.png"

@@ -2,7 +2,7 @@
 date: 2018-10-22T22:31:11+09:00
 draft: false
 title: "ノーリスクで起業のチャンスかも！？バッタ商品の販売"
-slug: "2018/10/22"
+slug: "2018/10/22/223111"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c6fe7315a.jpg"
 feature: "blog_import_6621c6fe7315a.jpg"

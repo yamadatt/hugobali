@@ -2,7 +2,7 @@
 date: 2016-05-11T22:00:00+09:00
 draft: false
 title: "次回セミナー６月２８日（火）に決定！"
-slug: "2016/05/11"
+slug: "2016/05/11/220000"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621af82be37f.jpg"
 feature: "blog_import_6621af82be37f.jpg"

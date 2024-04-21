@@ -2,7 +2,7 @@
 date: 2016-06-16T22:43:23+09:00
 draft: false
 title: "バリ島で病気になったらBIMC病院"
-slug: "2016/06/16"
+slug: "2016/06/16/224323"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621b04401afc.jpg"
 feature: "blog_import_6621b04401afc.jpg"

@@ -2,7 +2,7 @@
 date: 2023-12-28T03:15:17+09:00
 draft: false
 title: "ビジネスに失敗して、逃げたら復活は難しくなる。債権者とは真摯に向き合おう。"
-slug: "2023/12/28"
+slug: "2023/12/28/031517"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ff25b5b8c.png"
 feature: "blog_import_6621ff25b5b8c.png"

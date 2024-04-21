@@ -2,7 +2,7 @@
 date: 2017-10-11T19:35:43+09:00
 draft: false
 title: "あの時にタイムスリップできるなら。。"
-slug: "2017/10/11"
+slug: "2017/10/11/193543"
 tags: ["プライベートな話"]
 image: "blog_import_6621bdd125b33.jpg"
 feature: "blog_import_6621bdd125b33.jpg"

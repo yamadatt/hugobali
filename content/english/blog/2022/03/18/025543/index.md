@@ -2,7 +2,7 @@
 date: 2022-03-18T02:55:43+09:00
 draft: false
 title: "４月２２日(金)〜２４日(日)「大人の合宿～ファスティングダイエット編」のご案内"
-slug: "2022/03/18"
+slug: "2022/03/18/025543"
 tags: ["ファスティング合宿ダイエット"]
 image: "blog_import_6621ec1cde0c4.jpg"
 feature: "blog_import_6621ec1cde0c4.jpg"

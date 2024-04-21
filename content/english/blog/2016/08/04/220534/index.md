@@ -2,7 +2,7 @@
 date: 2016-08-04T22:05:34+09:00
 draft: false
 title: "バリ島で出くわす奇妙な絵"
-slug: "2016/08/04"
+slug: "2016/08/04/220534"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621b1c6e8398.jpg"
 feature: "blog_import_6621b1c6e8398.jpg"

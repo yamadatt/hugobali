@@ -2,7 +2,7 @@
 date: 2023-12-28T02:29:18+09:00
 draft: false
 title: "成功のポイントは、自分らしく生きることだ。"
-slug: "2023/12/28"
+slug: "2023/12/28/022918"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ff213ea88.png"
 feature: "blog_import_6621ff213ea88.png"

@@ -2,7 +2,7 @@
 date: 2022-10-17T23:27:24+09:00
 draft: false
 title: "友人がオトコを取り戻した！？再生医療ってスゴいのかな。。"
-slug: "2022/10/17"
+slug: "2022/10/17/232724"
 tags: ["プライベートな話"]
 image: "blog_import_6621f1d0020df.png"
 feature: "blog_import_6621f1d0020df.png"

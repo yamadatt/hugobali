@@ -2,7 +2,7 @@
 date: 2020-07-08T00:27:34+09:00
 draft: false
 title: "助成金は、使おう"
-slug: "2020/07/08"
+slug: "2020/07/08/002734"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621db54d65b3.png"
 feature: "blog_import_6621db54d65b3.png"

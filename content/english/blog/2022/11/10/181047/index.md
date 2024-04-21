@@ -2,7 +2,7 @@
 date: 2022-11-10T18:10:47+09:00
 draft: false
 title: "11月15日再生医療セミナー「実際の症例」"
-slug: "2022/11/10"
+slug: "2022/11/10/181047"
 tags: ["プライベートな話"]
 image: "blog_import_6621f29e999ec.png"
 feature: "blog_import_6621f29e999ec.png"

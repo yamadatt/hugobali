@@ -2,7 +2,7 @@
 date: 2019-04-24T23:20:19+09:00
 draft: false
 title: "明後日の「成長株投資の実践会」の内容を公開する"
-slug: "2019/04/24"
+slug: "2019/04/24/232019"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cc111927e.png"
 feature: "blog_import_6621cc111927e.png"

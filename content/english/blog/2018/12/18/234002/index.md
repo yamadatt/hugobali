@@ -2,7 +2,7 @@
 date: 2018-12-18T23:40:02+09:00
 draft: false
 title: "ツアーで利用したヴィラ　その１"
-slug: "2018/12/18"
+slug: "2018/12/18/234002"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621c87409aaf.jpg"
 feature: "blog_import_6621c87409aaf.jpg"

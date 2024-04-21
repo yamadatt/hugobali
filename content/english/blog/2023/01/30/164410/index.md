@@ -2,7 +2,7 @@
 date: 2023-01-30T16:44:10+09:00
 draft: false
 title: "カイヴァリヤダーマ・ヨガ研究所の「パンチャカルマ」とは、なんだったのか？"
-slug: "2023/01/30"
+slug: "2023/01/30/164410"
 tags: ["インド旅行パンチャカルマ"]
 image: "blog_import_6621f5426da29.jpg"
 feature: "blog_import_6621f5426da29.jpg"

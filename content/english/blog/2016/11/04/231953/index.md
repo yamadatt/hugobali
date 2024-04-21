@@ -2,7 +2,7 @@
 date: 2016-11-04T23:19:53+09:00
 draft: false
 title: "若い女性投資家さまが購入したウブドゥの物件"
-slug: "2016/11/04"
+slug: "2016/11/04/231953"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621b5fc4aad6.jpg"
 feature: "blog_import_6621b5fc4aad6.jpg"

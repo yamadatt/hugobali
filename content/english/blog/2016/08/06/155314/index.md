@@ -2,7 +2,7 @@
 date: 2016-08-06T15:53:14+09:00
 draft: false
 title: "ヌサペニダ島　ランドバンキング売土地６連発①"
-slug: "2016/08/06"
+slug: "2016/08/06/155314"
 tags: ["ブログ"]
 image: "blog_import_6621b1f0ed932.jpg"
 feature: "blog_import_6621b1f0ed932.jpg"

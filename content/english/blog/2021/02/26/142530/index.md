@@ -2,7 +2,7 @@
 date: 2021-02-26T14:25:30+09:00
 draft: false
 title: "満員御礼！！３月１６日浜野ゴルフ、２５日メイプルとも満席です。"
-slug: "2021/02/26"
+slug: "2021/02/26/142530"
 tags: ["プライベートな話"]
 image: "blog_import_6621e0ab7b05c.png"
 feature: "blog_import_6621e0ab7b05c.png"

@@ -2,7 +2,7 @@
 date: 2017-12-07T00:08:26+09:00
 draft: false
 title: "投資のタネ銭を作るための、副業の進め方"
-slug: "2017/12/07"
+slug: "2017/12/07/000826"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621bf3901333.jpg"
 feature: "blog_import_6621bf3901333.jpg"

@@ -2,7 +2,7 @@
 date: 2019-05-28T23:18:16+09:00
 draft: false
 title: "５月３１日成長株投資の実践会のご案内「この１か月の証拠公開！？」"
-slug: "2019/05/28"
+slug: "2019/05/28/231816"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cd0419194.png"
 feature: "blog_import_6621cd0419194.png"

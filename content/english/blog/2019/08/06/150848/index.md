@@ -2,7 +2,7 @@
 date: 2019-08-06T15:08:48+09:00
 draft: false
 title: "和田憲治の香港デモレポート"
-slug: "2019/08/06"
+slug: "2019/08/06/150848"
 tags: ["プライベートな話"]
 image: "blog_import_6621cf60cbb5e.jpg"
 feature: "blog_import_6621cf60cbb5e.jpg"

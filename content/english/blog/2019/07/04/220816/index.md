@@ -2,7 +2,7 @@
 date: 2019-07-04T22:08:16+09:00
 draft: false
 title: "７月２７日（土）「元調査官による税務調査・税務署の話セミナー」"
-slug: "2019/07/04"
+slug: "2019/07/04/220816"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ce57395d7.png"
 feature: "blog_import_6621ce57395d7.png"

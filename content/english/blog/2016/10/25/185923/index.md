@@ -2,7 +2,7 @@
 date: 2016-10-25T18:59:23+09:00
 draft: false
 title: "借金地獄からの脱出「基本的な考え方」"
-slug: "2016/10/25"
+slug: "2016/10/25/185923"
 tags: ["プライベートな話"]
 image: "blog_import_6621b5d39baf8.jpg"
 feature: "blog_import_6621b5d39baf8.jpg"

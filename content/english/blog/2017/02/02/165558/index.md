@@ -2,7 +2,7 @@
 date: 2017-02-02T16:55:58+09:00
 draft: false
 title: "受験本命、、結果は！？"
-slug: "2017/02/02"
+slug: "2017/02/02/165558"
 tags: ["プライベートな話"]
 image: "blog_import_6621b960e34ae.jpg"
 feature: "blog_import_6621b960e34ae.jpg"

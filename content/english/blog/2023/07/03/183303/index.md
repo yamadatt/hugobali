@@ -2,7 +2,7 @@
 date: 2023-07-03T18:33:03+09:00
 draft: false
 title: "今日の株の配当は、489,700円。こうなるとバカにならないな。。"
-slug: "2023/07/03"
+slug: "2023/07/03/183303"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621facaa6bab.jpg"
 feature: "blog_import_6621facaa6bab.jpg"

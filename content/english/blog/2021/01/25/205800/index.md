@@ -2,7 +2,7 @@
 date: 2021-01-25T20:58:00+09:00
 draft: false
 title: "コロナで、交通違反の取り調べが厳しくなる！？"
-slug: "2021/01/25"
+slug: "2021/01/25/205800"
 tags: ["プライベートな話"]
 image: "blog_import_6621e000c4f89.jpg"
 feature: "blog_import_6621e000c4f89.jpg"

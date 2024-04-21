@@ -2,7 +2,7 @@
 date: 2018-10-10T23:17:06+09:00
 draft: false
 title: "年収〇億円の人たちの飲み会をオープンにやりにくい理由"
-slug: "2018/10/10"
+slug: "2018/10/10/231706"
 tags: ["プライベートな話"]
 image: "blog_import_6621c6cc29704.jpg"
 feature: "blog_import_6621c6cc29704.jpg"

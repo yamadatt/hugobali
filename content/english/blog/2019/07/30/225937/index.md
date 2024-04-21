@@ -2,7 +2,7 @@
 date: 2019-07-30T22:59:37+09:00
 draft: false
 title: "売ラブホテル３連発！！その②千葉県　価格９０００万円 利回り１８.６％"
-slug: "2019/07/30"
+slug: "2019/07/30/225937"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621cf274148a.png"
 feature: "blog_import_6621cf274148a.png"

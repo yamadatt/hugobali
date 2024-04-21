@@ -2,7 +2,7 @@
 date: 2021-03-26T01:52:06+09:00
 draft: false
 title: "第２回馬場ゴルフ部コンペの報告（メイプルポイントGC）。プロはハンパない。。"
-slug: "2021/03/26"
+slug: "2021/03/26/015206"
 tags: ["ゴルフ"]
 image: "blog_import_6621e1712727a.png"
 feature: "blog_import_6621e1712727a.png"

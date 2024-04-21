@@ -2,7 +2,7 @@
 date: 2021-11-03T22:15:49+09:00
 draft: false
 title: "１１月５日(金）第３期２回「成長株投資の基礎セミナー」のご案内"
-slug: "2021/11/03"
+slug: "2021/11/03/221549"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621e76f407c1.jpg"
 feature: "blog_import_6621e76f407c1.jpg"

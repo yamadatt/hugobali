@@ -2,7 +2,7 @@
 date: 2023-07-06T17:49:47+09:00
 draft: false
 title: "バリ島ウブドゥ売ヴィラ1860万円。お得感アリ！？"
-slug: "2023/07/06"
+slug: "2023/07/06/174947"
 tags: ["バリ島の自社物件"]
 image: "blog_import_6621faf42081d.jpg"
 feature: "blog_import_6621faf42081d.jpg"

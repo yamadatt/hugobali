@@ -2,7 +2,7 @@
 date: 2016-04-04T22:35:57+09:00
 draft: false
 title: "暑い日は長袖がいい！？"
-slug: "2016/04/04"
+slug: "2016/04/04/223557"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621aee466377.jpg"
 feature: "blog_import_6621aee466377.jpg"

@@ -2,7 +2,7 @@
 date: 2020-06-06T23:43:27+09:00
 draft: false
 title: "昨日の「成長株セミナー」の報告。年収１億円以上の５６％は株の投資！？"
-slug: "2020/06/06"
+slug: "2020/06/06/234327"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621da7513cb9.jpg"
 feature: "blog_import_6621da7513cb9.jpg"

@@ -2,7 +2,7 @@
 date: 2016-07-09T15:33:54+09:00
 draft: false
 title: "日本人にチャンスが来た"
-slug: "2016/07/09"
+slug: "2016/07/09/153354"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b0db0d280.jpg"
 feature: "blog_import_6621b0db0d280.jpg"

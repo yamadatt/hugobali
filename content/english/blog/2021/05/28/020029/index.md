@@ -2,7 +2,7 @@
 date: 2021-05-28T02:00:29+09:00
 draft: false
 title: "不動産屋を信用するな"
-slug: "2021/05/28"
+slug: "2021/05/28/020029"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e2e656dbc.png"
 feature: "blog_import_6621e2e656dbc.png"

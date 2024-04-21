@@ -2,7 +2,7 @@
 date: 2022-11-22T19:12:51+09:00
 draft: false
 title: "新幹線って、高揚感あるなぁ"
-slug: "2022/11/22"
+slug: "2022/11/22/191251"
 tags: ["プライベートな話"]
 image: "blog_import_6621f2ffe5e09.jpg"
 feature: "blog_import_6621f2ffe5e09.jpg"

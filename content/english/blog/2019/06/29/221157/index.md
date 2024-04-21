@@ -2,7 +2,7 @@
 date: 2019-06-29T22:11:57+09:00
 draft: false
 title: "７月２１日(日）初心者向け「楽しく稼ぐ！？株式投資の座談会＆飲み会」"
-slug: "2019/06/29"
+slug: "2019/06/29/221157"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ce2659e9d.png"
 feature: "blog_import_6621ce2659e9d.png"

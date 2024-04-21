@@ -2,7 +2,7 @@
 date: 2023-07-14T18:29:11+09:00
 draft: false
 title: "山の中にあるラブホ。「なぜ、こんな所に？」そのワケ。"
-slug: "2023/07/14"
+slug: "2023/07/14/182911"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621fb3c4b773.png"
 feature: "blog_import_6621fb3c4b773.png"

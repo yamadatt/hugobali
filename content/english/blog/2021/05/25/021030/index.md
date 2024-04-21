@@ -2,7 +2,7 @@
 date: 2021-05-25T02:10:30+09:00
 draft: false
 title: "インドネシアの振り込め詐欺"
-slug: "2021/05/25"
+slug: "2021/05/25/021030"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621e2cbd0631.jpg"
 feature: "blog_import_6621e2cbd0631.jpg"

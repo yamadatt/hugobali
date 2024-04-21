@@ -2,7 +2,7 @@
 date: 2020-05-27T21:46:02+09:00
 draft: false
 title: "投資は、、最終的には運に任せてノリと雰囲気でやったほうがいい！？"
-slug: "2020/05/27"
+slug: "2020/05/27/214602"
 tags: ["株式投資"]
 image: "blog_import_6621da4bb3e2a.png"
 feature: "blog_import_6621da4bb3e2a.png"

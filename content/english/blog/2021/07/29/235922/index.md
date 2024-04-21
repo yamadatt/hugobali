@@ -2,7 +2,7 @@
 date: 2021-07-29T23:59:22+09:00
 draft: false
 title: "７月３０日(金）成長株投資の実践会「ＩＰＯセカンダリー戦略！？」＆「米国株」"
-slug: "2021/07/29"
+slug: "2021/07/29/235922"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621e4b663343.png"
 feature: "blog_import_6621e4b663343.png"

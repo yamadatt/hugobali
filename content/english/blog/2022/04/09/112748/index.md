@@ -2,7 +2,7 @@
 date: 2022-04-09T11:27:48+09:00
 draft: false
 title: "プライベートバンカーが語る「１００億超の富裕層を新規でお客にする方法」"
-slug: "2022/04/09"
+slug: "2022/04/09/112748"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ed077929a.png"
 feature: "blog_import_6621ed077929a.png"

@@ -2,7 +2,7 @@
 date: 2019-11-16T21:15:35+09:00
 draft: false
 title: "祝フォロワー２８００人。挫けないで続けることだ大切だ。"
-slug: "2019/11/16"
+slug: "2019/11/16/211535"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d24b7f06b.png"
 feature: "blog_import_6621d24b7f06b.png"

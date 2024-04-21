@@ -2,7 +2,7 @@
 date: 2018-02-21T22:29:35+09:00
 draft: false
 title: "バリ島のヴィラを欧米人が格安で売却する事情とは？"
-slug: "2018/02/21"
+slug: "2018/02/21/222935"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c1db94858.jpg"
 feature: "blog_import_6621c1db94858.jpg"

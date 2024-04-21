@@ -2,7 +2,7 @@
 date: 2021-04-30T17:27:40+09:00
 draft: false
 title: "ゴルフ関連銘柄は儲かるのか？"
-slug: "2021/04/30"
+slug: "2021/04/30/172740"
 tags: ["株式投資"]
 image: "blog_import_6621e2439737a.png"
 feature: "blog_import_6621e2439737a.png"

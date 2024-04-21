@@ -2,7 +2,7 @@
 date: 2022-03-09T03:46:15+09:00
 draft: false
 title: "「大人の合宿in南伊豆」の報告　２・３日目～ゴルフ＆ドローン＆シェフの中華～"
-slug: "2022/03/09"
+slug: "2022/03/09/034615"
 tags: ["プライベートな話"]
 image: "blog_import_6621ebc39e0f4.png"
 feature: "blog_import_6621ebc39e0f4.png"

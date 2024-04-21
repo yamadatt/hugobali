@@ -2,7 +2,7 @@
 date: 2022-09-12T01:25:42+09:00
 draft: false
 title: "第４回ファスティング合宿のご案内９月２３日(金）～２５日(日）in南伊豆"
-slug: "2022/09/12"
+slug: "2022/09/12/012542"
 tags: ["ファスティング合宿ダイエット"]
 image: "blog_import_6621f0fdd4300.jpg"
 feature: "blog_import_6621f0fdd4300.jpg"

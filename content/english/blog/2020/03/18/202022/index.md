@@ -2,7 +2,7 @@
 date: 2020-03-18T20:20:22+09:00
 draft: false
 title: "長田先生からのメッセージ【その４】「短期的な損失覚悟でも、それなりには買う」"
-slug: "2020/03/18"
+slug: "2020/03/18/202022"
 tags: ["株式投資"]
 image: "blog_import_6621d7d114e14.png"
 feature: "blog_import_6621d7d114e14.png"

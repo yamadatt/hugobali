@@ -2,7 +2,7 @@
 date: 2019-11-28T13:11:30+09:00
 draft: false
 title: "１ヶ月の利益率２０％。実践会の１０バーガー銘柄が上がってる！？"
-slug: "2019/11/28"
+slug: "2019/11/28/131130"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d2bc953d2.png"
 feature: "blog_import_6621d2bc953d2.png"

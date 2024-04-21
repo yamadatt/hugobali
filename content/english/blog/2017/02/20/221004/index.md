@@ -2,7 +2,7 @@
 date: 2017-02-20T22:10:04+09:00
 draft: false
 title: "怒涛の激飲み１０日間"
-slug: "2017/02/20"
+slug: "2017/02/20/221004"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621b9f46724e.jpg"
 feature: "blog_import_6621b9f46724e.jpg"

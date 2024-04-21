@@ -2,7 +2,7 @@
 date: 2017-02-01T18:11:00+09:00
 draft: false
 title: "いざ本番！！中学入試"
-slug: "2017/02/01"
+slug: "2017/02/01/181100"
 tags: ["プライベートな話"]
 image: "blog_import_6621b958063a9.jpg"
 feature: "blog_import_6621b958063a9.jpg"

@@ -2,7 +2,7 @@
 date: 2021-12-05T21:50:42+09:00
 draft: false
 title: "昨日の「生ハムの会」の報告。やはりベジョータは美味かった。"
-slug: "2021/12/05"
+slug: "2021/12/05/215042"
 tags: ["プライベートな話"]
 image: "blog_import_6621e836b5b16.jpg"
 feature: "blog_import_6621e836b5b16.jpg"

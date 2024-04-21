@@ -2,7 +2,7 @@
 date: 2016-03-27T22:11:19+09:00
 draft: false
 title: "バリ島のタクシー　ブルーバードでも安心するな"
-slug: "2016/03/27"
+slug: "2016/03/27/221119"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621ae4f62afe.jpg"
 feature: "blog_import_6621ae4f62afe.jpg"

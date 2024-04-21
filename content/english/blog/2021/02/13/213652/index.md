@@ -2,7 +2,7 @@
 date: 2021-02-13T21:36:52+09:00
 draft: false
 title: "前回(２月５日）セミナーへいただいた感想「先生のスタンスは、山の如し」"
-slug: "2021/02/13"
+slug: "2021/02/13/213652"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621e067c62c7.png"
 feature: "blog_import_6621e067c62c7.png"

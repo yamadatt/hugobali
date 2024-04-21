@@ -2,7 +2,7 @@
 date: 2019-07-22T23:25:38+09:00
 draft: false
 title: "ゼロからイチ。ここだけは必死さが大切だ。"
-slug: "2019/07/22"
+slug: "2019/07/22/232538"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ceda54117.png"
 feature: "blog_import_6621ceda54117.png"

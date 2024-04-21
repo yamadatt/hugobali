@@ -2,7 +2,7 @@
 date: 2024-01-05T21:39:21+09:00
 draft: false
 title: "休日の後、やる気が出ない理由。"
-slug: "2024/01/05"
+slug: "2024/01/05/213921"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ff332d30a.png"
 feature: "blog_import_6621ff332d30a.png"

@@ -2,7 +2,7 @@
 date: 2019-03-01T18:04:43+09:00
 draft: false
 title: "このブログの価値は、月額１００～５００円！？"
-slug: "2019/03/01"
+slug: "2019/03/01/180443"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ca113a542.jpg"
 feature: "blog_import_6621ca113a542.jpg"

@@ -2,7 +2,7 @@
 date: 2017-02-08T21:02:53+09:00
 draft: false
 title: "バリ島駐車場係のボス「金持ちは仕組みで稼ぐ」"
-slug: "2017/02/08"
+slug: "2017/02/08/210253"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621b9a9873a3.jpg"
 feature: "blog_import_6621b9a9873a3.jpg"

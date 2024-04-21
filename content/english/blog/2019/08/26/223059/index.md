@@ -2,7 +2,7 @@
 date: 2019-08-26T22:30:59+09:00
 draft: false
 title: "イタリアより帰国。ブログ再開します"
-slug: "2019/08/26"
+slug: "2019/08/26/223059"
 tags: ["プライベートな話"]
 image: "blog_import_6621cfae67342.jpg"
 feature: "blog_import_6621cfae67342.jpg"

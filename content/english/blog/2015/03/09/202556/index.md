@@ -2,7 +2,7 @@
 date: 2015-03-09T20:25:56+09:00
 draft: false
 title: "バリ島　ウブド　希少な低額物件約1200万円　15%超"
-slug: "2015/03/09"
+slug: "2015/03/09/202556"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621aa296cbc7.jpg"
 feature: "blog_import_6621aa296cbc7.jpg"

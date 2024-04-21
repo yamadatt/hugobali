@@ -2,7 +2,7 @@
 date: 2019-10-09T15:40:39+09:00
 draft: false
 title: "成長株の利益、ついに１００万円突破！？"
-slug: "2019/10/09"
+slug: "2019/10/09/154039"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d07f4ef66.png"
 feature: "blog_import_6621d07f4ef66.png"

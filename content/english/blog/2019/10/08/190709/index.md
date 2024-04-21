@@ -2,7 +2,7 @@
 date: 2019-10-08T19:07:09+09:00
 draft: false
 title: "１０月２５日（金）第７回長田淳司の「成長株投資の実践会」目指せ１００倍銘柄！？"
-slug: "2019/10/08"
+slug: "2019/10/08/190709"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d0798ca47.png"
 feature: "blog_import_6621d0798ca47.png"

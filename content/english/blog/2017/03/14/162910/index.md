@@ -2,7 +2,7 @@
 date: 2017-03-14T16:29:10+09:00
 draft: false
 title: "バリ島不動産セミナー＆懇親会　４月１５日､１６日"
-slug: "2017/03/14"
+slug: "2017/03/14/162910"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ba6b29215.jpg"
 feature: "blog_import_6621ba6b29215.jpg"

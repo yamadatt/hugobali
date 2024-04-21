@@ -2,7 +2,7 @@
 date: 2016-07-24T16:41:06+09:00
 draft: false
 title: "利回り２０３％！？　バリ島ウブド　賃貸ヴィラ200㎡　年176万円（光熱費込）"
-slug: "2016/07/24"
+slug: "2016/07/24/164106"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621b17668f11.jpg"
 feature: "blog_import_6621b17668f11.jpg"

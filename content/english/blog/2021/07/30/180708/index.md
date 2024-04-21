@@ -2,7 +2,7 @@
 date: 2021-07-30T18:07:08+09:00
 draft: false
 title: "コロナワクチン２回目を接種。「病は気から！？」"
-slug: "2021/07/30"
+slug: "2021/07/30/180708"
 tags: ["新型コロナウィルス"]
 image: "blog_import_6621e4bc4c060.png"
 feature: "blog_import_6621e4bc4c060.png"

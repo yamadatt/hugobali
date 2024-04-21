@@ -2,7 +2,7 @@
 date: 2020-01-04T15:11:37+09:00
 draft: false
 title: "世の中は「仕掛ける側」と「仕掛けられる側」で成り立っている"
-slug: "2020/01/04"
+slug: "2020/01/04/151137"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d50b8dd3c.png"
 feature: "blog_import_6621d50b8dd3c.png"

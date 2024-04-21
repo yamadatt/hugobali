@@ -2,7 +2,7 @@
 date: 2023-07-02T18:28:42+09:00
 draft: false
 title: "自分から先に挨拶しよう。声をかけよう"
-slug: "2023/07/02"
+slug: "2023/07/02/182842"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621fac56677c.png"
 feature: "blog_import_6621fac56677c.png"

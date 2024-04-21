@@ -2,7 +2,7 @@
 date: 2021-04-12T00:14:13+09:00
 draft: false
 title: "小さな会社の経営者のプチリタイアの方法とは！？"
-slug: "2021/04/12"
+slug: "2021/04/12/001413"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e1f435f32.png"
 feature: "blog_import_6621e1f435f32.png"

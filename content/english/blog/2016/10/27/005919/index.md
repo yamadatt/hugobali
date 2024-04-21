@@ -2,7 +2,7 @@
 date: 2016-10-27T00:59:19+09:00
 draft: false
 title: "お金が人を欲深くした"
-slug: "2016/10/27"
+slug: "2016/10/27/005919"
 tags: ["ブログ"]
 image: "blog_import_6621b5d6c89c5.jpg"
 feature: "blog_import_6621b5d6c89c5.jpg"

@@ -2,7 +2,7 @@
 date: 2022-07-13T23:42:32+09:00
 draft: false
 title: "７月１５日第４０回：成長株投資の実践会のご案内「覚醒！？ワンチャン銘柄」"
-slug: "2022/07/13"
+slug: "2022/07/13/234232"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ef66aaf96.png"
 feature: "blog_import_6621ef66aaf96.png"

@@ -2,7 +2,7 @@
 date: 2024-01-20T14:09:11+09:00
 draft: false
 title: "岸田総理さん、悪くないと思うけどなぁ。。でも、残念なこと"
-slug: "2024/01/20"
+slug: "2024/01/20/140911"
 tags: ["プライベートな話"]
 image: "blog_import_6621ff6751944.png"
 feature: "blog_import_6621ff6751944.png"

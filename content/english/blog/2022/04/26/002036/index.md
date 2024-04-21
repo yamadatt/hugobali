@@ -2,7 +2,7 @@
 date: 2022-04-26T00:20:36+09:00
 draft: false
 title: "ファスティング後の酒はヤバい！？"
-slug: "2022/04/26"
+slug: "2022/04/26/002036"
 tags: ["ファスティング合宿ダイエット"]
 image: "blog_import_6621ed6d72178.jpg"
 feature: "blog_import_6621ed6d72178.jpg"

@@ -2,7 +2,7 @@
 date: 2017-09-23T01:49:17+09:00
 draft: false
 title: "友人と平等につき合えるか！？"
-slug: "2017/09/23"
+slug: "2017/09/23/014917"
 tags: ["プライベートな話"]
 image: "blog_import_6621bd76a1d04.png"
 feature: "blog_import_6621bd76a1d04.png"

@@ -2,7 +2,7 @@
 date: 2021-04-22T01:05:17+09:00
 draft: false
 title: "人間は負けるように造られていない"
-slug: "2021/04/22"
+slug: "2021/04/22/010517"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e21a3746c.png"
 feature: "blog_import_6621e21a3746c.png"

@@ -2,7 +2,7 @@
 date: 2020-05-07T23:59:32+09:00
 draft: false
 title: "自粛はわかるけど、もう少し他人に寛大でもいいんじゃないか。"
-slug: "2020/05/07"
+slug: "2020/05/07/235932"
 tags: ["プライベートな話"]
 image: "blog_import_6621d9c1ac9e4.jpg"
 feature: "blog_import_6621d9c1ac9e4.jpg"

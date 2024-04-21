@@ -2,7 +2,7 @@
 date: 2017-01-31T21:14:33+09:00
 draft: false
 title: "利回り１０％超！？　太陽光は今年が最後かな"
-slug: "2017/01/31"
+slug: "2017/01/31/211433"
 tags: ["プライベートな話"]
 image: "blog_import_6621b948d050e.jpg"
 feature: "blog_import_6621b948d050e.jpg"

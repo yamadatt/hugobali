@@ -2,7 +2,7 @@
 date: 2018-01-03T18:28:58+09:00
 draft: false
 title: "謹賀新年！　稼ぐ人は初詣の列に並ばない"
-slug: "2018/01/03"
+slug: "2018/01/03/182858"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c052789cf.jpg"
 feature: "blog_import_6621c052789cf.jpg"

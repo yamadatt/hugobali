@@ -2,7 +2,7 @@
 date: 2017-01-28T00:48:04+09:00
 draft: false
 title: "飲み会（懇親会？オフ会？）やります！！２月１６日"
-slug: "2017/01/28"
+slug: "2017/01/28/004804"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621b919c5525.jpg"
 feature: "blog_import_6621b919c5525.jpg"

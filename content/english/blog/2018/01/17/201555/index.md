@@ -2,7 +2,7 @@
 date: 2018-01-17T20:15:55+09:00
 draft: false
 title: "バリ島セミナーに参加するメリットとデメリット"
-slug: "2018/01/17"
+slug: "2018/01/17/201555"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c0ae8260e.jpg"
 feature: "blog_import_6621c0ae8260e.jpg"

@@ -2,7 +2,7 @@
 date: 2018-06-03T17:41:37+09:00
 draft: false
 title: "レンタル用ヴィラの改装は、どこまでやるか"
-slug: "2018/06/03"
+slug: "2018/06/03/174137"
 tags: ["バリ島の自社物件"]
 image: "blog_import_6621c3d4d885d.jpg"
 feature: "blog_import_6621c3d4d885d.jpg"

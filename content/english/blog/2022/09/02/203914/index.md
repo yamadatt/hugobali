@@ -2,7 +2,7 @@
 date: 2022-09-02T20:39:14+09:00
 draft: false
 title: "日本は負けちゃったな。。円安、ヤバいし。"
-slug: "2022/09/02"
+slug: "2022/09/02/203914"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f0b3975c5.png"
 feature: "blog_import_6621f0b3975c5.png"

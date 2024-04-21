@@ -2,7 +2,7 @@
 date: 2020-01-13T18:35:34+09:00
 draft: false
 title: "貸株のリスク「なぜ、貸株料が高い銘柄には注意が必要なのか！？」"
-slug: "2020/01/13"
+slug: "2020/01/13/183534"
 tags: ["株式投資"]
 image: "blog_import_6621d57420f5a.png"
 feature: "blog_import_6621d57420f5a.png"

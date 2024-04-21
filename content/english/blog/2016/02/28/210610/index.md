@@ -2,7 +2,7 @@
 date: 2016-02-28T21:06:10+09:00
 draft: false
 title: "ウルワツ高級ホテル着工！New World Grand Bali Resort"
-slug: "2016/02/28"
+slug: "2016/02/28/210610"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621ad2e8bffc.jpg"
 feature: "blog_import_6621ad2e8bffc.jpg"

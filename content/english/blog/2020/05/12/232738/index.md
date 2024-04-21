@@ -2,7 +2,7 @@
 date: 2020-05-12T23:27:38+09:00
 draft: false
 title: "持ち株がマイナス１０００万円からプラスへ。完全復活！？苦節２ヶ月、、の歩み"
-slug: "2020/05/12"
+slug: "2020/05/12/232738"
 tags: ["株式投資"]
 image: "blog_import_6621d9f455fd7.png"
 feature: "blog_import_6621d9f455fd7.png"

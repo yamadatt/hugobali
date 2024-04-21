@@ -2,7 +2,7 @@
 date: 2020-10-19T18:21:21+09:00
 draft: false
 title: "１８禁。サウナーの聖地、天国に一番近い場所「草加健康センター」は、やっぱりスゴかった"
-slug: "2020/10/19"
+slug: "2020/10/19/182121"
 tags: ["プライベートな話"]
 image: "blog_import_6621ddb25022c.jpg"
 feature: "blog_import_6621ddb25022c.jpg"

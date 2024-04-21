@@ -2,7 +2,7 @@
 date: 2020-02-17T23:44:43+09:00
 draft: false
 title: "２月２２日(土）緊急セミナー「株で格差拡大！？日経平均は５万円になる！？」ｂｙふりーパパ"
-slug: "2020/02/17"
+slug: "2020/02/17/234443"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d7289d1da.png"
 feature: "blog_import_6621d7289d1da.png"

@@ -2,7 +2,7 @@
 date: 2021-11-17T19:37:22+09:00
 draft: false
 title: "「馬場ゴルフ部」の概要と今後の日程について"
-slug: "2021/11/17"
+slug: "2021/11/17/193722"
 tags: ["ゴルフ"]
 image: "blog_import_6621e7c33a806.png"
 feature: "blog_import_6621e7c33a806.png"

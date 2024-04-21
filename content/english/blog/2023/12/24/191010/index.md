@@ -2,7 +2,7 @@
 date: 2023-12-24T19:10:10+09:00
 draft: false
 title: "満員御礼！！生ハムベジョータの会"
-slug: "2023/12/24"
+slug: "2023/12/24/191010"
 tags: ["プライベートな話"]
 image: "blog_import_6621ff0c83cfc.jpg"
 feature: "blog_import_6621ff0c83cfc.jpg"

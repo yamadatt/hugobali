@@ -2,7 +2,7 @@
 date: 2024-02-08T22:38:22+09:00
 draft: false
 title: "インドで折りたたみ自転車は羨望の的だった。しかし、現地調達がよかったか！？"
-slug: "2024/02/08"
+slug: "2024/02/08/223822"
 tags: ["インド旅行パンチャカルマ"]
 image: "blog_import_6621ffe393ea8.jpg"
 feature: "blog_import_6621ffe393ea8.jpg"

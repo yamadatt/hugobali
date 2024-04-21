@@ -2,7 +2,7 @@
 date: 2019-07-17T23:35:27+09:00
 draft: false
 title: "いい売ホテルだと思ったら、驚愕のカラクリ！？危なかった。"
-slug: "2019/07/17"
+slug: "2019/07/17/233527"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621cebf8f2e5.png"
 feature: "blog_import_6621cebf8f2e5.png"

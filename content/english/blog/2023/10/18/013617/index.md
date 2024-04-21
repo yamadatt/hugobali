@@ -2,7 +2,7 @@
 date: 2023-10-18T01:36:17+09:00
 draft: false
 title: "５０歳のサラリーマンが起業する際に考えるべきこと。その２"
-slug: "2023/10/18"
+slug: "2023/10/18/013617"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621fd8d599b3.png"
 feature: "blog_import_6621fd8d599b3.png"

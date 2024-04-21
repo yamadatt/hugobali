@@ -2,7 +2,7 @@
 date: 2022-06-21T02:33:32+09:00
 draft: false
 title: "明後日２２日(水）の「仮想通貨の実践会」セミナーの内容 ～ 非公開動画視聴アリ ～"
-slug: "2022/06/21"
+slug: "2022/06/21/023332"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621eec724f33.png"
 feature: "blog_import_6621eec724f33.png"

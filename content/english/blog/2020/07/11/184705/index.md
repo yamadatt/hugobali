@@ -2,7 +2,7 @@
 date: 2020-07-11T18:47:05+09:00
 draft: false
 title: "８月７日「第１１回初心者向け成長株セミナー」のご案内"
-slug: "2020/07/11"
+slug: "2020/07/11/184705"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621db5ebc052.jpg"
 feature: "blog_import_6621db5ebc052.jpg"

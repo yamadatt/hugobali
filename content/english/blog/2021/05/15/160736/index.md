@@ -2,7 +2,7 @@
 date: 2021-05-15T16:07:36+09:00
 draft: false
 title: "５０歳を過ぎたら、貯蓄もいいけど楽しむこともしておこう"
-slug: "2021/05/15"
+slug: "2021/05/15/160736"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e29dda4b2.png"
 feature: "blog_import_6621e29dda4b2.png"

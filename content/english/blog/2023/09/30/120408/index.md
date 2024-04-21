@@ -2,7 +2,7 @@
 date: 2023-09-30T12:04:08+09:00
 draft: false
 title: "「サザン茅ケ崎LIVE2023」セトリ。今年の抽選はキツかった！？"
-slug: "2023/09/30"
+slug: "2023/09/30/120408"
 tags: ["プライベートな話"]
 image: "blog_import_6621fd168e218.png"
 feature: "blog_import_6621fd168e218.png"

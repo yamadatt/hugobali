@@ -2,7 +2,7 @@
 date: 2019-07-16T21:58:41+09:00
 draft: false
 title: "投資や起業で成功したいなら、当たり前のことをコツコツ続けよう。"
-slug: "2019/07/16"
+slug: "2019/07/16/215841"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ceb70fd10.jpg"
 feature: "blog_import_6621ceb70fd10.jpg"

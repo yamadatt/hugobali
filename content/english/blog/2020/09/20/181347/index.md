@@ -2,7 +2,7 @@
 date: 2020-09-20T18:13:47+09:00
 draft: false
 title: "バンカーリベンジへ。魔法のアイテムを手に入れた。"
-slug: "2020/09/20"
+slug: "2020/09/20/181347"
 tags: ["プライベートな話"]
 image: "blog_import_6621dce7ab81f.png"
 feature: "blog_import_6621dce7ab81f.png"

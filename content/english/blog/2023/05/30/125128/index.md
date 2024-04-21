@@ -2,7 +2,7 @@
 date: 2023-05-30T12:51:28+09:00
 draft: false
 title: "フィリピンの闘鶏"
-slug: "2023/05/30"
+slug: "2023/05/30/125128"
 tags: ["プライベートな話"]
 image: "blog_import_6621f994dd8b0.jpg"
 feature: "blog_import_6621f994dd8b0.jpg"

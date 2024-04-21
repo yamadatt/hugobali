@@ -2,7 +2,7 @@
 date: 2016-07-28T11:25:01+09:00
 draft: false
 title: "バリ島の不動産トラブル③「トラブルの具体例」"
-slug: "2016/07/28"
+slug: "2016/07/28/112501"
 tags: ["トラブルの話"]
 image: "blog_import_6621b19395907.jpg"
 feature: "blog_import_6621b19395907.jpg"

@@ -2,7 +2,7 @@
 date: 2021-12-29T00:02:15+09:00
 draft: false
 title: "田舎不動産投資、みんなでやれば怖くない！？「田舎物件は、儲かるのか？」"
-slug: "2021/12/29"
+slug: "2021/12/29/000215"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621e902810b8.png"
 feature: "blog_import_6621e902810b8.png"

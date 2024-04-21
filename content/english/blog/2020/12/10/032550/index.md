@@ -2,7 +2,7 @@
 date: 2020-12-10T03:25:50+09:00
 draft: false
 title: "こんな人が出世するんだよな。「損して得取れ」"
-slug: "2020/12/10"
+slug: "2020/12/10/032550"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621df2acc056.png"
 feature: "blog_import_6621df2acc056.png"

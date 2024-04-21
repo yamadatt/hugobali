@@ -2,7 +2,7 @@
 date: 2017-02-23T16:36:58+09:00
 draft: false
 title: "不動産投資の本質「箱を増やすしかない」"
-slug: "2017/02/23"
+slug: "2017/02/23/163658"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b9fc1842d.jpg"
 feature: "blog_import_6621b9fc1842d.jpg"

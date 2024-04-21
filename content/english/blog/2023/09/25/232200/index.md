@@ -2,7 +2,7 @@
 date: 2023-09-25T23:22:00+09:00
 draft: false
 title: "税金滞納の恐ろしさ"
-slug: "2023/09/25"
+slug: "2023/09/25/232200"
 tags: ["トラブルの話"]
 image: "blog_import_6621fcf85128d.png"
 feature: "blog_import_6621fcf85128d.png"

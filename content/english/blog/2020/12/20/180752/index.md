@@ -2,7 +2,7 @@
 date: 2020-12-20T18:07:52+09:00
 draft: false
 title: "失って初めて気づくこと"
-slug: "2020/12/20"
+slug: "2020/12/20/180752"
 tags: ["プライベートな話"]
 image: "blog_import_6621df6a5ce83.png"
 feature: "blog_import_6621df6a5ce83.png"

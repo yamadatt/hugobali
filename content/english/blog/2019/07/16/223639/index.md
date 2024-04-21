@@ -2,7 +2,7 @@
 date: 2019-07-16T22:36:39+09:00
 draft: false
 title: "成功に大切なのは、好き・得意・稼げる・人の役に立つ、この４つだ。"
-slug: "2019/07/16"
+slug: "2019/07/16/223639"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621cebaa34ca.png"
 feature: "blog_import_6621cebaa34ca.png"

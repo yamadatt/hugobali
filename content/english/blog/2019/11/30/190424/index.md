@@ -2,7 +2,7 @@
 date: 2019-11-30T19:04:24+09:00
 draft: false
 title: "昨日のセミナーは失敗！？成長株投資の実践会"
-slug: "2019/11/30"
+slug: "2019/11/30/190424"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d3001706a.jpg"
 feature: "blog_import_6621d3001706a.jpg"

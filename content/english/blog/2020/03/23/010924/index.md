@@ -2,7 +2,7 @@
 date: 2020-03-23T01:09:24+09:00
 draft: false
 title: "３月２７日(金）第１２回成長株投資の実践会「こんな時だからこそ、チャンスをつかもう」"
-slug: "2020/03/23"
+slug: "2020/03/23/010924"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d7dd91336.png"
 feature: "blog_import_6621d7dd91336.png"

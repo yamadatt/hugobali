@@ -2,7 +2,7 @@
 date: 2016-10-01T11:40:44+09:00
 draft: false
 title: "ミャンマー視察３日目「不動産以外のビジネスチャンス」"
-slug: "2016/10/01"
+slug: "2016/10/01/114044"
 tags: ["ブログ"]
 image: "blog_import_6621b3f0bf8aa.jpg"
 feature: "blog_import_6621b3f0bf8aa.jpg"

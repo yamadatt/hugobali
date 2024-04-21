@@ -2,7 +2,7 @@
 date: 2019-11-14T19:59:54+09:00
 draft: false
 title: "１０倍を狙うＩＰＯ銘柄「ＩＰＯ銘柄の決算書はあてにならない！？」"
-slug: "2019/11/14"
+slug: "2019/11/14/195954"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d2469db6f.png"
 feature: "blog_import_6621d2469db6f.png"

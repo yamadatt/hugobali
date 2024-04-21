@@ -2,7 +2,7 @@
 date: 2020-05-04T12:06:09+09:00
 draft: false
 title: "ラブホ看板アンケートの御礼。プレゼント動画「１勝９敗！？借金１１億円からの復活」"
-slug: "2020/05/04"
+slug: "2020/05/04/120609"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d9b45b1e7.jpg"
 feature: "blog_import_6621d9b45b1e7.jpg"

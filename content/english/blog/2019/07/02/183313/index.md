@@ -2,7 +2,7 @@
 date: 2019-07-02T18:33:13+09:00
 draft: false
 title: "売ラブホテル：名古屋市緑区１億３０００万円利回り１５％"
-slug: "2019/07/02"
+slug: "2019/07/02/183313"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621ce493dbb9.jpg"
 feature: "blog_import_6621ce493dbb9.jpg"

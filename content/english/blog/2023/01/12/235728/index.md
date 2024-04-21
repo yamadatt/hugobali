@@ -2,7 +2,7 @@
 date: 2023-01-12T23:57:28+09:00
 draft: false
 title: "１月１３日(金）第４６回：成長株投資の実践会「金利高でも保有できる銘柄は！？」"
-slug: "2023/01/12"
+slug: "2023/01/12/235728"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621f472e4d96.png"
 feature: "blog_import_6621f472e4d96.png"

@@ -2,7 +2,7 @@
 date: 2015-02-21T00:40:59+09:00
 draft: false
 title: "バリ島　ジンバラン　売ヴィラ　利回り３０％超！！　"
-slug: "2015/02/21"
+slug: "2015/02/21/004059"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621a9c975250.jpg"
 feature: "blog_import_6621a9c975250.jpg"

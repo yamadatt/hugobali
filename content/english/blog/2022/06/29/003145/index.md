@@ -2,7 +2,7 @@
 date: 2022-06-29T00:31:45+09:00
 draft: false
 title: "「幸せな老人」と「不幸せな老人」。その違いは！？"
-slug: "2022/06/29"
+slug: "2022/06/29/003145"
 tags: ["プライベートな話"]
 image: "blog_import_6621eee9bc9cf.jpg"
 feature: "blog_import_6621eee9bc9cf.jpg"

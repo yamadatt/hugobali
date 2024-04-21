@@ -2,7 +2,7 @@
 date: 2019-10-29T22:30:31+09:00
 draft: false
 title: "１７年間黒字の居酒屋が泣く泣く閉店。引き継ぐ人を募集！！東京：東久留米駅"
-slug: "2019/10/29"
+slug: "2019/10/29/223031"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621d19fe8643.png"
 feature: "blog_import_6621d19fe8643.png"

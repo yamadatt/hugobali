@@ -2,7 +2,7 @@
 date: 2019-11-27T14:11:17+09:00
 draft: false
 title: "株の利益が５００万突破！！なぜ？こうなったのか検証してみる"
-slug: "2019/11/27"
+slug: "2019/11/27/141117"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d2a54a493.png"
 feature: "blog_import_6621d2a54a493.png"

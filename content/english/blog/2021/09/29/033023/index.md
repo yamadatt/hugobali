@@ -2,7 +2,7 @@
 date: 2021-09-29T03:30:23+09:00
 draft: false
 title: "１０月からの第３期「成長株セミナー」について"
-slug: "2021/09/29"
+slug: "2021/09/29/033023"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621e65178947.jpg"
 feature: "blog_import_6621e65178947.jpg"

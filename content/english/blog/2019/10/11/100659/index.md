@@ -2,7 +2,7 @@
 date: 2019-10-11T10:06:59+09:00
 draft: false
 title: "バリ島ワンツー投資の新築物件。進捗状況の報告"
-slug: "2019/10/11"
+slug: "2019/10/11/100659"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621d085db3ad.jpg"
 feature: "blog_import_6621d085db3ad.jpg"

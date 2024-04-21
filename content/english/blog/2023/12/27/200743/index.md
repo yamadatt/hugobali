@@ -2,7 +2,7 @@
 date: 2023-12-27T20:07:43+09:00
 draft: false
 title: "経営者がピンチの時の対応：危機を乗り越えるための5つのポイント"
-slug: "2023/12/27"
+slug: "2023/12/27/200743"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ff1b5c0b2.png"
 feature: "blog_import_6621ff1b5c0b2.png"

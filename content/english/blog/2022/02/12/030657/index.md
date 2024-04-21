@@ -2,7 +2,7 @@
 date: 2022-02-12T03:06:57+09:00
 draft: false
 title: "バリ島チャングー売ヴィラ。相場の半額（１０００万円台）！？築１年でこの価格は安すぎる！！"
-slug: "2022/02/12"
+slug: "2022/02/12/030657"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621ea89011af.png"
 feature: "blog_import_6621ea89011af.png"

@@ -2,7 +2,7 @@
 date: 2020-12-26T18:17:34+09:00
 draft: false
 title: "仕事を引退した後の趣味として、、株はいいかも！？"
-slug: "2020/12/26"
+slug: "2020/12/26/181734"
 tags: ["プライベートな話"]
 image: "blog_import_6621df7ee0b2c.png"
 feature: "blog_import_6621df7ee0b2c.png"

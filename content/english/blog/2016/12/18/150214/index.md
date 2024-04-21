@@ -2,7 +2,7 @@
 date: 2016-12-18T15:02:14+09:00
 draft: false
 title: "ランクル・オーナーズ・クラブ　in バリ島"
-slug: "2016/12/18"
+slug: "2016/12/18/150214"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621b74e52028.jpg"
 feature: "blog_import_6621b74e52028.jpg"

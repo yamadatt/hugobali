@@ -2,7 +2,7 @@
 date: 2023-05-07T16:22:20+09:00
 draft: false
 title: "商売はサイドメニューで勝負しよう。千葉の柏で入ったトンカツ屋のサービスは神だった！？"
-slug: "2023/05/07"
+slug: "2023/05/07/162220"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f8ea5650e.jpg"
 feature: "blog_import_6621f8ea5650e.jpg"

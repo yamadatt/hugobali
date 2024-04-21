@@ -2,7 +2,7 @@
 date: 2021-01-31T21:59:57+09:00
 draft: false
 title: "いよいよ中学入試。親は本気で祝福する覚悟を持とう"
-slug: "2021/01/31"
+slug: "2021/01/31/215957"
 tags: ["プライベートな話"]
 image: "blog_import_6621e0278c512.jpg"
 feature: "blog_import_6621e0278c512.jpg"

@@ -2,7 +2,7 @@
 date: 2018-09-22T17:54:42+09:00
 draft: false
 title: "１０年勝ち続けるプロが教える株式勉強会「ズバリ、銘柄教えます！！」"
-slug: "2018/09/22"
+slug: "2018/09/22/175442"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c64c91ce3.png"
 feature: "blog_import_6621c64c91ce3.png"

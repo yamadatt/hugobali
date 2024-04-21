@@ -2,7 +2,7 @@
 date: 2020-07-13T18:18:42+09:00
 draft: false
 title: "感想＆質問（９）「成長株を購入するタイミングは？」への回答"
-slug: "2020/07/13"
+slug: "2020/07/13/181842"
 tags: ["株式投資"]
 image: "blog_import_6621db733e583.jpg"
 feature: "blog_import_6621db733e583.jpg"

@@ -2,7 +2,7 @@
 date: 2018-09-10T14:22:39+09:00
 draft: false
 title: "今回かぎりの内容！？株式投資セミナー"
-slug: "2018/09/10"
+slug: "2018/09/10/142239"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c6013a483.jpg"
 feature: "blog_import_6621c6013a483.jpg"

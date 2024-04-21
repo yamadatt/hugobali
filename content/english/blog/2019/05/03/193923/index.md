@@ -2,7 +2,7 @@
 date: 2019-05-03T19:39:23+09:00
 draft: false
 title: "５月１８日のセミナーは、ふりーパパの「日本が大きく変わる令和日本」"
-slug: "2019/05/03"
+slug: "2019/05/03/193923"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cc5372d3d.png"
 feature: "blog_import_6621cc5372d3d.png"

@@ -2,7 +2,7 @@
 date: 2022-05-13T17:41:16+09:00
 draft: false
 title: "金持ちは、さらに金持ちになる！？「プライベートバンカーが富裕層に提案する商品とは？」"
-slug: "2022/05/13"
+slug: "2022/05/13/174116"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621edcb3eb24.png"
 feature: "blog_import_6621edcb3eb24.png"

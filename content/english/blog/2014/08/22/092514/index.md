@@ -2,7 +2,7 @@
 date: 2014-08-22T09:25:14+09:00
 draft: false
 title: "急ぎ売ヴィラ　バリ島ギャニアール　６アール約5000万円"
-slug: "2014/08/22"
+slug: "2014/08/22/092514"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621a67d59266.jpg"
 feature: "blog_import_6621a67d59266.jpg"

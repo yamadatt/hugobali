@@ -2,7 +2,7 @@
 date: 2017-02-09T22:57:13+09:00
 draft: false
 title: "売ラブホテル 利回り７５.８％！？ 人生大逆転の物件！？"
-slug: "2017/02/09"
+slug: "2017/02/09/225713"
 tags: ["プライベートな話"]
 image: "blog_import_6621b9b10e8ee.jpg"
 feature: "blog_import_6621b9b10e8ee.jpg"

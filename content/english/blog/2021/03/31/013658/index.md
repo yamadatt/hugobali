@@ -2,7 +2,7 @@
 date: 2021-03-31T01:36:58+09:00
 draft: false
 title: "９月３日（金）【第２期】第１２回「初心者向け成長株セミナー」のご案内"
-slug: "2021/03/31"
+slug: "2021/03/31/013658"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621e19f977f1.jpg"
 feature: "blog_import_6621e19f977f1.jpg"

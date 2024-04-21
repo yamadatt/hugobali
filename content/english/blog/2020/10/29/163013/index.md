@@ -2,7 +2,7 @@
 date: 2020-10-29T16:30:13+09:00
 draft: false
 title: "これはスゴい！？１年一発償却、究極の節税スキーム"
-slug: "2020/10/29"
+slug: "2020/10/29/163013"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621de1875184.png"
 feature: "blog_import_6621de1875184.png"

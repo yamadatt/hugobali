@@ -2,7 +2,7 @@
 date: 2020-07-14T21:06:26+09:00
 draft: false
 title: "感想＆質問（13）「成長株を見つける想像力を鍛えるには？」への回答"
-slug: "2020/07/14"
+slug: "2020/07/14/210626"
 tags: ["株式投資"]
 image: "blog_import_6621db7bbace2.jpg"
 feature: "blog_import_6621db7bbace2.jpg"

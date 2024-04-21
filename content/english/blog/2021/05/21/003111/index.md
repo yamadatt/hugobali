@@ -2,7 +2,7 @@
 date: 2021-05-21T00:31:11+09:00
 draft: false
 title: "大衆ゴルフ場でプレーして思う。「いいコースで贅沢を覚えたら戻れない！？」"
-slug: "2021/05/21"
+slug: "2021/05/21/003111"
 tags: ["プライベートな話"]
 image: "blog_import_6621e2a8db128.png"
 feature: "blog_import_6621e2a8db128.png"

@@ -2,7 +2,7 @@
 date: 2019-03-05T18:43:39+09:00
 draft: false
 title: "終了です！！港区西麻布（六本木）の売マンション４０㎡超。"
-slug: "2019/03/05"
+slug: "2019/03/05/184339"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621ca135e046.png"
 feature: "blog_import_6621ca135e046.png"

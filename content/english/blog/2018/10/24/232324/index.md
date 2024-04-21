@@ -2,7 +2,7 @@
 date: 2018-10-24T23:23:24+09:00
 draft: false
 title: "バリ島の出会い系サイトにハマる日本人スタッフ"
-slug: "2018/10/24"
+slug: "2018/10/24/232324"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c711c372f.jpg"
 feature: "blog_import_6621c711c372f.jpg"

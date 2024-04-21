@@ -2,7 +2,7 @@
 date: 2021-03-03T20:48:23+09:00
 draft: false
 title: "怪しげな投資話の成功確率は？失敗を減らす方法は？"
-slug: "2021/03/03"
+slug: "2021/03/03/204823"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e0c1a3ffd.jpg"
 feature: "blog_import_6621e0c1a3ffd.jpg"

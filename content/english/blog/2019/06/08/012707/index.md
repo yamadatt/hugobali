@@ -2,7 +2,7 @@
 date: 2019-06-08T01:27:07+09:00
 draft: false
 title: "５月２１日（金）「第３回 初心者でも結果を出せる！？成長株投資入門」レベル３最終回"
-slug: "2019/06/08"
+slug: "2019/06/08/012707"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cd51c9901.png"
 feature: "blog_import_6621cd51c9901.png"

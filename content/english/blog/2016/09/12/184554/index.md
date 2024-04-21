@@ -2,7 +2,7 @@
 date: 2016-09-12T18:45:54+09:00
 draft: false
 title: "不動産は、売主と買主の直接交渉はまとまらない！？"
-slug: "2016/09/12"
+slug: "2016/09/12/184554"
 tags: ["ブログ"]
 image: "blog_import_6621b372637c1.jpg"
 feature: "blog_import_6621b372637c1.jpg"

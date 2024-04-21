@@ -2,7 +2,7 @@
 date: 2018-08-11T00:25:55+09:00
 draft: false
 title: "金持ち男の女性の悩み"
-slug: "2018/08/11"
+slug: "2018/08/11/002555"
 tags: ["プライベートな話"]
 image: "blog_import_6621c5a753070.jpg"
 feature: "blog_import_6621c5a753070.jpg"

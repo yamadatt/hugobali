@@ -2,7 +2,7 @@
 date: 2022-04-21T00:05:22+09:00
 draft: false
 title: "ETH(イーサリアム）のマイニング工場に行ってみた"
-slug: "2022/04/21"
+slug: "2022/04/21/000522"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621ed3d30826.jpg"
 feature: "blog_import_6621ed3d30826.jpg"

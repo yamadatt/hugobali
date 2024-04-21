@@ -2,7 +2,7 @@
 date: 2021-07-25T18:57:15+09:00
 draft: false
 title: "インドネシアから入国、ホテル隔離【バリ大将編】⑥「宅配イクラ事件。キレた大将に職員が逆ギレ！？」"
-slug: "2021/07/25"
+slug: "2021/07/25/185715"
 tags: ["新型コロナウィルス"]
 image: "blog_import_6621e4973ad24.png"
 feature: "blog_import_6621e4973ad24.png"

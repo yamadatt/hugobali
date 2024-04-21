@@ -2,7 +2,7 @@
 date: 2017-04-09T19:00:00+09:00
 draft: false
 title: "バリ島のヴィラが、収益面で有利な理由"
-slug: "2017/04/09"
+slug: "2017/04/09/190000"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621bad21a3a9.jpg"
 feature: "blog_import_6621bad21a3a9.jpg"

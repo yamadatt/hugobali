@@ -2,7 +2,7 @@
 date: 2022-02-10T17:54:45+09:00
 draft: false
 title: "【満員御礼】大人の合宿in南伊豆「マンボウに負けるな！」"
-slug: "2022/02/10"
+slug: "2022/02/10/175445"
 tags: ["プライベートな話"]
 image: "blog_import_6621ea8376642.png"
 feature: "blog_import_6621ea8376642.png"

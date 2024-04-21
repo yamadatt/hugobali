@@ -2,7 +2,7 @@
 date: 2016-10-05T21:05:37+09:00
 draft: false
 title: "ヴァイオリン投資"
-slug: "2016/10/05"
+slug: "2016/10/05/210537"
 tags: ["プライベートな話"]
 image: "blog_import_6621b4531eb58.jpg"
 feature: "blog_import_6621b4531eb58.jpg"

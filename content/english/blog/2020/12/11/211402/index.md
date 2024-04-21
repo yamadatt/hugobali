@@ -2,7 +2,7 @@
 date: 2020-12-11T21:14:02+09:00
 draft: false
 title: "先週の「初心者向け成長株セミナー」参加者からの感想"
-slug: "2020/12/11"
+slug: "2020/12/11/211402"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621df305e002.png"
 feature: "blog_import_6621df305e002.png"

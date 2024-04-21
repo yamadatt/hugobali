@@ -2,7 +2,7 @@
 date: 2020-01-22T16:04:16+09:00
 draft: false
 title: "希少！？バリ島スミニャック売ヴィラ　利回り１５.２％　２８００万円"
-slug: "2020/01/22"
+slug: "2020/01/22/160416"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621d667bf354.jpg"
 feature: "blog_import_6621d667bf354.jpg"

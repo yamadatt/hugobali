@@ -2,7 +2,7 @@
 date: 2018-05-30T19:52:49+09:00
 draft: false
 title: "若者からの相談「借金１３０万円からどう再建するか」"
-slug: "2018/05/30"
+slug: "2018/05/30/195249"
 tags: ["トラブルの話"]
 image: "blog_import_6621c3b0483a8.png"
 feature: "blog_import_6621c3b0483a8.png"

@@ -2,7 +2,7 @@
 date: 2016-01-24T03:56:50+09:00
 draft: false
 title: "女性に喜ばれるバリ島土産は？"
-slug: "2016/01/24"
+slug: "2016/01/24/035650"
 tags: ["ブログ"]
 image: "blog_import_6621abf62334a.jpg"
 feature: "blog_import_6621abf62334a.jpg"

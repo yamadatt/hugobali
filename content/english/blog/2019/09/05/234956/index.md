@@ -2,7 +2,7 @@
 date: 2019-09-05T23:49:56+09:00
 draft: false
 title: "勝ちパターンがあれば投資は怖くない。成功者を利用しよう"
-slug: "2019/09/05"
+slug: "2019/09/05/234956"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621cfbfc2a75.png"
 feature: "blog_import_6621cfbfc2a75.png"

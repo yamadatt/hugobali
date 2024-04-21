@@ -2,7 +2,7 @@
 date: 2022-03-22T18:04:39+09:00
 draft: false
 title: "満員御礼！！４月２２日(金)〜「大人の合宿～ファスティングダイエット」。次回は５月２７～２９日"
-slug: "2022/03/22"
+slug: "2022/03/22/180439"
 tags: ["ファスティング合宿ダイエット"]
 image: "blog_import_6621ec4d13646.png"
 feature: "blog_import_6621ec4d13646.png"

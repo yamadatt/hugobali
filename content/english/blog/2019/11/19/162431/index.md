@@ -2,7 +2,7 @@
 date: 2019-11-19T16:24:31+09:00
 draft: false
 title: "株の利益３００万円突破！？実践会の「１０倍株」公開！？"
-slug: "2019/11/19"
+slug: "2019/11/19/162431"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d256c9539.png"
 feature: "blog_import_6621d256c9539.png"

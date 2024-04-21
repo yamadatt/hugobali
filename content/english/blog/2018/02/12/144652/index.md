@@ -2,7 +2,7 @@
 date: 2018-02-12T14:46:52+09:00
 draft: false
 title: "損をしても寛大なオーナー様たち"
-slug: "2018/02/12"
+slug: "2018/02/12/144652"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c1a222623.jpg"
 feature: "blog_import_6621c1a222623.jpg"

@@ -2,7 +2,7 @@
 date: 2021-01-15T17:48:31+09:00
 draft: false
 title: "インドネシアのコロナ感染は、日本以上に深刻。活動制限が強化！？"
-slug: "2021/01/15"
+slug: "2021/01/15/174831"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621dfde890d1.png"
 feature: "blog_import_6621dfde890d1.png"

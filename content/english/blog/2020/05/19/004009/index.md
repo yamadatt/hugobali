@@ -2,7 +2,7 @@
 date: 2020-05-19T00:40:09+09:00
 draft: false
 title: "ひと財産を作るには。。その１「１０００万までは気合だ」"
-slug: "2020/05/19"
+slug: "2020/05/19/004009"
 tags: ["株式投資"]
 image: "blog_import_6621da19547ba.png"
 feature: "blog_import_6621da19547ba.png"

@@ -2,7 +2,7 @@
 date: 2024-04-16T21:31:35+09:00
 draft: false
 title: "４月１９日(金）【第５期】第７回成長株の基礎セミナー「銘柄の入れ替えを学ぼう」"
-slug: "2024/04/16"
+slug: "2024/04/16/213135"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_66219b4002338.png"
 feature: "blog_import_66219b4002338.png"

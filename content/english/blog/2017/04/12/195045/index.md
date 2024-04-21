@@ -2,7 +2,7 @@
 date: 2017-04-12T19:50:45+09:00
 draft: false
 title: "新潟のホテル。昭和感にシビれた。"
-slug: "2017/04/12"
+slug: "2017/04/12/195045"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621bae39495a.jpg"
 feature: "blog_import_6621bae39495a.jpg"

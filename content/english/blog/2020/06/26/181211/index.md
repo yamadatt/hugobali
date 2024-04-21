@@ -2,7 +2,7 @@
 date: 2020-06-26T18:12:11+09:00
 draft: false
 title: "７月３日(金）初心者向け成長株セミナー「分かる」と「できる」は違う"
-slug: "2020/06/26"
+slug: "2020/06/26/181211"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621daefa4441.png"
 feature: "blog_import_6621daefa4441.png"

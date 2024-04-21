@@ -2,7 +2,7 @@
 date: 2021-11-14T11:30:13+09:00
 draft: false
 title: "１２月４日「生ハムの会」のご案内"
-slug: "2021/11/14"
+slug: "2021/11/14/113013"
 tags: ["プライベートな話"]
 image: "blog_import_6621e7b3d0ba5.jpg"
 feature: "blog_import_6621e7b3d0ba5.jpg"

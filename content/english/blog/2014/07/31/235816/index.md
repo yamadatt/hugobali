@@ -2,7 +2,7 @@
 date: 2014-07-31T23:58:16+09:00
 draft: false
 title: "カリマンタンのレストラン物件"
-slug: "2014/07/31"
+slug: "2014/07/31/235816"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621a3c25dbe5.jpg"
 feature: "blog_import_6621a3c25dbe5.jpg"

@@ -2,7 +2,7 @@
 date: 2018-03-02T20:08:11+09:00
 draft: false
 title: "【その４】ずる賢いスタッフ、弁護士を連れて脅してきた"
-slug: "2018/03/02"
+slug: "2018/03/02/200811"
 tags: ["トラブルの話"]
 image: "blog_import_6621c1f6177d9.jpg"
 feature: "blog_import_6621c1f6177d9.jpg"

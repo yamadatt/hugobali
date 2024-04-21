@@ -2,7 +2,7 @@
 date: 2020-03-20T23:47:29+09:00
 draft: false
 title: "ラブホテルの貯水タンクが破裂。大ピンチ！？"
-slug: "2020/03/20"
+slug: "2020/03/20/234729"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621d7d76bd6a.png"
 feature: "blog_import_6621d7d76bd6a.png"

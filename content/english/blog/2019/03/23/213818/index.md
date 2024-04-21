@@ -2,7 +2,7 @@
 date: 2019-03-23T21:38:18+09:00
 draft: false
 title: "タケシの結婚！？その１０　マリアが「結婚をやめる」と言い出した！？"
-slug: "2019/03/23"
+slug: "2019/03/23/213818"
 tags: ["タケシ（バリ島現地スタッフ）の話"]
 image: "blog_import_6621ca7ca6dad.jpg"
 feature: "blog_import_6621ca7ca6dad.jpg"

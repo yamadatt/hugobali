@@ -2,7 +2,7 @@
 date: 2020-03-29T13:32:48+09:00
 draft: false
 title: "第１２回成長株投資の実践会の報告。「リスクだけを見るな」"
-slug: "2020/03/29"
+slug: "2020/03/29/133248"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d7f027960.jpg"
 feature: "blog_import_6621d7f027960.jpg"

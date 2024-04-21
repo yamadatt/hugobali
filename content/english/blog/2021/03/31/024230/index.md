@@ -2,7 +2,7 @@
 date: 2021-03-31T02:42:30+09:00
 draft: false
 title: "１１月２６日（金）第３２回「成長株投資の実践会」のお知らせ"
-slug: "2021/03/31"
+slug: "2021/03/31/024230"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621e1c848e7c.jpg"
 feature: "blog_import_6621e1c848e7c.jpg"

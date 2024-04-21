@@ -2,7 +2,7 @@
 date: 2023-01-25T01:14:36+09:00
 draft: false
 title: "カイヴァリヤダーマ研究所での生活パターン"
-slug: "2023/01/25"
+slug: "2023/01/25/011436"
 tags: ["インド旅行パンチャカルマ"]
 image: "blog_import_6621f4d63a656.jpg"
 feature: "blog_import_6621f4d63a656.jpg"

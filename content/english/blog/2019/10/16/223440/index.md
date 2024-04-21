@@ -2,7 +2,7 @@
 date: 2019-10-16T22:34:40+09:00
 draft: false
 title: "前回のセミナー参加者への長田先生の思い。。本気モードに突入！！"
-slug: "2019/10/16"
+slug: "2019/10/16/223440"
 tags: ["プライベートな話"]
 image: "blog_import_6621d122e07e9.png"
 feature: "blog_import_6621d122e07e9.png"

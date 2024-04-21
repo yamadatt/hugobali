@@ -2,7 +2,7 @@
 date: 2022-11-10T18:22:27+09:00
 draft: false
 title: "満員御礼、残席２名。11月15日再生医療セミナー"
-slug: "2022/11/10"
+slug: "2022/11/10/182227"
 tags: ["プライベートな話"]
 image: "blog_import_6621f2a3cbb69.png"
 feature: "blog_import_6621f2a3cbb69.png"

@@ -2,7 +2,7 @@
 date: 2019-09-11T19:49:19+09:00
 draft: false
 title: "チャンス！？配当利回り１８％？ラブホテル共同投資案件"
-slug: "2019/09/11"
+slug: "2019/09/11/194919"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621cfc854c47.png"
 feature: "blog_import_6621cfc854c47.png"

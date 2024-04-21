@@ -2,7 +2,7 @@
 date: 2017-09-08T22:00:00+09:00
 draft: false
 title: "バリ島の銀行金利って、そんなに魅力的なのかな！？"
-slug: "2017/09/08"
+slug: "2017/09/08/220000"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621bd48990aa.jpg"
 feature: "blog_import_6621bd48990aa.jpg"

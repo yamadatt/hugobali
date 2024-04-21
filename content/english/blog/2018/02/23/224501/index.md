@@ -2,7 +2,7 @@
 date: 2018-02-23T22:45:01+09:00
 draft: false
 title: "勝負できないのを家族のせいにするな。勇気がないからだろ！"
-slug: "2018/02/23"
+slug: "2018/02/23/224501"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c1e1d684a.jpg"
 feature: "blog_import_6621c1e1d684a.jpg"

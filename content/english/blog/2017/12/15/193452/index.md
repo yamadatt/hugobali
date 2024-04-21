@@ -2,7 +2,7 @@
 date: 2017-12-15T19:34:52+09:00
 draft: false
 title: "おすすめ売り物件！？バリ島ヌサドゥア戸建て９１５万円"
-slug: "2017/12/15"
+slug: "2017/12/15/193452"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621bf6a4dd83.jpg"
 feature: "blog_import_6621bf6a4dd83.jpg"

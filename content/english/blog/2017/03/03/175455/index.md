@@ -2,7 +2,7 @@
 date: 2017-03-03T17:54:55+09:00
 draft: false
 title: "男性の味方、「ジャムー」ドーピング！？"
-slug: "2017/03/03"
+slug: "2017/03/03/175455"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621ba24e13e5.jpg"
 feature: "blog_import_6621ba24e13e5.jpg"

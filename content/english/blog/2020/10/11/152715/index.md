@@ -2,7 +2,7 @@
 date: 2020-10-11T15:27:15+09:00
 draft: false
 title: "イベリコ豚ベジョータの生ハムは、ハンパなく美味かった"
-slug: "2020/10/11"
+slug: "2020/10/11/152715"
 tags: ["プライベートな話"]
 image: "blog_import_6621dd790b66c.png"
 feature: "blog_import_6621dd790b66c.png"

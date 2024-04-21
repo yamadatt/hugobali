@@ -2,7 +2,7 @@
 date: 2018-07-26T20:34:45+09:00
 draft: false
 title: "犬を毒殺するインドネシア人のメンタリティ"
-slug: "2018/07/26"
+slug: "2018/07/26/203445"
 tags: ["トラブルの話"]
 image: "blog_import_6621c535b46aa.jpg"
 feature: "blog_import_6621c535b46aa.jpg"

@@ -2,7 +2,7 @@
 date: 2016-12-19T23:32:22+09:00
 draft: false
 title: "バリ島の不動産で、ノタリス選び大切だ"
-slug: "2016/12/19"
+slug: "2016/12/19/233222"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621b7710ad17.jpg"
 feature: "blog_import_6621b7710ad17.jpg"

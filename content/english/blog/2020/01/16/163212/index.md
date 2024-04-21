@@ -2,7 +2,7 @@
 date: 2020-01-16T16:32:12+09:00
 draft: false
 title: "ビープラッツ(4381）損切り！？買いの前提条件が変わったらスパッと売ろう"
-slug: "2020/01/16"
+slug: "2020/01/16/163212"
 tags: ["株式投資"]
 image: "blog_import_6621d59e0bd0a.png"
 feature: "blog_import_6621d59e0bd0a.png"

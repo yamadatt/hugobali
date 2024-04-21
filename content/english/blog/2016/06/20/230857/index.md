@@ -2,7 +2,7 @@
 date: 2016-06-20T23:08:57+09:00
 draft: false
 title: "成功する投資家の共通点【その２】"
-slug: "2016/06/20"
+slug: "2016/06/20/230857"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b05f75230.jpg"
 feature: "blog_import_6621b05f75230.jpg"

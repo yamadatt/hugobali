@@ -2,7 +2,7 @@
 date: 2017-11-23T19:12:06+09:00
 draft: false
 title: "緊急！！利回り２６.８％！？早い者勝ち バリ島アパート"
-slug: "2017/11/23"
+slug: "2017/11/23/191206"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621bf0f31dce.jpg"
 feature: "blog_import_6621bf0f31dce.jpg"

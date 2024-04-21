@@ -2,7 +2,7 @@
 date: 2017-01-24T22:54:56+09:00
 draft: false
 title: "スミニャック４６室のホテルを委託された。これはチャンスかぁ！？"
-slug: "2017/01/24"
+slug: "2017/01/24/225456"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621b8ebd0a28.jpg"
 feature: "blog_import_6621b8ebd0a28.jpg"

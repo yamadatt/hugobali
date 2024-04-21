@@ -2,7 +2,7 @@
 date: 2021-03-17T00:06:14+09:00
 draft: false
 title: "第１回馬場ゴルフ部コンペの報告"
-slug: "2021/03/17"
+slug: "2021/03/17/000614"
 tags: ["ゴルフ"]
 image: "blog_import_6621e114529f2.png"
 feature: "blog_import_6621e114529f2.png"

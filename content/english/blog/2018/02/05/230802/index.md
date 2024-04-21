@@ -2,7 +2,7 @@
 date: 2018-02-05T23:08:02+09:00
 draft: false
 title: "バリ島の不思議な空間「ダーチャ」"
-slug: "2018/02/05"
+slug: "2018/02/05/230802"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c10fcaa4d.jpg"
 feature: "blog_import_6621c10fcaa4d.jpg"

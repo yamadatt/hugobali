@@ -2,7 +2,7 @@
 date: 2023-02-18T23:50:58+09:00
 draft: false
 title: "吉川晃司のシンバルキックを見に行こう。2023LIVEセトリ"
-slug: "2023/02/18"
+slug: "2023/02/18/235058"
 tags: ["プライベートな話"]
 image: "blog_import_6621f612ed4ee.png"
 feature: "blog_import_6621f612ed4ee.png"

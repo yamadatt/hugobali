@@ -2,7 +2,7 @@
 date: 2021-04-29T00:18:33+09:00
 draft: false
 title: "参加費無料！？大人のオールラウンド合宿in南伊豆：５月２１日～２３日"
-slug: "2021/04/29"
+slug: "2021/04/29/001833"
 tags: ["プライベートな話"]
 image: "blog_import_6621e22ee0564.png"
 feature: "blog_import_6621e22ee0564.png"

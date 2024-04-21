@@ -2,7 +2,7 @@
 date: 2016-08-30T18:15:29+09:00
 draft: false
 title: "バリ人とは、神様のことで争わない方がいい！？"
-slug: "2016/08/30"
+slug: "2016/08/30/181529"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621b307e44f6.jpg"
 feature: "blog_import_6621b307e44f6.jpg"

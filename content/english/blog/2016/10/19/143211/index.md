@@ -2,7 +2,7 @@
 date: 2016-10-19T14:32:11+09:00
 draft: false
 title: "チャングー物件を瞬買したオラキャバ大王Ｓ様"
-slug: "2016/10/19"
+slug: "2016/10/19/143211"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621b588d60ca.jpg"
 feature: "blog_import_6621b588d60ca.jpg"

@@ -2,7 +2,7 @@
 date: 2021-04-29T19:01:27+09:00
 draft: false
 title: "港区芝の古ビルを格安にて一棟貸し。ビジネスプラン募集！？"
-slug: "2021/04/29"
+slug: "2021/04/29/190127"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621e23e38fcf.png"
 feature: "blog_import_6621e23e38fcf.png"

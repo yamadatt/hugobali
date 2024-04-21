@@ -2,7 +2,7 @@
 date: 2020-12-17T23:41:25+09:00
 draft: false
 title: "浜野ゴルフで返り討ちに合う！？"
-slug: "2020/12/17"
+slug: "2020/12/17/234125"
 tags: ["プライベートな話"]
 image: "blog_import_6621df5f16bae.jpg"
 feature: "blog_import_6621df5f16bae.jpg"

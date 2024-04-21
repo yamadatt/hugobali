@@ -2,7 +2,7 @@
 date: 2021-04-12T23:56:54+09:00
 draft: false
 title: "僕がゴルフをやる日は、雨が降らない理由"
-slug: "2021/04/12"
+slug: "2021/04/12/235654"
 tags: ["ゴルフ"]
 image: "blog_import_6621e1f5d6118.png"
 feature: "blog_import_6621e1f5d6118.png"

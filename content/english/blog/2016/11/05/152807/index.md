@@ -2,7 +2,7 @@
 date: 2016-11-05T15:28:07+09:00
 draft: false
 title: "どうだぁ！！！ラブホテル完成！！"
-slug: "2016/11/05"
+slug: "2016/11/05/152807"
 tags: ["プライベートな話"]
 image: "blog_import_6621b604baaab.jpg"
 feature: "blog_import_6621b604baaab.jpg"

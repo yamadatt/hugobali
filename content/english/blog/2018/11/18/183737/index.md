@@ -2,7 +2,7 @@
 date: 2018-11-18T18:37:37+09:00
 draft: false
 title: "バリ島ウブドゥ売地４００㎡４８０万円"
-slug: "2018/11/18"
+slug: "2018/11/18/183737"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621c7c9cf013.jpg"
 feature: "blog_import_6621c7c9cf013.jpg"

@@ -2,7 +2,7 @@
 date: 2019-08-09T12:19:57+09:00
 draft: false
 title: "どんなネタでもビジネスになる。実践が大切だ。成功者と組むのもいい方法かな"
-slug: "2019/08/09"
+slug: "2019/08/09/121957"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621cf76baad6.png"
 feature: "blog_import_6621cf76baad6.png"

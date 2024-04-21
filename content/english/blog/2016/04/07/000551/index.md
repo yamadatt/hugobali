@@ -2,7 +2,7 @@
 date: 2016-04-07T00:05:51+09:00
 draft: false
 title: "第２４回バリ島不動産セミナー４月２１日（木）"
-slug: "2016/04/07"
+slug: "2016/04/07/000551"
 tags: ["ブログ"]
 image: "blog_import_6621aef463de0.jpg"
 feature: "blog_import_6621aef463de0.jpg"

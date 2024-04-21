@@ -2,7 +2,7 @@
 date: 2018-08-29T22:44:04+09:00
 draft: false
 title: "【その後】ずる賢いスタッフ、その後"
-slug: "2018/08/29"
+slug: "2018/08/29/224404"
 tags: ["トラブルの話"]
 image: "blog_import_6621c5df3f6a5.jpg"
 feature: "blog_import_6621c5df3f6a5.jpg"

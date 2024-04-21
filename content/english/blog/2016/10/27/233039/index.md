@@ -2,7 +2,7 @@
 date: 2016-10-27T23:30:39+09:00
 draft: false
 title: "第２８回 バリ島不動産セミナー募集開始　１１月２５日、２６日"
-slug: "2016/10/27"
+slug: "2016/10/27/233039"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621b5da41f2b.jpg"
 feature: "blog_import_6621b5da41f2b.jpg"

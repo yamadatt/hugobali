@@ -2,7 +2,7 @@
 date: 2019-01-29T18:30:19+09:00
 draft: false
 title: "地方物件投資のメリット・デメリット"
-slug: "2019/01/29"
+slug: "2019/01/29/183019"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c98d7bbbc.jpg"
 feature: "blog_import_6621c98d7bbbc.jpg"

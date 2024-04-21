@@ -2,7 +2,7 @@
 date: 2023-12-15T01:11:50+09:00
 draft: false
 title: "12月22日(金）第57回成長株の実践セミナー「TOB、MBO銘柄で儲けよう！？」"
-slug: "2023/12/15"
+slug: "2023/12/15/011150"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621fef026227.png"
 feature: "blog_import_6621fef026227.png"

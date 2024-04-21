@@ -2,7 +2,7 @@
 date: 2020-12-01T23:59:40+09:00
 draft: false
 title: "バリ島の国際線再開は、いつになるやら。。"
-slug: "2020/12/01"
+slug: "2020/12/01/235940"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621deefb373c.jpg"
 feature: "blog_import_6621deefb373c.jpg"

@@ -2,7 +2,7 @@
 date: 2021-02-18T23:17:33+09:00
 draft: false
 title: "アムウェイやニュースキンの商品を、勧める人の気持ちが分かった？"
-slug: "2021/02/18"
+slug: "2021/02/18/231733"
 tags: ["プライベートな話"]
 image: "blog_import_6621e07e8630c.png"
 feature: "blog_import_6621e07e8630c.png"

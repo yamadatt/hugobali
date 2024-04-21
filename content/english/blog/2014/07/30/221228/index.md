@@ -2,7 +2,7 @@
 date: 2014-07-30T22:12:28+09:00
 draft: false
 title: "バリ島　サヌール物件（土地20.72R）"
-slug: "2014/07/30"
+slug: "2014/07/30/221228"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621a3d2e3d2e.jpg"
 feature: "blog_import_6621a3d2e3d2e.jpg"

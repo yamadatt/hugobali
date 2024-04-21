@@ -2,7 +2,7 @@
 date: 2023-04-15T14:59:32+09:00
 draft: false
 title: "JALとANA。特典航空券の必要マイル数の違い"
-slug: "2023/04/15"
+slug: "2023/04/15/145932"
 tags: ["プライベートな話"]
 image: "blog_import_6621f7609366e.png"
 feature: "blog_import_6621f7609366e.png"

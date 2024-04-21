@@ -2,7 +2,7 @@
 date: 2022-11-30T01:26:00+09:00
 draft: false
 title: "チャンスは、悪い時に来る！？"
-slug: "2022/11/30"
+slug: "2022/11/30/012600"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f35c8f5c4.jpg"
 feature: "blog_import_6621f35c8f5c4.jpg"

@@ -2,7 +2,7 @@
 date: 2018-10-08T17:21:43+09:00
 draft: false
 title: "仕事はダメだが生き残っている不思議なスタッフ"
-slug: "2018/10/08"
+slug: "2018/10/08/172143"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c6b3346fa.jpg"
 feature: "blog_import_6621c6b3346fa.jpg"

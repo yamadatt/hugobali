@@ -2,7 +2,7 @@
 date: 2016-10-13T22:45:14+09:00
 draft: false
 title: "女性投資家で成功するタイプは、美人じゃないけど一緒に飲みたい女性"
-slug: "2016/10/13"
+slug: "2016/10/13/224514"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b4c69f171.jpg"
 feature: "blog_import_6621b4c69f171.jpg"

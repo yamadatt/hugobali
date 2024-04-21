@@ -2,7 +2,7 @@
 date: 2021-07-17T17:20:34+09:00
 draft: false
 title: "マグロ釣りの結果は！？猛暑の海釣りをナメていた。。"
-slug: "2021/07/17"
+slug: "2021/07/17/172034"
 tags: ["マグロ釣り"]
 image: "blog_import_6621e41c5770d.jpg"
 feature: "blog_import_6621e41c5770d.jpg"

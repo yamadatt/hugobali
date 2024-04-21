@@ -2,7 +2,7 @@
 date: 2017-02-04T23:50:00+09:00
 draft: false
 title: "マジかよ。オマエこの虫を食べるの！？"
-slug: "2017/02/04"
+slug: "2017/02/04/235000"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621b976d3766.jpg"
 feature: "blog_import_6621b976d3766.jpg"

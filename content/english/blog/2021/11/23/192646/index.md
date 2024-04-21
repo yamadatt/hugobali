@@ -2,7 +2,7 @@
 date: 2021-11-23T19:26:46+09:00
 draft: false
 title: "サザン＆ゴルフ合宿もいいな。。"
-slug: "2021/11/23"
+slug: "2021/11/23/192646"
 tags: ["ゴルフ"]
 image: "blog_import_6621e7ebb04df.png"
 feature: "blog_import_6621e7ebb04df.png"

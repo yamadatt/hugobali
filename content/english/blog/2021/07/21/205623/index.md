@@ -2,7 +2,7 @@
 date: 2021-07-21T20:56:23+09:00
 draft: false
 title: "インドネシアからの帰国者の隔離体験談【バリ大将】③「インドネシアと日本の隔離。何が違う？」"
-slug: "2021/07/21"
+slug: "2021/07/21/205623"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621e46f375e1.jpg"
 feature: "blog_import_6621e46f375e1.jpg"

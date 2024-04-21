@@ -2,7 +2,7 @@
 date: 2023-09-11T22:33:37+09:00
 draft: false
 title: "ゴルフ肘(ゴルフによる肘の痛み）が一発で治る方法"
-slug: "2023/09/11"
+slug: "2023/09/11/223337"
 tags: ["ゴルフ"]
 image: "blog_import_6621fcc1d656d.png"
 feature: "blog_import_6621fcc1d656d.png"

@@ -2,7 +2,7 @@
 date: 2019-10-25T18:19:12+09:00
 draft: false
 title: "バリ島ヴィラの幽霊。証拠写真アリ！？"
-slug: "2019/10/25"
+slug: "2019/10/25/181912"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621d17cf1883.jpg"
 feature: "blog_import_6621d17cf1883.jpg"

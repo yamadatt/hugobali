@@ -2,7 +2,7 @@
 date: 2020-11-25T23:04:25+09:00
 draft: false
 title: "バリ島ではスタッフの解雇は難しい。その３：弁護士に相談する"
-slug: "2020/11/25"
+slug: "2020/11/25/230425"
 tags: ["トラブルの話"]
 image: "blog_import_6621dec3b2c33.png"
 feature: "blog_import_6621dec3b2c33.png"

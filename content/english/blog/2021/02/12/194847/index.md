@@ -2,7 +2,7 @@
 date: 2021-02-12T19:48:47+09:00
 draft: false
 title: "ロスジェネ世代は、将来のために何をしたらいいか"
-slug: "2021/02/12"
+slug: "2021/02/12/194847"
 tags: ["プライベートな話"]
 image: "blog_import_6621e05d73628.png"
 feature: "blog_import_6621e05d73628.png"

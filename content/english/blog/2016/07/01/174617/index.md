@@ -2,7 +2,7 @@
 date: 2016-07-01T17:46:17+09:00
 draft: false
 title: "日本で食べられない「レバ刺し」がある店"
-slug: "2016/07/01"
+slug: "2016/07/01/174617"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621b0950441e.jpg"
 feature: "blog_import_6621b0950441e.jpg"

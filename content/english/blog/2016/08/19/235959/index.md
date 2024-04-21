@@ -2,7 +2,7 @@
 date: 2016-08-19T23:59:59+09:00
 draft: false
 title: "朗報！９月５日の勉強会は、投資家の本音が聞ける！？"
-slug: "2016/08/19"
+slug: "2016/08/19/235959"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621b2c6f0c28.jpg"
 feature: "blog_import_6621b2c6f0c28.jpg"

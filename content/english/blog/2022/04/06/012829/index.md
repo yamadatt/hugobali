@@ -2,7 +2,7 @@
 date: 2022-04-06T01:28:29+09:00
 draft: false
 title: "４月８日(金）成長株基礎セミナー「財務諸表が分かれば、下落局面でも耐えられる！？」"
-slug: "2022/04/06"
+slug: "2022/04/06/012829"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ece05bad7.png"
 feature: "blog_import_6621ece05bad7.png"

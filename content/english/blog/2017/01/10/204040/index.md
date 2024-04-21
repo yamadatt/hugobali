@@ -2,7 +2,7 @@
 date: 2017-01-10T20:40:40+09:00
 draft: false
 title: "開催日決定！！2月11日(土) 第29回バリ島不動産セミナー"
-slug: "2017/01/10"
+slug: "2017/01/10/204040"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621b86914a21.jpg"
 feature: "blog_import_6621b86914a21.jpg"

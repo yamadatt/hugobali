@@ -2,7 +2,7 @@
 date: 2022-09-15T01:32:18+09:00
 draft: false
 title: "旭川の長い１日"
-slug: "2022/09/15"
+slug: "2022/09/15/013218"
 tags: ["ゴルフ"]
 image: "blog_import_6621f1193f9f5.jpg"
 feature: "blog_import_6621f1193f9f5.jpg"

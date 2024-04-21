@@ -2,7 +2,7 @@
 date: 2018-09-15T00:20:30+09:00
 draft: false
 title: "僕は、投資が好きなんじゃなくて、事業が好きなんだ"
-slug: "2018/09/15"
+slug: "2018/09/15/002030"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c6126bb13.jpg"
 feature: "blog_import_6621c6126bb13.jpg"

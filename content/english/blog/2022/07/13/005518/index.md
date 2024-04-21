@@ -2,7 +2,7 @@
 date: 2022-07-13T00:55:18+09:00
 draft: false
 title: "第２回レアな暗号通貨セミナーの報告「やはり彼女は、草コインオタクだった！？」"
-slug: "2022/07/13"
+slug: "2022/07/13/005518"
 tags: ["仮想通貨・暗号通貨"]
 image: "blog_import_6621ef627f164.jpg"
 feature: "blog_import_6621ef627f164.jpg"

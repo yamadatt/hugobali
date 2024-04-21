@@ -2,7 +2,7 @@
 date: 2017-04-17T23:59:41+09:00
 draft: false
 title: "ラブホテルの改装はラクじゃない"
-slug: "2017/04/17"
+slug: "2017/04/17/235941"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621baf0668bc.jpg"
 feature: "blog_import_6621baf0668bc.jpg"

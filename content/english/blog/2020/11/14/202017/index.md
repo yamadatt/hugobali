@@ -2,7 +2,7 @@
 date: 2020-11-14T20:20:17+09:00
 draft: false
 title: "長田先生レポート「なぜ、理論株価を知ることが大切なのか」"
-slug: "2020/11/14"
+slug: "2020/11/14/202017"
 tags: ["株式投資"]
 image: "blog_import_6621de6d000c9.png"
 feature: "blog_import_6621de6d000c9.png"

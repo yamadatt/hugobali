@@ -2,7 +2,7 @@
 date: 2019-04-26T00:30:16+09:00
 draft: false
 title: "タケシが、マラソンで完走！？"
-slug: "2019/04/26"
+slug: "2019/04/26/003016"
 tags: ["タケシ（バリ島現地スタッフ）の話"]
 image: "blog_import_6621cc156fc35.jpg"
 feature: "blog_import_6621cc156fc35.jpg"

@@ -2,7 +2,7 @@
 date: 2019-11-30T18:06:06+09:00
 draft: false
 title: "「生ハムを原木から食べる会」報告といただいたご感想"
-slug: "2019/11/30"
+slug: "2019/11/30/180606"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d2d7cd34c.png"
 feature: "blog_import_6621d2d7cd34c.png"

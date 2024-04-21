@@ -2,7 +2,7 @@
 date: 2015-04-15T19:06:50+09:00
 draft: false
 title: "インドネシアの航空会社の安全性"
-slug: "2015/04/15"
+slug: "2015/04/15/190650"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621aaabc8702.jpg"
 feature: "blog_import_6621aaabc8702.jpg"

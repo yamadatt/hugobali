@@ -2,7 +2,7 @@
 date: 2017-03-29T22:05:37+09:00
 draft: false
 title: "生きた子豚の解体作業"
-slug: "2017/03/29"
+slug: "2017/03/29/220537"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621baa2144db.jpg"
 feature: "blog_import_6621baa2144db.jpg"

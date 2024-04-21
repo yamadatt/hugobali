@@ -2,7 +2,7 @@
 date: 2016-01-09T14:18:37+09:00
 draft: false
 title: "バリ島の格安高級ヴィラの作り方"
-slug: "2016/01/09"
+slug: "2016/01/09/141837"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621abc575310.jpg"
 feature: "blog_import_6621abc575310.jpg"

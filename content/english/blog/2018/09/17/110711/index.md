@@ -2,7 +2,7 @@
 date: 2018-09-17T11:07:11+09:00
 draft: false
 title: "今、早稲田大学で焼きそば焼いてます！！"
-slug: "2018/09/17"
+slug: "2018/09/17/110711"
 tags: ["プライベートな話"]
 image: "blog_import_6621c61bb1c03.jpg"
 feature: "blog_import_6621c61bb1c03.jpg"

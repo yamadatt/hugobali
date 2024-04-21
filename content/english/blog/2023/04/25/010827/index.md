@@ -2,7 +2,7 @@
 date: 2023-04-25T01:08:27+09:00
 draft: false
 title: "日韓関係に思うこと"
-slug: "2023/04/25"
+slug: "2023/04/25/010827"
 tags: ["プライベートな話"]
 image: "blog_import_6621f86512a18.jpg"
 feature: "blog_import_6621f86512a18.jpg"

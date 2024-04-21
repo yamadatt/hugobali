@@ -2,7 +2,7 @@
 date: 2023-12-02T16:33:14+09:00
 draft: false
 title: "田舎暮らしの夢をカタチにしたヴィラ。リース28年、約4880万円。"
-slug: "2023/12/02"
+slug: "2023/12/02/163314"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621fe9573a99.jpg"
 feature: "blog_import_6621fe9573a99.jpg"

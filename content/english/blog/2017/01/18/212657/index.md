@@ -2,7 +2,7 @@
 date: 2017-01-18T21:26:57+09:00
 draft: false
 title: "トラブルの話「日本人が契約書でダマされた！？」"
-slug: "2017/01/18"
+slug: "2017/01/18/212657"
 tags: ["トラブルの話"]
 image: "blog_import_6621b88d8078a.jpg"
 feature: "blog_import_6621b88d8078a.jpg"

@@ -2,7 +2,7 @@
 date: 2016-07-22T21:59:19+09:00
 draft: false
 title: "会っていないお客さんが、バリ島で契約した話"
-slug: "2016/07/22"
+slug: "2016/07/22/215919"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b1641a5d7.jpg"
 feature: "blog_import_6621b1641a5d7.jpg"

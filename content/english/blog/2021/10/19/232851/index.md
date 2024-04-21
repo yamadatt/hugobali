@@ -2,7 +2,7 @@
 date: 2021-10-19T23:28:51+09:00
 draft: false
 title: "ＡＮＡ派からＪＡＬ派に変わろうかな(笑）。。「親方日の丸」ＪＡＬは変わった！？"
-slug: "2021/10/19"
+slug: "2021/10/19/232851"
 tags: ["プライベートな話"]
 image: "blog_import_6621e6ec713f7.png"
 feature: "blog_import_6621e6ec713f7.png"

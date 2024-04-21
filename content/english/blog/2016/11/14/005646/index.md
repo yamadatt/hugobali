@@ -2,7 +2,7 @@
 date: 2016-11-14T00:56:46+09:00
 draft: false
 title: "香港へ"
-slug: "2016/11/14"
+slug: "2016/11/14/005646"
 tags: ["ブログ"]
 image: "blog_import_6621b68b285a7.jpg"
 feature: "blog_import_6621b68b285a7.jpg"

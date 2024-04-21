@@ -2,7 +2,7 @@
 date: 2019-06-18T02:41:09+09:00
 draft: false
 title: "一般人にわからない世界。「現金や信用に対する価値」"
-slug: "2019/06/18"
+slug: "2019/06/18/024109"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621cd87a6701.png"
 feature: "blog_import_6621cd87a6701.png"

@@ -2,7 +2,7 @@
 date: 2016-12-16T16:16:50+09:00
 draft: false
 title: "Airbnbは、厄介な客が多い"
-slug: "2016/12/16"
+slug: "2016/12/16/161650"
 tags: ["ブログ"]
 image: "blog_import_6621b7670dfbb.jpg"
 feature: "blog_import_6621b7670dfbb.jpg"

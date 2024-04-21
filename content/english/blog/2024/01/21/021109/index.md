@@ -2,7 +2,7 @@
 date: 2024-01-21T02:11:09+09:00
 draft: false
 title: "暗号通貨投資における８つの稼ぎ方"
-slug: "2024/01/21"
+slug: "2024/01/21/021109"
 tags: ["仮想通貨・暗号通貨"]
 image: "blog_import_6621ff7012071.png"
 feature: "blog_import_6621ff7012071.png"

@@ -2,7 +2,7 @@
 date: 2019-01-09T16:47:58+09:00
 draft: false
 title: "これから新年会。その前にバリ島ツアーの感想紹介"
-slug: "2019/01/09"
+slug: "2019/01/09/164758"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c905d2dfd.jpg"
 feature: "blog_import_6621c905d2dfd.jpg"

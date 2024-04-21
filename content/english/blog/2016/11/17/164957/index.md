@@ -2,7 +2,7 @@
 date: 2016-11-17T16:49:57+09:00
 draft: false
 title: "ジャカルタの資産家に任された巨大ヴィラ"
-slug: "2016/11/17"
+slug: "2016/11/17/164957"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621b6aedca03.jpg"
 feature: "blog_import_6621b6aedca03.jpg"

@@ -2,7 +2,7 @@
 date: 2022-09-30T01:38:22+09:00
 draft: false
 title: "満員御礼！？「南極セミナー」が盛況だった理由"
-slug: "2022/09/30"
+slug: "2022/09/30/013822"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f14f7c898.png"
 feature: "blog_import_6621f14f7c898.png"

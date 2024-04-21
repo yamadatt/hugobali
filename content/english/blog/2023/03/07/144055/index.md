@@ -2,7 +2,7 @@
 date: 2023-03-07T14:40:55+09:00
 draft: false
 title: "富士山を眺めていたら「楢山節考」を思い出した"
-slug: "2023/03/07"
+slug: "2023/03/07/144055"
 tags: ["プライベートな話"]
 image: "blog_import_6621f683bcbb0.jpg"
 feature: "blog_import_6621f683bcbb0.jpg"

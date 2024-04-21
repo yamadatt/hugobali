@@ -2,7 +2,7 @@
 date: 2023-06-07T18:17:29+09:00
 draft: false
 title: "６月９日第４期９回成長株基礎セミナー「ファンドが目をつける銘柄とは？」"
-slug: "2023/06/07"
+slug: "2023/06/07/181729"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621f9f36008e.png"
 feature: "blog_import_6621f9f36008e.png"

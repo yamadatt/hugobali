@@ -2,7 +2,7 @@
 date: 2014-10-04T00:57:58+09:00
 draft: false
 title: "バリ島カラオケ　Zivilia「Setia」"
-slug: "2014/10/04"
+slug: "2014/10/04/005758"
 tags: ["超実践！インドネシア語会話"]
 image: ""
 feature: ""

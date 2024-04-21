@@ -2,7 +2,7 @@
 date: 2023-05-16T18:55:51+09:00
 draft: false
 title: "5月19日(金）第５０回成長株の実践セミナー「低PBRにチャンスがある！？」"
-slug: "2023/05/16"
+slug: "2023/05/16/185551"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621f93cdf27d.png"
 feature: "blog_import_6621f93cdf27d.png"

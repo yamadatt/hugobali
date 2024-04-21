@@ -2,7 +2,7 @@
 date: 2022-10-13T16:07:09+09:00
 draft: false
 title: "10月14日成長株の基礎セミナー「長期投資が大切である理由」"
-slug: "2022/10/13"
+slug: "2022/10/13/160709"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621f1b35fe0e.png"
 feature: "blog_import_6621f1b35fe0e.png"

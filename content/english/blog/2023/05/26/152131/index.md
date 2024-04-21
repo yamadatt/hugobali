@@ -2,7 +2,7 @@
 date: 2023-05-26T15:21:31+09:00
 draft: false
 title: "２Ｌの僕と５Ｌの先輩。飛行機座席に明暗！？"
-slug: "2023/05/26"
+slug: "2023/05/26/152131"
 tags: ["プライベートな話"]
 image: "blog_import_6621f965520e7.jpg"
 feature: "blog_import_6621f965520e7.jpg"

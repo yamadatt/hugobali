@@ -2,7 +2,7 @@
 date: 2023-06-21T23:59:07+09:00
 draft: false
 title: "サウナとマッサージ、どちらが効果があるのか！？"
-slug: "2023/06/21"
+slug: "2023/06/21/235907"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621fa3cc5df6.jpg"
 feature: "blog_import_6621fa3cc5df6.jpg"

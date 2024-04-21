@@ -2,7 +2,7 @@
 date: 2021-12-24T19:40:11+09:00
 draft: false
 title: "経済は同じことは起こらない。将来よりも今を楽しもう。"
-slug: "2021/12/24"
+slug: "2021/12/24/194011"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e8e2ca082.png"
 feature: "blog_import_6621e8e2ca082.png"

@@ -2,7 +2,7 @@
 date: 2019-09-18T16:36:11+09:00
 draft: false
 title: "長田淳司の思い。「全１２回初心者向け成長株投資セミナーにむけて」"
-slug: "2019/09/18"
+slug: "2019/09/18/163611"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cfea9f30e.png"
 feature: "blog_import_6621cfea9f30e.png"

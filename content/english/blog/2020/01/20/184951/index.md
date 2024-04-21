@@ -2,7 +2,7 @@
 date: 2020-01-20T18:49:51+09:00
 draft: false
 title: "成長株投資の実践会Lineグループで、リアルに体験する意味。"
-slug: "2020/01/20"
+slug: "2020/01/20/184951"
 tags: ["株式投資"]
 image: "blog_import_6621d6598c9ca.png"
 feature: "blog_import_6621d6598c9ca.png"

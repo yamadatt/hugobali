@@ -2,7 +2,7 @@
 date: 2017-05-17T21:43:39+09:00
 draft: false
 title: "満席のケンタッキーで不動産の契約！？"
-slug: "2017/05/17"
+slug: "2017/05/17/214339"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621bb75ecc3d.jpg"
 feature: "blog_import_6621bb75ecc3d.jpg"

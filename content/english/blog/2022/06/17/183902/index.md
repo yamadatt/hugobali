@@ -2,7 +2,7 @@
 date: 2022-06-17T18:39:02+09:00
 draft: false
 title: "金持ちは苦労が多い！？「どうしようもない親兄弟」"
-slug: "2022/06/17"
+slug: "2022/06/17/183902"
 tags: ["プライベートな話"]
 image: "blog_import_6621eebe90955.png"
 feature: "blog_import_6621eebe90955.png"

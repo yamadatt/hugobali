@@ -2,7 +2,7 @@
 date: 2017-01-05T20:13:49+09:00
 draft: false
 title: "自分に合った稼ぎ方「得意の型をもとう」"
-slug: "2017/01/05"
+slug: "2017/01/05/201349"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b82cbca76.jpg"
 feature: "blog_import_6621b82cbca76.jpg"

@@ -2,7 +2,7 @@
 date: 2021-10-22T01:03:38+09:00
 draft: false
 title: "バリ島の再発展が始まる！？高速道路と空港建設について"
-slug: "2021/10/22"
+slug: "2021/10/22/010338"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621e6f8cfce1.png"
 feature: "blog_import_6621e6f8cfce1.png"

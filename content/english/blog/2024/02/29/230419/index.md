@@ -2,7 +2,7 @@
 date: 2024-02-29T23:04:19+09:00
 draft: false
 title: "現代社会において、もはや投資は避けられない"
-slug: "2024/02/29"
+slug: "2024/02/29/230419"
 tags: ["株式投資"]
 image: "blog_import_6622004813a80.png"
 feature: "blog_import_6622004813a80.png"

@@ -2,7 +2,7 @@
 date: 2024-03-29T00:54:48+09:00
 draft: false
 title: "ラブホテルの売り時"
-slug: "2024/03/29"
+slug: "2024/03/29/005448"
 tags: ["ラブホテルの話"]
 image: "blog_import_66219ae0262e8.png"
 feature: "blog_import_66219ae0262e8.png"

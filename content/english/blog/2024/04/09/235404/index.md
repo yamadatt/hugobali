@@ -2,7 +2,7 @@
 date: 2024-04-09T23:54:04+09:00
 draft: false
 title: "エンジェル税制で節税しよう"
-slug: "2024/04/09"
+slug: "2024/04/09/235404"
 tags: ["プライベートな話"]
 image: "blog_import_66219b003c2d6.png"
 feature: "blog_import_66219b003c2d6.png"

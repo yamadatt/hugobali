@@ -2,7 +2,7 @@
 date: 2015-05-21T22:51:46+09:00
 draft: false
 title: "海外不動産投資の現在地"
-slug: "2015/05/21"
+slug: "2015/05/21/225146"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621aac497727.jpg"
 feature: "blog_import_6621aac497727.jpg"

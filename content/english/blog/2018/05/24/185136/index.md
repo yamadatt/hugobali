@@ -2,7 +2,7 @@
 date: 2018-05-24T18:51:36+09:00
 draft: false
 title: "バリ島でも、採用するなら新卒の若者がいいなあ。"
-slug: "2018/05/24"
+slug: "2018/05/24/185136"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c378da333.jpg"
 feature: "blog_import_6621c378da333.jpg"

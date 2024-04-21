@@ -2,7 +2,7 @@
 date: 2017-08-31T22:43:19+09:00
 draft: false
 title: "インドネシア人と結婚するなら、財産分離契約をしたほうがいい！？"
-slug: "2017/08/31"
+slug: "2017/08/31/224319"
 tags: ["トラブルの話"]
 image: "blog_import_6621bd100bb86.jpg"
 feature: "blog_import_6621bd100bb86.jpg"

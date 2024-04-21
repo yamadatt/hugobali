@@ -2,7 +2,7 @@
 date: 2016-09-05T16:36:09+09:00
 draft: false
 title: "今からバリ島不動産セミナーです！！"
-slug: "2016/09/05"
+slug: "2016/09/05/163609"
 tags: ["プライベートな話"]
 image: "blog_import_6621b342af86f.jpg"
 feature: "blog_import_6621b342af86f.jpg"

@@ -2,7 +2,7 @@
 date: 2021-03-20T23:21:49+09:00
 draft: false
 title: "バリ島では、観光再開の動きが。。"
-slug: "2021/03/20"
+slug: "2021/03/20/232149"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621e161e96bd.jpg"
 feature: "blog_import_6621e161e96bd.jpg"

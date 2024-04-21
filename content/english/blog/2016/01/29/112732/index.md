@@ -2,7 +2,7 @@
 date: 2016-01-29T11:27:32+09:00
 draft: false
 title: "衝撃の朝食"
-slug: "2016/01/29"
+slug: "2016/01/29/112732"
 tags: ["ブログ"]
 image: "blog_import_6621ac3836a07.jpg"
 feature: "blog_import_6621ac3836a07.jpg"

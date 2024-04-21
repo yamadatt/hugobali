@@ -2,7 +2,7 @@
 date: 2021-09-09T23:54:57+09:00
 draft: false
 title: "成長株セミナーの銘柄を買っていたら６６銘柄も保有していた。利益は４３００万円！？"
-slug: "2021/09/09"
+slug: "2021/09/09/235457"
 tags: ["株式投資"]
 image: "blog_import_6621e5c64500b.jpg"
 feature: "blog_import_6621e5c64500b.jpg"

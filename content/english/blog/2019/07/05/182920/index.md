@@ -2,7 +2,7 @@
 date: 2019-07-05T18:29:20+09:00
 draft: false
 title: "オヤジ２人で、松田聖子LIVE in武道"
-slug: "2019/07/05"
+slug: "2019/07/05/182920"
 tags: ["プライベートな話"]
 image: "blog_import_6621ce5f0ca7d.jpg"
 feature: "blog_import_6621ce5f0ca7d.jpg"

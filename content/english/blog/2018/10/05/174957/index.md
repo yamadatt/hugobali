@@ -2,7 +2,7 @@
 date: 2018-10-05T17:49:57+09:00
 draft: false
 title: "稼ぐ発想って、どういうものかな。。"
-slug: "2018/10/05"
+slug: "2018/10/05/174957"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c6a05f3b6.jpg"
 feature: "blog_import_6621c6a05f3b6.jpg"

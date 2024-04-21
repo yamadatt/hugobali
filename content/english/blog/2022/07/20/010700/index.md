@@ -2,7 +2,7 @@
 date: 2022-07-20T01:07:00+09:00
 draft: false
 title: "旅ゴルフは、観光ナシでも楽しい！？"
-slug: "2022/07/20"
+slug: "2022/07/20/010700"
 tags: ["ゴルフ"]
 image: "blog_import_6621ef9d5f725.png"
 feature: "blog_import_6621ef9d5f725.png"

@@ -2,7 +2,7 @@
 date: 2020-04-30T23:27:29+09:00
 draft: false
 title: "僕がホテルの現場に行かないワケ。経営者は現場と人間関係がある方がいいか！？"
-slug: "2020/04/30"
+slug: "2020/04/30/232729"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d99f3c5d6.png"
 feature: "blog_import_6621d99f3c5d6.png"

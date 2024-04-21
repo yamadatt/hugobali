@@ -2,7 +2,7 @@
 date: 2020-05-09T17:52:39+09:00
 draft: false
 title: "「正しさ」を徹底する社会は、行き過ぎると差別や排除になる"
-slug: "2020/05/09"
+slug: "2020/05/09/175239"
 tags: ["プライベートな話"]
 image: "blog_import_6621d9e127a95.png"
 feature: "blog_import_6621d9e127a95.png"

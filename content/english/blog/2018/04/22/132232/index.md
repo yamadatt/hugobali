@@ -2,7 +2,7 @@
 date: 2018-04-22T13:22:32+09:00
 draft: false
 title: "学生時代の恩師、中邨先生から初めてホメられた！？"
-slug: "2018/04/22"
+slug: "2018/04/22/132232"
 tags: ["プライベートな話"]
 image: "blog_import_6621c303a630e.jpg"
 feature: "blog_import_6621c303a630e.jpg"

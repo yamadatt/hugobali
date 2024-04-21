@@ -2,7 +2,7 @@
 date: 2020-04-20T19:41:19+09:00
 draft: false
 title: "非常事態宣言の中、代々木公園へ。そこは平和だった"
-slug: "2020/04/20"
+slug: "2020/04/20/194119"
 tags: ["プライベートな話"]
 image: "blog_import_6621d9073b743.jpg"
 feature: "blog_import_6621d9073b743.jpg"

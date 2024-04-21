@@ -2,7 +2,7 @@
 date: 2018-12-25T22:20:39+09:00
 draft: false
 title: "東ティモールの不動産は、チャンスなのか！？"
-slug: "2018/12/25"
+slug: "2018/12/25/222039"
 tags: ["ブログ"]
 image: "blog_import_6621c88ed6292.jpg"
 feature: "blog_import_6621c88ed6292.jpg"

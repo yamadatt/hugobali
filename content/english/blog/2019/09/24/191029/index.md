@@ -2,7 +2,7 @@
 date: 2019-09-24T19:10:29+09:00
 draft: false
 title: "９月２７日：第６回「結果が出てきた！？長田淳司の成長株投資の実践会」"
-slug: "2019/09/24"
+slug: "2019/09/24/191029"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d0104b177.png"
 feature: "blog_import_6621d0104b177.png"

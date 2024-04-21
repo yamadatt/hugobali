@@ -2,7 +2,7 @@
 date: 2017-08-07T23:30:18+09:00
 draft: false
 title: "銀行から「お金を買う」という感覚"
-slug: "2017/08/07"
+slug: "2017/08/07/233018"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621bcb3adb92.jpg"
 feature: "blog_import_6621bcb3adb92.jpg"

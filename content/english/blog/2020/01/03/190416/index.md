@@ -2,7 +2,7 @@
 date: 2020-01-03T19:04:16+09:00
 draft: false
 title: "バリ島現地法人の忘年会。無礼講では、高級酒も大盤振る舞い！？"
-slug: "2020/01/03"
+slug: "2020/01/03/190416"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621d4e19485e.jpg"
 feature: "blog_import_6621d4e19485e.jpg"

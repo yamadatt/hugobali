@@ -2,7 +2,7 @@
 date: 2022-07-06T22:22:11+09:00
 draft: false
 title: "明日７月８日(金）成長株基礎セミナー「年収が高い会社は、株価も高い！？給与と株価の関係」"
-slug: "2022/07/06"
+slug: "2022/07/06/222211"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ef47e70b4.png"
 feature: "blog_import_6621ef47e70b4.png"

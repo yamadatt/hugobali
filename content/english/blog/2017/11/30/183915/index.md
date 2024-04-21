@@ -2,7 +2,7 @@
 date: 2017-11-30T18:39:15+09:00
 draft: false
 title: "空港が閉鎖され、陸路でバリ島を脱出した人は！？"
-slug: "2017/11/30"
+slug: "2017/11/30/183915"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621bf2a96c2a.jpg"
 feature: "blog_import_6621bf2a96c2a.jpg"

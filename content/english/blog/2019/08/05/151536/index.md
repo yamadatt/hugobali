@@ -2,7 +2,7 @@
 date: 2019-08-05T15:15:36+09:00
 draft: false
 title: "「タネ銭座談会」参加者から届いたご感想"
-slug: "2019/08/05"
+slug: "2019/08/05/151536"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cf5d8376a.jpg"
 feature: "blog_import_6621cf5d8376a.jpg"

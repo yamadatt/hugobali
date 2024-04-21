@@ -2,7 +2,7 @@
 date: 2016-11-06T17:53:12+09:00
 draft: false
 title: "バリ島タバナン売ヴィラ　2300㎡　約4600万円　フリーホールド"
-slug: "2016/11/06"
+slug: "2016/11/06/175312"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621b6337ddef.jpg"
 feature: "blog_import_6621b6337ddef.jpg"

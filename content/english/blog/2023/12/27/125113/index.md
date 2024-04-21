@@ -2,7 +2,7 @@
 date: 2023-12-27T12:51:13+09:00
 draft: false
 title: "ブログを続けるコツ"
-slug: "2023/12/27"
+slug: "2023/12/27/125113"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ff192fe7b.png"
 feature: "blog_import_6621ff192fe7b.png"

@@ -2,7 +2,7 @@
 date: 2022-05-24T02:32:17+09:00
 draft: false
 title: "客観的にみれば、日本人は貧乏だ。泥船に乗りながらも生き長らえよう"
-slug: "2022/05/24"
+slug: "2022/05/24/023217"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ee0792722.png"
 feature: "blog_import_6621ee0792722.png"

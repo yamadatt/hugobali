@@ -2,7 +2,7 @@
 date: 2024-03-12T21:22:42+09:00
 draft: false
 title: "「押目買い」はいい。「逆張り」はダメ。その理由"
-slug: "2024/03/12"
+slug: "2024/03/12/212242"
 tags: ["株式投資"]
 image: "blog_import_66220094a6988.png"
 feature: "blog_import_66220094a6988.png"

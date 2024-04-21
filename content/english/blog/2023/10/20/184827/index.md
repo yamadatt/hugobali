@@ -2,7 +2,7 @@
 date: 2023-10-20T18:48:27+09:00
 draft: false
 title: "第31回馬場ゴルフ部月例「眠れないゴルフ前夜は、どうすればいいか！？」"
-slug: "2023/10/20"
+slug: "2023/10/20/184827"
 tags: ["ゴルフ"]
 image: "blog_import_6621fd983f48b.jpg"
 feature: "blog_import_6621fd983f48b.jpg"

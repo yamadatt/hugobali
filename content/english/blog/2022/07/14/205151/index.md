@@ -2,7 +2,7 @@
 date: 2022-07-14T20:51:51+09:00
 draft: false
 title: "暗号通貨：横濱レポート「まず、暗号キーの大切さを理解しよう」"
-slug: "2022/07/14"
+slug: "2022/07/14/205151"
 tags: ["仮想通貨・暗号通貨"]
 image: "blog_import_6621ef6fabf70.png"
 feature: "blog_import_6621ef6fabf70.png"

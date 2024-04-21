@@ -2,7 +2,7 @@
 date: 2022-08-08T22:55:46+09:00
 draft: false
 title: "佐渡で起きた偶然の出会い！？「理想の女性と出会える確率とは？」"
-slug: "2022/08/08"
+slug: "2022/08/08/225546"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621effd84e04.png"
 feature: "blog_import_6621effd84e04.png"

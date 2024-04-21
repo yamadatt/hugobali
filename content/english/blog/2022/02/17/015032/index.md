@@ -2,7 +2,7 @@
 date: 2022-02-17T01:50:32+09:00
 draft: false
 title: "横浜市戸塚区の売地：４０３坪９２３０万円（坪２２.９万円）。これは儲かる！？"
-slug: "2022/02/17"
+slug: "2022/02/17/015032"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621eabbbe6f5.png"
 feature: "blog_import_6621eabbbe6f5.png"

@@ -2,7 +2,7 @@
 date: 2019-05-24T23:42:44+09:00
 draft: false
 title: "ジャカルタで「大統領選の結果が不服」とデモ！！インドネシアは先進国にはならないな"
-slug: "2019/05/24"
+slug: "2019/05/24/234244"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621cccce9db7.jpg"
 feature: "blog_import_6621cccce9db7.jpg"

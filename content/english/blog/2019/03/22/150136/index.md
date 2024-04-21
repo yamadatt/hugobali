@@ -2,7 +2,7 @@
 date: 2019-03-22T15:01:36+09:00
 draft: false
 title: "いきなり決まったルール「バリの日」ってなんだ？"
-slug: "2019/03/22"
+slug: "2019/03/22/150136"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621ca72703db.jpg"
 feature: "blog_import_6621ca72703db.jpg"

@@ -2,7 +2,7 @@
 date: 2020-09-14T00:04:30+09:00
 draft: false
 title: "４回目のゴルフでバンカーの洗礼。スコアがヤバいことに。。"
-slug: "2020/09/14"
+slug: "2020/09/14/000430"
 tags: ["プライベートな話"]
 image: "blog_import_6621dca37463e.png"
 feature: "blog_import_6621dca37463e.png"

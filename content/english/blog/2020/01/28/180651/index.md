@@ -2,7 +2,7 @@
 date: 2020-01-28T18:06:51+09:00
 draft: false
 title: "バリ島では、建築会社を選ばないと痛いことになる！？"
-slug: "2020/01/28"
+slug: "2020/01/28/180651"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621d697a4f0b.jpg"
 feature: "blog_import_6621d697a4f0b.jpg"

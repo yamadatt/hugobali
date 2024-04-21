@@ -2,7 +2,7 @@
 date: 2021-03-05T01:08:29+09:00
 draft: false
 title: "２月２６日「成長株投資の実践会」へいただいた感想"
-slug: "2021/03/05"
+slug: "2021/03/05/010829"
 tags: ["株式投資"]
 image: "blog_import_6621e0c8ab5bb.png"
 feature: "blog_import_6621e0c8ab5bb.png"

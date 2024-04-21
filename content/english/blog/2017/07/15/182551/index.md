@@ -2,7 +2,7 @@
 date: 2017-07-15T18:25:51+09:00
 draft: false
 title: "バリ島の現地法人代表の八神という男（この記事は早々に削除？）"
-slug: "2017/07/15"
+slug: "2017/07/15/182551"
 tags: ["プライベートな話"]
 image: "blog_import_6621bc49dc60c.jpg"
 feature: "blog_import_6621bc49dc60c.jpg"

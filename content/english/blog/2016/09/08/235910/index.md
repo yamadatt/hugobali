@@ -2,7 +2,7 @@
 date: 2016-09-08T23:59:10+09:00
 draft: false
 title: "ラブホテルを考察する(２)　購入物件選びが難しい"
-slug: "2016/09/08"
+slug: "2016/09/08/235910"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621b34d5e12f.jpg"
 feature: "blog_import_6621b34d5e12f.jpg"

@@ -2,7 +2,7 @@
 date: 2020-12-22T23:40:08+09:00
 draft: false
 title: "インドネシアで、コロナワクチン接種が始まる！？"
-slug: "2020/12/22"
+slug: "2020/12/22/234008"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621df6f9f984.png"
 feature: "blog_import_6621df6f9f984.png"

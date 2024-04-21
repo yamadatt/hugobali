@@ -2,7 +2,7 @@
 date: 2022-07-26T00:05:56+09:00
 draft: false
 title: "ファスティング合宿３日目「窓を開けて駐車したらトンデモナイことになってた！？」"
-slug: "2022/07/26"
+slug: "2022/07/26/000556"
 tags: ["ファスティング合宿ダイエット"]
 image: "blog_import_6621efc137259.jpg"
 feature: "blog_import_6621efc137259.jpg"

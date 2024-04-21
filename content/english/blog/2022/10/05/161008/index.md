@@ -2,7 +2,7 @@
 date: 2022-10-05T16:10:08+09:00
 draft: false
 title: "スキルや取り柄のない人が一発逆転するには何をしたらいい！？"
-slug: "2022/10/05"
+slug: "2022/10/05/161008"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f19361e33.png"
 feature: "blog_import_6621f19361e33.png"

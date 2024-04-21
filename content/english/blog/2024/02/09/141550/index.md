@@ -2,7 +2,7 @@
 date: 2024-02-09T14:15:50+09:00
 draft: false
 title: "DEXでの暗号通貨取引でUSDTを得る方法"
-slug: "2024/02/09"
+slug: "2024/02/09/141550"
 tags: ["仮想通貨・暗号通貨"]
 image: "blog_import_6621ffec7917a.png"
 feature: "blog_import_6621ffec7917a.png"

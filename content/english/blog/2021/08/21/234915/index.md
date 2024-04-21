@@ -2,7 +2,7 @@
 date: 2021-08-21T23:49:15+09:00
 draft: false
 title: "第６回馬場ゴルフ部月例コンペの報告。ついに浜野にもカートが導入された！？"
-slug: "2021/08/21"
+slug: "2021/08/21/234915"
 tags: ["ゴルフ"]
 image: "blog_import_6621e53e0c51b.jpg"
 feature: "blog_import_6621e53e0c51b.jpg"

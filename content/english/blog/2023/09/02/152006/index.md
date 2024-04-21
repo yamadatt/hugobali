@@ -2,7 +2,7 @@
 date: 2023-09-02T15:20:06+09:00
 draft: false
 title: "9月15日(金）第４期１２回成長株基礎セミナー「リスクマネジメントを学ぼう」"
-slug: "2023/09/02"
+slug: "2023/09/02/152006"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621fc8186fe7.png"
 feature: "blog_import_6621fc8186fe7.png"

@@ -2,7 +2,7 @@
 date: 2020-01-19T20:26:17+09:00
 draft: false
 title: "ガリガリ君のススメ"
-slug: "2020/01/19"
+slug: "2020/01/19/202617"
 tags: ["プライベートな話"]
 image: "blog_import_6621d642305c5.png"
 feature: "blog_import_6621d642305c5.png"

@@ -2,7 +2,7 @@
 date: 2023-05-25T23:14:43+09:00
 draft: false
 title: "運転もダイビングも、新興国は免許証がなくても大丈夫！？"
-slug: "2023/05/25"
+slug: "2023/05/25/231443"
 tags: ["プライベートな話"]
 image: "blog_import_6621f953a209e.png"
 feature: "blog_import_6621f953a209e.png"

@@ -2,7 +2,7 @@
 date: 2017-06-19T20:47:33+09:00
 draft: false
 title: "バリ島の業者は、いい加減！？"
-slug: "2017/06/19"
+slug: "2017/06/19/204733"
 tags: ["トラブルの話"]
 image: "blog_import_6621bc06ac645.jpg"
 feature: "blog_import_6621bc06ac645.jpg"

@@ -2,7 +2,7 @@
 date: 2024-02-24T20:34:57+09:00
 draft: false
 title: "立ち食いそば名店「一由」。都心の立ち食いそば屋が減る理由。"
-slug: "2024/02/24"
+slug: "2024/02/24/203457"
 tags: ["プライベートな話"]
 image: "blog_import_6622001d6b824.jpg"
 feature: "blog_import_6622001d6b824.jpg"

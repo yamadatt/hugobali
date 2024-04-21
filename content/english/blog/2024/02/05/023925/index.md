@@ -2,7 +2,7 @@
 date: 2024-02-05T02:39:25+09:00
 draft: false
 title: "ムンバイ空港で、荷物を数日預ける方法"
-slug: "2024/02/05"
+slug: "2024/02/05/023925"
 tags: ["インド旅行パンチャカルマ"]
 image: "blog_import_6621ffcd3f3c6.png"
 feature: "blog_import_6621ffcd3f3c6.png"

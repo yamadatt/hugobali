@@ -2,7 +2,7 @@
 date: 2019-07-23T18:09:40+09:00
 draft: false
 title: "７月２６日：第４回「結果が出てる！！長田淳司の成長株投資の実践会」"
-slug: "2019/07/23"
+slug: "2019/07/23/180940"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cedde1c7a.png"
 feature: "blog_import_6621cedde1c7a.png"

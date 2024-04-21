@@ -2,7 +2,7 @@
 date: 2016-06-11T00:29:17+09:00
 draft: false
 title: "子供心を持つ大人でいよう"
-slug: "2016/06/11"
+slug: "2016/06/11/002917"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b025dbe43.jpg"
 feature: "blog_import_6621b025dbe43.jpg"

@@ -2,7 +2,7 @@
 date: 2020-07-14T21:36:08+09:00
 draft: false
 title: "感想＆質問（17）「銘柄を調べ、自分で経験することが大切ですね」への回答"
-slug: "2020/07/14"
+slug: "2020/07/14/213608"
 tags: ["株式投資"]
 image: "blog_import_6621db823f914.jpg"
 feature: "blog_import_6621db823f914.jpg"

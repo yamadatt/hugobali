@@ -2,7 +2,7 @@
 date: 2023-10-10T22:28:55+09:00
 draft: false
 title: "来年から始まる新NISA。税収を減らしてまで政府がやりたいこととは！？"
-slug: "2023/10/10"
+slug: "2023/10/10/222855"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621fd52ca9e2.png"
 feature: "blog_import_6621fd52ca9e2.png"

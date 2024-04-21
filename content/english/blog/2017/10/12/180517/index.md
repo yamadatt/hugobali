@@ -2,7 +2,7 @@
 date: 2017-10-12T18:05:17+09:00
 draft: false
 title: "ヴィラレンタルの諸経費 その３(光熱費・その他）"
-slug: "2017/10/12"
+slug: "2017/10/12/180517"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621bdd40536f.jpg"
 feature: "blog_import_6621bdd40536f.jpg"

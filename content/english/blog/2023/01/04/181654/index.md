@@ -2,7 +2,7 @@
 date: 2023-01-04T18:16:54+09:00
 draft: false
 title: "極寒ゴルフで感じた技術進歩のありがたさ"
-slug: "2023/01/04"
+slug: "2023/01/04/181654"
 tags: ["プライベートな話"]
 image: "blog_import_6621f4473360f.jpg"
 feature: "blog_import_6621f4473360f.jpg"

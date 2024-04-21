@@ -2,7 +2,7 @@
 date: 2024-01-03T01:30:44+09:00
 draft: false
 title: "幸福になるためには、「そもそも思い通りになんてならない」と思うこと。"
-slug: "2024/01/03"
+slug: "2024/01/03/013044"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ff31495f1.png"
 feature: "blog_import_6621ff31495f1.png"

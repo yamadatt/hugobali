@@ -2,7 +2,7 @@
 date: 2015-08-03T18:23:54+09:00
 draft: false
 title: "バリ島での交通事故"
-slug: "2015/08/03"
+slug: "2015/08/03/182354"
 tags: ["トラブルの話"]
 image: "blog_import_6621aaf7a5e68.jpg"
 feature: "blog_import_6621aaf7a5e68.jpg"

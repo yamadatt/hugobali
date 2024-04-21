@@ -2,7 +2,7 @@
 date: 2022-10-11T01:01:23+09:00
 draft: false
 title: "５０代の副業で目指すべきはカネじゃない。やり甲斐と居場所だ"
-slug: "2022/10/11"
+slug: "2022/10/11/010123"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f1ab3c470.png"
 feature: "blog_import_6621f1ab3c470.png"

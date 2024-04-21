@@ -2,7 +2,7 @@
 date: 2016-06-04T20:44:49+09:00
 draft: false
 title: "北川景子似の女"
-slug: "2016/06/04"
+slug: "2016/06/04/204449"
 tags: ["ブログ"]
 image: "blog_import_6621afbf356f6.png"
 feature: "blog_import_6621afbf356f6.png"

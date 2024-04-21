@@ -2,7 +2,7 @@
 date: 2020-09-16T01:42:12+09:00
 draft: false
 title: "バンカー特訓！？"
-slug: "2020/09/16"
+slug: "2020/09/16/014212"
 tags: ["プライベートな話"]
 image: "blog_import_6621dcb4d75da.jpg"
 feature: "blog_import_6621dcb4d75da.jpg"

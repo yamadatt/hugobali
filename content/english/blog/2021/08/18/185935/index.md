@@ -2,7 +2,7 @@
 date: 2021-08-18T18:59:35+09:00
 draft: false
 title: "投資では「百発百中」を狙うな。"
-slug: "2021/08/18"
+slug: "2021/08/18/185935"
 tags: ["株式投資"]
 image: "blog_import_6621e5232e3b6.jpg"
 feature: "blog_import_6621e5232e3b6.jpg"

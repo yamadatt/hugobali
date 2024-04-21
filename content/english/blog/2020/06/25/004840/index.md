@@ -2,7 +2,7 @@
 date: 2020-06-25T00:48:40+09:00
 draft: false
 title: "新人営業マンが１０億円超の大物に会う方法。手紙作戦とは！？動画アリ"
-slug: "2020/06/25"
+slug: "2020/06/25/004840"
 tags: ["プライベートな話"]
 image: "blog_import_6621dae96a2a4.png"
 feature: "blog_import_6621dae96a2a4.png"

@@ -2,7 +2,7 @@
 date: 2020-07-13T17:58:21+09:00
 draft: false
 title: "感想＆質問（５）「不動産と株式投資、どちらが儲かるの？」への回答"
-slug: "2020/07/13"
+slug: "2020/07/13/175821"
 tags: ["株式投資"]
 image: "blog_import_6621db6b6810b.jpg"
 feature: "blog_import_6621db6b6810b.jpg"

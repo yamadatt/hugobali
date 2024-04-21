@@ -2,7 +2,7 @@
 date: 2022-06-13T22:44:30+09:00
 draft: false
 title: "自動車税＆住民税を「アメックス ⇒ au PAY」で払えば、ポイントが貯まる！？"
-slug: "2022/06/13"
+slug: "2022/06/13/224430"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621ee99598ed.png"
 feature: "blog_import_6621ee99598ed.png"

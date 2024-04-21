@@ -2,7 +2,7 @@
 date: 2023-07-12T20:07:57+09:00
 draft: false
 title: "１００切りしないゴルフ。執着心がないんだろうな。。"
-slug: "2023/07/12"
+slug: "2023/07/12/200757"
 tags: ["ゴルフ"]
 image: "blog_import_6621fb298214a.png"
 feature: "blog_import_6621fb298214a.png"

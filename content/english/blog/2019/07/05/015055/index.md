@@ -2,7 +2,7 @@
 date: 2019-07-05T01:50:55+09:00
 draft: false
 title: "特別企画！？ ８月２日（金）「&#34;タネ銭″座談会」開催"
-slug: "2019/07/05"
+slug: "2019/07/05/015055"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ce599a153.png"
 feature: "blog_import_6621ce599a153.png"

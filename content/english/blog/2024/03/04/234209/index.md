@@ -2,7 +2,7 @@
 date: 2024-03-04T23:42:09+09:00
 draft: false
 title: "「仕事の意味・生きる目的・やる気が出ない」馬鹿馬鹿しいことで悩むのはやめよう"
-slug: "2024/03/04"
+slug: "2024/03/04/234209"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_66220058b4c27.png"
 feature: "blog_import_66220058b4c27.png"

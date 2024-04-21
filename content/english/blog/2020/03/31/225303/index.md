@@ -2,7 +2,7 @@
 date: 2020-03-31T22:53:03+09:00
 draft: false
 title: "４月３日の「第７回初心者向け株式投資セミナー」のご案内。ＬＩＶＥ導入？"
-slug: "2020/03/31"
+slug: "2020/03/31/225303"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d7f5477cc.jpg"
 feature: "blog_import_6621d7f5477cc.jpg"

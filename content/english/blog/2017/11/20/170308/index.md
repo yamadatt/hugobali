@@ -2,7 +2,7 @@
 date: 2017-11-20T17:03:08+09:00
 draft: false
 title: "ハワイ不動産研修で学んだ「お金持ちが海外不動産を購入するメリット」"
-slug: "2017/11/20"
+slug: "2017/11/20/170308"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621bede2d459.jpg"
 feature: "blog_import_6621bede2d459.jpg"

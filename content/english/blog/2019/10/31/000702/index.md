@@ -2,7 +2,7 @@
 date: 2019-10-31T00:07:02+09:00
 draft: false
 title: "希少物件！？利回り１０.２％。築浅アパート。千代田線北千住３分２４８０万円"
-slug: "2019/10/31"
+slug: "2019/10/31/000702"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621d1b89fe25.jpg"
 feature: "blog_import_6621d1b89fe25.jpg"

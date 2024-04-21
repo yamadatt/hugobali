@@ -2,7 +2,7 @@
 date: 2022-08-17T23:20:44+09:00
 draft: false
 title: "８月１９日第４１回：成長株投資の実践会「人材不足の今、求人銘柄を探る」"
-slug: "2022/08/17"
+slug: "2022/08/17/232044"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621f02a5c8bc.png"
 feature: "blog_import_6621f02a5c8bc.png"

@@ -2,7 +2,7 @@
 date: 2019-03-20T16:59:33+09:00
 draft: false
 title: "タケシの結婚！？その７　マリアの実家滞在は最終日を迎える"
-slug: "2019/03/20"
+slug: "2019/03/20/165933"
 tags: ["タケシ（バリ島現地スタッフ）の話"]
 image: "blog_import_6621ca690393e.png"
 feature: "blog_import_6621ca690393e.png"

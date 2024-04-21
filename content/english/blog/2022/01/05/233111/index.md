@@ -2,7 +2,7 @@
 date: 2022-01-05T23:31:11+09:00
 draft: false
 title: "１月１４日(金）成長株基礎セミナーのご案内「資産管理を学び、とにかく生き残ろう」"
-slug: "2022/01/05"
+slug: "2022/01/05/233111"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621e9529024e.png"
 feature: "blog_import_6621e9529024e.png"

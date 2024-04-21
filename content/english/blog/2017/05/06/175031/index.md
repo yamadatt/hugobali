@@ -2,7 +2,7 @@
 date: 2017-05-06T17:50:31+09:00
 draft: false
 title: "空からクルマが降ってきた！？"
-slug: "2017/05/06"
+slug: "2017/05/06/175031"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621bb4610cce.jpg"
 feature: "blog_import_6621bb4610cce.jpg"

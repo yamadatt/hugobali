@@ -2,7 +2,7 @@
 date: 2021-02-24T22:56:48+09:00
 draft: false
 title: "２６日の「成長株投資の実践会」の内容"
-slug: "2021/02/24"
+slug: "2021/02/24/225648"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621e092884d1.png"
 feature: "blog_import_6621e092884d1.png"

@@ -2,7 +2,7 @@
 date: 2021-04-20T00:34:01+09:00
 draft: false
 title: "目の前のことにハマれば、道は拓ける"
-slug: "2021/04/20"
+slug: "2021/04/20/003401"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e2105608b.jpg"
 feature: "blog_import_6621e2105608b.jpg"

@@ -2,7 +2,7 @@
 date: 2021-04-01T17:45:13+09:00
 draft: false
 title: "４月３日(土）第７回：中高生向け「株式投資の勉強会」ご案内"
-slug: "2021/04/01"
+slug: "2021/04/01/174513"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621e1e106b59.jpg"
 feature: "blog_import_6621e1e106b59.jpg"

@@ -2,7 +2,7 @@
 date: 2019-10-13T19:07:46+09:00
 draft: false
 title: "ラグビーW杯 日本VSスコットランド  横浜国際競技場に到着"
-slug: "2019/10/13"
+slug: "2019/10/13/190746"
 tags: ["プライベートな話"]
 image: "blog_import_6621d0f554e49.jpg"
 feature: "blog_import_6621d0f554e49.jpg"

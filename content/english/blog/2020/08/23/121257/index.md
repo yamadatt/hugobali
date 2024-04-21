@@ -2,7 +2,7 @@
 date: 2020-08-23T12:12:57+09:00
 draft: false
 title: "１５歳、１００万で投資を始め、１００億にする究極のシュミレーション"
-slug: "2020/08/23"
+slug: "2020/08/23/121257"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621dc58af7df.png"
 feature: "blog_import_6621dc58af7df.png"

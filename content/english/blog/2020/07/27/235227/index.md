@@ -2,7 +2,7 @@
 date: 2020-07-27T23:52:27+09:00
 draft: false
 title: "５年で１０倍！？米国のマリファナ投資（合法）。正しさって何だろう"
-slug: "2020/07/27"
+slug: "2020/07/27/235227"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621dbc67dab4.png"
 feature: "blog_import_6621dbc67dab4.png"

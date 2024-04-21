@@ -2,7 +2,7 @@
 date: 2018-09-13T20:19:40+09:00
 draft: false
 title: "満員御礼、ふりーパパ株セミナー講演中！！"
-slug: "2018/09/13"
+slug: "2018/09/13/201940"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c60ddde14.jpg"
 feature: "blog_import_6621c60ddde14.jpg"

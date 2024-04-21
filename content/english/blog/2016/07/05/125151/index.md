@@ -2,7 +2,7 @@
 date: 2016-07-05T12:51:51+09:00
 draft: false
 title: "即売するヴィラとは"
-slug: "2016/07/05"
+slug: "2016/07/05/125151"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b0b320c5f.jpg"
 feature: "blog_import_6621b0b320c5f.jpg"

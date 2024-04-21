@@ -2,7 +2,7 @@
 date: 2017-07-29T12:23:42+09:00
 draft: false
 title: "バカラで7連敗する確率は！？"
-slug: "2017/07/29"
+slug: "2017/07/29/122342"
 tags: ["プライベートな話"]
 image: "blog_import_6621bc8d4eb65.jpg"
 feature: "blog_import_6621bc8d4eb65.jpg"

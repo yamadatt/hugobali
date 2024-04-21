@@ -2,7 +2,7 @@
 date: 2020-12-24T18:17:49+09:00
 draft: false
 title: "インドネシアでは国内線でもPCR義務付け。バリ島旅行客の年末年始のキャンセル続出！？"
-slug: "2020/12/24"
+slug: "2020/12/24/181749"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621df79b4bde.jpg"
 feature: "blog_import_6621df79b4bde.jpg"

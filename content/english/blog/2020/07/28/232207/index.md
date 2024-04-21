@@ -2,7 +2,7 @@
 date: 2020-07-28T23:22:07+09:00
 draft: false
 title: "ラウンドに向けて最新兵器「GARMINs62」が届く。えっ、システム障害！？"
-slug: "2020/07/28"
+slug: "2020/07/28/232207"
 tags: ["プライベートな話"]
 image: "blog_import_6621dbda27dcc.png"
 feature: "blog_import_6621dbda27dcc.png"

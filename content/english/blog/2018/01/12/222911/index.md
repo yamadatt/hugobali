@@ -2,7 +2,7 @@
 date: 2018-01-12T22:29:11+09:00
 draft: false
 title: "バリ島の日本人向け病院「タケノコクリニック」"
-slug: "2018/01/12"
+slug: "2018/01/12/222911"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c0a1ad060.jpg"
 feature: "blog_import_6621c0a1ad060.jpg"

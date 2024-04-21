@@ -2,7 +2,7 @@
 date: 2018-06-26T00:42:59+09:00
 draft: false
 title: "利回り約１８％！？　高価格な物件は、ライバルが少ない。だからチャンスが多い"
-slug: "2018/06/26"
+slug: "2018/06/26/004259"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621c4720b41a.jpg"
 feature: "blog_import_6621c4720b41a.jpg"

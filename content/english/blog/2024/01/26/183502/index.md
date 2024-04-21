@@ -2,7 +2,7 @@
 date: 2024-01-26T18:35:02+09:00
 draft: false
 title: "眺望抜群！？リバービューのヴィラ。フリーホールド２３００万円。"
-slug: "2024/01/26"
+slug: "2024/01/26/183502"
 tags: ["ブログ"]
 image: "blog_import_6621ffa1c22dc.jpg"
 feature: "blog_import_6621ffa1c22dc.jpg"

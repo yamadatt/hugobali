@@ -2,7 +2,7 @@
 date: 2020-04-27T22:31:02+09:00
 draft: false
 title: "インドネシアは、航空運航（国内線、国際線）のすべてを停止した！？"
-slug: "2020/04/27"
+slug: "2020/04/27/223102"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621d985557b0.png"
 feature: "blog_import_6621d985557b0.png"

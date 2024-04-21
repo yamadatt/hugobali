@@ -2,7 +2,7 @@
 date: 2022-09-20T19:31:04+09:00
 draft: false
 title: "リボ払いは、絶対に使うな"
-slug: "2022/09/20"
+slug: "2022/09/20/193104"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f13162952.jpg"
 feature: "blog_import_6621f13162952.jpg"

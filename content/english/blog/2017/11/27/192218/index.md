@@ -2,7 +2,7 @@
 date: 2017-11-27T19:22:18+09:00
 draft: false
 title: "バリ島の法人設立が進まない！？ その２"
-slug: "2017/11/27"
+slug: "2017/11/27/192218"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621bf1bdff06.jpg"
 feature: "blog_import_6621bf1bdff06.jpg"

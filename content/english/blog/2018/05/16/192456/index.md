@@ -2,7 +2,7 @@
 date: 2018-05-16T19:24:56+09:00
 draft: false
 title: "僕の初心の頃"
-slug: "2018/05/16"
+slug: "2018/05/16/192456"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c35643f68.png"
 feature: "blog_import_6621c35643f68.png"

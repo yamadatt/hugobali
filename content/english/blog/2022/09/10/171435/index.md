@@ -2,7 +2,7 @@
 date: 2022-09-10T17:14:35+09:00
 draft: false
 title: "９月２８日(水）特別セミナー：高卒自衛官からFIREを遂げた投資家が語る南極＆資産形成セミナー"
-slug: "2022/09/10"
+slug: "2022/09/10/171435"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621f0dd7bdea.png"
 feature: "blog_import_6621f0dd7bdea.png"

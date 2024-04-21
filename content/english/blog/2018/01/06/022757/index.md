@@ -2,7 +2,7 @@
 date: 2018-01-06T02:27:57+09:00
 draft: false
 title: "急募！？印刷屋（高田馬場）を引き継ぐ方いませんか？"
-slug: "2018/01/06"
+slug: "2018/01/06/022757"
 tags: ["プライベートな話"]
 image: "blog_import_6621c06043068.jpg"
 feature: "blog_import_6621c06043068.jpg"

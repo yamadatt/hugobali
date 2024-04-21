@@ -2,7 +2,7 @@
 date: 2019-01-16T21:16:04+09:00
 draft: false
 title: "頑張れサヌール！！バリ島サヌールの大規模工事が始まった。"
-slug: "2019/01/16"
+slug: "2019/01/16/211604"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621c93678273.jpg"
 feature: "blog_import_6621c93678273.jpg"

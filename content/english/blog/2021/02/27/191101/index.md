@@ -2,7 +2,7 @@
 date: 2021-02-27T19:11:01+09:00
 draft: false
 title: "「馬場ゴルフ部」結成！？部員を募集！！"
-slug: "2021/02/27"
+slug: "2021/02/27/191101"
 tags: ["プライベートな話"]
 image: "blog_import_6621e0b22edbd.jpg"
 feature: "blog_import_6621e0b22edbd.jpg"

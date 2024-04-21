@@ -2,7 +2,7 @@
 date: 2016-10-12T23:55:27+09:00
 draft: false
 title: "新婚さんの訪バリに思うバリ島の魅力"
-slug: "2016/10/12"
+slug: "2016/10/12/235527"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621b4c364bbe.jpg"
 feature: "blog_import_6621b4c364bbe.jpg"

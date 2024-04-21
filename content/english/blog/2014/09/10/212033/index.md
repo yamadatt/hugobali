@@ -2,7 +2,7 @@
 date: 2014-09-10T21:20:33+09:00
 draft: false
 title: "バリ島のヒンズー教の家"
-slug: "2014/09/10"
+slug: "2014/09/10/212033"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621a86487edb.jpg"
 feature: "blog_import_6621a86487edb.jpg"

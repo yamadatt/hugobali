@@ -2,7 +2,7 @@
 date: 2016-07-12T00:01:56+09:00
 draft: false
 title: "バリ島の不動産市況"
-slug: "2016/07/12"
+slug: "2016/07/12/000156"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b0f8bf12c.png"
 feature: "blog_import_6621b0f8bf12c.png"

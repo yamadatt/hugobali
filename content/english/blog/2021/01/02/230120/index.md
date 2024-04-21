@@ -2,7 +2,7 @@
 date: 2021-01-02T23:01:20+09:00
 draft: false
 title: "今を楽しむことが、将来につながるはずだから。。"
-slug: "2021/01/02"
+slug: "2021/01/02/230120"
 tags: ["プライベートな話"]
 image: "blog_import_6621df93c0c74.png"
 feature: "blog_import_6621df93c0c74.png"

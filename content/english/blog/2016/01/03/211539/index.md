@@ -2,7 +2,7 @@
 date: 2016-01-03T21:15:39+09:00
 draft: false
 title: "ガイドがもらう紹介料"
-slug: "2016/01/03"
+slug: "2016/01/03/211539"
 tags: ["ブログ"]
 image: ""
 feature: ""

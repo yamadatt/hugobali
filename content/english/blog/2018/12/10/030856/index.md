@@ -2,7 +2,7 @@
 date: 2018-12-10T03:08:56+09:00
 draft: false
 title: "世の中の経済規模が増え続けるのはなぜか"
-slug: "2018/12/10"
+slug: "2018/12/10/030856"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c83a0f247.jpg"
 feature: "blog_import_6621c83a0f247.jpg"

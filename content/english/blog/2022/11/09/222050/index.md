@@ -2,7 +2,7 @@
 date: 2022-11-09T22:20:50+09:00
 draft: false
 title: "花田虎上さん（第66代横綱若乃花）とのゴルフ。「有名人って、大変だなぁ」"
-slug: "2022/11/09"
+slug: "2022/11/09/222050"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f28da8609.jpg"
 feature: "blog_import_6621f28da8609.jpg"

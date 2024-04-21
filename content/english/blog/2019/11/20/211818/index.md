@@ -2,7 +2,7 @@
 date: 2019-11-20T21:18:18+09:00
 draft: false
 title: "１１月２９日(金）成長株投資の実践会「さらなる高みを！？」俺も引きが強いな！？"
-slug: "2019/11/20"
+slug: "2019/11/20/211818"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d25c2f9d7.png"
 feature: "blog_import_6621d25c2f9d7.png"

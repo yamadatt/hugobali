@@ -2,7 +2,7 @@
 date: 2017-07-24T19:37:44+09:00
 draft: false
 title: "３度目の正直！？おめでとうございます！！"
-slug: "2017/07/24"
+slug: "2017/07/24/193744"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621bc760eff1.jpg"
 feature: "blog_import_6621bc760eff1.jpg"

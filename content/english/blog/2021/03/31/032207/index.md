@@ -2,7 +2,7 @@
 date: 2021-03-31T03:22:07+09:00
 draft: false
 title: "２０２１年度の成長株セミナー予定（４月～１２月）"
-slug: "2021/03/31"
+slug: "2021/03/31/032207"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621e1d03535c.jpg"
 feature: "blog_import_6621e1d03535c.jpg"

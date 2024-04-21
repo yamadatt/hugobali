@@ -2,7 +2,7 @@
 date: 2018-01-19T23:59:22+09:00
 draft: false
 title: "インドネシアの神アプリ「ＧＯ－ＪＥＫ」は、人間をダメにする！？"
-slug: "2018/01/19"
+slug: "2018/01/19/235922"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c0b9c4569.jpg"
 feature: "blog_import_6621c0b9c4569.jpg"

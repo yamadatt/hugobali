@@ -2,7 +2,7 @@
 date: 2017-12-13T20:03:35+09:00
 draft: false
 title: "成功したけりゃ、起業セミナーには行くな！！"
-slug: "2017/12/13"
+slug: "2017/12/13/200335"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621bf5d225af.jpg"
 feature: "blog_import_6621bf5d225af.jpg"

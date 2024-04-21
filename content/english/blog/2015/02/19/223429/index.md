@@ -2,7 +2,7 @@
 date: 2015-02-19T22:34:29+09:00
 draft: false
 title: "海外の中古不動産を使った節税"
-slug: "2015/02/19"
+slug: "2015/02/19/223429"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621a9c374de8.jpg"
 feature: "blog_import_6621a9c374de8.jpg"

@@ -2,7 +2,7 @@
 date: 2024-03-19T01:16:19+09:00
 draft: false
 title: "情熱はどこから来るのか"
-slug: "2024/03/19"
+slug: "2024/03/19/011619"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_66219acc4a84a.png"
 feature: "blog_import_66219acc4a84a.png"

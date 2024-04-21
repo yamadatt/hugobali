@@ -2,7 +2,7 @@
 date: 2023-02-09T00:18:10+09:00
 draft: false
 title: "インドでの列車移動"
-slug: "2023/02/09"
+slug: "2023/02/09/001810"
 tags: ["インド旅行パンチャカルマ"]
 image: "blog_import_6621f5b1abc7b.png"
 feature: "blog_import_6621f5b1abc7b.png"

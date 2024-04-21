@@ -2,7 +2,7 @@
 date: 2017-06-08T16:51:29+09:00
 draft: false
 title: "久々のヒット！？　これはいいヴィラだぞ"
-slug: "2017/06/08"
+slug: "2017/06/08/165129"
 tags: ["ブログ"]
 image: "blog_import_6621bbd8b09e7.jpg"
 feature: "blog_import_6621bbd8b09e7.jpg"

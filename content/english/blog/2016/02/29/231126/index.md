@@ -2,7 +2,7 @@
 date: 2016-02-29T23:11:26+09:00
 draft: false
 title: "データで未来を予想する"
-slug: "2016/02/29"
+slug: "2016/02/29/231126"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ad47c1da7.jpg"
 feature: "blog_import_6621ad47c1da7.jpg"

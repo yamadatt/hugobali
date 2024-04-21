@@ -2,7 +2,7 @@
 date: 2019-04-22T17:14:04+09:00
 draft: false
 title: "曖昧な約束でも守ろう！！ 急遽、新潟へ"
-slug: "2019/04/22"
+slug: "2019/04/22/171404"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621cc05ea0b1.jpg"
 feature: "blog_import_6621cc05ea0b1.jpg"

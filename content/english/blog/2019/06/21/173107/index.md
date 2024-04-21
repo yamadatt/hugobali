@@ -2,7 +2,7 @@
 date: 2019-06-21T17:31:07+09:00
 draft: false
 title: "生ハム原木を食べる会の報告。「いくつになってもオトコだな。。」"
-slug: "2019/06/21"
+slug: "2019/06/21/173107"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cda48de83.jpg"
 feature: "blog_import_6621cda48de83.jpg"

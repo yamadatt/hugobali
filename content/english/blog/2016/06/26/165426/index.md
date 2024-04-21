@@ -2,7 +2,7 @@
 date: 2016-06-26T16:54:26+09:00
 draft: false
 title: "清楚で美人なBNIの行員が、まさか、、"
-slug: "2016/06/26"
+slug: "2016/06/26/165426"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621b06cd1643.jpg"
 feature: "blog_import_6621b06cd1643.jpg"

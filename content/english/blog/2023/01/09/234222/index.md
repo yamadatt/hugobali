@@ -2,7 +2,7 @@
 date: 2023-01-09T23:42:22+09:00
 draft: false
 title: "インド映画「ＲＲＲ」は爽快感のある傑作。おススメだ"
-slug: "2023/01/09"
+slug: "2023/01/09/234222"
 tags: ["インド旅行パンチャカルマ"]
 image: "blog_import_6621f45b21012.png"
 feature: "blog_import_6621f45b21012.png"

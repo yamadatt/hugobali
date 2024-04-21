@@ -2,7 +2,7 @@
 date: 2018-12-09T01:26:24+09:00
 draft: false
 title: "バリ島ツアーで、参加者に伝えるかもしれないこと"
-slug: "2018/12/09"
+slug: "2018/12/09/012624"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c833ea0dc.jpg"
 feature: "blog_import_6621c833ea0dc.jpg"

@@ -2,7 +2,7 @@
 date: 2021-05-02T23:09:08+09:00
 draft: false
 title: "５月２１日～２３日の南伊豆合宿。釣り人を募集！？"
-slug: "2021/05/02"
+slug: "2021/05/02/230908"
 tags: ["プライベートな話"]
 image: "blog_import_6621e2560a02e.png"
 feature: "blog_import_6621e2560a02e.png"

@@ -2,7 +2,7 @@
 date: 2021-10-11T01:23:46+09:00
 draft: false
 title: "ゴルフ行脚。高知へ"
-slug: "2021/10/11"
+slug: "2021/10/11/012346"
 tags: ["ゴルフ"]
 image: "blog_import_6621e67658297.jpg"
 feature: "blog_import_6621e67658297.jpg"

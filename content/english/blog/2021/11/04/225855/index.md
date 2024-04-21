@@ -2,7 +2,7 @@
 date: 2021-11-04T22:58:55+09:00
 draft: false
 title: "先週の「成長株の実践セミナー」にいただいたご感想"
-slug: "2021/11/04"
+slug: "2021/11/04/225855"
 tags: ["株式投資"]
 image: "blog_import_6621e771679c6.jpg"
 feature: "blog_import_6621e771679c6.jpg"

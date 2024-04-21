@@ -2,7 +2,7 @@
 date: 2018-12-31T19:36:16+09:00
 draft: false
 title: "ワヤンの訃報。新婚の妻と子どもを残して。。"
-slug: "2018/12/31"
+slug: "2018/12/31/193616"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c8cc736a1.jpg"
 feature: "blog_import_6621c8cc736a1.jpg"

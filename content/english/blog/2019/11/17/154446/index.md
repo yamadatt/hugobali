@@ -2,7 +2,7 @@
 date: 2019-11-17T15:44:46+09:00
 draft: false
 title: "「新規上場プレミアムのはげ落ち」タイミングを見極めよう！"
-slug: "2019/11/17"
+slug: "2019/11/17/154446"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d24f5a396.png"
 feature: "blog_import_6621d24f5a396.png"

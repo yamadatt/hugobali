@@ -2,7 +2,7 @@
 date: 2018-03-16T23:15:53+09:00
 draft: false
 title: "今回のセミナーは、子ども連れ参加ＯＫにしよう。"
-slug: "2018/03/16"
+slug: "2018/03/16/231553"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c227d4e1e.jpg"
 feature: "blog_import_6621c227d4e1e.jpg"

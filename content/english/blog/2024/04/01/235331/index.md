@@ -2,7 +2,7 @@
 date: 2024-04-01T23:53:31+09:00
 draft: false
 title: "運の生かし方"
-slug: "2024/04/01"
+slug: "2024/04/01/235331"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_66219ae46e8fe.jpg"
 feature: "blog_import_66219ae46e8fe.jpg"

@@ -2,7 +2,7 @@
 date: 2022-08-20T18:42:52+09:00
 draft: false
 title: "コンプレックスを捨てよう"
-slug: "2022/08/20"
+slug: "2022/08/20/184252"
 tags: ["プライベートな話"]
 image: "blog_import_6621f03e2cd0f.png"
 feature: "blog_import_6621f03e2cd0f.png"

@@ -2,7 +2,7 @@
 date: 2023-10-28T15:45:36+09:00
 draft: false
 title: "「チャットGPT」は、使えるシロモノなのか？試しに「生ハム会」の案内を作ってみた。"
-slug: "2023/10/28"
+slug: "2023/10/28/154536"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621fde1ac1a8.png"
 feature: "blog_import_6621fde1ac1a8.png"

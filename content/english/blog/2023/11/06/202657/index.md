@@ -2,7 +2,7 @@
 date: 2023-11-06T20:26:57+09:00
 draft: false
 title: "建築設備交換の価格交渉のポイント"
-slug: "2023/11/06"
+slug: "2023/11/06/202657"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621fe14361cf.png"
 feature: "blog_import_6621fe14361cf.png"

@@ -2,7 +2,7 @@
 date: 2022-02-26T15:09:20+09:00
 draft: false
 title: "ロシアのウクライナ進行に思う。日本は本気で国防に取り組むべきだ。"
-slug: "2022/02/26"
+slug: "2022/02/26/150920"
 tags: ["プライベートな話"]
 image: "blog_import_6621eb1a46aa5.png"
 feature: "blog_import_6621eb1a46aa5.png"

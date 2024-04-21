@@ -2,7 +2,7 @@
 date: 2019-09-14T18:36:55+09:00
 draft: false
 title: "普通のサラリーマンやＯＬが豊かになるには、株がいい！？"
-slug: "2019/09/14"
+slug: "2019/09/14/183655"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621cfd257da1.png"
 feature: "blog_import_6621cfd257da1.png"

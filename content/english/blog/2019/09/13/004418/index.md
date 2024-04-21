@@ -2,7 +2,7 @@
 date: 2019-09-13T00:44:18+09:00
 draft: false
 title: "復活！？初心者向け株式投資セミナー　全１２回"
-slug: "2019/09/13"
+slug: "2019/09/13/004418"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cfc9bc956.png"
 feature: "blog_import_6621cfc9bc956.png"

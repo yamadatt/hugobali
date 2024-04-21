@@ -2,7 +2,7 @@
 date: 2016-08-29T22:53:12+09:00
 draft: false
 title: "日本ハウスプランニング有限会社という外壁塗装業者は詐欺か！？"
-slug: "2016/08/29"
+slug: "2016/08/29/225312"
 tags: ["ブログ"]
 image: "blog_import_6621b2fc20707.jpg"
 feature: "blog_import_6621b2fc20707.jpg"

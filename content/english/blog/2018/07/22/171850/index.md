@@ -2,7 +2,7 @@
 date: 2018-07-22T17:18:50+09:00
 draft: false
 title: "誰が悪いわけでもない騒音トラブル。宿泊客VSオーナーどちら側に立つべきか。"
-slug: "2018/07/22"
+slug: "2018/07/22/171850"
 tags: ["トラブルの話"]
 image: "blog_import_6621c51aa287d.jpg"
 feature: "blog_import_6621c51aa287d.jpg"

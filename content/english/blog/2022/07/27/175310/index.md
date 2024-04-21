@@ -2,7 +2,7 @@
 date: 2022-07-27T17:53:10+09:00
 draft: false
 title: "自衛隊の訓練は、ファスティング合宿の比じゃない！？"
-slug: "2022/07/27"
+slug: "2022/07/27/175310"
 tags: ["ファスティング合宿ダイエット"]
 image: "blog_import_6621efce7acc8.png"
 feature: "blog_import_6621efce7acc8.png"

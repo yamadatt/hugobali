@@ -2,7 +2,7 @@
 date: 2020-12-21T19:13:31+09:00
 draft: false
 title: "株式投資の初心者は、まず１００株買ってみよう。「どんな銘柄がいいのか」"
-slug: "2020/12/21"
+slug: "2020/12/21/191331"
 tags: ["株式投資"]
 image: "blog_import_6621df6ce2072.png"
 feature: "blog_import_6621df6ce2072.png"

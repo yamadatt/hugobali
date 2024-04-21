@@ -2,7 +2,7 @@
 date: 2021-08-28T15:01:50+09:00
 draft: false
 title: "大人の合宿in南伊豆「そうだヒリゾ浜、行こう」9月18日～20日"
-slug: "2021/08/28"
+slug: "2021/08/28/150150"
 tags: ["プライベートな話"]
 image: "blog_import_6621e56fea393.png"
 feature: "blog_import_6621e56fea393.png"

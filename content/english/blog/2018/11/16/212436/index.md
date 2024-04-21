@@ -2,7 +2,7 @@
 date: 2018-11-16T21:24:36+09:00
 draft: false
 title: "バリ島で飲食店を起業したい人を募集！！"
-slug: "2018/11/16"
+slug: "2018/11/16/212436"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621c7bb395c3.jpg"
 feature: "blog_import_6621c7bb395c3.jpg"

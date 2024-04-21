@@ -2,7 +2,7 @@
 date: 2019-10-24T16:53:42+09:00
 draft: false
 title: "株の利益２００万円突破！？長田先生、すごいな。"
-slug: "2019/10/24"
+slug: "2019/10/24/165342"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d17ad1ca4.png"
 feature: "blog_import_6621d17ad1ca4.png"

@@ -2,7 +2,7 @@
 date: 2020-06-09T22:13:03+09:00
 draft: false
 title: "長田先生でも、コロナ相場で反省！？ なんか、、ホッとした。笑"
-slug: "2020/06/09"
+slug: "2020/06/09/221303"
 tags: ["株式投資"]
 image: "blog_import_6621da7fc1e42.png"
 feature: "blog_import_6621da7fc1e42.png"

@@ -2,7 +2,7 @@
 date: 2016-08-31T20:29:05+09:00
 draft: false
 title: "投資に失敗するタイプとは！？"
-slug: "2016/08/31"
+slug: "2016/08/31/202905"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b326c8b3f.jpg"
 feature: "blog_import_6621b326c8b3f.jpg"

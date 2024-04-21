@@ -2,7 +2,7 @@
 date: 2022-11-17T21:21:47+09:00
 draft: false
 title: "九州旅行で思った「便利さは、人を幸せにしない」"
-slug: "2022/11/17"
+slug: "2022/11/17/212147"
 tags: ["プライベートな話"]
 image: "blog_import_6621f2bf1a2fa.jpg"
 feature: "blog_import_6621f2bf1a2fa.jpg"

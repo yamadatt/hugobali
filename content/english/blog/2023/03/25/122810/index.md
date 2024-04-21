@@ -2,7 +2,7 @@
 date: 2023-03-25T12:28:10+09:00
 draft: false
 title: "厚生年金は、馬鹿馬鹿しい！？"
-slug: "2023/03/25"
+slug: "2023/03/25/122810"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f6e22cf54.png"
 feature: "blog_import_6621f6e22cf54.png"

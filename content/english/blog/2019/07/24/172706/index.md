@@ -2,7 +2,7 @@
 date: 2019-07-24T17:27:06+09:00
 draft: false
 title: "しっかりしている女性と結婚したら、ラクできるかな！？"
-slug: "2019/07/24"
+slug: "2019/07/24/172706"
 tags: ["プライベートな話"]
 image: "blog_import_6621cee9e390b.jpg"
 feature: "blog_import_6621cee9e390b.jpg"

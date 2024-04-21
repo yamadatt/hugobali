@@ -2,7 +2,7 @@
 date: 2021-03-01T23:10:53+09:00
 draft: false
 title: "馬場ゴルフ部に専属プロがついた！？"
-slug: "2021/03/01"
+slug: "2021/03/01/231053"
 tags: ["ゴルフ"]
 image: "blog_import_6621e0bac2dd1.png"
 feature: "blog_import_6621e0bac2dd1.png"

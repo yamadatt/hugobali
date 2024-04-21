@@ -2,7 +2,7 @@
 date: 2020-03-26T19:54:06+09:00
 draft: false
 title: "株や経済の指数のレンジが変わる！？そんな時はチャンスだ。"
-slug: "2020/03/26"
+slug: "2020/03/26/195406"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d7e97a7e4.png"
 feature: "blog_import_6621d7e97a7e4.png"

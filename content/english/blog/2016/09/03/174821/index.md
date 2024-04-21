@@ -2,7 +2,7 @@
 date: 2016-09-03T17:48:21+09:00
 draft: false
 title: "こんなのアリか！？"
-slug: "2016/09/03"
+slug: "2016/09/03/174821"
 tags: ["ブログ"]
 image: "blog_import_6621b335c1083.jpg"
 feature: "blog_import_6621b335c1083.jpg"

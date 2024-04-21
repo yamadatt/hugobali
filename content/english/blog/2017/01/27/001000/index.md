@@ -2,7 +2,7 @@
 date: 2017-01-27T00:10:00+09:00
 draft: false
 title: "ヴィラが巨大なら、住みつく魚もデカイ！？"
-slug: "2017/01/27"
+slug: "2017/01/27/001000"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621b9150ee95.jpg"
 feature: "blog_import_6621b9150ee95.jpg"

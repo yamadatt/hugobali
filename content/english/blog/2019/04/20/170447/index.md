@@ -2,7 +2,7 @@
 date: 2019-04-20T17:04:47+09:00
 draft: false
 title: "ブッキングドットコムBooking.comの予約システムが改善？改悪？"
-slug: "2019/04/20"
+slug: "2019/04/20/170447"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621cbce5d950.jpg"
 feature: "blog_import_6621cbce5d950.jpg"

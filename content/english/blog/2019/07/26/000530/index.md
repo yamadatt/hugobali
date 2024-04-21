@@ -2,7 +2,7 @@
 date: 2019-07-26T00:05:30+09:00
 draft: false
 title: "２７日の税務調査セミナー。懇親会はガチで行くから参加してほしい。笑"
-slug: "2019/07/26"
+slug: "2019/07/26/000530"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cefbd005c.png"
 feature: "blog_import_6621cefbd005c.png"

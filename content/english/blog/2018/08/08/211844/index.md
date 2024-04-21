@@ -2,7 +2,7 @@
 date: 2018-08-08T21:18:44+09:00
 draft: false
 title: "マジックマッシュルームの店を見つけた！？"
-slug: "2018/08/08"
+slug: "2018/08/08/211844"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c57b1394d.jpg"
 feature: "blog_import_6621c57b1394d.jpg"

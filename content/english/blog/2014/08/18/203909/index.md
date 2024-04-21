@@ -2,7 +2,7 @@
 date: 2014-08-18T20:39:09+09:00
 draft: false
 title: "売り戸建て　売家　バリ島サヌール約2000万円"
-slug: "2014/08/18"
+slug: "2014/08/18/203909"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621a5d5e68c5.jpg"
 feature: "blog_import_6621a5d5e68c5.jpg"

@@ -2,7 +2,7 @@
 date: 2019-01-11T19:53:28+09:00
 draft: false
 title: "１月２４日バリ島不動産投資セミナー(第４８回）のご案内"
-slug: "2019/01/11"
+slug: "2019/01/11/195328"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c92b59cf9.jpg"
 feature: "blog_import_6621c92b59cf9.jpg"

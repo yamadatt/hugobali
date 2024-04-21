@@ -2,7 +2,7 @@
 date: 2018-05-06T17:08:04+09:00
 draft: false
 title: "バリ島のヴィラ管理会社のトラブル"
-slug: "2018/05/06"
+slug: "2018/05/06/170804"
 tags: ["トラブルの話"]
 image: "blog_import_6621c33c2787c.jpg"
 feature: "blog_import_6621c33c2787c.jpg"

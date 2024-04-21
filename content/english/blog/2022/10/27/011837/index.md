@@ -2,7 +2,7 @@
 date: 2022-10-27T01:18:37+09:00
 draft: false
 title: "レジャーホテルフェア2022"
-slug: "2022/10/27"
+slug: "2022/10/27/011837"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621f1f5f1f22.png"
 feature: "blog_import_6621f1f5f1f22.png"

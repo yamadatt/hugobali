@@ -2,7 +2,7 @@
 date: 2021-08-23T20:43:47+09:00
 draft: false
 title: "投資で失敗しないようにするにはするには！？いい話はネットには転がっていない。"
-slug: "2021/08/23"
+slug: "2021/08/23/204347"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e5477dbf9.png"
 feature: "blog_import_6621e5477dbf9.png"

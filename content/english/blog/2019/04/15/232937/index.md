@@ -2,7 +2,7 @@
 date: 2019-04-15T23:29:37+09:00
 draft: false
 title: "バリ島ウブドの売ヴィラ 約１９８５万円 利回り１５.７％！？"
-slug: "2019/04/15"
+slug: "2019/04/15/232937"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621cb56f3b7a.jpg"
 feature: "blog_import_6621cb56f3b7a.jpg"

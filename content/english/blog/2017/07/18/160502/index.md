@@ -2,7 +2,7 @@
 date: 2017-07-18T16:05:02+09:00
 draft: false
 title: "ひょう(氷？氷？)のため、鶯谷駅で足止め"
-slug: "2017/07/18"
+slug: "2017/07/18/160502"
 tags: ["ブログ"]
 image: "blog_import_6621bc50ca21c.jpg"
 feature: "blog_import_6621bc50ca21c.jpg"

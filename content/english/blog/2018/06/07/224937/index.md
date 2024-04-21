@@ -2,7 +2,7 @@
 date: 2018-06-07T22:49:37+09:00
 draft: false
 title: "予約サイトのレビューは誰のもの？　理屈が通らない退職者"
-slug: "2018/06/07"
+slug: "2018/06/07/224937"
 tags: ["トラブルの話"]
 image: "blog_import_6621c3fb52c9f.png"
 feature: "blog_import_6621c3fb52c9f.png"

@@ -2,7 +2,7 @@
 date: 2023-08-16T02:08:09+09:00
 draft: false
 title: "借金の依頼が多い。どうしたものか。。"
-slug: "2023/08/16"
+slug: "2023/08/16/020809"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621fbf49d05e.png"
 feature: "blog_import_6621fbf49d05e.png"

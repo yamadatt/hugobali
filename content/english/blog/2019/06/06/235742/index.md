@@ -2,7 +2,7 @@
 date: 2019-06-06T23:57:42+09:00
 draft: false
 title: "タケシ、父親になる！？"
-slug: "2019/06/06"
+slug: "2019/06/06/235742"
 tags: ["タケシ（バリ島現地スタッフ）の話"]
 image: "blog_import_6621cd4d5ffcd.jpg"
 feature: "blog_import_6621cd4d5ffcd.jpg"

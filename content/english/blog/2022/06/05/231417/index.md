@@ -2,7 +2,7 @@
 date: 2022-06-05T23:14:17+09:00
 draft: false
 title: "株主優待は、なくなるのか！？"
-slug: "2022/06/05"
+slug: "2022/06/05/231417"
 tags: ["株式投資"]
 image: "blog_import_6621ee4ce3a82.jpg"
 feature: "blog_import_6621ee4ce3a82.jpg"

@@ -2,7 +2,7 @@
 date: 2017-10-19T18:26:02+09:00
 draft: false
 title: "第３３回 バリ島不動産セミナー決定　１１月１４日(火)"
-slug: "2017/10/19"
+slug: "2017/10/19/182602"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621bdff4fd39.jpg"
 feature: "blog_import_6621bdff4fd39.jpg"

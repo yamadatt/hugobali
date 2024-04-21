@@ -2,7 +2,7 @@
 date: 2021-02-09T02:50:34+09:00
 draft: false
 title: "僕が「ブログの収益化」ネタを書かない理由"
-slug: "2021/02/09"
+slug: "2021/02/09/025034"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e05252815.png"
 feature: "blog_import_6621e05252815.png"

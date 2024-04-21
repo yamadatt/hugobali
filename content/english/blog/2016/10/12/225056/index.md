@@ -2,7 +2,7 @@
 date: 2016-10-12T22:50:56+09:00
 draft: false
 title: "開催日決定！！　11月25日,26日　バリ島不動産セミナー"
-slug: "2016/10/12"
+slug: "2016/10/12/225056"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621b4c00fbc5.jpg"
 feature: "blog_import_6621b4c00fbc5.jpg"

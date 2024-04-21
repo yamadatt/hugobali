@@ -2,7 +2,7 @@
 date: 2015-05-28T16:46:38+09:00
 draft: false
 title: "【ご案内】バリ島不動産勉強会"
-slug: "2015/05/28"
+slug: "2015/05/28/164638"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621aad016eae.jpg"
 feature: "blog_import_6621aad016eae.jpg"

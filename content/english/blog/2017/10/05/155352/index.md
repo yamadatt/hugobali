@@ -2,7 +2,7 @@
 date: 2017-10-05T15:53:52+09:00
 draft: false
 title: "価格交渉してから、購入を検討するのは「マナー違反」かな"
-slug: "2017/10/05"
+slug: "2017/10/05/155352"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621bdbade6f9.png"
 feature: "blog_import_6621bdbade6f9.png"

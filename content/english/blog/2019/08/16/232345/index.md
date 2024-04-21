@@ -2,7 +2,7 @@
 date: 2019-08-16T23:23:45+09:00
 draft: false
 title: "タケシ、勇者になる！？その６ 胎盤供養の任務を完了する！？"
-slug: "2019/08/16"
+slug: "2019/08/16/232345"
 tags: ["タケシ（バリ島現地スタッフ）の話"]
 image: "blog_import_6621cf8e016d8.jpg"
 feature: "blog_import_6621cf8e016d8.jpg"

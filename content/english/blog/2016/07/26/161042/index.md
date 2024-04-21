@@ -2,7 +2,7 @@
 date: 2016-07-26T16:10:42+09:00
 draft: false
 title: "バリ島の不動産トラブル①「名義貸し」"
-slug: "2016/07/26"
+slug: "2016/07/26/161042"
 tags: ["トラブルの話"]
 image: "blog_import_6621b18a67369.jpg"
 feature: "blog_import_6621b18a67369.jpg"

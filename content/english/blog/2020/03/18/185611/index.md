@@ -2,7 +2,7 @@
 date: 2020-03-18T18:56:11+09:00
 draft: false
 title: "長田先生からのメッセージ【その１】「成長株投資のルール」"
-slug: "2020/03/18"
+slug: "2020/03/18/185611"
 tags: ["株式投資"]
 image: "blog_import_6621d7c7a36fd.png"
 feature: "blog_import_6621d7c7a36fd.png"

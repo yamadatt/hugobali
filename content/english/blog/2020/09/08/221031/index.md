@@ -2,7 +2,7 @@
 date: 2020-09-08T22:10:31+09:00
 draft: false
 title: "ゴルフクラブにハマって、、ヤバい。。"
-slug: "2020/09/08"
+slug: "2020/09/08/221031"
 tags: ["プライベートな話"]
 image: "blog_import_6621dc96cfbf5.jpg"
 feature: "blog_import_6621dc96cfbf5.jpg"

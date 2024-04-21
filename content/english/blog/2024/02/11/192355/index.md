@@ -2,7 +2,7 @@
 date: 2024-02-11T19:23:55+09:00
 draft: false
 title: "吉野家の卵かけご飯に思う「大人の幸せ」。"
-slug: "2024/02/11"
+slug: "2024/02/11/192355"
 tags: ["プライベートな話"]
 image: "blog_import_6621fff519f80.png"
 feature: "blog_import_6621fff519f80.png"

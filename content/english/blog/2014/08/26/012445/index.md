@@ -2,7 +2,7 @@
 date: 2014-08-26T01:24:45+09:00
 draft: false
 title: "竿師ペドロの話"
-slug: "2014/08/26"
+slug: "2014/08/26/012445"
 tags: ["ブログ"]
 image: "blog_import_6621a758a0928.jpg"
 feature: "blog_import_6621a758a0928.jpg"

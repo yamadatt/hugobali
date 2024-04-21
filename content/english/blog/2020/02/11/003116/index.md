@@ -2,7 +2,7 @@
 date: 2020-02-11T00:31:16+09:00
 draft: false
 title: "第５回（2月7日）初心者向け成長株セミナー参加者の感想。その１"
-slug: "2020/02/11"
+slug: "2020/02/11/003116"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d6ca7ba88.jpg"
 feature: "blog_import_6621d6ca7ba88.jpg"

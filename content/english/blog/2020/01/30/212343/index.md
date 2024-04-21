@@ -2,7 +2,7 @@
 date: 2020-01-30T21:23:43+09:00
 draft: false
 title: "資産を作るには、確率の高い勝負をしよう。～確率の低い勝負はしない～"
-slug: "2020/01/30"
+slug: "2020/01/30/212343"
 tags: ["株式投資"]
 image: "blog_import_6621d6ab009db.png"
 feature: "blog_import_6621d6ab009db.png"

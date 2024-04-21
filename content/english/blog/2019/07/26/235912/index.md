@@ -2,7 +2,7 @@
 date: 2019-07-26T23:59:12+09:00
 draft: false
 title: "今日の実践会。購入のチャンスは、株価とPERの乖離のタイミングだ！！"
-slug: "2019/07/26"
+slug: "2019/07/26/235912"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ceffb042e.png"
 feature: "blog_import_6621ceffb042e.png"

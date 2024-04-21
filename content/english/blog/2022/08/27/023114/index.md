@@ -2,7 +2,7 @@
 date: 2022-08-27T02:31:14+09:00
 draft: false
 title: "「ワクチン陰謀論」を信じるわけではないが、４回目の接種はやめておこう。"
-slug: "2022/08/27"
+slug: "2022/08/27/023114"
 tags: ["プライベートな話"]
 image: "blog_import_6621f05943335.png"
 feature: "blog_import_6621f05943335.png"

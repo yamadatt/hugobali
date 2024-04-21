@@ -2,7 +2,7 @@
 date: 2019-01-26T18:16:07+09:00
 draft: false
 title: "地方在住で特にノウハウがない人は、何をすればいい！？"
-slug: "2019/01/26"
+slug: "2019/01/26/181607"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c97ee9cc0.jpg"
 feature: "blog_import_6621c97ee9cc0.jpg"

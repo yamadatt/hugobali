@@ -2,7 +2,7 @@
 date: 2016-10-16T15:11:05+09:00
 draft: false
 title: "瞬売！！バリ島ウマラス　高級売ヴィラ　2500万円　売急ぎ格安"
-slug: "2016/10/16"
+slug: "2016/10/16/151105"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621b4edcb182.jpg"
 feature: "blog_import_6621b4edcb182.jpg"

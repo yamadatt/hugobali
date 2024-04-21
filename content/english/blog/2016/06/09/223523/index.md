@@ -2,7 +2,7 @@
 date: 2016-06-09T22:35:23+09:00
 draft: false
 title: "バリ島では不動産開発が一番儲かる【検証】"
-slug: "2016/06/09"
+slug: "2016/06/09/223523"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621aff2a6d58.jpg"
 feature: "blog_import_6621aff2a6d58.jpg"

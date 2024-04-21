@@ -2,7 +2,7 @@
 date: 2021-02-25T18:39:04+09:00
 draft: false
 title: "浜野ゴルフクラブの入会審査に通る！！３月１６日記念ラウンドのご案内"
-slug: "2021/02/25"
+slug: "2021/02/25/183904"
 tags: ["プライベートな話"]
 image: "blog_import_6621e0965975e.png"
 feature: "blog_import_6621e0965975e.png"

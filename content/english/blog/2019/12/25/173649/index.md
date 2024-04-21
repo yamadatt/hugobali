@@ -2,7 +2,7 @@
 date: 2019-12-25T17:36:49+09:00
 draft: false
 title: "上場していきなり下方修正はゆるされない。２４セブン(7074)株価急落の話"
-slug: "2019/12/25"
+slug: "2019/12/25/173649"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d41d1135e.png"
 feature: "blog_import_6621d41d1135e.png"

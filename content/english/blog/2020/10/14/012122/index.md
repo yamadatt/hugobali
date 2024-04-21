@@ -2,7 +2,7 @@
 date: 2020-10-14T01:21:22+09:00
 draft: false
 title: "「施されたら施し返す？」でもらったＩＰＯ銘柄が上場した"
-slug: "2020/10/14"
+slug: "2020/10/14/012122"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621dd94d1d4e.jpg"
 feature: "blog_import_6621dd94d1d4e.jpg"

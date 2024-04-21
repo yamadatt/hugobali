@@ -2,7 +2,7 @@
 date: 2020-05-26T00:18:22+09:00
 draft: false
 title: "長田レポート～コロナ後の投資戦略～その２「大衆と同じでは、負ける！？」"
-slug: "2020/05/26"
+slug: "2020/05/26/001822"
 tags: ["株式投資"]
 image: "blog_import_6621da4438667.png"
 feature: "blog_import_6621da4438667.png"

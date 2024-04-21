@@ -2,7 +2,7 @@
 date: 2018-10-15T23:40:31+09:00
 draft: false
 title: "バリ島でモテる髪型とは？"
-slug: "2018/10/15"
+slug: "2018/10/15/234031"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c6d56bc2b.jpg"
 feature: "blog_import_6621c6d56bc2b.jpg"

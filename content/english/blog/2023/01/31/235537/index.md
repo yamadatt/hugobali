@@ -2,7 +2,7 @@
 date: 2023-01-31T23:55:37+09:00
 draft: false
 title: "芸は身を助く。インドの早業絵師"
-slug: "2023/01/31"
+slug: "2023/01/31/235537"
 tags: ["インド旅行パンチャカルマ"]
 image: "blog_import_6621f557056f1.jpg"
 feature: "blog_import_6621f557056f1.jpg"

@@ -2,7 +2,7 @@
 date: 2019-09-14T15:53:18+09:00
 draft: false
 title: "サラリーマンが今ある人脈とノウハウで起業するのは、簡単じゃない"
-slug: "2019/09/14"
+slug: "2019/09/14/155318"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621cfd06e346.png"
 feature: "blog_import_6621cfd06e346.png"

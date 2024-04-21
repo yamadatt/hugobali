@@ -2,7 +2,7 @@
 date: 2021-04-25T20:09:49+09:00
 draft: false
 title: "ぶっ放しは封印だ"
-slug: "2021/04/25"
+slug: "2021/04/25/200949"
 tags: ["ゴルフ"]
 image: "blog_import_6621e22151f41.jpg"
 feature: "blog_import_6621e22151f41.jpg"

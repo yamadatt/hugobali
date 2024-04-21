@@ -2,7 +2,7 @@
 date: 2024-04-19T01:11:58+09:00
 draft: false
 title: "社会は理不尽なもの。耐性をつけよう"
-slug: "2024/04/19"
+slug: "2024/04/19/011158"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_66219b4585ea9.png"
 feature: "blog_import_66219b4585ea9.png"

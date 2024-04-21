@@ -2,7 +2,7 @@
 date: 2020-11-06T18:01:49+09:00
 draft: false
 title: "バリ島タケシの真の姿は、攻撃的な肉食動物なのか！？"
-slug: "2020/11/06"
+slug: "2020/11/06/180149"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621de4a479ef.png"
 feature: "blog_import_6621de4a479ef.png"

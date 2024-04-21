@@ -2,7 +2,7 @@
 date: 2021-10-09T22:24:45+09:00
 draft: false
 title: "４日間ブログをお休みしたワケは、、。"
-slug: "2021/10/09"
+slug: "2021/10/09/222445"
 tags: ["ゴルフ"]
 image: "blog_import_6621e66da527e.png"
 feature: "blog_import_6621e66da527e.png"

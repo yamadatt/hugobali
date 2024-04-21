@@ -2,7 +2,7 @@
 date: 2016-12-21T17:59:49+09:00
 draft: false
 title: "バリ島にも、自動車運転の教習所がある！？"
-slug: "2016/12/21"
+slug: "2016/12/21/175949"
 tags: ["ブログ"]
 image: "blog_import_6621b79aa3b2f.jpg"
 feature: "blog_import_6621b79aa3b2f.jpg"

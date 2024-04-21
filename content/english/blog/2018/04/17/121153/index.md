@@ -2,7 +2,7 @@
 date: 2018-04-17T12:11:53+09:00
 draft: false
 title: "僕の本「稼げる人の常識、稼げない人の常識」が明日発売！！"
-slug: "2018/04/17"
+slug: "2018/04/17/121153"
 tags: ["プライベートな話"]
 image: "blog_import_6621c2e293978.png"
 feature: "blog_import_6621c2e293978.png"

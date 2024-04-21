@@ -2,7 +2,7 @@
 date: 2018-05-01T18:35:23+09:00
 draft: false
 title: "皆さまにＮＨＫから取材依頼。バリ島「アスナ信用組合」「アスナグループ」の件"
-slug: "2018/05/01"
+slug: "2018/05/01/183523"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c3333a4cc.jpg"
 feature: "blog_import_6621c3333a4cc.jpg"

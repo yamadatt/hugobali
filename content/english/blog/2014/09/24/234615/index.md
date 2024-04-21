@@ -2,7 +2,7 @@
 date: 2014-09-24T23:46:15+09:00
 draft: false
 title: "バリ島の果物の値段"
-slug: "2014/09/24"
+slug: "2014/09/24/234615"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621a8c9ab213.jpg"
 feature: "blog_import_6621a8c9ab213.jpg"

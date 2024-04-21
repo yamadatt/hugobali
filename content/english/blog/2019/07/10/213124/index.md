@@ -2,7 +2,7 @@
 date: 2019-07-10T21:31:24+09:00
 draft: false
 title: "女性にとり憑き、女を男に変える！？霊？魔物？の話"
-slug: "2019/07/10"
+slug: "2019/07/10/213124"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621ce973cabe.png"
 feature: "blog_import_6621ce973cabe.png"

@@ -2,7 +2,7 @@
 date: 2016-09-06T19:14:07+09:00
 draft: false
 title: "バリ島勉強会、参加者の皆さまの声"
-slug: "2016/09/06"
+slug: "2016/09/06/191407"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621b34637b9e.jpg"
 feature: "blog_import_6621b34637b9e.jpg"

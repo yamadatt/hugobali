@@ -2,7 +2,7 @@
 date: 2020-07-14T21:42:59+09:00
 draft: false
 title: "感想＆質問（18）「成長株投資で、社長の動画を見るメリットは？」への回答"
-slug: "2020/07/14"
+slug: "2020/07/14/214259"
 tags: ["株式投資"]
 image: "blog_import_6621db84074bc.jpg"
 feature: "blog_import_6621db84074bc.jpg"

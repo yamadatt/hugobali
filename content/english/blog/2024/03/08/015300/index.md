@@ -2,7 +2,7 @@
 date: 2024-03-08T01:53:00+09:00
 draft: false
 title: "今ある海外資金をどうするか。。"
-slug: "2024/03/08"
+slug: "2024/03/08/015300"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6622007018ff9.jpg"
 feature: "blog_import_6622007018ff9.jpg"

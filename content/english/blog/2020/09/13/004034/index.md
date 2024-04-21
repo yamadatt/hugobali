@@ -2,7 +2,7 @@
 date: 2020-09-13T00:40:34+09:00
 draft: false
 title: "９月１８日 第１８回「成長株投資の実践会」のお知らせ"
-slug: "2020/09/13"
+slug: "2020/09/13/004034"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621dc9ddcdc0.png"
 feature: "blog_import_6621dc9ddcdc0.png"

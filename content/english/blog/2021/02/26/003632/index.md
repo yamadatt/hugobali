@@ -2,7 +2,7 @@
 date: 2021-02-26T00:36:32+09:00
 draft: false
 title: "メイプルポイントＧＣの会員にもなってしまった。３月２５日感謝ラウンドのご案内。"
-slug: "2021/02/26"
+slug: "2021/02/26/003632"
 tags: ["プライベートな話"]
 image: "blog_import_6621e0a336859.png"
 feature: "blog_import_6621e0a336859.png"

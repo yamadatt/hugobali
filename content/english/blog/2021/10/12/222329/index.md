@@ -2,7 +2,7 @@
 date: 2021-10-12T22:23:29+09:00
 draft: false
 title: "バリ島不動産の契約書のトラブル　その１「『たぶん？』ってなんだ！？」"
-slug: "2021/10/12"
+slug: "2021/10/12/222329"
 tags: ["トラブルの話"]
 image: "blog_import_6621e6cf9c4a1.jpg"
 feature: "blog_import_6621e6cf9c4a1.jpg"

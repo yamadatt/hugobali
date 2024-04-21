@@ -2,7 +2,7 @@
 date: 2021-07-10T22:32:34+09:00
 draft: false
 title: "横浜市保土ヶ谷区の建売土地投資は、終了です。"
-slug: "2021/07/10"
+slug: "2021/07/10/223234"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621e401ccedb.png"
 feature: "blog_import_6621e401ccedb.png"

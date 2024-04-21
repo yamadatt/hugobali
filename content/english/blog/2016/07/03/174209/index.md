@@ -2,7 +2,7 @@
 date: 2016-07-03T17:42:09+09:00
 draft: false
 title: "父の影響"
-slug: "2016/07/03"
+slug: "2016/07/03/174209"
 tags: ["プライベートな話"]
 image: ""
 feature: ""

@@ -2,7 +2,7 @@
 date: 2019-03-29T01:29:48+09:00
 draft: false
 title: "４月２６日　長田淳司の型をすべて伝える「成長株投資の実践会」のご案内"
-slug: "2019/03/29"
+slug: "2019/03/29/012948"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ca9a8e313.png"
 feature: "blog_import_6621ca9a8e313.png"

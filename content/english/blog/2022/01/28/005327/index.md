@@ -2,7 +2,7 @@
 date: 2022-01-28T00:53:27+09:00
 draft: false
 title: "余命宣告されてからの決断に正解はない"
-slug: "2022/01/28"
+slug: "2022/01/28/005327"
 tags: ["プライベートな話"]
 image: "blog_import_6621e9fe5a253.png"
 feature: "blog_import_6621e9fe5a253.png"

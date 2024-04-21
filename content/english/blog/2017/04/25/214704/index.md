@@ -2,7 +2,7 @@
 date: 2017-04-25T21:47:04+09:00
 draft: false
 title: "法人が多いと、、、"
-slug: "2017/04/25"
+slug: "2017/04/25/214704"
 tags: ["プライベートな話"]
 image: "blog_import_6621bb35dcc4c.jpg"
 feature: "blog_import_6621bb35dcc4c.jpg"

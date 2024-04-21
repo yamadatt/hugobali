@@ -2,7 +2,7 @@
 date: 2023-03-19T22:17:04+09:00
 draft: false
 title: "大人の合宿4月28日～30日。人生が変わる！？「鼻うがい」「鼻ひも通し」in南伊豆"
-slug: "2023/03/19"
+slug: "2023/03/19/221704"
 tags: ["ファスティング合宿ダイエット"]
 image: "blog_import_6621f6c08abb0.jpg"
 feature: "blog_import_6621f6c08abb0.jpg"

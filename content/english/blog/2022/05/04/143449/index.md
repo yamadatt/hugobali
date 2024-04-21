@@ -2,7 +2,7 @@
 date: 2022-05-04T14:34:49+09:00
 draft: false
 title: "ファスティング合宿に性懲りもなく参加する、身体がカタい男たち。"
-slug: "2022/05/04"
+slug: "2022/05/04/143449"
 tags: ["ファスティング合宿ダイエット"]
 image: "blog_import_6621ed9281044.png"
 feature: "blog_import_6621ed9281044.png"

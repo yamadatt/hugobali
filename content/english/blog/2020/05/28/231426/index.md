@@ -2,7 +2,7 @@
 date: 2020-05-28T23:14:26+09:00
 draft: false
 title: "株の配当金もバカにならない。権利収入は実感するとヤル気になる！？"
-slug: "2020/05/28"
+slug: "2020/05/28/231426"
 tags: ["株式投資"]
 image: "blog_import_6621da4fee874.jpg"
 feature: "blog_import_6621da4fee874.jpg"

@@ -2,7 +2,7 @@
 date: 2021-05-07T16:47:17+09:00
 draft: false
 title: "本日のセミナー「紀州のドンファンに学ぶ！？株式投資」"
-slug: "2021/05/07"
+slug: "2021/05/07/164717"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621e27134487.png"
 feature: "blog_import_6621e27134487.png"

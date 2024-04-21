@@ -2,7 +2,7 @@
 date: 2021-03-31T02:34:37+09:00
 draft: false
 title: "８月２７日（金）第２９回「成長株投資の実践会」のお知らせ"
-slug: "2021/03/31"
+slug: "2021/03/31/023437"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621e1be1d516.jpg"
 feature: "blog_import_6621e1be1d516.jpg"

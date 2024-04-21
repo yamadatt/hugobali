@@ -2,7 +2,7 @@
 date: 2019-09-15T18:02:08+09:00
 draft: false
 title: "９月２８日(土）長田淳司の初心者向け成長株セミナー【プロローグ】"
-slug: "2019/09/15"
+slug: "2019/09/15/180208"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cfd531d3d.png"
 feature: "blog_import_6621cfd531d3d.png"

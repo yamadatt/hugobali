@@ -2,7 +2,7 @@
 date: 2020-10-21T00:17:29+09:00
 draft: false
 title: "中学生高校生向け「株式の勉強会」ホームページの紹介"
-slug: "2020/10/21"
+slug: "2020/10/21/001729"
 tags: ["株式投資"]
 image: "blog_import_6621ddd22d933.png"
 feature: "blog_import_6621ddd22d933.png"

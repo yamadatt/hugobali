@@ -2,7 +2,7 @@
 date: 2022-10-08T16:14:31+09:00
 draft: false
 title: "副業をやるなら、若いうちがいい"
-slug: "2022/10/08"
+slug: "2022/10/08/161431"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f19b7473c.png"
 feature: "blog_import_6621f19b7473c.png"

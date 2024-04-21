@@ -2,7 +2,7 @@
 date: 2019-07-23T22:49:36+09:00
 draft: false
 title: "税務調査の話は、、ブログに書けない。その理由は？"
-slug: "2019/07/23"
+slug: "2019/07/23/224936"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cee885bd1.png"
 feature: "blog_import_6621cee885bd1.png"

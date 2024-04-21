@@ -2,7 +2,7 @@
 date: 2016-12-08T23:50:00+09:00
 draft: false
 title: "ローカル市場向けバリ島不動産投資「お客が見えているか」"
-slug: "2016/12/08"
+slug: "2016/12/08/235000"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b734c5bf8.jpg"
 feature: "blog_import_6621b734c5bf8.jpg"

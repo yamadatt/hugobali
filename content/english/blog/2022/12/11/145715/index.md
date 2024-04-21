@@ -2,7 +2,7 @@
 date: 2022-12-11T14:57:15+09:00
 draft: false
 title: "自転車も身体もメンテナンスしよう"
-slug: "2022/12/11"
+slug: "2022/12/11/145715"
 tags: ["プライベートな話"]
 image: "blog_import_6621f3a575b99.jpg"
 feature: "blog_import_6621f3a575b99.jpg"

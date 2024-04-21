@@ -2,7 +2,7 @@
 date: 2021-02-20T20:34:39+09:00
 draft: false
 title: "成功するために大切なのは「登るハシゴ」と「稼ぐスキル」だ。"
-slug: "2021/02/20"
+slug: "2021/02/20/203439"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e084ea3ac.png"
 feature: "blog_import_6621e084ea3ac.png"

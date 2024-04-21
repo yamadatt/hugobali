@@ -2,7 +2,7 @@
 date: 2020-06-21T19:04:58+09:00
 draft: false
 title: "野村證券の新卒１年目は、どれほどキツかったのか！？その２"
-slug: "2020/06/21"
+slug: "2020/06/21/190458"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621dad0de089.png"
 feature: "blog_import_6621dad0de089.png"

@@ -2,7 +2,7 @@
 date: 2023-11-04T00:41:18+09:00
 draft: false
 title: "AIが生み出す未来"
-slug: "2023/11/04"
+slug: "2023/11/04/004118"
 tags: ["ブログ"]
 image: "blog_import_6621fe02a6e71.png"
 feature: "blog_import_6621fe02a6e71.png"

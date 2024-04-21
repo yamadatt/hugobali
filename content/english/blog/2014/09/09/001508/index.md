@@ -2,7 +2,7 @@
 date: 2014-09-09T00:15:08+09:00
 draft: false
 title: "バリ島不動産　サヌール高級ヴィラ　約７０００万"
-slug: "2014/09/09"
+slug: "2014/09/09/001508"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621a7fb4c39a.jpg"
 feature: "blog_import_6621a7fb4c39a.jpg"

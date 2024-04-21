@@ -2,7 +2,7 @@
 date: 2019-05-29T18:39:04+09:00
 draft: false
 title: "東京ドームなう。なんじゃ、これりゃ。やっぱり夢は持つもんだな"
-slug: "2019/05/29"
+slug: "2019/05/29/183904"
 tags: ["プライベートな話"]
 image: "blog_import_6621cd1285945.jpg"
 feature: "blog_import_6621cd1285945.jpg"

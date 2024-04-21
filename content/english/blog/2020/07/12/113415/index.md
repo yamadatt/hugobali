@@ -2,7 +2,7 @@
 date: 2020-07-12T11:34:15+09:00
 draft: false
 title: "感想＆質問（２）「上昇株を見つけるのは、どんな人？」への回答"
-slug: "2020/07/12"
+slug: "2020/07/12/113415"
 tags: ["株式投資"]
 image: "blog_import_6621db65eef62.jpg"
 feature: "blog_import_6621db65eef62.jpg"

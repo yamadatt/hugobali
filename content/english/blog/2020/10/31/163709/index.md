@@ -2,7 +2,7 @@
 date: 2020-10-31T16:37:09+09:00
 draft: false
 title: "第１９回「成長株投資の実践会」の報告。長田先生がいない？"
-slug: "2020/10/31"
+slug: "2020/10/31/163709"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621de2f655e7.png"
 feature: "blog_import_6621de2f655e7.png"

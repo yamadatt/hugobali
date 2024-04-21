@@ -2,7 +2,7 @@
 date: 2014-09-22T21:13:27+09:00
 draft: false
 title: "バリ島の洋酒価格"
-slug: "2014/09/22"
+slug: "2014/09/22/211327"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621a8c60cb7a.jpg"
 feature: "blog_import_6621a8c60cb7a.jpg"

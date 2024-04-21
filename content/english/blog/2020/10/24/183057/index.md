@@ -2,7 +2,7 @@
 date: 2020-10-24T18:30:57+09:00
 draft: false
 title: "ラブホ川柳の傑作たち「鍵穴と鍵がそろえば新世界」"
-slug: "2020/10/24"
+slug: "2020/10/24/183057"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621de0a18a96.png"
 feature: "blog_import_6621de0a18a96.png"

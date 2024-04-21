@@ -2,7 +2,7 @@
 date: 2018-04-07T19:10:52+09:00
 draft: false
 title: "書籍化への思い"
-slug: "2018/04/07"
+slug: "2018/04/07/191052"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c2cac0981.jpg"
 feature: "blog_import_6621c2cac0981.jpg"

@@ -2,7 +2,7 @@
 date: 2021-01-29T01:09:52+09:00
 draft: false
 title: "早くも増刷！？長田先生の成長株初版本「１０万円から・・・成長株投資」"
-slug: "2021/01/29"
+slug: "2021/01/29/010952"
 tags: ["株式投資"]
 image: "blog_import_6621e01fcec3b.jpg"
 feature: "blog_import_6621e01fcec3b.jpg"

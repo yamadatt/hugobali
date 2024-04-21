@@ -2,7 +2,7 @@
 date: 2018-09-30T22:43:43+09:00
 draft: false
 title: "投資家募集！！ワンツー転売　興味がある人には個別に対応します"
-slug: "2018/09/30"
+slug: "2018/09/30/224343"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621c69527feb.jpg"
 feature: "blog_import_6621c69527feb.jpg"

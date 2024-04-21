@@ -2,7 +2,7 @@
 date: 2021-05-01T19:02:27+09:00
 draft: false
 title: "弱者がそこから抜け出すには！？弱者の論理（甘え）を捨てよう"
-slug: "2021/05/01"
+slug: "2021/05/01/190227"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e24bdb548.png"
 feature: "blog_import_6621e24bdb548.png"

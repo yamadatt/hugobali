@@ -2,7 +2,7 @@
 date: 2018-12-21T23:02:46+09:00
 draft: false
 title: "なんとか復活！？"
-slug: "2018/12/21"
+slug: "2018/12/21/230246"
 tags: ["ブログ"]
 image: ""
 feature: ""

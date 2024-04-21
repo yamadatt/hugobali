@@ -2,7 +2,7 @@
 date: 2021-10-18T21:29:34+09:00
 draft: false
 title: "バリ島不動産の契約書のトラブル　その６「Ｏの悪だくみが発覚！？」"
-slug: "2021/10/18"
+slug: "2021/10/18/212934"
 tags: ["トラブルの話"]
 image: "blog_import_6621e6ea4f707.jpg"
 feature: "blog_import_6621e6ea4f707.jpg"

@@ -2,7 +2,7 @@
 date: 2018-01-22T23:46:51+09:00
 draft: false
 title: "「借金からの復活セミナー」でもやろうかな"
-slug: "2018/01/22"
+slug: "2018/01/22/234651"
 tags: ["プライベートな話"]
 image: "blog_import_6621c0d2a759a.jpg"
 feature: "blog_import_6621c0d2a759a.jpg"

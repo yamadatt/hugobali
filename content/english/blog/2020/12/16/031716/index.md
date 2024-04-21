@@ -2,7 +2,7 @@
 date: 2020-12-16T03:17:16+09:00
 draft: false
 title: "浜野ゴルフでの長い一日。その３「最終１８ホール」"
-slug: "2020/12/16"
+slug: "2020/12/16/031716"
 tags: ["プライベートな話"]
 image: "blog_import_6621df3f7491e.png"
 feature: "blog_import_6621df3f7491e.png"

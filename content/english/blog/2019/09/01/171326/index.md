@@ -2,7 +2,7 @@
 date: 2019-09-01T17:13:26+09:00
 draft: false
 title: "タケシ、インドネシア人の機嫌を直すには「もう、ご飯食べた？」だぞ"
-slug: "2019/09/01"
+slug: "2019/09/01/171326"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621cfb81313e.png"
 feature: "blog_import_6621cfb81313e.png"

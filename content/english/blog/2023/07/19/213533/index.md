@@ -2,7 +2,7 @@
 date: 2023-07-19T21:35:33+09:00
 draft: false
 title: "7月21日(金）成長株の実践セミナー「テーマ株に乗ろう。次はリスキング！？（次世代の人材教育）"
-slug: "2023/07/19"
+slug: "2023/07/19/213533"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621fb754b2e2.png"
 feature: "blog_import_6621fb754b2e2.png"

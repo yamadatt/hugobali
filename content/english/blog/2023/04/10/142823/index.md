@@ -2,7 +2,7 @@
 date: 2023-04-10T14:28:23+09:00
 draft: false
 title: "ラブホ川柳、始まる。。「ライターで　浮気がバレて　煙に巻く」"
-slug: "2023/04/10"
+slug: "2023/04/10/142823"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621f743ca437.png"
 feature: "blog_import_6621f743ca437.png"

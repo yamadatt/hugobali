@@ -2,7 +2,7 @@
 date: 2021-05-11T00:40:32+09:00
 draft: false
 title: "たまには、いつもと違うことをするのも悪くない"
-slug: "2021/05/11"
+slug: "2021/05/11/004032"
 tags: ["プライベートな話"]
 image: "blog_import_6621e281669e9.jpg"
 feature: "blog_import_6621e281669e9.jpg"

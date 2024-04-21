@@ -2,7 +2,7 @@
 date: 2014-08-24T11:23:28+09:00
 draft: false
 title: "バリ島賃貸物件　ロングステイ向けヴィラ　約２２０万円／年"
-slug: "2014/08/24"
+slug: "2014/08/24/112328"
 tags: ["バリ島ロングステイ向け賃貸物件"]
 image: "blog_import_6621a6d6c852b.jpg"
 feature: "blog_import_6621a6d6c852b.jpg"

@@ -2,7 +2,7 @@
 date: 2018-05-10T00:56:34+09:00
 draft: false
 title: "日本人が、バリ島、、新興国で働くということ"
-slug: "2018/05/10"
+slug: "2018/05/10/005634"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c346c6130.jpg"
 feature: "blog_import_6621c346c6130.jpg"

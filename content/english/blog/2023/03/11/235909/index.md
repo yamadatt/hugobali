@@ -2,7 +2,7 @@
 date: 2023-03-11T23:59:09+09:00
 draft: false
 title: "知覧で切なくなる。サザンの名曲「蛍」が胸にしみる"
-slug: "2023/03/11"
+slug: "2023/03/11/235909"
 tags: ["プライベートな話"]
 image: "blog_import_6621f693864e0.jpg"
 feature: "blog_import_6621f693864e0.jpg"

@@ -2,7 +2,7 @@
 date: 2017-10-03T16:18:33+09:00
 draft: false
 title: "バリ島スミニャック　好立地の売ヴィラ 5500万円"
-slug: "2017/10/03"
+slug: "2017/10/03/161833"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621bdb3758de.jpg"
 feature: "blog_import_6621bdb3758de.jpg"

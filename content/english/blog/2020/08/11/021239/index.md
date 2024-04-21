@@ -2,7 +2,7 @@
 date: 2020-08-11T02:12:39+09:00
 draft: false
 title: "人生で買ってはいけないもの"
-slug: "2020/08/11"
+slug: "2020/08/11/021239"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621dc29a035f.png"
 feature: "blog_import_6621dc29a035f.png"

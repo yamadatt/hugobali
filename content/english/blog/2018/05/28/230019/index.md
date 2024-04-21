@@ -2,7 +2,7 @@
 date: 2018-05-28T23:00:19+09:00
 draft: false
 title: "第４１回バリ島不動産セミナーの日程決定！！６月１５日（金）"
-slug: "2018/05/28"
+slug: "2018/05/28/230019"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c38f1710a.jpg"
 feature: "blog_import_6621c38f1710a.jpg"

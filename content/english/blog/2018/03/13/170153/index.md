@@ -2,7 +2,7 @@
 date: 2018-03-13T17:01:53+09:00
 draft: false
 title: "第３８回バリ島不動産セミナー４月９日（月）に決定！"
-slug: "2018/03/13"
+slug: "2018/03/13/170153"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c214ddb29.jpg"
 feature: "blog_import_6621c214ddb29.jpg"

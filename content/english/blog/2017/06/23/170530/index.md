@@ -2,7 +2,7 @@
 date: 2017-06-23T17:05:30+09:00
 draft: false
 title: "６月２９日バリ島不動産セミナーは、満席となりました。"
-slug: "2017/06/23"
+slug: "2017/06/23/170530"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621bc199ee29.jpg"
 feature: "blog_import_6621bc199ee29.jpg"

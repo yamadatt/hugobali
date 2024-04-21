@@ -2,7 +2,7 @@
 date: 2017-12-26T23:05:14+09:00
 draft: false
 title: "ノタリスが、ぼったくり！？"
-slug: "2017/12/26"
+slug: "2017/12/26/230514"
 tags: ["トラブルの話"]
 image: "blog_import_6621c01db926d.png"
 feature: "blog_import_6621c01db926d.png"

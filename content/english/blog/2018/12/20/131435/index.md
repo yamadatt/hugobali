@@ -2,7 +2,7 @@
 date: 2018-12-20T13:14:35+09:00
 draft: false
 title: "４０度！？"
-slug: "2018/12/20"
+slug: "2018/12/20/131435"
 tags: ["プライベートな話"]
 image: "blog_import_6621c889cf712.jpg"
 feature: "blog_import_6621c889cf712.jpg"

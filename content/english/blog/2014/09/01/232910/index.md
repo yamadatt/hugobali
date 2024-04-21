@@ -2,7 +2,7 @@
 date: 2014-09-01T23:29:10+09:00
 draft: false
 title: "賃貸土地　バリ島デンパサール　20アール　20アール約40万円（年）"
-slug: "2014/09/01"
+slug: "2014/09/01/232910"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621a7c6e3bf9.jpg"
 feature: "blog_import_6621a7c6e3bf9.jpg"

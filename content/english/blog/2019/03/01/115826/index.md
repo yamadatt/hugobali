@@ -2,7 +2,7 @@
 date: 2019-03-01T11:58:26+09:00
 draft: false
 title: "訳アリ！？港区西麻布（六本木）の売マンション４０㎡超（１ＬＤＫ）１９８０万円！！"
-slug: "2019/03/01"
+slug: "2019/03/01/115826"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621ca0e07d15.jpg"
 feature: "blog_import_6621ca0e07d15.jpg"

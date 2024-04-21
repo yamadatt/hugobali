@@ -2,7 +2,7 @@
 date: 2016-07-11T22:10:34+09:00
 draft: false
 title: "今年、一番のオススメ物件かも"
-slug: "2016/07/11"
+slug: "2016/07/11/221034"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621b0e25a31b.jpg"
 feature: "blog_import_6621b0e25a31b.jpg"

@@ -2,7 +2,7 @@
 date: 2018-01-06T15:52:31+09:00
 draft: false
 title: "御礼。昨日アップした印刷屋の譲渡先が決まりました。"
-slug: "2018/01/06"
+slug: "2018/01/06/155231"
 tags: ["プライベートな話"]
 image: "blog_import_6621c088c948c.jpg"
 feature: "blog_import_6621c088c948c.jpg"

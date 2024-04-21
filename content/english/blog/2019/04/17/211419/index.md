@@ -2,7 +2,7 @@
 date: 2019-04-17T21:14:19+09:00
 draft: false
 title: "利回り２０％の「儲かる物件」は存在しない。自分で作り出すんだ！！"
-slug: "2019/04/17"
+slug: "2019/04/17/211419"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621cb987f5dd.jpg"
 feature: "blog_import_6621cb987f5dd.jpg"

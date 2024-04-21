@@ -2,7 +2,7 @@
 date: 2022-08-29T23:33:37+09:00
 draft: false
 title: "【希少！？売物件】目白駅徒歩２分の住宅(土地１８８㎡）"
-slug: "2022/08/29"
+slug: "2022/08/29/233337"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621f08191bba.png"
 feature: "blog_import_6621f08191bba.png"

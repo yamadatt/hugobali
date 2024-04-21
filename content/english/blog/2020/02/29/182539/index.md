@@ -2,7 +2,7 @@
 date: 2020-02-29T18:25:39+09:00
 draft: false
 title: "タケシの浮気！？未遂！？"
-slug: "2020/02/29"
+slug: "2020/02/29/182539"
 tags: ["タケシ（バリ島現地スタッフ）の話"]
 image: "blog_import_6621d78d9215c.jpg"
 feature: "blog_import_6621d78d9215c.jpg"

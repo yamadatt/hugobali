@@ -2,7 +2,7 @@
 date: 2021-04-17T18:49:34+09:00
 draft: false
 title: "月例って、ハンデキャップが必要なの？"
-slug: "2021/04/17"
+slug: "2021/04/17/184934"
 tags: ["ゴルフ"]
 image: "blog_import_6621e20ac45a5.png"
 feature: "blog_import_6621e20ac45a5.png"

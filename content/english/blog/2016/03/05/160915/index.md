@@ -2,7 +2,7 @@
 date: 2016-03-05T16:09:15+09:00
 draft: false
 title: "驚愕価格！売り急ぎ格安ヴィラ（３５％OFF）ウルワツ　４ベッドR"
-slug: "2016/03/05"
+slug: "2016/03/05/160915"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621ad775228d.jpg"
 feature: "blog_import_6621ad775228d.jpg"

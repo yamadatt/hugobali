@@ -2,7 +2,7 @@
 date: 2023-07-30T21:03:19+09:00
 draft: false
 title: "好立地なのに売れてないラブホテル。そのワケ。"
-slug: "2023/07/30"
+slug: "2023/07/30/210319"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621fbaf7cc2e.jpg"
 feature: "blog_import_6621fbaf7cc2e.jpg"

@@ -2,7 +2,7 @@
 date: 2016-03-20T20:30:16+09:00
 draft: false
 title: "金持ちは１００円ライターを買わない。"
-slug: "2016/03/20"
+slug: "2016/03/20/203016"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ae2e27a4c.jpg"
 feature: "blog_import_6621ae2e27a4c.jpg"

@@ -2,7 +2,7 @@
 date: 2021-09-25T18:07:18+09:00
 draft: false
 title: "新型コロナ重篤化体験談。NASAの治療院「T-CONDITINING」院長が人工呼吸器！？"
-slug: "2021/09/25"
+slug: "2021/09/25/180718"
 tags: ["プライベートな話"]
 image: "blog_import_6621e63e10072.jpg"
 feature: "blog_import_6621e63e10072.jpg"

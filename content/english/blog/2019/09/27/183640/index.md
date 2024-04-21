@@ -2,7 +2,7 @@
 date: 2019-09-27T18:36:40+09:00
 draft: false
 title: "株式投資で上達するための練習方法"
-slug: "2019/09/27"
+slug: "2019/09/27/183640"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d017dce9e.png"
 feature: "blog_import_6621d017dce9e.png"

@@ -2,7 +2,7 @@
 date: 2016-03-14T18:57:58+09:00
 draft: false
 title: "ホワイトデーとレパトリ"
-slug: "2016/03/14"
+slug: "2016/03/14/185758"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621adfa80ab6.jpg"
 feature: "blog_import_6621adfa80ab6.jpg"

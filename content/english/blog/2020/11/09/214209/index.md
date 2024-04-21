@@ -2,7 +2,7 @@
 date: 2020-11-09T21:42:09+09:00
 draft: false
 title: "バリ島事件簿「花瓶泥棒」。インドネシア人宿泊客は、タチが悪い！？"
-slug: "2020/11/09"
+slug: "2020/11/09/214209"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621de4c53419.jpg"
 feature: "blog_import_6621de4c53419.jpg"

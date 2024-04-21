@@ -2,7 +2,7 @@
 date: 2018-10-25T20:44:11+09:00
 draft: false
 title: "経過報告！！バリ島不動産ワンツー投資"
-slug: "2018/10/25"
+slug: "2018/10/25/204411"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621c715337bd.jpg"
 feature: "blog_import_6621c715337bd.jpg"

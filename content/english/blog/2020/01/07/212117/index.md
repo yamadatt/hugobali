@@ -2,7 +2,7 @@
 date: 2020-01-07T21:21:17+09:00
 draft: false
 title: "株式投資におけるポートフォリオの組み方"
-slug: "2020/01/07"
+slug: "2020/01/07/212117"
 tags: ["株式投資"]
 image: "blog_import_6621d52612a76.png"
 feature: "blog_import_6621d52612a76.png"

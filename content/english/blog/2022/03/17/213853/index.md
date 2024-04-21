@@ -2,7 +2,7 @@
 date: 2022-03-17T21:38:53+09:00
 draft: false
 title: "明日１８日：第３６回成長株投資の実践会のご案内「ウクライナ問題で先が見通せない中、どうするか」"
-slug: "2022/03/17"
+slug: "2022/03/17/213853"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ec15bb204.png"
 feature: "blog_import_6621ec15bb204.png"

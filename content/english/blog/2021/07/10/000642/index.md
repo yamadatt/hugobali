@@ -2,7 +2,7 @@
 date: 2021-07-10T00:06:42+09:00
 draft: false
 title: "保土ヶ谷の土地５０００万は、利回り１２％の新築アパートもできる！？"
-slug: "2021/07/10"
+slug: "2021/07/10/000642"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621e3f910a14.png"
 feature: "blog_import_6621e3f910a14.png"

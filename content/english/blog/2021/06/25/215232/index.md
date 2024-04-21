@@ -2,7 +2,7 @@
 date: 2021-06-25T21:52:32+09:00
 draft: false
 title: "ジグの鉄人トシさんが、クロマグロをゲット！？"
-slug: "2021/06/25"
+slug: "2021/06/25/215232"
 tags: ["プライベートな話"]
 image: "blog_import_6621e38507585.jpg"
 feature: "blog_import_6621e38507585.jpg"

@@ -2,7 +2,7 @@
 date: 2014-12-24T20:25:36+09:00
 draft: false
 title: "インドネシアの雨季"
-slug: "2014/12/24"
+slug: "2014/12/24/202536"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621a93ce0a00.jpg"
 feature: "blog_import_6621a93ce0a00.jpg"

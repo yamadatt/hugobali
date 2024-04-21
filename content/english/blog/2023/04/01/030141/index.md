@@ -2,7 +2,7 @@
 date: 2023-04-01T03:01:41+09:00
 draft: false
 title: "田舎の繁盛飲食店は、接客がいい。接客で一番大切なのは？"
-slug: "2023/04/01"
+slug: "2023/04/01/030141"
 tags: ["プライベートな話"]
 image: "blog_import_6621f70598a5c.jpg"
 feature: "blog_import_6621f70598a5c.jpg"

@@ -2,7 +2,7 @@
 date: 2019-05-19T19:02:31+09:00
 draft: false
 title: "昨日のセミナー、ふりーパパの「新しい時代の投資法」の御礼と感想"
-slug: "2019/05/19"
+slug: "2019/05/19/190231"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cc96a9df1.jpg"
 feature: "blog_import_6621cc96a9df1.jpg"

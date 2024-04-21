@@ -2,7 +2,7 @@
 date: 2019-09-03T23:23:32+09:00
 draft: false
 title: "投資で負ける人の共通点とは！？"
-slug: "2019/09/03"
+slug: "2019/09/03/232332"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621cfbcbe0d9.jpg"
 feature: "blog_import_6621cfbcbe0d9.jpg"

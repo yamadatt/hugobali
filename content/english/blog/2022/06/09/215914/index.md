@@ -2,7 +2,7 @@
 date: 2022-06-09T21:59:14+09:00
 draft: false
 title: "明日６月１０日(金）成長株基礎セミナーのご案内「社長をみれば会社が分かる！？」"
-slug: "2022/06/09"
+slug: "2022/06/09/215914"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ee811ac05.png"
 feature: "blog_import_6621ee811ac05.png"

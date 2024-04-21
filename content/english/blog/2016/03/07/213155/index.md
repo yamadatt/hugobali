@@ -2,7 +2,7 @@
 date: 2016-03-07T21:31:55+09:00
 draft: false
 title: "バリ島のガソリンとプロパン、それじゃ危ないよね！？"
-slug: "2016/03/07"
+slug: "2016/03/07/213155"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621ada2887b8.jpg"
 feature: "blog_import_6621ada2887b8.jpg"

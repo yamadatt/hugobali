@@ -2,7 +2,7 @@
 date: 2016-09-23T20:44:20+09:00
 draft: false
 title: "同じ価格で物件を買っても、利回りに差が出るのはナゼ！？"
-slug: "2016/09/23"
+slug: "2016/09/23/204420"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b3a12f8d6.jpg"
 feature: "blog_import_6621b3a12f8d6.jpg"

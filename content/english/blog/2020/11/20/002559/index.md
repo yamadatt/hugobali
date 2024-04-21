@@ -2,7 +2,7 @@
 date: 2020-11-20T00:25:59+09:00
 draft: false
 title: "バリ島ではスタッフの解雇は難しい。その１：コロナで自宅待機にしたら。。"
-slug: "2020/11/20"
+slug: "2020/11/20/002559"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621dea722039.jpg"
 feature: "blog_import_6621dea722039.jpg"

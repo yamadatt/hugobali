@@ -2,7 +2,7 @@
 date: 2016-10-09T16:43:16+09:00
 draft: false
 title: "不安を克服するには！？"
-slug: "2016/10/09"
+slug: "2016/10/09/164316"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b4b0729c1.jpg"
 feature: "blog_import_6621b4b0729c1.jpg"

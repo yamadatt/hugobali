@@ -2,7 +2,7 @@
 date: 2021-05-11T23:19:19+09:00
 draft: false
 title: "人の頼みは率先してやろう。自分も人に遠慮なく頼もう"
-slug: "2021/05/11"
+slug: "2021/05/11/231919"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e28f51fb2.png"
 feature: "blog_import_6621e28f51fb2.png"

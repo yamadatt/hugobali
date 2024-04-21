@@ -2,7 +2,7 @@
 date: 2017-10-24T02:15:22+09:00
 draft: false
 title: "野党は、なんでダメなのかな"
-slug: "2017/10/24"
+slug: "2017/10/24/021522"
 tags: ["プライベートな話"]
 image: "blog_import_6621be1752f9f.jpg"
 feature: "blog_import_6621be1752f9f.jpg"

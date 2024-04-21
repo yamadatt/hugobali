@@ -2,7 +2,7 @@
 date: 2020-03-16T16:20:56+09:00
 draft: false
 title: "それにしても僕は、守りが苦手だな。。でも、大切なのは死なないこと"
-slug: "2020/03/16"
+slug: "2020/03/16/162056"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d7c3c04d2.png"
 feature: "blog_import_6621d7c3c04d2.png"

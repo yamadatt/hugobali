@@ -2,7 +2,7 @@
 date: 2017-10-31T19:31:34+09:00
 draft: false
 title: "高級ヴィラと普通ヴィラは、何が違うのか！？"
-slug: "2017/10/31"
+slug: "2017/10/31/193134"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621be4789dab.jpg"
 feature: "blog_import_6621be4789dab.jpg"

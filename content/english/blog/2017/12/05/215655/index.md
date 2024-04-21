@@ -2,7 +2,7 @@
 date: 2017-12-05T21:56:55+09:00
 draft: false
 title: "忘年会＆バリ島不動産セミナー開催決定！１２月１７日(日）､２７日(水）"
-slug: "2017/12/05"
+slug: "2017/12/05/215655"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621bf36caf97.jpg"
 feature: "blog_import_6621bf36caf97.jpg"

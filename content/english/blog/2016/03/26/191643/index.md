@@ -2,7 +2,7 @@
 date: 2016-03-26T19:16:43+09:00
 draft: false
 title: "バンジャール銀行LPDの金利は１２％"
-slug: "2016/03/26"
+slug: "2016/03/26/191643"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621ae3d36b08.jpg"
 feature: "blog_import_6621ae3d36b08.jpg"

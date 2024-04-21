@@ -2,7 +2,7 @@
 date: 2022-06-14T01:36:50+09:00
 draft: false
 title: "LIVEに行くなら地方がいい！？「玉置浩二in河口湖ステラシアター」にて"
-slug: "2022/06/14"
+slug: "2022/06/14/013650"
 tags: ["ブログ"]
 image: "blog_import_6621eea858e83.jpg"
 feature: "blog_import_6621eea858e83.jpg"

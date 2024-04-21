@@ -2,7 +2,7 @@
 date: 2021-03-22T23:16:29+09:00
 draft: false
 title: "上場企業創業者の話は、中高生にどのように映ったのか？"
-slug: "2021/03/22"
+slug: "2021/03/22/231629"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621e16a731a2.png"
 feature: "blog_import_6621e16a731a2.png"

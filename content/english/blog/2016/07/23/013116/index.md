@@ -2,7 +2,7 @@
 date: 2016-07-23T01:31:16+09:00
 draft: false
 title: "ラブホテルを始めた理由２「暴力団から営業権を奪う」"
-slug: "2016/07/23"
+slug: "2016/07/23/013116"
 tags: ["プライベートな話"]
 image: "blog_import_6621b172aada0.jpg"
 feature: "blog_import_6621b172aada0.jpg"

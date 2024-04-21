@@ -2,7 +2,7 @@
 date: 2022-10-16T23:34:11+09:00
 draft: false
 title: "１０月２０日(木）【飲み会のご案内】ゴルフ部、成長株・暗号通貨の会、ブログ読者、誰でもアリ！！"
-slug: "2022/10/16"
+slug: "2022/10/16/233411"
 tags: ["プライベートな話"]
 image: "blog_import_6621f1c5227e6.png"
 feature: "blog_import_6621f1c5227e6.png"

@@ -2,7 +2,7 @@
 date: 2019-02-27T01:17:23+09:00
 draft: false
 title: "３月１５日の株式投資セミナー：ニート投資家、宮井氏が参戦！？"
-slug: "2019/02/27"
+slug: "2019/02/27/011723"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c9ffeb7c3.jpg"
 feature: "blog_import_6621c9ffeb7c3.jpg"

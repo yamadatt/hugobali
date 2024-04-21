@@ -2,7 +2,7 @@
 date: 2020-01-31T18:41:33+09:00
 draft: false
 title: "シンガポール経由でバリ島へ"
-slug: "2020/01/31"
+slug: "2020/01/31/184133"
 tags: ["プライベートな話"]
 image: "blog_import_6621d6b73431d.jpg"
 feature: "blog_import_6621d6b73431d.jpg"

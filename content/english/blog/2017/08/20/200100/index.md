@@ -2,7 +2,7 @@
 date: 2017-08-20T20:01:00+09:00
 draft: false
 title: "超高級ヴィラの作るぞ！？Villa「カメハメハ」"
-slug: "2017/08/20"
+slug: "2017/08/20/200100"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621bccd335e1.jpg"
 feature: "blog_import_6621bccd335e1.jpg"

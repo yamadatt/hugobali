@@ -2,7 +2,7 @@
 date: 2017-11-08T18:16:02+09:00
 draft: false
 title: "満員御礼　昨日の株式セミナー"
-slug: "2017/11/08"
+slug: "2017/11/08/181602"
 tags: ["バリ島の自社物件"]
 image: "blog_import_6621be7d3e02a.jpg"
 feature: "blog_import_6621be7d3e02a.jpg"

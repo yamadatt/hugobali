@@ -2,7 +2,7 @@
 date: 2021-12-11T01:41:45+09:00
 draft: false
 title: "会費１０万円の忘年会は、どんなものだったのか？"
-slug: "2021/12/11"
+slug: "2021/12/11/014145"
 tags: ["プライベートな話"]
 image: "blog_import_6621e857a4306.jpg"
 feature: "blog_import_6621e857a4306.jpg"

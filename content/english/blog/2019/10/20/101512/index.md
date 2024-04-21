@@ -2,7 +2,7 @@
 date: 2019-10-20T10:15:12+09:00
 draft: false
 title: "利回り１２％！？売ワンルーム４００万円。杉並区方南町（メトロ丸の内線・方南町３分）"
-slug: "2019/10/20"
+slug: "2019/10/20/101512"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621d13fea154.jpg"
 feature: "blog_import_6621d13fea154.jpg"

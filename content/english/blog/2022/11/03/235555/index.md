@@ -2,7 +2,7 @@
 date: 2022-11-03T23:55:55+09:00
 draft: false
 title: "第４回暗号通貨の実践会の報告「３０万円を１億にした方法」"
-slug: "2022/11/03"
+slug: "2022/11/03/235555"
 tags: ["仮想通貨・暗号通貨"]
 image: "blog_import_6621f26d1582e.jpg"
 feature: "blog_import_6621f26d1582e.jpg"

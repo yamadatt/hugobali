@@ -2,7 +2,7 @@
 date: 2020-09-30T00:26:00+09:00
 draft: false
 title: "１０月３日の「中高生向け株式勉強会」は、満席です。"
-slug: "2020/09/30"
+slug: "2020/09/30/002600"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621dd374a21d.png"
 feature: "blog_import_6621dd374a21d.png"

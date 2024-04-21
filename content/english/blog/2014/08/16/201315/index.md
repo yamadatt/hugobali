@@ -2,7 +2,7 @@
 date: 2014-08-16T20:13:15+09:00
 draft: false
 title: "売土地　バリ島ジンバラン50アール約5000万円"
-slug: "2014/08/16"
+slug: "2014/08/16/201315"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621a5a102e8f.jpg"
 feature: "blog_import_6621a5a102e8f.jpg"

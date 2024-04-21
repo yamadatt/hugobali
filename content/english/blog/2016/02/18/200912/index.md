@@ -2,7 +2,7 @@
 date: 2016-02-18T20:09:12+09:00
 draft: false
 title: "バリ島不動産投資【実践編】スミニャック7.4R建売"
-slug: "2016/02/18"
+slug: "2016/02/18/200912"
 tags: ["ブログ"]
 image: "blog_import_6621acd047848.jpg"
 feature: "blog_import_6621acd047848.jpg"

@@ -2,7 +2,7 @@
 date: 2021-06-29T00:24:52+09:00
 draft: false
 title: "浜野ゴルフでの月例に初参加。競技ゴルフの洗礼を受ける！？"
-slug: "2021/06/29"
+slug: "2021/06/29/002452"
 tags: ["ゴルフ"]
 image: "blog_import_6621e3a9252fe.jpg"
 feature: "blog_import_6621e3a9252fe.jpg"

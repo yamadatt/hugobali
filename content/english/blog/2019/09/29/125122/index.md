@@ -2,7 +2,7 @@
 date: 2019-09-29T12:51:22+09:00
 draft: false
 title: "勉強が趣味って人には勝てないな。。趣味でＴＯＥＩＣ受ける長田先生。"
-slug: "2019/09/29"
+slug: "2019/09/29/125122"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d02671738.png"
 feature: "blog_import_6621d02671738.png"

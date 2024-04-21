@@ -2,7 +2,7 @@
 date: 2021-08-02T23:30:17+09:00
 draft: false
 title: "急遽決定！？大人のゴルフ合宿in南伊豆：８月１２日～１４日。"
-slug: "2021/08/02"
+slug: "2021/08/02/233017"
 tags: ["ゴルフ"]
 image: "blog_import_6621e4c6df7fe.jpg"
 feature: "blog_import_6621e4c6df7fe.jpg"

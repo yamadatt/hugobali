@@ -2,7 +2,7 @@
 date: 2016-10-07T23:21:27+09:00
 draft: false
 title: "「あぶく銭」投資の方法"
-slug: "2016/10/07"
+slug: "2016/10/07/232127"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b4a422b83.jpg"
 feature: "blog_import_6621b4a422b83.jpg"

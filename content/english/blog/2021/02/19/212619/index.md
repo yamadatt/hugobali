@@ -2,7 +2,7 @@
 date: 2021-02-19T21:26:19+09:00
 draft: false
 title: "人間関係を悪化させない、平等な提案とは？"
-slug: "2021/02/19"
+slug: "2021/02/19/212619"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e0809f43d.png"
 feature: "blog_import_6621e0809f43d.png"

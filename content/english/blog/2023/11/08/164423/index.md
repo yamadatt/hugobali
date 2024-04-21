@@ -2,7 +2,7 @@
 date: 2023-11-08T16:44:23+09:00
 draft: false
 title: "助手席でのスマホいじりは、ほどほどに。。"
-slug: "2023/11/08"
+slug: "2023/11/08/164423"
 tags: ["プライベートな話"]
 image: "blog_import_6621fe1d9dead.png"
 feature: "blog_import_6621fe1d9dead.png"

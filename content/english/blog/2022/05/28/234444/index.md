@@ -2,7 +2,7 @@
 date: 2022-05-28T23:44:44+09:00
 draft: false
 title: "２回目のファスティング合宿中。少し慣れたかな"
-slug: "2022/05/28"
+slug: "2022/05/28/234444"
 tags: ["ファスティング合宿ダイエット"]
 image: "blog_import_6621ee22a0a13.jpg"
 feature: "blog_import_6621ee22a0a13.jpg"

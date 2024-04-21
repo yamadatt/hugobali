@@ -2,7 +2,7 @@
 date: 2018-06-19T19:20:37+09:00
 draft: false
 title: "食事会の感想「同じことをしても、活躍している人はクオリティが違う！？」"
-slug: "2018/06/19"
+slug: "2018/06/19/192037"
 tags: ["バリ島の自社物件"]
 image: "blog_import_6621c42b1a5d3.jpg"
 feature: "blog_import_6621c42b1a5d3.jpg"

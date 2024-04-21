@@ -2,7 +2,7 @@
 date: 2022-04-07T01:04:20+09:00
 draft: false
 title: "「かかりつけ医」って、なんだろう？"
-slug: "2022/04/07"
+slug: "2022/04/07/010420"
 tags: ["プライベートな話"]
 image: "blog_import_6621ecee72b26.jpg"
 feature: "blog_import_6621ecee72b26.jpg"

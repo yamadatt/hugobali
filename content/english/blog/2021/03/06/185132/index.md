@@ -2,7 +2,7 @@
 date: 2021-03-06T18:51:32+09:00
 draft: false
 title: "馬場ゴルフ部の年間活動予定。コンペ料金のお知らせ。"
-slug: "2021/03/06"
+slug: "2021/03/06/185132"
 tags: ["ゴルフ"]
 image: "blog_import_6621e0cf002e9.png"
 feature: "blog_import_6621e0cf002e9.png"

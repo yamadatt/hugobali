@@ -2,7 +2,7 @@
 date: 2015-10-30T23:29:36+09:00
 draft: false
 title: "自己嫌悪と感謝"
-slug: "2015/10/30"
+slug: "2015/10/30/232936"
 tags: ["ブログ"]
 image: ""
 feature: ""

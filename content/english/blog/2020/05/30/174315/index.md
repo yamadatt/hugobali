@@ -2,7 +2,7 @@
 date: 2020-05-30T17:43:15+09:00
 draft: false
 title: "バリ島での自粛生活で、タケシは目覚めるか！？"
-slug: "2020/05/30"
+slug: "2020/05/30/174315"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621da5993cb6.png"
 feature: "blog_import_6621da5993cb6.png"

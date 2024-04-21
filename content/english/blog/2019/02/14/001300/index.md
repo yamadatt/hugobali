@@ -2,7 +2,7 @@
 date: 2019-02-14T00:13:00+09:00
 draft: false
 title: "「忙しいサラリーマンでもできる！？」リスク限定の株式投資セミナー ３月１５日"
-slug: "2019/02/14"
+slug: "2019/02/14/001300"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c9d027fcc.jpg"
 feature: "blog_import_6621c9d027fcc.jpg"

@@ -2,7 +2,7 @@
 date: 2022-04-08T02:56:14+09:00
 draft: false
 title: "インフレ社会への大転換！？ぬるま湯のゆでガエルになるな。"
-slug: "2022/04/08"
+slug: "2022/04/08/025614"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ecf1dabbf.jpg"
 feature: "blog_import_6621ecf1dabbf.jpg"

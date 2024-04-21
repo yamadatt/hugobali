@@ -2,7 +2,7 @@
 date: 2021-06-02T14:48:06+09:00
 draft: false
 title: "今回のキッチンカー投資案件は、募集終了です。12月の案件はどうなっているのか？"
-slug: "2021/06/02"
+slug: "2021/06/02/144806"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621e2f655855.png"
 feature: "blog_import_6621e2f655855.png"

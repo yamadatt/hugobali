@@ -2,7 +2,7 @@
 date: 2014-09-10T00:07:08+09:00
 draft: false
 title: "バリ島不動産　ギャニャール　高級ヴィラ　約１億円"
-slug: "2014/09/10"
+slug: "2014/09/10/000708"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621a82dc1f87.jpg"
 feature: "blog_import_6621a82dc1f87.jpg"

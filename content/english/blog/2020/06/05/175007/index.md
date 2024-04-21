@@ -2,7 +2,7 @@
 date: 2020-06-05T17:50:07+09:00
 draft: false
 title: "お金を生む概念を見直してみよう。その２「お金より愛が大切」っていう人は、馬鹿か？"
-slug: "2020/06/05"
+slug: "2020/06/05/175007"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621da72390ca.png"
 feature: "blog_import_6621da72390ca.png"

@@ -2,7 +2,7 @@
 date: 2018-08-08T23:59:15+09:00
 draft: false
 title: "株式投資家Ｉさんから、１人京都の写真"
-slug: "2018/08/08"
+slug: "2018/08/08/235915"
 tags: ["プライベートな話"]
 image: "blog_import_6621c595ad927.jpg"
 feature: "blog_import_6621c595ad927.jpg"

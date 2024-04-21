@@ -2,7 +2,7 @@
 date: 2019-11-28T01:05:52+09:00
 draft: false
 title: "１２月１８日(水）第９回成長株投資の実践会「結果がすべて。ズバリ！！銘柄とタイミングを示す」"
-slug: "2019/11/28"
+slug: "2019/11/28/010552"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d2b52397a.png"
 feature: "blog_import_6621d2b52397a.png"

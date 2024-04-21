@@ -2,7 +2,7 @@
 date: 2024-03-20T20:36:07+09:00
 draft: false
 title: "幸福度ランキング、今年は５１位。日本が毎年惨敗する理由は？"
-slug: "2024/03/20"
+slug: "2024/03/20/203607"
 tags: ["プライベートな話"]
 image: "blog_import_66219ad427a06.png"
 feature: "blog_import_66219ad427a06.png"

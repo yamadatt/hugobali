@@ -2,7 +2,7 @@
 date: 2014-09-15T03:04:59+09:00
 draft: false
 title: "R15　バニュワンギの☓☓☓"
-slug: "2014/09/15"
+slug: "2014/09/15/030459"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621a8aed3261.jpg"
 feature: "blog_import_6621a8aed3261.jpg"

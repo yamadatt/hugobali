@@ -2,7 +2,7 @@
 date: 2017-06-20T22:51:32+09:00
 draft: false
 title: "肌が合わないヤツ"
-slug: "2017/06/20"
+slug: "2017/06/20/225132"
 tags: ["プライベートな話"]
 image: "blog_import_6621bc094ff68.jpg"
 feature: "blog_import_6621bc094ff68.jpg"

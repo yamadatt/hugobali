@@ -2,7 +2,7 @@
 date: 2017-07-19T11:48:32+09:00
 draft: false
 title: "バリ島不動産セミナーin仙台 8月19日"
-slug: "2017/07/19"
+slug: "2017/07/19/114832"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621bc5bf2f26.jpg"
 feature: "blog_import_6621bc5bf2f26.jpg"

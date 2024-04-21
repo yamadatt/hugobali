@@ -2,7 +2,7 @@
 date: 2015-03-10T14:04:35+09:00
 draft: false
 title: "ウブド　売地300㎡　約900万円　フリーホールド"
-slug: "2015/03/10"
+slug: "2015/03/10/140435"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621aa35419f1.jpg"
 feature: "blog_import_6621aa35419f1.jpg"

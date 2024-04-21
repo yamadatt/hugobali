@@ -2,7 +2,7 @@
 date: 2023-09-05T20:21:28+09:00
 draft: false
 title: "相続税のお助け投資！？5000万円出して配当1000万円。担保アリ！！"
-slug: "2023/09/05"
+slug: "2023/09/05/202128"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621fca37bbef.png"
 feature: "blog_import_6621fca37bbef.png"

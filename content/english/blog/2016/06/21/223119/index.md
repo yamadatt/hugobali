@@ -2,7 +2,7 @@
 date: 2016-06-21T22:31:19+09:00
 draft: false
 title: "ルピア円の為替でやられた"
-slug: "2016/06/21"
+slug: "2016/06/21/223119"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b062be778.jpg"
 feature: "blog_import_6621b062be778.jpg"

@@ -2,7 +2,7 @@
 date: 2021-11-08T21:03:32+09:00
 draft: false
 title: "セミナー終了後のプレゼント「長田レポート」とは、どのようなものなのか？"
-slug: "2021/11/08"
+slug: "2021/11/08/210332"
 tags: ["株式投資"]
 image: "blog_import_6621e7867a1ba.png"
 feature: "blog_import_6621e7867a1ba.png"

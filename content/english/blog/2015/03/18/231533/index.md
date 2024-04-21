@@ -2,7 +2,7 @@
 date: 2015-03-18T23:15:33+09:00
 draft: false
 title: "インドネシアの保険商品"
-slug: "2015/03/18"
+slug: "2015/03/18/231533"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621aa5d50040.jpg"
 feature: "blog_import_6621aa5d50040.jpg"

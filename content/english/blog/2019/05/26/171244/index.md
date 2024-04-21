@@ -2,7 +2,7 @@
 date: 2019-05-26T17:12:44+09:00
 draft: false
 title: "現代アート投資の魅力とメリット！？その２　作品の価格はどのように上がるのか"
-slug: "2019/05/26"
+slug: "2019/05/26/171244"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621ccda28d1a.png"
 feature: "blog_import_6621ccda28d1a.png"

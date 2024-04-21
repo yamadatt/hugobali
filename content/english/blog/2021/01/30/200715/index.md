@@ -2,7 +2,7 @@
 date: 2021-01-30T20:07:15+09:00
 draft: false
 title: "【売ビル１５億円！？】港区赤坂、青山通り沿いの超一等地。威張りきくなあ、コレ。"
-slug: "2021/01/30"
+slug: "2021/01/30/200715"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621e0256d567.png"
 feature: "blog_import_6621e0256d567.png"

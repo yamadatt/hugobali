@@ -2,7 +2,7 @@
 date: 2023-10-14T18:38:50+09:00
 draft: false
 title: "スミニャックの広いレトロな売ヴィラ　約1600万円。安いけど。。"
-slug: "2023/10/14"
+slug: "2023/10/14/183850"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621fd5d5c9c8.jpg"
 feature: "blog_import_6621fd5d5c9c8.jpg"

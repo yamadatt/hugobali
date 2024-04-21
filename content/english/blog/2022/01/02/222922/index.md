@@ -2,7 +2,7 @@
 date: 2022-01-02T22:29:22+09:00
 draft: false
 title: "年の初めに。。「歳をとって金があっても意味がない。やりたいことは先延ばしにせずやろう」"
-slug: "2022/01/02"
+slug: "2022/01/02/222922"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e93599d29.png"
 feature: "blog_import_6621e93599d29.png"

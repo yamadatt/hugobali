@@ -2,7 +2,7 @@
 date: 2020-06-26T00:27:24+09:00
 draft: false
 title: "利回り３６％。担保付きの固い投資案件です"
-slug: "2020/06/26"
+slug: "2020/06/26/002724"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621daec03874.png"
 feature: "blog_import_6621daec03874.png"

@@ -2,7 +2,7 @@
 date: 2016-07-18T17:16:48+09:00
 draft: false
 title: "バリ島　ウブドの売コンドミニアム　約５２０万円　利回り１６.６％"
-slug: "2016/07/18"
+slug: "2016/07/18/171648"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621b13e4d7fc.jpg"
 feature: "blog_import_6621b13e4d7fc.jpg"

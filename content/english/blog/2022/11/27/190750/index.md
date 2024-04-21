@@ -2,7 +2,7 @@
 date: 2022-11-27T19:07:50+09:00
 draft: false
 title: "ホテルの看板設置。結構いいのができた！？動画アリ"
-slug: "2022/11/27"
+slug: "2022/11/27/190750"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621f339bbf6a.jpg"
 feature: "blog_import_6621f339bbf6a.jpg"

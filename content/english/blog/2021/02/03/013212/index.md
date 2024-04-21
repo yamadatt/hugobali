@@ -2,7 +2,7 @@
 date: 2021-02-03T01:32:12+09:00
 draft: false
 title: "自分に合った「生き方」を見つけよう。今川氏真の生き方もアリでは！？"
-slug: "2021/02/03"
+slug: "2021/02/03/013212"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e0318b8d7.png"
 feature: "blog_import_6621e0318b8d7.png"

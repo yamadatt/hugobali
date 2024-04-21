@@ -2,7 +2,7 @@
 date: 2018-07-16T22:04:45+09:00
 draft: false
 title: "名古屋セミナーの御礼、皆さま、ありがとうございました"
-slug: "2018/07/16"
+slug: "2018/07/16/220445"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c503cdf8c.jpg"
 feature: "blog_import_6621c503cdf8c.jpg"

@@ -2,7 +2,7 @@
 date: 2016-07-30T14:01:40+09:00
 draft: false
 title: "土用の丑の日、神楽坂の「志満金」へ"
-slug: "2016/07/30"
+slug: "2016/07/30/140140"
 tags: ["ブログ"]
 image: "blog_import_6621b1a081f37.jpg"
 feature: "blog_import_6621b1a081f37.jpg"

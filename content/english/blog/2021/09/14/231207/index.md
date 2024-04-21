@@ -2,7 +2,7 @@
 date: 2021-09-14T23:12:07+09:00
 draft: false
 title: "バリ島の不動産は、そろそろ買い時！？相場より３割安ければ買い？"
-slug: "2021/09/14"
+slug: "2021/09/14/231207"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621e5fd7598e.jpg"
 feature: "blog_import_6621e5fd7598e.jpg"

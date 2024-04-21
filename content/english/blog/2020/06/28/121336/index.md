@@ -2,7 +2,7 @@
 date: 2020-06-28T12:13:36+09:00
 draft: false
 title: "論より証拠！？長田先生は、なぜ、ブチ上げ銘柄を見つけられるのか。"
-slug: "2020/06/28"
+slug: "2020/06/28/121336"
 tags: ["株式投資"]
 image: "blog_import_6621daf7f3276.png"
 feature: "blog_import_6621daf7f3276.png"

@@ -2,7 +2,7 @@
 date: 2016-01-01T10:09:11+09:00
 draft: false
 title: "謹賀新年。美人スタッフの結婚式"
-slug: "2016/01/01"
+slug: "2016/01/01/100911"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621aba5eaccc.jpg"
 feature: "blog_import_6621aba5eaccc.jpg"

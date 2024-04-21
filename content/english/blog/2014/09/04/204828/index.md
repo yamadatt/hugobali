@@ -2,7 +2,7 @@
 date: 2014-09-04T20:48:28+09:00
 draft: false
 title: "レンボガン島でのんびりたい"
-slug: "2014/09/04"
+slug: "2014/09/04/204828"
 tags: ["ブログ"]
 image: "blog_import_6621a7e24d307.jpg"
 feature: "blog_import_6621a7e24d307.jpg"

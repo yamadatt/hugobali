@@ -2,7 +2,7 @@
 date: 2023-08-07T23:14:04+09:00
 draft: false
 title: "魚は漁師さんから直接買えるのか！？幻の魚「大型の地キンメ」の美味さはハンパない！？"
-slug: "2023/08/07"
+slug: "2023/08/07/231404"
 tags: ["プライベートな話"]
 image: "blog_import_6621fbd566ecb.jpg"
 feature: "blog_import_6621fbd566ecb.jpg"

@@ -2,7 +2,7 @@
 date: 2021-11-19T22:06:45+09:00
 draft: false
 title: "千葉県売ラブホテル：約３８００万円！？「これは安い！！利回り１５％超」"
-slug: "2021/11/19"
+slug: "2021/11/19/220645"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621e7d0ddf98.png"
 feature: "blog_import_6621e7d0ddf98.png"

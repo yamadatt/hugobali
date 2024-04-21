@@ -2,7 +2,7 @@
 date: 2017-05-23T23:00:00+09:00
 draft: false
 title: "年輩者のバリ島移住は、アリなんだろうな"
-slug: "2017/05/23"
+slug: "2017/05/23/230000"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621bb8b67a73.jpg"
 feature: "blog_import_6621bb8b67a73.jpg"

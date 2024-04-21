@@ -2,7 +2,7 @@
 date: 2023-12-20T19:44:52+09:00
 draft: false
 title: "第33回馬場ゴルフ月例。はじめてのチャンピオン戦"
-slug: "2023/12/20"
+slug: "2023/12/20/194452"
 tags: ["ゴルフ"]
 image: "blog_import_6621ff0441980.jpg"
 feature: "blog_import_6621ff0441980.jpg"

@@ -2,7 +2,7 @@
 date: 2022-09-16T23:50:03+09:00
 draft: false
 title: "投資はババ抜き？"
-slug: "2022/09/16"
+slug: "2022/09/16/235003"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f125701c1.jpg"
 feature: "blog_import_6621f125701c1.jpg"

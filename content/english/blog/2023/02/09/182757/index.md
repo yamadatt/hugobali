@@ -2,7 +2,7 @@
 date: 2023-02-09T18:27:57+09:00
 draft: false
 title: "２月１７日成長株基礎セミナー「情報収集の方法、その活かし方」"
-slug: "2023/02/09"
+slug: "2023/02/09/182757"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621f5d28d835.png"
 feature: "blog_import_6621f5d28d835.png"

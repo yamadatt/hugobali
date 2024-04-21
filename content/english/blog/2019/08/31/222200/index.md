@@ -2,7 +2,7 @@
 date: 2019-08-31T22:22:00+09:00
 draft: false
 title: "インドネシア人女性の嫉妬深さは異常だ"
-slug: "2019/08/31"
+slug: "2019/08/31/222200"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621cfb778dd0.png"
 feature: "blog_import_6621cfb778dd0.png"

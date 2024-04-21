@@ -2,7 +2,7 @@
 date: 2020-05-25T23:28:54+09:00
 draft: false
 title: "長田レポート～コロナ後の投資戦略～その１「これからの相場展開」"
-slug: "2020/05/25"
+slug: "2020/05/25/232854"
 tags: ["株式投資"]
 image: "blog_import_6621da40dd158.png"
 feature: "blog_import_6621da40dd158.png"

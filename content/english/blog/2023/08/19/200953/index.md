@@ -2,7 +2,7 @@
 date: 2023-08-19T20:09:53+09:00
 draft: false
 title: "明日は浜野ゴルフの月例Ｂクラス。今度こそ優勝するぞ！！"
-slug: "2023/08/19"
+slug: "2023/08/19/200953"
 tags: ["ゴルフ"]
 image: "blog_import_6621fc19aef0d.jpg"
 feature: "blog_import_6621fc19aef0d.jpg"

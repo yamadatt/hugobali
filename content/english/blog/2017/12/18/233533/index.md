@@ -2,7 +2,7 @@
 date: 2017-12-18T23:35:33+09:00
 draft: false
 title: "明日から新潟出張"
-slug: "2017/12/18"
+slug: "2017/12/18/233533"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621bf84a1064.jpg"
 feature: "blog_import_6621bf84a1064.jpg"

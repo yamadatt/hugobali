@@ -2,7 +2,7 @@
 date: 2014-09-11T23:59:07+09:00
 draft: false
 title: "バリ人の生活水準"
-slug: "2014/09/11"
+slug: "2014/09/11/235907"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621a87dbf40b.jpg"
 feature: "blog_import_6621a87dbf40b.jpg"

@@ -2,7 +2,7 @@
 date: 2018-07-13T17:17:45+09:00
 draft: false
 title: "今、新幹線の中でセミナーのネタ考えてる〜"
-slug: "2018/07/13"
+slug: "2018/07/13/171745"
 tags: ["プライベートな話"]
 image: "blog_import_6621c5004c27e.jpg"
 feature: "blog_import_6621c5004c27e.jpg"

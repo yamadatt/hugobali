@@ -2,7 +2,7 @@
 date: 2018-09-07T21:30:10+09:00
 draft: false
 title: "残席少！【第１回】ふりーパパの株式投資セミナー　９月１３日"
-slug: "2018/09/07"
+slug: "2018/09/07/213010"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c5fe21402.jpg"
 feature: "blog_import_6621c5fe21402.jpg"

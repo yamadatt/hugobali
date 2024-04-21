@@ -2,7 +2,7 @@
 date: 2017-10-30T18:30:36+09:00
 draft: false
 title: "アグン山の噴火は、不動産購入に吉か凶か！？"
-slug: "2017/10/30"
+slug: "2017/10/30/183036"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621be454e061.jpg"
 feature: "blog_import_6621be454e061.jpg"

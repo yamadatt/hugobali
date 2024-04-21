@@ -2,7 +2,7 @@
 date: 2014-08-19T20:47:11+09:00
 draft: false
 title: "賃貸ヴィラ　バリ島サヌール2.5アール　年間賃料約280万円"
-slug: "2014/08/19"
+slug: "2014/08/19/204711"
 tags: ["バリ島ロングステイ向け賃貸物件"]
 image: "blog_import_6621a5f746658.jpg"
 feature: "blog_import_6621a5f746658.jpg"

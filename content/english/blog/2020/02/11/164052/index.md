@@ -2,7 +2,7 @@
 date: 2020-02-11T16:40:52+09:00
 draft: false
 title: "３５０万 → １０００万へ。「株価を追うな、価値を追え」"
-slug: "2020/02/11"
+slug: "2020/02/11/164052"
 tags: ["株式投資"]
 image: "blog_import_6621d6ccdae8f.png"
 feature: "blog_import_6621d6ccdae8f.png"

@@ -2,7 +2,7 @@
 date: 2019-05-09T00:53:33+09:00
 draft: false
 title: "女心はわからない。。「プールで食事したいですか！？」"
-slug: "2019/05/09"
+slug: "2019/05/09/005333"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621cc6b73c82.jpg"
 feature: "blog_import_6621cc6b73c82.jpg"

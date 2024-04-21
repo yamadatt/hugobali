@@ -2,7 +2,7 @@
 date: 2018-08-04T15:56:35+09:00
 draft: false
 title: "これからアタのサークルバッグが流行る？"
-slug: "2018/08/04"
+slug: "2018/08/04/155635"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c55aca3d5.jpg"
 feature: "blog_import_6621c55aca3d5.jpg"

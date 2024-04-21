@@ -2,7 +2,7 @@
 date: 2017-12-13T19:00:25+09:00
 draft: false
 title: "一発目の起業 or 副業は、具体的に何をすればいいのか？"
-slug: "2017/12/13"
+slug: "2017/12/13/190025"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621bf58c87c8.jpg"
 feature: "blog_import_6621bf58c87c8.jpg"

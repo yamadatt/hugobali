@@ -2,7 +2,7 @@
 date: 2021-02-06T22:11:30+09:00
 draft: false
 title: "金持ち経営者をゲットするのは、どんな女性？"
-slug: "2021/02/06"
+slug: "2021/02/06/221130"
 tags: ["プライベートな話"]
 image: "blog_import_6621e042314f5.png"
 feature: "blog_import_6621e042314f5.png"

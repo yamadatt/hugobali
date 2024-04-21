@@ -2,7 +2,7 @@
 date: 2017-02-14T19:29:41+09:00
 draft: false
 title: "タバナンのビーチフロントの売地　3780㎡"
-slug: "2017/02/14"
+slug: "2017/02/14/192941"
 tags: ["ブログ"]
 image: "blog_import_6621b9bfac9e6.jpg"
 feature: "blog_import_6621b9bfac9e6.jpg"

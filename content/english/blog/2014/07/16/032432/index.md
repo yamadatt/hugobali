@@ -2,7 +2,7 @@
 date: 2014-07-16T03:24:32+09:00
 draft: false
 title: "ガルーダ・インドネシア　エグゼクティブクラス（ビジネスクラス）"
-slug: "2014/07/16"
+slug: "2014/07/16/032432"
 tags: ["ブログ"]
 image: "blog_import_6621a40ed89db.jpg"
 feature: "blog_import_6621a40ed89db.jpg"

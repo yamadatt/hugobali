@@ -2,7 +2,7 @@
 date: 2019-11-11T22:20:00+09:00
 draft: false
 title: "観光案内に便利なバトワン寺院"
-slug: "2019/11/11"
+slug: "2019/11/11/222000"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621d2313b0c1.jpg"
 feature: "blog_import_6621d2313b0c1.jpg"

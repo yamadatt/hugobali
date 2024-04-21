@@ -2,7 +2,7 @@
 date: 2016-08-24T00:08:37+09:00
 draft: false
 title: "人生は将棋じゃない、麻雀なんだよ。"
-slug: "2016/08/24"
+slug: "2016/08/24/000837"
 tags: ["プライベートな話"]
 image: "blog_import_6621b2e608269.jpg"
 feature: "blog_import_6621b2e608269.jpg"

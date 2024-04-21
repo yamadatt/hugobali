@@ -2,7 +2,7 @@
 date: 2019-05-24T00:07:40+09:00
 draft: false
 title: "ＴＵＢＥのライブ(in 武道館)。やっぱり夏はＴＵＢＥだな"
-slug: "2019/05/24"
+slug: "2019/05/24/000740"
 tags: ["プライベートな話"]
 image: "blog_import_6621ccc809a5d.jpg"
 feature: "blog_import_6621ccc809a5d.jpg"

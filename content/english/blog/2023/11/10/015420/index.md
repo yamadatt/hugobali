@@ -2,7 +2,7 @@
 date: 2023-11-10T01:54:20+09:00
 draft: false
 title: "真面目な経営者が陥るワナ"
-slug: "2023/11/10"
+slug: "2023/11/10/015420"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621fe220c89d.png"
 feature: "blog_import_6621fe220c89d.png"

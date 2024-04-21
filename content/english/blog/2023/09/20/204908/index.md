@@ -2,7 +2,7 @@
 date: 2023-09-20T20:49:08+09:00
 draft: false
 title: "９月２２日(金）第５４回成長株実践セミナー「きたきた証券株。金融株って！？」"
-slug: "2023/09/20"
+slug: "2023/09/20/204908"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621fceec1a71.png"
 feature: "blog_import_6621fceec1a71.png"

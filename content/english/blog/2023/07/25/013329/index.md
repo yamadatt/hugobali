@@ -2,7 +2,7 @@
 date: 2023-07-25T01:33:29+09:00
 draft: false
 title: "ラブホテルの耐用年数問題。チャンスは来るのか！？"
-slug: "2023/07/25"
+slug: "2023/07/25/013329"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621fb975db16.png"
 feature: "blog_import_6621fb975db16.png"

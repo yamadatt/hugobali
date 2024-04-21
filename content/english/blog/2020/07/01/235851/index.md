@@ -2,7 +2,7 @@
 date: 2020-07-01T23:58:51+09:00
 draft: false
 title: "ビジネスにおける立地の大切さ。不親切なスポーツジムに学ぶ。"
-slug: "2020/07/01"
+slug: "2020/07/01/235851"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621db175f186.png"
 feature: "blog_import_6621db175f186.png"

@@ -2,7 +2,7 @@
 date: 2019-08-06T22:52:48+09:00
 draft: false
 title: "バリ島のグリーンベルト（調整区域）の土地購入は、おトクか！？"
-slug: "2019/08/06"
+slug: "2019/08/06/225248"
 tags: ["トラブルの話"]
 image: "blog_import_6621cf6acb18b.jpg"
 feature: "blog_import_6621cf6acb18b.jpg"

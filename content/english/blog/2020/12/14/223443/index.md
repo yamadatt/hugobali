@@ -2,7 +2,7 @@
 date: 2020-12-14T22:34:43+09:00
 draft: false
 title: "１２月１８日(金）第３回：中高生向け「株式投資勉強会」のご案内"
-slug: "2020/12/14"
+slug: "2020/12/14/223443"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621df3ae2f16.jpg"
 feature: "blog_import_6621df3ae2f16.jpg"

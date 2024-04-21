@@ -2,7 +2,7 @@
 date: 2020-04-09T22:28:21+09:00
 draft: false
 title: "先週開催の「第７回初心者向け成長株セミナー」視聴者の感想"
-slug: "2020/04/09"
+slug: "2020/04/09/222821"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d8465f963.jpg"
 feature: "blog_import_6621d8465f963.jpg"

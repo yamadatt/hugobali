@@ -2,7 +2,7 @@
 date: 2014-09-07T01:42:15+09:00
 draft: false
 title: "バリ島の銀行口座"
-slug: "2014/09/07"
+slug: "2014/09/07/014215"
 tags: ["バリ島でのロングステイ"]
 image: "blog_import_6621a7f71c659.jpg"
 feature: "blog_import_6621a7f71c659.jpg"

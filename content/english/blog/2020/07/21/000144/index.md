@@ -2,7 +2,7 @@
 date: 2020-07-21T00:01:44+09:00
 draft: false
 title: "人生に「答え」はない。あるのは「納得」じゃないかな。"
-slug: "2020/07/21"
+slug: "2020/07/21/000144"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621dba1501e1.png"
 feature: "blog_import_6621dba1501e1.png"

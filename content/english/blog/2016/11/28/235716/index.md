@@ -2,7 +2,7 @@
 date: 2016-11-28T23:57:16+09:00
 draft: false
 title: "「大阪冬の陣」に思う脅しの交渉"
-slug: "2016/11/28"
+slug: "2016/11/28/235716"
 tags: ["プライベートな話"]
 image: "blog_import_6621b704cfa3b.jpg"
 feature: "blog_import_6621b704cfa3b.jpg"

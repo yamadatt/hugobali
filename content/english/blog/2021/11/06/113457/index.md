@@ -2,7 +2,7 @@
 date: 2021-11-06T11:34:57+09:00
 draft: false
 title: "これは希少！！バリ島の売地２７２６万円「海の前、ビーチフロントの土地が出た！？」"
-slug: "2021/11/06"
+slug: "2021/11/06/113457"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621e773786cc.jpg"
 feature: "blog_import_6621e773786cc.jpg"

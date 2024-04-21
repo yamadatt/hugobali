@@ -2,7 +2,7 @@
 date: 2023-08-12T15:53:39+09:00
 draft: false
 title: "深夜のバイク荒らしの犯人は！？証拠画像アリ。inバリ島"
-slug: "2023/08/12"
+slug: "2023/08/12/155339"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621fbdb2b565.png"
 feature: "blog_import_6621fbdb2b565.png"

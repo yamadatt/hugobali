@@ -2,7 +2,7 @@
 date: 2019-09-20T00:37:08+09:00
 draft: false
 title: "サウジアラビア女性は大変だ。バリ島でも権利は制限される！？"
-slug: "2019/09/20"
+slug: "2019/09/20/003708"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621cfecb7dd5.png"
 feature: "blog_import_6621cfecb7dd5.png"

@@ -2,7 +2,7 @@
 date: 2023-10-27T02:10:38+09:00
 draft: false
 title: "１１月２２日(水）第７回暗号通貨の勉強会「チャンスを迎える今、どうすべきか」"
-slug: "2023/10/27"
+slug: "2023/10/27/021038"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621fddd49b2e.png"
 feature: "blog_import_6621fddd49b2e.png"

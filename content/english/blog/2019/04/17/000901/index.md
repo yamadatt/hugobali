@@ -2,7 +2,7 @@
 date: 2019-04-17T00:09:01+09:00
 draft: false
 title: "今週の金曜日（１９日）はバリ島不動産セミナー"
-slug: "2019/04/17"
+slug: "2019/04/17/000901"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cba145f3a.jpg"
 feature: "blog_import_6621cba145f3a.jpg"

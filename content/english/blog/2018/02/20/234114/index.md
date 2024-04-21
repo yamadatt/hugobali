@@ -2,7 +2,7 @@
 date: 2018-02-20T23:41:14+09:00
 draft: false
 title: "ヴィラで大音響パーティーをやる迷惑なロシア人客"
-slug: "2018/02/20"
+slug: "2018/02/20/234114"
 tags: ["トラブルの話"]
 image: "blog_import_6621c1d027b66.jpg"
 feature: "blog_import_6621c1d027b66.jpg"

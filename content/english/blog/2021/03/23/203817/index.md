@@ -2,7 +2,7 @@
 date: 2021-03-23T20:38:17+09:00
 draft: false
 title: "成功したいなら、お礼ができる人になろう"
-slug: "2021/03/23"
+slug: "2021/03/23/203817"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e16bac821.png"
 feature: "blog_import_6621e16bac821.png"

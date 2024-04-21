@@ -2,7 +2,7 @@
 date: 2021-11-07T13:57:21+09:00
 draft: false
 title: "【保存用】来年（2022年）の成長株セミナーの日程決定！！"
-slug: "2021/11/07"
+slug: "2021/11/07/135721"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621e78354fea.jpg"
 feature: "blog_import_6621e78354fea.jpg"

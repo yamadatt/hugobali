@@ -2,7 +2,7 @@
 date: 2016-07-13T15:05:53+09:00
 draft: false
 title: "良い物件を安く買うポイント「アナログだからチャンスがある」"
-slug: "2016/07/13"
+slug: "2016/07/13/150553"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b0fc75e00.jpg"
 feature: "blog_import_6621b0fc75e00.jpg"

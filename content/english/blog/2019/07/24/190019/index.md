@@ -2,7 +2,7 @@
 date: 2019-07-24T19:00:19+09:00
 draft: false
 title: "売ラブホテル３連発！！その①群馬県　価格３８００万円　利回り１５％"
-slug: "2019/07/24"
+slug: "2019/07/24/190019"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621ceeb2a8e6.jpg"
 feature: "blog_import_6621ceeb2a8e6.jpg"

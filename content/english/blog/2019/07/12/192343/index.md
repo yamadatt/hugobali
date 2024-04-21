@@ -2,7 +2,7 @@
 date: 2019-07-12T19:23:43+09:00
 draft: false
 title: "「アンティークコイン投資」講師：星田一樹のセミナーへの思い＆プロフィール"
-slug: "2019/07/12"
+slug: "2019/07/12/192343"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ceabcb3d3.jpg"
 feature: "blog_import_6621ceabcb3d3.jpg"

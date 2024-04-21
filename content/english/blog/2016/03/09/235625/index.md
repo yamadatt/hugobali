@@ -2,7 +2,7 @@
 date: 2016-03-09T23:56:25+09:00
 draft: false
 title: "ニュピとオゴオゴ"
-slug: "2016/03/09"
+slug: "2016/03/09/235625"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621ade539c30.jpg"
 feature: "blog_import_6621ade539c30.jpg"

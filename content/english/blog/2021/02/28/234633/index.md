@@ -2,7 +2,7 @@
 date: 2021-02-28T23:46:33+09:00
 draft: false
 title: "馬場ゴルフ部は３３名で発足！！年間スケジュールを決めた。"
-slug: "2021/02/28"
+slug: "2021/02/28/234633"
 tags: ["プライベートな話"]
 image: "blog_import_6621e0b5380dc.jpg"
 feature: "blog_import_6621e0b5380dc.jpg"

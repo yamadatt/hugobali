@@ -2,7 +2,7 @@
 date: 2024-01-14T21:04:34+09:00
 draft: false
 title: "日本から出ると、日常の幸せを実感できる"
-slug: "2024/01/14"
+slug: "2024/01/14/210434"
 tags: ["プライベートな話"]
 image: "blog_import_6621ff430b6e0.jpg"
 feature: "blog_import_6621ff430b6e0.jpg"

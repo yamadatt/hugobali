@@ -2,7 +2,7 @@
 date: 2020-05-18T18:20:40+09:00
 draft: false
 title: "「コロナ禍の暴落」で、初心者の皆さんは何を思っているのか。セミナーの感想。"
-slug: "2020/05/18"
+slug: "2020/05/18/182040"
 tags: ["株式投資"]
 image: "blog_import_6621da1633711.jpg"
 feature: "blog_import_6621da1633711.jpg"

@@ -2,7 +2,7 @@
 date: 2022-10-18T18:12:38+09:00
 draft: false
 title: "先輩からインドの治療に誘われた。「パンチャカルマ」って何だ！？"
-slug: "2022/10/18"
+slug: "2022/10/18/181238"
 tags: ["ファスティング合宿ダイエット"]
 image: "blog_import_6621f1d4a83aa.png"
 feature: "blog_import_6621f1d4a83aa.png"

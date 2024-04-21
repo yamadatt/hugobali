@@ -2,7 +2,7 @@
 date: 2018-11-07T22:56:38+09:00
 draft: false
 title: "バリ島スミニャックの新築売ヴィラ実質想定利回り１３.５％"
-slug: "2018/11/07"
+slug: "2018/11/07/225638"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621c768b0c49.jpg"
 feature: "blog_import_6621c768b0c49.jpg"

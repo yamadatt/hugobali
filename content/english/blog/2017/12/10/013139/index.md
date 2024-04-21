@@ -2,7 +2,7 @@
 date: 2017-12-10T01:31:39+09:00
 draft: false
 title: "アグン山の噴火でお客が激減！？スタッフのモチベーションをいかにして保つか。"
-slug: "2017/12/10"
+slug: "2017/12/10/013139"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621bf40b7c3c.jpg"
 feature: "blog_import_6621bf40b7c3c.jpg"

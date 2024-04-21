@@ -2,7 +2,7 @@
 date: 2021-11-14T02:32:50+09:00
 draft: false
 title: "馬場ゴルフ月例：庄田プロの凄まじいゴルフ（－８）は、どんなものだったのか？"
-slug: "2021/11/14"
+slug: "2021/11/14/023250"
 tags: ["ゴルフ"]
 image: "blog_import_6621e7a2e2372.png"
 feature: "blog_import_6621e7a2e2372.png"

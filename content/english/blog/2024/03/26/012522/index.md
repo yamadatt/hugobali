@@ -2,7 +2,7 @@
 date: 2024-03-26T01:25:22+09:00
 draft: false
 title: "インフレの波には、素直に乗ろう"
-slug: "2024/03/26"
+slug: "2024/03/26/012522"
 tags: ["株式投資"]
 image: "blog_import_66219adc84d9f.png"
 feature: "blog_import_66219adc84d9f.png"

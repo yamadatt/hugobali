@@ -2,7 +2,7 @@
 date: 2022-07-18T21:51:25+09:00
 draft: false
 title: "暗号通貨：横濱レポート「まず、少額からやろう。詐欺の洗礼を浴びる！？」"
-slug: "2022/07/18"
+slug: "2022/07/18/215125"
 tags: ["仮想通貨・暗号通貨"]
 image: "blog_import_6621ef96102c4.png"
 feature: "blog_import_6621ef96102c4.png"

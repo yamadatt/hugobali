@@ -2,7 +2,7 @@
 date: 2021-10-15T00:44:25+09:00
 draft: false
 title: "第９回馬場ゴルフ部月例の報告。苦節１年、ＨＣのおかげで優勝！？"
-slug: "2021/10/15"
+slug: "2021/10/15/004425"
 tags: ["ゴルフ"]
 image: "blog_import_6621e6d386f51.jpg"
 feature: "blog_import_6621e6d386f51.jpg"

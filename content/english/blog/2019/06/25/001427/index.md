@@ -2,7 +2,7 @@
 date: 2019-06-25T00:14:27+09:00
 draft: false
 title: "誘いには、気持ちよく乗ろう。松田聖子のＬＩＶＥ行くぞ。"
-slug: "2019/06/25"
+slug: "2019/06/25/001427"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ce1696a34.png"
 feature: "blog_import_6621ce1696a34.png"

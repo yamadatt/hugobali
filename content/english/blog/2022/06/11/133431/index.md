@@ -2,7 +2,7 @@
 date: 2022-06-11T13:34:31+09:00
 draft: false
 title: "会社がピンチの時、してはいけないこと"
-slug: "2022/06/11"
+slug: "2022/06/11/133431"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ee95b2092.png"
 feature: "blog_import_6621ee95b2092.png"

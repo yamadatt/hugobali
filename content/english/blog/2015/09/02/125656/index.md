@@ -2,7 +2,7 @@
 date: 2015-09-02T12:56:56+09:00
 draft: false
 title: "朝日も韓国も馬鹿だな。"
-slug: "2015/09/02"
+slug: "2015/09/02/125656"
 tags: ["ブログ"]
 image: "blog_import_6621ab1a76d8c.jpg"
 feature: "blog_import_6621ab1a76d8c.jpg"

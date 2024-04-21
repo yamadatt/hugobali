@@ -2,7 +2,7 @@
 date: 2023-12-05T00:00:58+09:00
 draft: false
 title: "成田空港近くで、最強とんかつ屋を発見！？"
-slug: "2023/12/05"
+slug: "2023/12/05/000058"
 tags: ["プライベートな話"]
 image: "blog_import_6621feaa9c839.jpg"
 feature: "blog_import_6621feaa9c839.jpg"

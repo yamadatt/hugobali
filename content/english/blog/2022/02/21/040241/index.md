@@ -2,7 +2,7 @@
 date: 2022-02-21T04:02:41+09:00
 draft: false
 title: "秘境に来たしょうもない男たち"
-slug: "2022/02/21"
+slug: "2022/02/21/040241"
 tags: ["プライベートな話"]
 image: "blog_import_6621eacfafa2b.jpg"
 feature: "blog_import_6621eacfafa2b.jpg"

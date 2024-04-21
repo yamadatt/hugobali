@@ -2,7 +2,7 @@
 date: 2014-01-17T15:31:36+09:00
 draft: false
 title: "サヌールヴィラ7.6R　３棟現場建築状況2"
-slug: "2014/01/17"
+slug: "2014/01/17/153136"
 tags: ["バリ島の自社物件"]
 image: "blog_import_6621a356696d1.jpg"
 feature: "blog_import_6621a356696d1.jpg"

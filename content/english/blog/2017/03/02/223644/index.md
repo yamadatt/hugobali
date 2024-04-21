@@ -2,7 +2,7 @@
 date: 2017-03-02T22:36:44+09:00
 draft: false
 title: "オーナー様のヴィラで、本格的バーベキュー"
-slug: "2017/03/02"
+slug: "2017/03/02/223644"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621ba1a433ba.jpg"
 feature: "blog_import_6621ba1a433ba.jpg"

@@ -2,7 +2,7 @@
 date: 2020-04-06T15:53:47+09:00
 draft: false
 title: "日本では民泊業者の廃業が増えている！？でも、バリ島と比べたらマシだ"
-slug: "2020/04/06"
+slug: "2020/04/06/155347"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621d820e1ac3.png"
 feature: "blog_import_6621d820e1ac3.png"

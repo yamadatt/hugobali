@@ -2,7 +2,7 @@
 date: 2016-01-28T15:25:43+09:00
 draft: false
 title: "飛行機の荷物で現金を預けちゃった！？"
-slug: "2016/01/28"
+slug: "2016/01/28/152543"
 tags: ["ブログ"]
 image: "blog_import_6621ac0da226e.jpg"
 feature: "blog_import_6621ac0da226e.jpg"

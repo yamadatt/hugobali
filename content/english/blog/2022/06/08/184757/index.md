@@ -2,7 +2,7 @@
 date: 2022-06-08T18:47:57+09:00
 draft: false
 title: "飽食のサル、飢餓のサル"
-slug: "2022/06/08"
+slug: "2022/06/08/184757"
 tags: ["ファスティング合宿ダイエット"]
 image: "blog_import_6621ee7990e1e.jpg"
 feature: "blog_import_6621ee7990e1e.jpg"

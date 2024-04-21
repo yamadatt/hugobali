@@ -2,7 +2,7 @@
 date: 2024-02-15T21:29:44+09:00
 draft: false
 title: "２月１６日(金）【第５期】第５回成長株の基礎セミナー「損切りのパターンを学ぼう」"
-slug: "2024/02/15"
+slug: "2024/02/15/212944"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621fffd71313.png"
 feature: "blog_import_6621fffd71313.png"

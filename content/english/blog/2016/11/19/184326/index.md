@@ -2,7 +2,7 @@
 date: 2016-11-19T18:43:26+09:00
 draft: false
 title: "来週のバリ島不動産セミナー　１１月２５日残席４、２６日残席５"
-slug: "2016/11/19"
+slug: "2016/11/19/184326"
 tags: ["ブログ"]
 image: "blog_import_6621b6d0e17e2.jpg"
 feature: "blog_import_6621b6d0e17e2.jpg"

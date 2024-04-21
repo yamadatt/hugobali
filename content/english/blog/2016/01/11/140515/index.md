@@ -2,7 +2,7 @@
 date: 2016-01-11T14:05:15+09:00
 draft: false
 title: "偽札"
-slug: "2016/01/11"
+slug: "2016/01/11/140515"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621abbc9f631.jpg"
 feature: "blog_import_6621abbc9f631.jpg"

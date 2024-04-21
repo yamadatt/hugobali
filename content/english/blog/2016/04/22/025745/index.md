@@ -2,7 +2,7 @@
 date: 2016-04-22T02:57:45+09:00
 draft: false
 title: "仕事は嫌なもの"
-slug: "2016/04/22"
+slug: "2016/04/22/025745"
 tags: ["ブログ"]
 image: ""
 feature: ""

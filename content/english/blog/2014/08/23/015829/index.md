@@ -2,7 +2,7 @@
 date: 2014-08-23T01:58:29+09:00
 draft: false
 title: "バリ島個室カラオケ編3　ビーチクラブに誘おう！"
-slug: "2014/08/23"
+slug: "2014/08/23/015829"
 tags: ["超実践！インドネシア語会話"]
 image: "blog_import_6621a74a82762.jpg"
 feature: "blog_import_6621a74a82762.jpg"

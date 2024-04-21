@@ -2,7 +2,7 @@
 date: 2017-03-15T23:18:39+09:00
 draft: false
 title: "現地スタッフの賃上げ要求、完結編"
-slug: "2017/03/15"
+slug: "2017/03/15/231839"
 tags: ["トラブルの話"]
 image: "blog_import_6621ba6c8f3b1.jpg"
 feature: "blog_import_6621ba6c8f3b1.jpg"

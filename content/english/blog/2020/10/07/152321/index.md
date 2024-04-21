@@ -2,7 +2,7 @@
 date: 2020-10-07T15:23:21+09:00
 draft: false
 title: "中高生へ。金を稼ぐ第一歩は、金に感情を入れないこと。金は道具なんだから。"
-slug: "2020/10/07"
+slug: "2020/10/07/152321"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621dd55d42ba.png"
 feature: "blog_import_6621dd55d42ba.png"

@@ -2,7 +2,7 @@
 date: 2022-06-24T01:10:54+09:00
 draft: false
 title: "第１回暗号通貨セミナーの報告"
-slug: "2022/06/24"
+slug: "2022/06/24/011054"
 tags: ["仮想通貨・暗号通貨"]
 image: "blog_import_6621eecd4a964.jpg"
 feature: "blog_import_6621eecd4a964.jpg"

@@ -2,7 +2,7 @@
 date: 2023-12-14T01:15:18+09:00
 draft: false
 title: "バリ島土産で喜ばれる、昔ながらの天日干しで作られた「天然塩」"
-slug: "2023/12/14"
+slug: "2023/12/14/011518"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621fee701e0b.png"
 feature: "blog_import_6621fee701e0b.png"

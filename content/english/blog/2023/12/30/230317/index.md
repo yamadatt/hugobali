@@ -2,7 +2,7 @@
 date: 2023-12-30T23:03:17+09:00
 draft: false
 title: "投資で勝つには、人間心理を知っておこう。「プロスペクト理論」"
-slug: "2023/12/30"
+slug: "2023/12/30/230317"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ff2a64716.png"
 feature: "blog_import_6621ff2a64716.png"

@@ -2,7 +2,7 @@
 date: 2022-06-04T02:04:23+09:00
 draft: false
 title: "天皇家は、なぜ男系でなくてはいけないのか？"
-slug: "2022/06/04"
+slug: "2022/06/04/020423"
 tags: ["プライベートな話"]
 image: "blog_import_6621ee4b7ad90.png"
 feature: "blog_import_6621ee4b7ad90.png"

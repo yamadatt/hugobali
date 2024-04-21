@@ -2,7 +2,7 @@
 date: 2019-07-15T22:08:19+09:00
 draft: false
 title: "コインは、なぜ値上がりを続けるのか！？「富裕層は増え続けるからだ」"
-slug: "2019/07/15"
+slug: "2019/07/15/220819"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ceb34dc27.png"
 feature: "blog_import_6621ceb34dc27.png"

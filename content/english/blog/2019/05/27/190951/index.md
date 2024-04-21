@@ -2,7 +2,7 @@
 date: 2019-05-27T19:09:51+09:00
 draft: false
 title: "現代アート投資の魅力とメリット！？その３　いくらの作品を買えばいいのか？"
-slug: "2019/05/27"
+slug: "2019/05/27/190951"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ccedb80a4.png"
 feature: "blog_import_6621ccedb80a4.png"

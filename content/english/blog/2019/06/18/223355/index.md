@@ -2,7 +2,7 @@
 date: 2019-06-18T22:33:55+09:00
 draft: false
 title: "機嫌が悪い人は、ソンをする。他人は本音を言ってくれないよ"
-slug: "2019/06/18"
+slug: "2019/06/18/223355"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621cd9028721.png"
 feature: "blog_import_6621cd9028721.png"

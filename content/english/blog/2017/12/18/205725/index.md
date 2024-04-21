@@ -2,7 +2,7 @@
 date: 2017-12-18T20:57:25+09:00
 draft: false
 title: "マカオの彼にチャンス到来か！？「ウイスキー投資セミナー」"
-slug: "2017/12/18"
+slug: "2017/12/18/205725"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621bf7f101ef.jpg"
 feature: "blog_import_6621bf7f101ef.jpg"

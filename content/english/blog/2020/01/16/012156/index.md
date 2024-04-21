@@ -2,7 +2,7 @@
 date: 2020-01-16T01:21:56+09:00
 draft: false
 title: "３月６日(金）全１２回⑥初心者向け成長株セミナー「ニュースを投資に活かそう」"
-slug: "2020/01/16"
+slug: "2020/01/16/012156"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d59ba4825.jpg"
 feature: "blog_import_6621d59ba4825.jpg"

@@ -2,7 +2,7 @@
 date: 2019-05-31T16:48:26+09:00
 draft: false
 title: "現代アート投資セミナーの御礼と参加者からの感想"
-slug: "2019/05/31"
+slug: "2019/05/31/164826"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cd20f3ef0.jpg"
 feature: "blog_import_6621cd20f3ef0.jpg"

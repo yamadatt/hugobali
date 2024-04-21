@@ -2,7 +2,7 @@
 date: 2021-07-22T02:24:58+09:00
 draft: false
 title: "インドネシアからの帰国者の隔離体験談【鯛焼きさん】①"
-slug: "2021/07/22"
+slug: "2021/07/22/022458"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621e472173ad.png"
 feature: "blog_import_6621e472173ad.png"

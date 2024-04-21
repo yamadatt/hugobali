@@ -2,7 +2,7 @@
 date: 2020-10-21T18:51:36+09:00
 draft: false
 title: "よいマッサージ師の見つけ方？"
-slug: "2020/10/21"
+slug: "2020/10/21/185136"
 tags: ["プライベートな話"]
 image: "blog_import_6621ddd4d5982.png"
 feature: "blog_import_6621ddd4d5982.png"

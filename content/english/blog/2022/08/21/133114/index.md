@@ -2,7 +2,7 @@
 date: 2022-08-21T13:31:14+09:00
 draft: false
 title: "大阪桐蔭の西谷監督、尊敬できるなぁ。"
-slug: "2022/08/21"
+slug: "2022/08/21/133114"
 tags: ["プライベートな話"]
 image: "blog_import_6621f040632aa.png"
 feature: "blog_import_6621f040632aa.png"

@@ -2,7 +2,7 @@
 date: 2018-03-12T22:05:35+09:00
 draft: false
 title: "海外で現地の日本人に、騙されないようにするには！？"
-slug: "2018/03/12"
+slug: "2018/03/12/220535"
 tags: ["トラブルの話"]
 image: "blog_import_6621c21296f82.jpg"
 feature: "blog_import_6621c21296f82.jpg"

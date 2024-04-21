@@ -2,7 +2,7 @@
 date: 2019-10-01T19:13:34+09:00
 draft: false
 title: "バリ島で、高利回り（１８％超？）ヴィラを作るポイント"
-slug: "2019/10/01"
+slug: "2019/10/01/191334"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621d02db56f7.jpg"
 feature: "blog_import_6621d02db56f7.jpg"

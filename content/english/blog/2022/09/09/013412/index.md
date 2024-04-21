@@ -2,7 +2,7 @@
 date: 2022-09-09T01:34:12+09:00
 draft: false
 title: "人生は運。無理はやめよう。必ずチャンスは来るのだから。"
-slug: "2022/09/09"
+slug: "2022/09/09/013412"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f0d7d73e8.png"
 feature: "blog_import_6621f0d7d73e8.png"

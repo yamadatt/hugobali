@@ -2,7 +2,7 @@
 date: 2016-08-03T11:53:31+09:00
 draft: false
 title: "忍者ドラえもん"
-slug: "2016/08/03"
+slug: "2016/08/03/115331"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621b1ce4b1f3.jpg"
 feature: "blog_import_6621b1ce4b1f3.jpg"

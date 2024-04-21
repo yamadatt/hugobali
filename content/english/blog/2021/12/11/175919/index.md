@@ -2,7 +2,7 @@
 date: 2021-12-11T17:59:19+09:00
 draft: false
 title: "テリーさんの新刊本「優待株の探し方」。実際のところ、優待株投資は儲かるのか！？"
-slug: "2021/12/11"
+slug: "2021/12/11/175919"
 tags: ["株式投資"]
 image: "blog_import_6621e885aa9a8.png"
 feature: "blog_import_6621e885aa9a8.png"

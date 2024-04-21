@@ -2,7 +2,7 @@
 date: 2019-04-19T23:59:46+09:00
 draft: false
 title: "「勝てる時にしか戦わない」なるほどね。。"
-slug: "2019/04/19"
+slug: "2019/04/19/235946"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621cbcc35c3a.png"
 feature: "blog_import_6621cbcc35c3a.png"

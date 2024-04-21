@@ -2,7 +2,7 @@
 date: 2023-03-27T18:27:28+09:00
 draft: false
 title: "繁盛店と潰れる店の違いとは？"
-slug: "2023/03/27"
+slug: "2023/03/27/182728"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f6eb11ea9.png"
 feature: "blog_import_6621f6eb11ea9.png"

@@ -2,7 +2,7 @@
 date: 2018-11-13T11:59:57+09:00
 draft: false
 title: "日本人スタッフ、タケシの恋愛"
-slug: "2018/11/13"
+slug: "2018/11/13/115957"
 tags: ["タケシ（バリ島現地スタッフ）の話"]
 image: "blog_import_6621c7afd98bf.jpg"
 feature: "blog_import_6621c7afd98bf.jpg"

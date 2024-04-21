@@ -2,7 +2,7 @@
 date: 2022-05-30T18:24:52+09:00
 draft: false
 title: "来たれ！！無呼吸症候群！？ファスティング部員募集！？"
-slug: "2022/05/30"
+slug: "2022/05/30/182452"
 tags: ["ファスティング合宿ダイエット"]
 image: "blog_import_6621ee2d38344.jpg"
 feature: "blog_import_6621ee2d38344.jpg"

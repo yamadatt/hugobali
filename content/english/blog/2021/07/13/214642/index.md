@@ -2,7 +2,7 @@
 date: 2021-07-13T21:46:42+09:00
 draft: false
 title: "ワクチン接種、、ファイザー or モデルナで選べる日本人は幸せだ。"
-slug: "2021/07/13"
+slug: "2021/07/13/214642"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621e4064d119.png"
 feature: "blog_import_6621e4064d119.png"

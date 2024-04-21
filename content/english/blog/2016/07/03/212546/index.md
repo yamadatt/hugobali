@@ -2,7 +2,7 @@
 date: 2016-07-03T21:25:46+09:00
 draft: false
 title: "小さな煩悩"
-slug: "2016/07/03"
+slug: "2016/07/03/212546"
 tags: ["プライベートな話"]
 image: ""
 feature: ""

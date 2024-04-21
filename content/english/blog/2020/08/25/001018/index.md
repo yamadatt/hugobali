@@ -2,7 +2,7 @@
 date: 2020-08-25T00:10:18+09:00
 draft: false
 title: "「言葉の重み」って難しいな"
-slug: "2020/08/25"
+slug: "2020/08/25/001018"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621dc5f1e67f.png"
 feature: "blog_import_6621dc5f1e67f.png"

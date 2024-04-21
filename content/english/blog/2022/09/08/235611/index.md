@@ -2,7 +2,7 @@
 date: 2022-09-08T23:56:11+09:00
 draft: false
 title: "明日９月９日の成長株の基礎セミナー「投資で一番大切なこと」"
-slug: "2022/09/08"
+slug: "2022/09/08/235611"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621f0d5ce224.jpg"
 feature: "blog_import_6621f0d5ce224.jpg"

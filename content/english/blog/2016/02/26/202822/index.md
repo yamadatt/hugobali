@@ -2,7 +2,7 @@
 date: 2016-02-26T20:28:22+09:00
 draft: false
 title: "排水溝はどうなってるの！？"
-slug: "2016/02/26"
+slug: "2016/02/26/202822"
 tags: ["トラブルの話"]
 image: "blog_import_6621ad23603ae.jpg"
 feature: "blog_import_6621ad23603ae.jpg"

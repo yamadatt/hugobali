@@ -2,7 +2,7 @@
 date: 2016-05-27T21:33:21+09:00
 draft: false
 title: "ヴィラが何者かに荒らされた"
-slug: "2016/05/27"
+slug: "2016/05/27/213321"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621afb18a9c8.jpg"
 feature: "blog_import_6621afb18a9c8.jpg"

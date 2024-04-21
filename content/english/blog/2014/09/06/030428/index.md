@@ -2,7 +2,7 @@
 date: 2014-09-06T03:04:28+09:00
 draft: false
 title: "バリ島　銀行金利"
-slug: "2014/09/06"
+slug: "2014/09/06/030428"
 tags: ["バリ島でのロングステイ"]
 image: "blog_import_6621a7f361607.jpg"
 feature: "blog_import_6621a7f361607.jpg"

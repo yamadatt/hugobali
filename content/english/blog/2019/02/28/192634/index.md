@@ -2,7 +2,7 @@
 date: 2019-02-28T19:26:34+09:00
 draft: false
 title: "質問です。このブログの価値はいくらですか？"
-slug: "2019/02/28"
+slug: "2019/02/28/192634"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ca0a63ec8.jpg"
 feature: "blog_import_6621ca0a63ec8.jpg"

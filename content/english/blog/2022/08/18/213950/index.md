@@ -2,7 +2,7 @@
 date: 2022-08-18T21:39:50+09:00
 draft: false
 title: "LIVE鑑賞で大切な予習。来週の長渕剛に向けて予習しよう。"
-slug: "2022/08/18"
+slug: "2022/08/18/213950"
 tags: ["プライベートな話"]
 image: "blog_import_6621f0201ff21.png"
 feature: "blog_import_6621f0201ff21.png"

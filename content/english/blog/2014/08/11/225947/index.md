@@ -2,7 +2,7 @@
 date: 2014-08-11T22:59:47+09:00
 draft: false
 title: "売ヴィラサヌール　2.7アール約3000万円"
-slug: "2014/08/11"
+slug: "2014/08/11/225947"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621a4f30ddbf.jpg"
 feature: "blog_import_6621a4f30ddbf.jpg"

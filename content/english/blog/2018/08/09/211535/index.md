@@ -2,7 +2,7 @@
 date: 2018-08-09T21:15:35+09:00
 draft: false
 title: "乱れたインド人カップル"
-slug: "2018/08/09"
+slug: "2018/08/09/211535"
 tags: ["トラブルの話"]
 image: "blog_import_6621c5a517dfd.jpg"
 feature: "blog_import_6621c5a517dfd.jpg"

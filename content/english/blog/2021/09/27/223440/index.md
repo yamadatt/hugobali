@@ -2,7 +2,7 @@
 date: 2021-09-27T22:34:40+09:00
 draft: false
 title: "新型コロナ重篤化体験談。その３「重篤化して、救急車で病院へ」"
-slug: "2021/09/27"
+slug: "2021/09/27/223440"
 tags: ["プライベートな話"]
 image: "blog_import_6621e649dfa75.jpg"
 feature: "blog_import_6621e649dfa75.jpg"

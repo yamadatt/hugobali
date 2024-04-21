@@ -2,7 +2,7 @@
 date: 2019-07-06T20:43:39+09:00
 draft: false
 title: "いよいよ猟師の出番か！？ヴィラに居つく迷惑なサルども。"
-slug: "2019/07/06"
+slug: "2019/07/06/204339"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621ce6020b67.jpg"
 feature: "blog_import_6621ce6020b67.jpg"

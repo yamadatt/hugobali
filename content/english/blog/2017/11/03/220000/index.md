@@ -2,7 +2,7 @@
 date: 2017-11-03T22:00:00+09:00
 draft: false
 title: "泥棒に入られた米国人ゲイカップルが書いたAirbnbのレビュー"
-slug: "2017/11/03"
+slug: "2017/11/03/220000"
 tags: ["トラブルの話"]
 image: "blog_import_6621be63b65a6.jpg"
 feature: "blog_import_6621be63b65a6.jpg"

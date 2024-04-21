@@ -2,7 +2,7 @@
 date: 2019-06-18T00:20:12+09:00
 draft: false
 title: "論より証拠。成長株投資の成績を公開！？"
-slug: "2019/06/18"
+slug: "2019/06/18/002012"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cd850aa48.png"
 feature: "blog_import_6621cd850aa48.png"

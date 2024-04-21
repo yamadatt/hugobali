@@ -2,7 +2,7 @@
 date: 2023-04-12T22:55:36+09:00
 draft: false
 title: "団体企業対抗ゴルフに参加。結果は！？"
-slug: "2023/04/12"
+slug: "2023/04/12/225536"
 tags: ["ゴルフ"]
 image: "blog_import_6621f750bb1a0.jpg"
 feature: "blog_import_6621f750bb1a0.jpg"

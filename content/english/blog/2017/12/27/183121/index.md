@@ -2,7 +2,7 @@
 date: 2017-12-27T18:31:21+09:00
 draft: false
 title: "弊社がノタリス事務所を始める！？"
-slug: "2017/12/27"
+slug: "2017/12/27/183121"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c01f4f746.jpg"
 feature: "blog_import_6621c01f4f746.jpg"

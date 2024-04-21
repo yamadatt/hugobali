@@ -2,7 +2,7 @@
 date: 2017-01-06T22:06:07+09:00
 draft: false
 title: "年末年始のトラブル「水が出ない！？」"
-slug: "2017/01/06"
+slug: "2017/01/06/220607"
 tags: ["トラブルの話"]
 image: "blog_import_6621b8303c598.jpg"
 feature: "blog_import_6621b8303c598.jpg"

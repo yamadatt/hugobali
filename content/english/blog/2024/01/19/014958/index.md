@@ -2,7 +2,7 @@
 date: 2024-01-19T01:49:58+09:00
 draft: false
 title: "「暗号通貨」「ウォレット」は、生活に欠かせなくなる！？"
-slug: "2024/01/19"
+slug: "2024/01/19/014958"
 tags: ["仮想通貨・暗号通貨"]
 image: "blog_import_6621ff4c7f0a5.png"
 feature: "blog_import_6621ff4c7f0a5.png"

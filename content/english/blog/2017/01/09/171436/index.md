@@ -2,7 +2,7 @@
 date: 2017-01-09T17:14:36+09:00
 draft: false
 title: "「いよいよ受験」教育で大切なこと"
-slug: "2017/01/09"
+slug: "2017/01/09/171436"
 tags: ["プライベートな話"]
 image: "blog_import_6621b84bd5928.jpg"
 feature: "blog_import_6621b84bd5928.jpg"

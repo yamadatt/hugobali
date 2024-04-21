@@ -2,7 +2,7 @@
 date: 2019-12-07T16:47:09+09:00
 draft: false
 title: "満員御礼！！昨日の初心者向け成長株セミナーの報告"
-slug: "2019/12/07"
+slug: "2019/12/07/164709"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d36d68134.jpg"
 feature: "blog_import_6621d36d68134.jpg"

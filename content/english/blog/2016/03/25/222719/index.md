@@ -2,7 +2,7 @@
 date: 2016-03-25T22:27:19+09:00
 draft: false
 title: "写真って大事だな"
-slug: "2016/03/25"
+slug: "2016/03/25/222719"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ae48b8b27.jpg"
 feature: "blog_import_6621ae48b8b27.jpg"

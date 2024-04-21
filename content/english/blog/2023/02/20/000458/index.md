@@ -2,7 +2,7 @@
 date: 2023-02-20T00:04:58+09:00
 draft: false
 title: "人生なるようにしかならない"
-slug: "2023/02/20"
+slug: "2023/02/20/000458"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f6168fb2d.png"
 feature: "blog_import_6621f6168fb2d.png"

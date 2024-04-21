@@ -2,7 +2,7 @@
 date: 2021-08-16T19:16:52+09:00
 draft: false
 title: "インドネシア統計局の発表「経済が復調！？」ホントなのかな。"
-slug: "2021/08/16"
+slug: "2021/08/16/191652"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621e513bc2c6.jpg"
 feature: "blog_import_6621e513bc2c6.jpg"

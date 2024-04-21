@@ -2,7 +2,7 @@
 date: 2019-05-27T17:11:02+09:00
 draft: false
 title: "残席３名！！３０日の現代アート(美術品）投資セミナー"
-slug: "2019/05/27"
+slug: "2019/05/27/171102"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cce454f3f.jpg"
 feature: "blog_import_6621cce454f3f.jpg"

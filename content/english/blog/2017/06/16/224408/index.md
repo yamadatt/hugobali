@@ -2,7 +2,7 @@
 date: 2017-06-16T22:44:08+09:00
 draft: false
 title: "バリ島の運転免許は、賄賂でポン！？"
-slug: "2017/06/16"
+slug: "2017/06/16/224408"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621bc04f355f.jpg"
 feature: "blog_import_6621bc04f355f.jpg"

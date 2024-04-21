@@ -2,7 +2,7 @@
 date: 2020-03-13T16:44:57+09:00
 draft: false
 title: "損切り１０００万！？口座公開。キャッシュを増やして出直す"
-slug: "2020/03/13"
+slug: "2020/03/13/164457"
 tags: ["株式投資"]
 image: "blog_import_6621d7b2ab830.png"
 feature: "blog_import_6621d7b2ab830.png"

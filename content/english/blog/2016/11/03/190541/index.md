@@ -2,7 +2,7 @@
 date: 2016-11-03T19:05:41+09:00
 draft: false
 title: "海外の不動産、金融商品の利回りが高いのはなぜか！？"
-slug: "2016/11/03"
+slug: "2016/11/03/190541"
 tags: ["ブログ"]
 image: "blog_import_6621b5f93fa43.jpg"
 feature: "blog_import_6621b5f93fa43.jpg"

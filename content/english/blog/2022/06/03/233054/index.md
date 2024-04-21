@@ -2,7 +2,7 @@
 date: 2022-06-03T23:30:54+09:00
 draft: false
 title: "知人の通夜にて。。運が支配するこの世界は馬鹿馬鹿しい！？"
-slug: "2022/06/03"
+slug: "2022/06/03/233054"
 tags: ["プライベートな話"]
 image: "blog_import_6621ee47335eb.png"
 feature: "blog_import_6621ee47335eb.png"

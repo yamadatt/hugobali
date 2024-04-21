@@ -2,7 +2,7 @@
 date: 2016-07-27T13:20:45+09:00
 draft: false
 title: "バリ島の不動産トラブル②「解決のポイント」"
-slug: "2016/07/27"
+slug: "2016/07/27/132045"
 tags: ["トラブルの話"]
 image: "blog_import_6621b18edf13a.jpg"
 feature: "blog_import_6621b18edf13a.jpg"

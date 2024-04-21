@@ -2,7 +2,7 @@
 date: 2023-06-12T22:23:56+09:00
 draft: false
 title: "6月16日(金）第51回成長株の実践セミナー「低PBR銘柄に東証がメス？ファンドに乗っかろう！？"
-slug: "2023/06/12"
+slug: "2023/06/12/222356"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621fa1899a89.png"
 feature: "blog_import_6621fa1899a89.png"

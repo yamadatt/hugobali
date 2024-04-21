@@ -2,7 +2,7 @@
 date: 2017-02-10T20:10:59+09:00
 draft: false
 title: "明日は、バリ島不動産セミナーです"
-slug: "2017/02/10"
+slug: "2017/02/10/201059"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621b9b4dc955.jpg"
 feature: "blog_import_6621b9b4dc955.jpg"

@@ -2,7 +2,7 @@
 date: 2020-04-05T12:22:24+09:00
 draft: false
 title: "「売り切れ」のお店でも、マスクは売ってる！？"
-slug: "2020/04/05"
+slug: "2020/04/05/122224"
 tags: ["プライベートな話"]
 image: "blog_import_6621d81cc7202.png"
 feature: "blog_import_6621d81cc7202.png"

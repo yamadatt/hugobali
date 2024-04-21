@@ -2,7 +2,7 @@
 date: 2019-06-15T18:04:46+09:00
 draft: false
 title: "昨日の米国株投資セミナー、御礼といただいた感想"
-slug: "2019/06/15"
+slug: "2019/06/15/180446"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cd6de228a.jpg"
 feature: "blog_import_6621cd6de228a.jpg"

@@ -2,7 +2,7 @@
 date: 2020-11-29T19:17:01+09:00
 draft: false
 title: "株の儲けは「我慢料」。長田先生の言葉が胸にしみる"
-slug: "2020/11/29"
+slug: "2020/11/29/191701"
 tags: ["株式投資"]
 image: "blog_import_6621decfaa9f9.png"
 feature: "blog_import_6621decfaa9f9.png"

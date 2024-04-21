@@ -2,7 +2,7 @@
 date: 2017-02-21T13:24:06+09:00
 draft: false
 title: "自分が平凡だと感じた日"
-slug: "2017/02/21"
+slug: "2017/02/21/132406"
 tags: ["プライベートな話"]
 image: "blog_import_6621b9f811aa4.jpg"
 feature: "blog_import_6621b9f811aa4.jpg"

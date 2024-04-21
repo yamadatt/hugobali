@@ -2,7 +2,7 @@
 date: 2018-06-29T20:09:32+09:00
 draft: false
 title: "バリ島ヴィラオーナー飲み会＆怒涛の激飲み２週間"
-slug: "2018/06/29"
+slug: "2018/06/29/200932"
 tags: ["プライベートな話"]
 image: "blog_import_6621c48593fc6.jpg"
 feature: "blog_import_6621c48593fc6.jpg"

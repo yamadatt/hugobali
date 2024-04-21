@@ -2,7 +2,7 @@
 date: 2023-07-09T23:59:51+09:00
 draft: false
 title: "7月14日(金）第４期１０回成長株基礎セミナー「株価が上昇する理由とは！？」"
-slug: "2023/07/09"
+slug: "2023/07/09/235951"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621fb1a5b8c6.png"
 feature: "blog_import_6621fb1a5b8c6.png"

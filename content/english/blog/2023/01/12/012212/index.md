@@ -2,7 +2,7 @@
 date: 2023-01-12T01:22:12+09:00
 draft: false
 title: "借金問題は、どう解決したらいい！？その１「債権者を選別しよう」"
-slug: "2023/01/12"
+slug: "2023/01/12/012212"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f46f5b8e6.png"
 feature: "blog_import_6621f46f5b8e6.png"

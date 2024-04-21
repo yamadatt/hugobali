@@ -2,7 +2,7 @@
 date: 2017-08-30T22:53:13+09:00
 draft: false
 title: "インドネシアでは、宗教で相続権が変わる！？"
-slug: "2017/08/30"
+slug: "2017/08/30/225313"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621bd0d80efd.jpg"
 feature: "blog_import_6621bd0d80efd.jpg"

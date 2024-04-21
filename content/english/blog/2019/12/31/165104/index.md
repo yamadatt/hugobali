@@ -2,7 +2,7 @@
 date: 2019-12-31T16:51:04+09:00
 draft: false
 title: "「副業の成功を検証する」長田先生の振り返り　～その１３　やったことがなくても「できます」という～"
-slug: "2019/12/31"
+slug: "2019/12/31/165104"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d4d3df96a.png"
 feature: "blog_import_6621d4d3df96a.png"

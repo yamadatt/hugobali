@@ -2,7 +2,7 @@
 date: 2021-10-02T17:51:20+09:00
 draft: false
 title: "株式投資の初心者がやる３つの失敗パターン"
-slug: "2021/10/02"
+slug: "2021/10/02/175120"
 tags: ["株式投資"]
 image: "blog_import_6621e659c6bee.png"
 feature: "blog_import_6621e659c6bee.png"

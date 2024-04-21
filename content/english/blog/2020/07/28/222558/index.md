@@ -2,7 +2,7 @@
 date: 2020-07-28T22:25:58+09:00
 draft: false
 title: "えっ、利回り１０％！？ゴルフやるなら配当＆優待で魅力的な平和(6412）は、どうなのか？"
-slug: "2020/07/28"
+slug: "2020/07/28/222558"
 tags: ["プライベートな話"]
 image: "blog_import_6621dbcd8068d.png"
 feature: "blog_import_6621dbcd8068d.png"

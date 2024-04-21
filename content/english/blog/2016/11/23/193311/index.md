@@ -2,7 +2,7 @@
 date: 2016-11-23T19:33:11+09:00
 draft: false
 title: "超高級！！売ヴィラ　バリ島チャングー約１１億円"
-slug: "2016/11/23"
+slug: "2016/11/23/193311"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621b6db7f9cd.jpg"
 feature: "blog_import_6621b6db7f9cd.jpg"

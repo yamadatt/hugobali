@@ -2,7 +2,7 @@
 date: 2018-05-02T21:01:24+09:00
 draft: false
 title: "５月１９日のセミナー案内　サンワード貿易さま主催"
-slug: "2018/05/02"
+slug: "2018/05/02/210124"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c3391db4d.png"
 feature: "blog_import_6621c3391db4d.png"

@@ -2,7 +2,7 @@
 date: 2022-12-24T18:40:27+09:00
 draft: false
 title: "生ハムベジョータ忘年会の報告。大人でもビンゴは盛り上がる！？"
-slug: "2022/12/24"
+slug: "2022/12/24/184027"
 tags: ["プライベートな話"]
 image: "blog_import_6621f3d1cbdfd.jpg"
 feature: "blog_import_6621f3d1cbdfd.jpg"

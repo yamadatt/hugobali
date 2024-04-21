@@ -2,7 +2,7 @@
 date: 2018-03-23T21:20:21+09:00
 draft: false
 title: "超アホらしくなった不動産の契約【その２】"
-slug: "2018/03/23"
+slug: "2018/03/23/212021"
 tags: ["トラブルの話"]
 image: "blog_import_6621c271abf26.jpg"
 feature: "blog_import_6621c271abf26.jpg"

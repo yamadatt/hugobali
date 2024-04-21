@@ -2,7 +2,7 @@
 date: 2023-03-10T00:30:19+09:00
 draft: false
 title: "３月１０日第４期６回成長株基礎セミナー「投資するか、しないか、銘柄のチェック項目」"
-slug: "2023/03/10"
+slug: "2023/03/10/003019"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621f69068e83.jpg"
 feature: "blog_import_6621f69068e83.jpg"

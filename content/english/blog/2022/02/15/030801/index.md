@@ -2,7 +2,7 @@
 date: 2022-02-15T03:08:01+09:00
 draft: false
 title: "バリ島の先輩より「貧しい学生への奨学金」のお願い"
-slug: "2022/02/15"
+slug: "2022/02/15/030801"
 tags: ["プライベートな話"]
 image: "blog_import_6621eaa52274f.png"
 feature: "blog_import_6621eaa52274f.png"

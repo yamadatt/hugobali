@@ -2,7 +2,7 @@
 date: 2016-11-15T12:38:49+09:00
 draft: false
 title: "保存版、海外銀行口座開設のための英会話問答集"
-slug: "2016/11/15"
+slug: "2016/11/15/123849"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621b69509a6f.jpg"
 feature: "blog_import_6621b69509a6f.jpg"

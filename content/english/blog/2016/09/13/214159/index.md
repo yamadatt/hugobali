@@ -2,7 +2,7 @@
 date: 2016-09-13T21:41:59+09:00
 draft: false
 title: "５０歳を過ぎて勉強している人は、じゃんけんでチョキしか出さない人と同じだ"
-slug: "2016/09/13"
+slug: "2016/09/13/214159"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b376748f5.png"
 feature: "blog_import_6621b376748f5.png"

@@ -2,7 +2,7 @@
 date: 2020-04-27T00:44:40+09:00
 draft: false
 title: "コロナ報道に思う「テレビ報道を信用するな」"
-slug: "2020/04/27"
+slug: "2020/04/27/004440"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d982ac60a.png"
 feature: "blog_import_6621d982ac60a.png"

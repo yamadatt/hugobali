@@ -2,7 +2,7 @@
 date: 2020-06-18T13:01:22+09:00
 draft: false
 title: "バリ島の街が変わる！？コロナで事業者の入れ替わりが激しい。"
-slug: "2020/06/18"
+slug: "2020/06/18/130122"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621dabd60cfa.jpg"
 feature: "blog_import_6621dabd60cfa.jpg"

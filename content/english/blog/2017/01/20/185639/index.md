@@ -2,7 +2,7 @@
 date: 2017-01-20T18:56:39+09:00
 draft: false
 title: "日本人は吹っかけられる！？ナメんなよ。"
-slug: "2017/01/20"
+slug: "2017/01/20/185639"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621b89876253.jpg"
 feature: "blog_import_6621b89876253.jpg"

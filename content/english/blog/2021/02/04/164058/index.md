@@ -2,7 +2,7 @@
 date: 2021-02-04T16:40:58+09:00
 draft: false
 title: "成長株セミナー：今後の予定一覧"
-slug: "2021/02/04"
+slug: "2021/02/04/164058"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621e03aa38d0.jpg"
 feature: "blog_import_6621e03aa38d0.jpg"

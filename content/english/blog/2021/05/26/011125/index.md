@@ -2,7 +2,7 @@
 date: 2021-05-26T01:11:25+09:00
 draft: false
 title: "これからの成長株の実践会は、米国株も組み入れる！？"
-slug: "2021/05/26"
+slug: "2021/05/26/011125"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621e2d12789f.png"
 feature: "blog_import_6621e2d12789f.png"

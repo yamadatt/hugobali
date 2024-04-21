@@ -2,7 +2,7 @@
 date: 2019-01-26T19:43:24+09:00
 draft: false
 title: "地方の不動産投資はチャンス！？地方には優秀な男が少ない。"
-slug: "2019/01/26"
+slug: "2019/01/26/194324"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c9826f53f.jpg"
 feature: "blog_import_6621c9826f53f.jpg"

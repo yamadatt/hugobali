@@ -2,7 +2,7 @@
 date: 2019-07-29T17:00:02+09:00
 draft: false
 title: "実践会のズバリ銘柄的中！？"
-slug: "2019/07/29"
+slug: "2019/07/29/170002"
 tags: ["プライベートな話"]
 image: "blog_import_6621cf0f3e0c5.png"
 feature: "blog_import_6621cf0f3e0c5.png"

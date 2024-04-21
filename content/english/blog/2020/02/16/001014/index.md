@@ -2,7 +2,7 @@
 date: 2020-02-16T00:10:14+09:00
 draft: false
 title: "自分のマイルで、他人の航空チケットを取れるのか！？"
-slug: "2020/02/16"
+slug: "2020/02/16/001014"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d70f95be8.png"
 feature: "blog_import_6621d70f95be8.png"

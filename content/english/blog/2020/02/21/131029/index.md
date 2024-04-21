@@ -2,7 +2,7 @@
 date: 2020-02-21T13:10:29+09:00
 draft: false
 title: "注意！！酵素ドリンクは、炭酸水で割ってはいけない！？"
-slug: "2020/02/21"
+slug: "2020/02/21/131029"
 tags: ["プライベートな話"]
 image: "blog_import_6621d760e600f.png"
 feature: "blog_import_6621d760e600f.png"

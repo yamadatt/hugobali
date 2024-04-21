@@ -2,7 +2,7 @@
 date: 2022-07-08T02:05:41+09:00
 draft: false
 title: "中村剛也選手のプロ野球新記録の1956三振に思うこと"
-slug: "2022/07/08"
+slug: "2022/07/08/020541"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ef4b87081.png"
 feature: "blog_import_6621ef4b87081.png"

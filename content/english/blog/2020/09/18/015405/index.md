@@ -2,7 +2,7 @@
 date: 2020-09-18T01:54:05+09:00
 draft: false
 title: "第１期、第１２回「初心者向け成長株セミナー」最後の感想"
-slug: "2020/09/18"
+slug: "2020/09/18/015405"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621dcd6223a0.jpg"
 feature: "blog_import_6621dcd6223a0.jpg"

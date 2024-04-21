@@ -2,7 +2,7 @@
 date: 2017-11-15T17:09:07+09:00
 draft: false
 title: "満員御礼！？昨日(11月14日)のバリ島不動産セミナーの報告＆いただいた感想"
-slug: "2017/11/15"
+slug: "2017/11/15/170907"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621be8c87275.jpg"
 feature: "blog_import_6621be8c87275.jpg"

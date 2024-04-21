@@ -2,7 +2,7 @@
 date: 2019-10-10T18:29:36+09:00
 draft: false
 title: "１１月１日(金）全１２回②第８回初心者向け成長株セミナー「株価の理論値を知ろう」"
-slug: "2019/10/10"
+slug: "2019/10/10/182936"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d083efb90.png"
 feature: "blog_import_6621d083efb90.png"

@@ -2,7 +2,7 @@
 date: 2023-05-20T18:16:41+09:00
 draft: false
 title: "新入社員時に尊敬し憧れた先輩は、今でもカッコよかった！？"
-slug: "2023/05/20"
+slug: "2023/05/20/181641"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f94790df6.png"
 feature: "blog_import_6621f94790df6.png"

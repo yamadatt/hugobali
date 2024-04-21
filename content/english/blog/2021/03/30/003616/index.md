@@ -2,7 +2,7 @@
 date: 2021-03-30T00:36:16+09:00
 draft: false
 title: "ここからは「お釣り」で生きていこう"
-slug: "2021/03/30"
+slug: "2021/03/30/003616"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e17e80f64.jpg"
 feature: "blog_import_6621e17e80f64.jpg"

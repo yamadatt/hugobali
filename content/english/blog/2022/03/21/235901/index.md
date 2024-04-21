@@ -2,7 +2,7 @@
 date: 2022-03-21T23:59:01+09:00
 draft: false
 title: "昔のアイドルLIVEのススメ「KYON2ライブで高校時代にタイムスリップ！？」"
-slug: "2022/03/21"
+slug: "2022/03/21/235901"
 tags: ["プライベートな話"]
 image: "blog_import_6621ec4162e90.png"
 feature: "blog_import_6621ec4162e90.png"

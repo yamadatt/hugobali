@@ -2,7 +2,7 @@
 date: 2019-03-29T20:22:58+09:00
 draft: false
 title: "高校野球の「サイン盗み疑惑」・・星稜の監督さん、選手には別のことを伝えてほしかったな"
-slug: "2019/03/29"
+slug: "2019/03/29/202258"
 tags: ["プライベートな話"]
 image: "blog_import_6621ca9dd3d1f.png"
 feature: "blog_import_6621ca9dd3d1f.png"

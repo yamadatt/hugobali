@@ -2,7 +2,7 @@
 date: 2014-08-07T01:54:07+09:00
 draft: false
 title: "５，手付金と決済について"
-slug: "2014/08/07"
+slug: "2014/08/07/015407"
 tags: ["日本とバリ島の不動産取引の違い"]
 image: "blog_import_6621a4a58c69d.jpg"
 feature: "blog_import_6621a4a58c69d.jpg"

@@ -2,7 +2,7 @@
 date: 2022-10-15T12:06:05+09:00
 draft: false
 title: "１１月２日第４回「暗号通貨の実践会」～ 1000万円を5億円にする破壊的かつ論理的投資 ～"
-slug: "2022/10/15"
+slug: "2022/10/15/120605"
 tags: ["仮想通貨・暗号通貨"]
 image: "blog_import_6621f1c135c35.jpg"
 feature: "blog_import_6621f1c135c35.jpg"

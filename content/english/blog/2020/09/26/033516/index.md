@@ -2,7 +2,7 @@
 date: 2020-09-26T03:35:16+09:00
 draft: false
 title: "初心者向け成長株セミナーのオンラインサロンの必要性"
-slug: "2020/09/26"
+slug: "2020/09/26/033516"
 tags: ["株式投資"]
 image: "blog_import_6621dd1660a55.png"
 feature: "blog_import_6621dd1660a55.png"

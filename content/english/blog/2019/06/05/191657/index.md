@@ -2,7 +2,7 @@
 date: 2019-06-05T19:16:57+09:00
 draft: false
 title: "残席８名。６月２０日「生ハム原木で食べる会」"
-slug: "2019/06/05"
+slug: "2019/06/05/191657"
 tags: ["プライベートな話"]
 image: "blog_import_6621cd3e96f77.png"
 feature: "blog_import_6621cd3e96f77.png"

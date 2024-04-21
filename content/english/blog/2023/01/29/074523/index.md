@@ -2,7 +2,7 @@
 date: 2023-01-29T07:45:23+09:00
 draft: false
 title: "７日で４キロ減。カイヴァリヤ合宿の食事は？"
-slug: "2023/01/29"
+slug: "2023/01/29/074523"
 tags: ["インド旅行パンチャカルマ"]
 image: "blog_import_6621f51e0cb9a.jpg"
 feature: "blog_import_6621f51e0cb9a.jpg"

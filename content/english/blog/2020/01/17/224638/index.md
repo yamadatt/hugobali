@@ -2,7 +2,7 @@
 date: 2020-01-17T22:46:38+09:00
 draft: false
 title: "【動画セミナーのご案内】セミナーに参加したいができない、という方へ"
-slug: "2020/01/17"
+slug: "2020/01/17/224638"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d5e6cb08d.png"
 feature: "blog_import_6621d5e6cb08d.png"

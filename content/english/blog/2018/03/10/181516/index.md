@@ -2,7 +2,7 @@
 date: 2018-03-10T18:15:16+09:00
 draft: false
 title: "ルピア円の為替がスゴいことになっている その２"
-slug: "2018/03/10"
+slug: "2018/03/10/181516"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c20fd2588.jpg"
 feature: "blog_import_6621c20fd2588.jpg"

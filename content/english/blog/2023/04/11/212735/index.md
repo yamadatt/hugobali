@@ -2,7 +2,7 @@
 date: 2023-04-11T21:27:35+09:00
 draft: false
 title: "どっちに転んでもおかしくない運を引き寄せるには！？"
-slug: "2023/04/11"
+slug: "2023/04/11/212735"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f74d59aff.png"
 feature: "blog_import_6621f74d59aff.png"

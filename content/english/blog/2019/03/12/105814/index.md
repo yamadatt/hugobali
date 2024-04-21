@@ -2,7 +2,7 @@
 date: 2019-03-12T10:58:14+09:00
 draft: false
 title: "満席です！！３月１５日の株式投資セミナー"
-slug: "2019/03/12"
+slug: "2019/03/12/105814"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ca257a429.jpg"
 feature: "blog_import_6621ca257a429.jpg"

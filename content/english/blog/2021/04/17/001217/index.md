@@ -2,7 +2,7 @@
 date: 2021-04-17T00:12:17+09:00
 draft: false
 title: "バリ島は、いよいよ７月から観光客を受け入れか？"
-slug: "2021/04/17"
+slug: "2021/04/17/001217"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621e20682fb4.jpg"
 feature: "blog_import_6621e20682fb4.jpg"

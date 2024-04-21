@@ -2,7 +2,7 @@
 date: 2022-03-22T22:14:55+09:00
 draft: false
 title: "床屋派？美容院派？アンケート"
-slug: "2022/03/22"
+slug: "2022/03/22/221455"
 tags: ["プライベートな話"]
 image: "blog_import_6621ec51b1707.png"
 feature: "blog_import_6621ec51b1707.png"

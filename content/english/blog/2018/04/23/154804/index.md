@@ -2,7 +2,7 @@
 date: 2018-04-23T15:48:04+09:00
 draft: false
 title: "【お詫び】Amazon、紀伊国屋で売り切れ。拙著『稼げる人の常識、稼げない人の常識』"
-slug: "2018/04/23"
+slug: "2018/04/23/154804"
 tags: ["プライベートな話"]
 image: "blog_import_6621c31039e79.png"
 feature: "blog_import_6621c31039e79.png"

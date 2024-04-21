@@ -2,7 +2,7 @@
 date: 2022-12-04T22:59:47+09:00
 draft: false
 title: "５０代の同窓会から勝ち負けはリセット。皆「ただの人」になる"
-slug: "2022/12/04"
+slug: "2022/12/04/225947"
 tags: ["プライベートな話"]
 image: "blog_import_6621f382f2e8f.jpg"
 feature: "blog_import_6621f382f2e8f.jpg"

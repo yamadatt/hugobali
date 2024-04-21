@@ -2,7 +2,7 @@
 date: 2023-04-19T18:13:00+09:00
 draft: false
 title: "４月２１日(金）第４９回：成長株投資の実践会「インボイス関連銘柄を狙おう！？」"
-slug: "2023/04/19"
+slug: "2023/04/19/181300"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621f76eecc85.png"
 feature: "blog_import_6621f76eecc85.png"

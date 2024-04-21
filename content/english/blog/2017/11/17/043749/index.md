@@ -2,7 +2,7 @@
 date: 2017-11-17T04:37:49+09:00
 draft: false
 title: "gloは成田空港の免税で買うべし！？"
-slug: "2017/11/17"
+slug: "2017/11/17/043749"
 tags: ["プライベートな話"]
 image: "blog_import_6621beac1f9ca.jpg"
 feature: "blog_import_6621beac1f9ca.jpg"

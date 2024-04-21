@@ -2,7 +2,7 @@
 date: 2021-09-19T16:57:14+09:00
 draft: false
 title: "【終了しました】バリ島ビーチフロントの売地：約３６００万円。"
-slug: "2021/09/19"
+slug: "2021/09/19/165714"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621e61d66687.jpg"
 feature: "blog_import_6621e61d66687.jpg"

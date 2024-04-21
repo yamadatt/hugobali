@@ -2,7 +2,7 @@
 date: 2020-12-04T17:57:09+09:00
 draft: false
 title: "助けてください！！困った。。中高生向けのサイトが〝偽のサイト″〝危険なリンク″に認定されてる。。"
-slug: "2020/12/04"
+slug: "2020/12/04/175709"
 tags: ["プライベートな話"]
 image: "blog_import_6621df0a86b89.png"
 feature: "blog_import_6621df0a86b89.png"

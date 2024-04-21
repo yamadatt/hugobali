@@ -2,7 +2,7 @@
 date: 2018-06-24T18:49:22+09:00
 draft: false
 title: "【投資用地】伊豆下田のマリーナ隣地　３０００㎡６５００万円"
-slug: "2018/06/24"
+slug: "2018/06/24/184922"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621c46b8f853.jpg"
 feature: "blog_import_6621c46b8f853.jpg"

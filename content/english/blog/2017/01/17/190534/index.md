@@ -2,7 +2,7 @@
 date: 2017-01-17T19:05:34+09:00
 draft: false
 title: "幽霊騒ぎ"
-slug: "2017/01/17"
+slug: "2017/01/17/190534"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621b889c85dd.jpg"
 feature: "blog_import_6621b889c85dd.jpg"

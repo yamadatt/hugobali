@@ -2,7 +2,7 @@
 date: 2017-01-16T21:37:37+09:00
 draft: false
 title: "第２９回 バリ島不動産セミナー募集開始　２月１１日"
-slug: "2017/01/16"
+slug: "2017/01/16/213737"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621b88683463.jpg"
 feature: "blog_import_6621b88683463.jpg"

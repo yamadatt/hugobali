@@ -2,7 +2,7 @@
 date: 2017-07-16T11:19:02+09:00
 draft: false
 title: "気は心"
-slug: "2017/07/16"
+slug: "2017/07/16/111902"
 tags: ["プライベートな話"]
 image: ""
 feature: ""

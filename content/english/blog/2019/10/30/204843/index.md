@@ -2,7 +2,7 @@
 date: 2019-10-30T20:48:43+09:00
 draft: false
 title: "株の「売り」タイミングは難しい。。長田先生から「野村マイクロ6234」の売サイン"
-slug: "2019/10/30"
+slug: "2019/10/30/204843"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d1b0e577f.png"
 feature: "blog_import_6621d1b0e577f.png"

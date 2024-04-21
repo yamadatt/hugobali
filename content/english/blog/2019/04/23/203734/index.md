@@ -2,7 +2,7 @@
 date: 2019-04-23T20:37:34+09:00
 draft: false
 title: "新興国・途上国でのスマホの普及は、経済成長を加速させる"
-slug: "2019/04/23"
+slug: "2019/04/23/203734"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621cc0edf857.png"
 feature: "blog_import_6621cc0edf857.png"

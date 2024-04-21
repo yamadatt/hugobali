@@ -2,7 +2,7 @@
 date: 2023-01-24T02:53:04+09:00
 draft: false
 title: "インド２日目：ヨガ研究所「オリエンテーション」"
-slug: "2023/01/24"
+slug: "2023/01/24/025304"
 tags: ["ブログ"]
 image: "blog_import_6621f4c16a4e4.jpg"
 feature: "blog_import_6621f4c16a4e4.jpg"

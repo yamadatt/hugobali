@@ -2,7 +2,7 @@
 date: 2024-01-18T18:51:29+09:00
 draft: false
 title: "1月19日(金）第５期４回成長株基礎セミナー「新NISAの個別株投資で気を付けたいポイント」"
-slug: "2024/01/18"
+slug: "2024/01/18/185129"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ff4acda33.png"
 feature: "blog_import_6621ff4acda33.png"

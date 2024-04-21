@@ -2,7 +2,7 @@
 date: 2017-09-12T17:28:18+09:00
 draft: false
 title: "従業員２万人の社長が登場！？"
-slug: "2017/09/12"
+slug: "2017/09/12/172818"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621bd4d70d14.jpg"
 feature: "blog_import_6621bd4d70d14.jpg"

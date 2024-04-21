@@ -2,7 +2,7 @@
 date: 2019-10-26T17:03:28+09:00
 draft: false
 title: "昨日の成長株投資の実践会の報告"
-slug: "2019/10/26"
+slug: "2019/10/26/170328"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d18125d73.jpg"
 feature: "blog_import_6621d18125d73.jpg"

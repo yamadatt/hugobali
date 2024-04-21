@@ -2,7 +2,7 @@
 date: 2018-03-06T23:24:30+09:00
 draft: false
 title: "【その６】ずる賢いスタッフ、４人目の弁護士が登場～刑事事件へ"
-slug: "2018/03/06"
+slug: "2018/03/06/232430"
 tags: ["トラブルの話"]
 image: "blog_import_6621c200611f8.jpg"
 feature: "blog_import_6621c200611f8.jpg"

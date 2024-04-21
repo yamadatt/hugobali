@@ -2,7 +2,7 @@
 date: 2022-01-08T02:18:03+09:00
 draft: false
 title: "国見高サッカー監督小嶺忠敏さん死去「志を立て、耐えて励まん」"
-slug: "2022/01/08"
+slug: "2022/01/08/021803"
 tags: ["プライベートな話"]
 image: "blog_import_6621e9634651c.png"
 feature: "blog_import_6621e9634651c.png"

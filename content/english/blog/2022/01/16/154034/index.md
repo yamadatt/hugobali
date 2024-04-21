@@ -2,7 +2,7 @@
 date: 2022-01-16T15:40:34+09:00
 draft: false
 title: "僕が純粋だった頃"
-slug: "2022/01/16"
+slug: "2022/01/16/154034"
 tags: ["プライベートな話"]
 image: "blog_import_6621e9aea2e6c.png"
 feature: "blog_import_6621e9aea2e6c.png"

@@ -2,7 +2,7 @@
 date: 2019-07-14T19:08:11+09:00
 draft: false
 title: "プレゼントでわかる「思いやり」。価値観はともかく、思いやりはどうにもならない"
-slug: "2019/07/14"
+slug: "2019/07/14/190811"
 tags: ["プライベートな話"]
 image: "blog_import_6621ceb1642c5.png"
 feature: "blog_import_6621ceb1642c5.png"

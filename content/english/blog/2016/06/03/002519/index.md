@@ -2,7 +2,7 @@
 date: 2016-06-03T00:25:19+09:00
 draft: false
 title: "ワイロは悪いことか"
-slug: "2016/06/03"
+slug: "2016/06/03/002519"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621afcc5b443.jpg"
 feature: "blog_import_6621afcc5b443.jpg"

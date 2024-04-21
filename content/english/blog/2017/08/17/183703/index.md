@@ -2,7 +2,7 @@
 date: 2017-08-17T18:37:03+09:00
 draft: false
 title: "トッケイの捕獲に成功！？"
-slug: "2017/08/17"
+slug: "2017/08/17/183703"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621bcc70c2fc.jpg"
 feature: "blog_import_6621bcc70c2fc.jpg"

@@ -2,7 +2,7 @@
 date: 2022-01-18T14:31:02+09:00
 draft: false
 title: "２１日の成長株実践会は「コンプレックス銘柄」"
-slug: "2022/01/18"
+slug: "2022/01/18/143102"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621e9bece542.png"
 feature: "blog_import_6621e9bece542.png"

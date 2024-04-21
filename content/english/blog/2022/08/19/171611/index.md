@@ -2,7 +2,7 @@
 date: 2022-08-19T17:16:11+09:00
 draft: false
 title: "長渕剛の変遷。６５歳になり虚勢を張った姿から抜け出すのか！？"
-slug: "2022/08/19"
+slug: "2022/08/19/171611"
 tags: ["プライベートな話"]
 image: "blog_import_6621f0365310a.png"
 feature: "blog_import_6621f0365310a.png"

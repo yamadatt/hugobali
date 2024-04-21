@@ -2,7 +2,7 @@
 date: 2019-03-28T21:50:01+09:00
 draft: false
 title: "金持ちの彼女選び。悪友Ｓが選んだのは、美人受付嬢ではなく普通の女の子だった！？"
-slug: "2019/03/28"
+slug: "2019/03/28/215001"
 tags: ["プライベートな話"]
 image: "blog_import_6621ca9385401.png"
 feature: "blog_import_6621ca9385401.png"

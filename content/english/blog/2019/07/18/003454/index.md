@@ -2,7 +2,7 @@
 date: 2019-07-18T00:34:54+09:00
 draft: false
 title: "【アンティークコイン騙しの手口】１９日のアンティークコイン勉強会、残席５名"
-slug: "2019/07/18"
+slug: "2019/07/18/003454"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cec24229f.png"
 feature: "blog_import_6621cec24229f.png"

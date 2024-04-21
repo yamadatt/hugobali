@@ -2,7 +2,7 @@
 date: 2021-08-26T23:07:02+09:00
 draft: false
 title: "明日の成長株の実践会。テーマは「目指せ７０倍！？メガフランチャイジーから学ぼう」"
-slug: "2021/08/26"
+slug: "2021/08/26/230702"
 tags: ["株式投資"]
 image: "blog_import_6621e566ddb7e.png"
 feature: "blog_import_6621e566ddb7e.png"

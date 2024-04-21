@@ -2,7 +2,7 @@
 date: 2019-01-24T00:49:00+09:00
 draft: false
 title: "外国人はインドネシアの土地を所有できるのか"
-slug: "2019/01/24"
+slug: "2019/01/24/004900"
 tags: ["日本とバリ島の不動産取引の違い"]
 image: "blog_import_6621c9751c120.jpg"
 feature: "blog_import_6621c9751c120.jpg"

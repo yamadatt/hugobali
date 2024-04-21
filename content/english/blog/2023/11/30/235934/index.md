@@ -2,7 +2,7 @@
 date: 2023-11-30T23:59:34+09:00
 draft: false
 title: "人気に火がつくと土地価格の上昇がハンパないバリ島"
-slug: "2023/11/30"
+slug: "2023/11/30/235934"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621fe7b20d6b.jpg"
 feature: "blog_import_6621fe7b20d6b.jpg"

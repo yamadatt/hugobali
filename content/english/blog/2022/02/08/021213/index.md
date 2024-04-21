@@ -2,7 +2,7 @@
 date: 2022-02-08T02:12:13+09:00
 draft: false
 title: "３月１０日(金）成長株基礎セミナー「下落時こそ基本！！決算書で企業価値を確認しよう」"
-slug: "2022/02/08"
+slug: "2022/02/08/021213"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ea7370c4d.png"
 feature: "blog_import_6621ea7370c4d.png"

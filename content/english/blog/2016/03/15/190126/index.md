@@ -2,7 +2,7 @@
 date: 2016-03-15T19:01:26+09:00
 draft: false
 title: "パパイヤは２１時を狙え"
-slug: "2016/03/15"
+slug: "2016/03/15/190126"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621ae00e4acf.jpg"
 feature: "blog_import_6621ae00e4acf.jpg"

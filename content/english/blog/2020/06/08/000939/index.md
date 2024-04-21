@@ -2,7 +2,7 @@
 date: 2020-06-08T00:09:39+09:00
 draft: false
 title: "コロナ相場の反省。すべて保有し続けていればプラス１２００万円だった！？"
-slug: "2020/06/08"
+slug: "2020/06/08/000939"
 tags: ["株式投資"]
 image: "blog_import_6621da7bb3f20.png"
 feature: "blog_import_6621da7bb3f20.png"

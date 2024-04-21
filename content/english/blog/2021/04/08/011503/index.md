@@ -2,7 +2,7 @@
 date: 2021-04-08T01:15:03+09:00
 draft: false
 title: "他者に無関心な街「東京」、他者に寛容な街「東京」"
-slug: "2021/04/08"
+slug: "2021/04/08/011503"
 tags: ["プライベートな話"]
 image: "blog_import_6621e1e86f496.png"
 feature: "blog_import_6621e1e86f496.png"

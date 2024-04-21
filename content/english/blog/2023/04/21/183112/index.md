@@ -2,7 +2,7 @@
 date: 2023-04-21T18:31:12+09:00
 draft: false
 title: "祝！！バリ島ヴィラオーナーさんの国際結婚。年齢差は驚愕！？"
-slug: "2023/04/21"
+slug: "2023/04/21/183112"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621f77237bb8.jpg"
 feature: "blog_import_6621f77237bb8.jpg"

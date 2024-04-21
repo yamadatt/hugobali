@@ -2,7 +2,7 @@
 date: 2021-08-06T02:32:30+09:00
 draft: false
 title: "８月７日(土）中高生向け株式勉強会「投資で成功するために、一番大切なこと」"
-slug: "2021/08/06"
+slug: "2021/08/06/023230"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621e4ddd7b30.png"
 feature: "blog_import_6621e4ddd7b30.png"

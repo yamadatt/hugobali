@@ -2,7 +2,7 @@
 date: 2019-11-27T01:38:30+09:00
 draft: false
 title: "生ハム登場！？ナカイさんから「ワインリスト」が届く。まいったな。"
-slug: "2019/11/27"
+slug: "2019/11/27/013830"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d299b1821.png"
 feature: "blog_import_6621d299b1821.png"

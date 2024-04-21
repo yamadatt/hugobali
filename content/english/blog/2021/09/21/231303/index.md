@@ -2,7 +2,7 @@
 date: 2021-09-21T23:13:03+09:00
 draft: false
 title: "大人の合宿「そうだヒリゾ浜、行こう」。やはり、ヒリゾ浜は綺麗だった"
-slug: "2021/09/21"
+slug: "2021/09/21/231303"
 tags: ["プライベートな話"]
 image: "blog_import_6621e6213473b.png"
 feature: "blog_import_6621e6213473b.png"

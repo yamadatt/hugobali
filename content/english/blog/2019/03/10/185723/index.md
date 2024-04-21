@@ -2,7 +2,7 @@
 date: 2019-03-10T18:57:23+09:00
 draft: false
 title: "今さら言うまでもないが、貯金はインフレで目減りする"
-slug: "2019/03/10"
+slug: "2019/03/10/185723"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ca1ee32d4.jpg"
 feature: "blog_import_6621ca1ee32d4.jpg"

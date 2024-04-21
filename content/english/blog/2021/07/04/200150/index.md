@@ -2,7 +2,7 @@
 date: 2021-07-04T20:01:50+09:00
 draft: false
 title: "コロナ隔離（日本へ入国時）は、実際どのようなものなのか？その３"
-slug: "2021/07/04"
+slug: "2021/07/04/200150"
 tags: ["ブログ"]
 image: "blog_import_6621e3e29b04d.png"
 feature: "blog_import_6621e3e29b04d.png"

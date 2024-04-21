@@ -2,7 +2,7 @@
 date: 2022-10-21T17:53:44+09:00
 draft: false
 title: "１０月２１日本日は第４３回：成長株投資の実践会「この相場に立ち向かう」"
-slug: "2022/10/21"
+slug: "2022/10/21/175344"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621f1df23857.png"
 feature: "blog_import_6621f1df23857.png"

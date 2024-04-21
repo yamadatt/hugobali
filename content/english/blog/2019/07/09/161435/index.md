@@ -2,7 +2,7 @@
 date: 2019-07-09T16:14:35+09:00
 draft: false
 title: "成功のポイントは、やってみること。株式投資＆タネ銭づくり"
-slug: "2019/07/09"
+slug: "2019/07/09/161435"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ce7a78034.png"
 feature: "blog_import_6621ce7a78034.png"

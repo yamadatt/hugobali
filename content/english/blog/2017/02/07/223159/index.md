@@ -2,7 +2,7 @@
 date: 2017-02-07T22:31:59+09:00
 draft: false
 title: "高収入な男の悩み「男のスペックと女運は比例しない」"
-slug: "2017/02/07"
+slug: "2017/02/07/223159"
 tags: ["プライベートな話"]
 image: "blog_import_6621b9a2983ac.jpg"
 feature: "blog_import_6621b9a2983ac.jpg"

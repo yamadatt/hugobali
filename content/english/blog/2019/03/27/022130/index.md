@@ -2,7 +2,7 @@
 date: 2019-03-27T02:21:30+09:00
 draft: false
 title: "「初心者でも結果を出せる！株式投資」講師：長田淳司氏からのメッセージ"
-slug: "2019/03/27"
+slug: "2019/03/27/022130"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ca84c57ee.png"
 feature: "blog_import_6621ca84c57ee.png"

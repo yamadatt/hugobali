@@ -2,7 +2,7 @@
 date: 2017-12-11T22:45:28+09:00
 draft: false
 title: "ひょんなことから、期待のルーキー！？"
-slug: "2017/12/11"
+slug: "2017/12/11/224528"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621bf50a63fc.jpg"
 feature: "blog_import_6621bf50a63fc.jpg"

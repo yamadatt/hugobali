@@ -2,7 +2,7 @@
 date: 2021-09-04T23:05:58+09:00
 draft: false
 title: "菅首相の退陣。議院内閣制の被害者かな。大統領制にならないかな。。"
-slug: "2021/09/04"
+slug: "2021/09/04/230558"
 tags: ["プライベートな話"]
 image: "blog_import_6621e5a6205ac.png"
 feature: "blog_import_6621e5a6205ac.png"

@@ -2,7 +2,7 @@
 date: 2020-07-14T20:45:46+09:00
 draft: false
 title: "感想＆質問（11）「セミナーの紹介銘柄が変わったら、前回のと入れ替えですか？」への回答"
-slug: "2020/07/14"
+slug: "2020/07/14/204546"
 tags: ["株式投資"]
 image: "blog_import_6621db778ea38.jpg"
 feature: "blog_import_6621db778ea38.jpg"

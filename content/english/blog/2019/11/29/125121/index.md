@@ -2,7 +2,7 @@
 date: 2019-11-29T12:51:21+09:00
 draft: false
 title: "ブティックス9272ストップ高、トビラ4441爆上げ！皆さま、おめでとうございます！！"
-slug: "2019/11/29"
+slug: "2019/11/29/125121"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d2cfba39b.png"
 feature: "blog_import_6621d2cfba39b.png"

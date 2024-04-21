@@ -2,7 +2,7 @@
 date: 2022-03-15T12:31:57+09:00
 draft: false
 title: "今度こそ、バリ島観光は再開する！？"
-slug: "2022/03/15"
+slug: "2022/03/15/123157"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621ec1218cf1.jpg"
 feature: "blog_import_6621ec1218cf1.jpg"

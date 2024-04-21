@@ -2,7 +2,7 @@
 date: 2024-02-04T07:08:56+09:00
 draft: false
 title: "投資で勝つ唯一の方法。それは「失敗してもやり続けること」"
-slug: "2024/02/04"
+slug: "2024/02/04/070856"
 tags: ["株式投資"]
 image: "blog_import_6621ffc91bcff.png"
 feature: "blog_import_6621ffc91bcff.png"

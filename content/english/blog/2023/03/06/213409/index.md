@@ -2,7 +2,7 @@
 date: 2023-03-06T21:34:09+09:00
 draft: false
 title: "コロナで暇を与えた美人スタッフが、やり手のエージェントになった。タケシ登場！？"
-slug: "2023/03/06"
+slug: "2023/03/06/213409"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621f6700fe15.png"
 feature: "blog_import_6621f6700fe15.png"

@@ -2,7 +2,7 @@
 date: 2023-04-06T23:59:28+09:00
 draft: false
 title: "大学全入時代に、Ｆラン大学に進学する意味はあるのか！？"
-slug: "2023/04/06"
+slug: "2023/04/06/235928"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f736eaad8.png"
 feature: "blog_import_6621f736eaad8.png"

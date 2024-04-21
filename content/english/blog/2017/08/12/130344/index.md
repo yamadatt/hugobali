@@ -2,7 +2,7 @@
 date: 2017-08-12T13:03:44+09:00
 draft: false
 title: "なぜ「Booking.com」に登録できない！？"
-slug: "2017/08/12"
+slug: "2017/08/12/130344"
 tags: ["トラブルの話"]
 image: "blog_import_6621bcb9e2853.png"
 feature: "blog_import_6621bcb9e2853.png"

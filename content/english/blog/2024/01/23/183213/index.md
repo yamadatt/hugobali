@@ -2,7 +2,7 @@
 date: 2024-01-23T18:32:13+09:00
 draft: false
 title: "ダホンDAHON折り畳み自転車が届いた！？"
-slug: "2024/01/23"
+slug: "2024/01/23/183213"
 tags: ["インド旅行パンチャカルマ"]
 image: "blog_import_6621ff7bdc7a7.png"
 feature: "blog_import_6621ff7bdc7a7.png"

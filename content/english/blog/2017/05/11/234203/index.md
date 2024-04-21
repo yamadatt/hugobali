@@ -2,7 +2,7 @@
 date: 2017-05-11T23:42:03+09:00
 draft: false
 title: "倫理観に乏しいスタッフ「持ち逃げ」"
-slug: "2017/05/11"
+slug: "2017/05/11/234203"
 tags: ["トラブルの話"]
 image: "blog_import_6621bb5fd7275.jpg"
 feature: "blog_import_6621bb5fd7275.jpg"

@@ -2,7 +2,7 @@
 date: 2022-06-25T16:49:49+09:00
 draft: false
 title: "先日の「仮想通貨セミナー」。いただいた感想"
-slug: "2022/06/25"
+slug: "2022/06/25/164949"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621eee10f992.jpg"
 feature: "blog_import_6621eee10f992.jpg"

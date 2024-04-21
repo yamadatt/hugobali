@@ -2,7 +2,7 @@
 date: 2020-10-07T00:58:37+09:00
 draft: false
 title: "１０月～３月のセミナー日程が決まりました"
-slug: "2020/10/07"
+slug: "2020/10/07/005837"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621dd4e0fe40.png"
 feature: "blog_import_6621dd4e0fe40.png"

@@ -2,7 +2,7 @@
 date: 2021-02-02T02:02:01+09:00
 draft: false
 title: "【香港の養老保険】質問に回答します。どのような高利回りなのか？"
-slug: "2021/02/02"
+slug: "2021/02/02/020201"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621e02bbdc88.png"
 feature: "blog_import_6621e02bbdc88.png"

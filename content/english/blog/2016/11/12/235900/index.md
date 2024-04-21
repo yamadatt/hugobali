@@ -2,7 +2,7 @@
 date: 2016-11-12T23:59:00+09:00
 draft: false
 title: "バリ島で怪しげな不動産セミナーをやっていた！？"
-slug: "2016/11/12"
+slug: "2016/11/12/235900"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621b66e9432f.jpg"
 feature: "blog_import_6621b66e9432f.jpg"

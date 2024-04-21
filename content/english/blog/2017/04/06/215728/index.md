@@ -2,7 +2,7 @@
 date: 2017-04-06T21:57:28+09:00
 draft: false
 title: "ＢＮＩ銀行に電話しても、誰も出ない。なぜ！？"
-slug: "2017/04/06"
+slug: "2017/04/06/215728"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621bac91ea29.jpg"
 feature: "blog_import_6621bac91ea29.jpg"

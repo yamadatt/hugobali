@@ -2,7 +2,7 @@
 date: 2022-02-06T17:22:23+09:00
 draft: false
 title: "さっそくドローンを購入。「大人って悪くないな」"
-slug: "2022/02/06"
+slug: "2022/02/06/172223"
 tags: ["プライベートな話"]
 image: "blog_import_6621ea5c24920.jpg"
 feature: "blog_import_6621ea5c24920.jpg"

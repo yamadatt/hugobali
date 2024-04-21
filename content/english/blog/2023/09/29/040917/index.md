@@ -2,7 +2,7 @@
 date: 2023-09-29T04:09:17+09:00
 draft: false
 title: "バリ島現地法人の20代女性スタッフの訃報「命の重さ」"
-slug: "2023/09/29"
+slug: "2023/09/29/040917"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621fd08833da.jpg"
 feature: "blog_import_6621fd08833da.jpg"

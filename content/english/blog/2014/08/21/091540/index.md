@@ -2,7 +2,7 @@
 date: 2014-08-21T09:15:40+09:00
 draft: false
 title: "急ぎ売物件　バリ島チャングーのヴィラ　約２億円"
-slug: "2014/08/21"
+slug: "2014/08/21/091540"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621a6557faf0.jpg"
 feature: "blog_import_6621a6557faf0.jpg"

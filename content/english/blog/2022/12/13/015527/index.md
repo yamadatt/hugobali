@@ -2,7 +2,7 @@
 date: 2022-12-13T01:55:27+09:00
 draft: false
 title: "ふるさと納税、、悩ましい"
-slug: "2022/12/13"
+slug: "2022/12/13/015527"
 tags: ["プライベートな話"]
 image: "blog_import_6621f3acededb.png"
 feature: "blog_import_6621f3acededb.png"

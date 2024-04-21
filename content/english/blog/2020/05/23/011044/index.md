@@ -2,7 +2,7 @@
 date: 2020-05-23T01:10:44+09:00
 draft: false
 title: "神保町「酔の助」が閉店。明大ＯＢとしてはショックだな。"
-slug: "2020/05/23"
+slug: "2020/05/23/011044"
 tags: ["プライベートな話"]
 image: "blog_import_6621da2f43bf0.png"
 feature: "blog_import_6621da2f43bf0.png"

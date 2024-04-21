@@ -2,7 +2,7 @@
 date: 2020-04-21T23:10:22+09:00
 draft: false
 title: "ラブホの料金看板の完成！？皆さま、ありがとうございました！！"
-slug: "2020/04/21"
+slug: "2020/04/21/231022"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621d92235eb4.png"
 feature: "blog_import_6621d92235eb4.png"

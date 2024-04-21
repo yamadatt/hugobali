@@ -2,7 +2,7 @@
 date: 2022-05-07T19:09:00+09:00
 draft: false
 title: "投資しないとお金持ちになれない！？５月１３日(金）「成長株の基礎セミナー」のご案内"
-slug: "2022/05/07"
+slug: "2022/05/07/190900"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621edadba373.png"
 feature: "blog_import_6621edadba373.png"

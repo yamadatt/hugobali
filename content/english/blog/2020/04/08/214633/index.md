@@ -2,7 +2,7 @@
 date: 2020-04-08T21:46:33+09:00
 draft: false
 title: "長田先生のメッセージ「コロナ問題について、今後の予想」"
-slug: "2020/04/08"
+slug: "2020/04/08/214633"
 tags: ["株式投資"]
 image: "blog_import_6621d83d1a7d8.png"
 feature: "blog_import_6621d83d1a7d8.png"

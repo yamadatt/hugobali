@@ -2,7 +2,7 @@
 date: 2023-12-10T02:31:42+09:00
 draft: false
 title: "バリ島の闘鶏は、アツい！？"
-slug: "2023/12/10"
+slug: "2023/12/10/023142"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621fecbcfc84.jpg"
 feature: "blog_import_6621fecbcfc84.jpg"

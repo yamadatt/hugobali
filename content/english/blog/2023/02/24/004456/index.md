@@ -2,7 +2,7 @@
 date: 2023-02-24T00:44:56+09:00
 draft: false
 title: "2月28日臨時セミナー「２年後にIPOを目指すファンディーノ大浦社長の投資家向け説明会」"
-slug: "2023/02/24"
+slug: "2023/02/24/004456"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621f62061afa.png"
 feature: "blog_import_6621f62061afa.png"

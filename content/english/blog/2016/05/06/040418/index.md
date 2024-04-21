@@ -2,7 +2,7 @@
 date: 2016-05-06T04:04:18+09:00
 draft: false
 title: "サヌール賃料4000円の賃貸！？"
-slug: "2016/05/06"
+slug: "2016/05/06/040418"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621af73d4807.jpg"
 feature: "blog_import_6621af73d4807.jpg"

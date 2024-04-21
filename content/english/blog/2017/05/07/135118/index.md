@@ -2,7 +2,7 @@
 date: 2017-05-07T13:51:18+09:00
 draft: false
 title: "モテモテのバリ男"
-slug: "2017/05/07"
+slug: "2017/05/07/135118"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621bb4e3dd65.jpg"
 feature: "blog_import_6621bb4e3dd65.jpg"

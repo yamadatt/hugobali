@@ -2,7 +2,7 @@
 date: 2021-07-01T17:39:16+09:00
 draft: false
 title: "コロナワクチンは打つべきか？１回目の接種をしてきて。"
-slug: "2021/07/01"
+slug: "2021/07/01/173916"
 tags: ["プライベートな話"]
 image: "blog_import_6621e3ce832bc.png"
 feature: "blog_import_6621e3ce832bc.png"

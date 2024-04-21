@@ -2,7 +2,7 @@
 date: 2021-10-17T11:29:07+09:00
 draft: false
 title: "バリ島不動産の契約書のトラブル　その５「測量で６０㎡も間違えるものなのか！？」"
-slug: "2021/10/17"
+slug: "2021/10/17/112907"
 tags: ["トラブルの話"]
 image: "blog_import_6621e6e861d90.jpg"
 feature: "blog_import_6621e6e861d90.jpg"

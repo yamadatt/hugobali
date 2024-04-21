@@ -2,7 +2,7 @@
 date: 2019-09-02T19:09:25+09:00
 draft: false
 title: "気分が乗らない時は、酒を飲んで寝よう。次の日には別の自分がいるものだ。"
-slug: "2019/09/02"
+slug: "2019/09/02/190925"
 tags: ["プライベートな話"]
 image: "blog_import_6621cfbab844f.png"
 feature: "blog_import_6621cfbab844f.png"

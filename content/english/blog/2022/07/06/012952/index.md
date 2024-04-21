@@ -2,7 +2,7 @@
 date: 2022-07-06T01:29:52+09:00
 draft: false
 title: "無料の万歩計アプリ「Sweatコイン」は、爆上げの可能性アリ！？"
-slug: "2022/07/06"
+slug: "2022/07/06/012952"
 tags: ["仮想通貨・暗号通貨"]
 image: "blog_import_6621ef2da3544.jpg"
 feature: "blog_import_6621ef2da3544.jpg"

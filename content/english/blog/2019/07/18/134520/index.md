@@ -2,7 +2,7 @@
 date: 2019-07-18T13:45:20+09:00
 draft: false
 title: "明日のアンティークコイン勉強会の内容"
-slug: "2019/07/18"
+slug: "2019/07/18/134520"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cec42b04c.jpg"
 feature: "blog_import_6621cec42b04c.jpg"

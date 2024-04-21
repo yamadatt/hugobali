@@ -2,7 +2,7 @@
 date: 2023-07-28T23:05:41+09:00
 draft: false
 title: "ついに、、野村證券時代の先輩をゴルフ部に招待した！？「先輩の悲惨な結婚話」"
-slug: "2023/07/28"
+slug: "2023/07/28/230541"
 tags: ["プライベートな話"]
 image: "blog_import_6621fba453b0b.jpg"
 feature: "blog_import_6621fba453b0b.jpg"

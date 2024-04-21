@@ -2,7 +2,7 @@
 date: 2021-07-23T02:19:03+09:00
 draft: false
 title: "インドネシアからの帰国者の隔離体験談【鯛焼きさん】②「羽田での足止め７時間半！？」"
-slug: "2021/07/23"
+slug: "2021/07/23/021903"
 tags: ["新型コロナウィルス"]
 image: "blog_import_6621e4797577b.png"
 feature: "blog_import_6621e4797577b.png"

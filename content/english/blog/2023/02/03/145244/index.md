@@ -2,7 +2,7 @@
 date: 2023-02-03T14:52:44+09:00
 draft: false
 title: "インドのトイレ事情"
-slug: "2023/02/03"
+slug: "2023/02/03/145244"
 tags: ["インド旅行パンチャカルマ"]
 image: "blog_import_6621f5825266c.jpg"
 feature: "blog_import_6621f5825266c.jpg"

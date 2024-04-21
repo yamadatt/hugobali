@@ -2,7 +2,7 @@
 date: 2023-05-09T17:13:21+09:00
 draft: false
 title: "採血に失敗。３回針を刺されるが謝罪なし！？謝罪上手になろう"
-slug: "2023/05/09"
+slug: "2023/05/09/171321"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621f9108cfdd.png"
 feature: "blog_import_6621f9108cfdd.png"

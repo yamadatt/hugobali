@@ -2,7 +2,7 @@
 date: 2023-03-07T11:44:55+09:00
 draft: false
 title: "鹿児島へ"
-slug: "2023/03/07"
+slug: "2023/03/07/114455"
 tags: ["プライベートな話"]
 image: "blog_import_6621f67c1351d.jpg"
 feature: "blog_import_6621f67c1351d.jpg"

@@ -2,7 +2,7 @@
 date: 2021-11-09T23:38:28+09:00
 draft: false
 title: "第10回馬場ゴルフ部月例「幹事って大変だな。。笑」"
-slug: "2021/11/09"
+slug: "2021/11/09/233828"
 tags: ["ゴルフ"]
 image: "blog_import_6621e78792461.jpg"
 feature: "blog_import_6621e78792461.jpg"

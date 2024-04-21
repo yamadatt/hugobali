@@ -2,7 +2,7 @@
 date: 2016-03-30T20:57:14+09:00
 draft: false
 title: "バリ島の変わった食材"
-slug: "2016/03/30"
+slug: "2016/03/30/205714"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621ae7e5650b.jpg"
 feature: "blog_import_6621ae7e5650b.jpg"

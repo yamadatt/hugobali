@@ -2,7 +2,7 @@
 date: 2016-06-14T19:16:59+09:00
 draft: false
 title: "利回り３０％超！？ズバリ！このヴィラ儲かりますよ"
-slug: "2016/06/14"
+slug: "2016/06/14/191659"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621b0359a2c0.jpg"
 feature: "blog_import_6621b0359a2c0.jpg"

@@ -2,7 +2,7 @@
 date: 2020-10-28T00:56:03+09:00
 draft: false
 title: "満員御礼。今週末３０日の「成長株投資の実践会」"
-slug: "2020/10/28"
+slug: "2020/10/28/005603"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621de15dc916.png"
 feature: "blog_import_6621de15dc916.png"

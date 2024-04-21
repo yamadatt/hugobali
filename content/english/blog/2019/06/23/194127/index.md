@@ -2,7 +2,7 @@
 date: 2019-06-23T19:41:27+09:00
 draft: false
 title: "７月のセミナー予定「バリ島」「成長株」「コイン」「税務調査」。"
-slug: "2019/06/23"
+slug: "2019/06/23/194127"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ce122b2e3.png"
 feature: "blog_import_6621ce122b2e3.png"

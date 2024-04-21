@@ -2,7 +2,7 @@
 date: 2017-12-21T22:48:48+09:00
 draft: false
 title: "高スペック独身オーナーが、スミニャックに建てた渾身の新築ヴィラ VILLA(Ⅰ）"
-slug: "2017/12/21"
+slug: "2017/12/21/224848"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621bfa3e8aa4.jpg"
 feature: "blog_import_6621bfa3e8aa4.jpg"

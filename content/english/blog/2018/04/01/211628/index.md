@@ -2,7 +2,7 @@
 date: 2018-04-01T21:16:28+09:00
 draft: false
 title: "欧米人との価格交渉は、ナメられたら負けだ"
-slug: "2018/04/01"
+slug: "2018/04/01/211628"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621c2a65d007.jpg"
 feature: "blog_import_6621c2a65d007.jpg"

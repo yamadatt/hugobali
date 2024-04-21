@@ -2,7 +2,7 @@
 date: 2023-06-19T22:32:36+09:00
 draft: false
 title: "こだわり抜いた店は繁盛する！？ボロ銭湯を復活させた店主に学ぼう"
-slug: "2023/06/19"
+slug: "2023/06/19/223236"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621fa3689f4a.png"
 feature: "blog_import_6621fa3689f4a.png"

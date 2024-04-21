@@ -2,7 +2,7 @@
 date: 2017-11-22T23:47:10+09:00
 draft: false
 title: "えっ、７カラット！？ ハリー・ウィンストンにあったダイヤモンド"
-slug: "2017/11/22"
+slug: "2017/11/22/234710"
 tags: ["プライベートな話"]
 image: "blog_import_6621befe73a20.png"
 feature: "blog_import_6621befe73a20.png"

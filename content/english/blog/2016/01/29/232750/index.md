@@ -2,7 +2,7 @@
 date: 2016-01-29T23:27:50+09:00
 draft: false
 title: "ブロックMスクエアのマッサージ"
-slug: "2016/01/29"
+slug: "2016/01/29/232750"
 tags: ["ブログ"]
 image: "blog_import_6621ac4a16168.jpg"
 feature: "blog_import_6621ac4a16168.jpg"

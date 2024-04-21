@@ -2,7 +2,7 @@
 date: 2018-11-05T21:56:26+09:00
 draft: false
 title: "起業の実況中継！？起業の経験する人を募集！？バッタ品を販売の組織化→起業"
-slug: "2018/11/05"
+slug: "2018/11/05/215626"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c7510fa13.jpg"
 feature: "blog_import_6621c7510fa13.jpg"

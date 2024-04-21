@@ -2,7 +2,7 @@
 date: 2019-11-20T23:31:34+09:00
 draft: false
 title: "知ってるつもりの「日経平均株価」って何だ！？"
-slug: "2019/11/20"
+slug: "2019/11/20/233134"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d26261b6c.png"
 feature: "blog_import_6621d26261b6c.png"

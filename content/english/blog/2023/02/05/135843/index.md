@@ -2,7 +2,7 @@
 date: 2023-02-05T13:58:43+09:00
 draft: false
 title: "毎日１万人の炊き出しをするシク教「クルドアラ寺院」"
-slug: "2023/02/05"
+slug: "2023/02/05/135843"
 tags: ["インド旅行パンチャカルマ"]
 image: "blog_import_6621f587ee9e1.jpg"
 feature: "blog_import_6621f587ee9e1.jpg"

@@ -2,7 +2,7 @@
 date: 2017-08-11T18:57:19+09:00
 draft: false
 title: "新興国のコンドミニアムは良い商品か！？"
-slug: "2017/08/11"
+slug: "2017/08/11/185719"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621bcb7e0467.jpg"
 feature: "blog_import_6621bcb7e0467.jpg"

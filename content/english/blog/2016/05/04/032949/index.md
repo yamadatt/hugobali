@@ -2,7 +2,7 @@
 date: 2016-05-04T03:29:49+09:00
 draft: false
 title: "サヌールのお勧めバイキング"
-slug: "2016/05/04"
+slug: "2016/05/04/032949"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621af3fb5a5e.jpg"
 feature: "blog_import_6621af3fb5a5e.jpg"

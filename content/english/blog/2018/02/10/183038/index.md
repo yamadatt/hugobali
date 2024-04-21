@@ -2,7 +2,7 @@
 date: 2018-02-10T18:30:38+09:00
 draft: false
 title: "なぜ、手抜き工事が起きるのか？"
-slug: "2018/02/10"
+slug: "2018/02/10/183038"
 tags: ["トラブルの話"]
 image: "blog_import_6621c19c4cef4.jpg"
 feature: "blog_import_6621c19c4cef4.jpg"

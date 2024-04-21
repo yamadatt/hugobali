@@ -2,7 +2,7 @@
 date: 2024-01-25T23:59:37+09:00
 draft: false
 title: "もう財布はなくさない！？スマートタグを手に入れた。"
-slug: "2024/01/25"
+slug: "2024/01/25/235937"
 tags: ["プライベートな話"]
 image: "blog_import_6621ff9bc9052.jpg"
 feature: "blog_import_6621ff9bc9052.jpg"

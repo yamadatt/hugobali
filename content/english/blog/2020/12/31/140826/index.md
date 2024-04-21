@@ -2,7 +2,7 @@
 date: 2020-12-31T14:08:26+09:00
 draft: false
 title: "「過度にハマる」「ワクワクする」「失敗も成功も」その繰り返しだな"
-slug: "2020/12/31"
+slug: "2020/12/31/140826"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621df8da1f62.jpg"
 feature: "blog_import_6621df8da1f62.jpg"

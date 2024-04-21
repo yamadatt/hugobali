@@ -2,7 +2,7 @@
 date: 2019-07-05T23:53:14+09:00
 draft: false
 title: "バリ島の税務調査。。罰金とワイロとどちらがいいのか？"
-slug: "2019/07/05"
+slug: "2019/07/05/235314"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621ce5b53860.jpg"
 feature: "blog_import_6621ce5b53860.jpg"

@@ -2,7 +2,7 @@
 date: 2014-08-23T11:05:34+09:00
 draft: false
 title: "急ぎ売ヴィラ　バリ島サヌール　7.2アール　約3500万円"
-slug: "2014/08/23"
+slug: "2014/08/23/110534"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621a6a50b10c.jpg"
 feature: "blog_import_6621a6a50b10c.jpg"

@@ -2,7 +2,7 @@
 date: 2019-08-13T14:58:26+09:00
 draft: false
 title: "タケシ、勇者になる！？その５ 胎盤供養の代金で、ボッタクリに遭う！？"
-slug: "2019/08/13"
+slug: "2019/08/13/145826"
 tags: ["タケシ（バリ島現地スタッフ）の話"]
 image: "blog_import_6621cf8683a3b.jpg"
 feature: "blog_import_6621cf8683a3b.jpg"

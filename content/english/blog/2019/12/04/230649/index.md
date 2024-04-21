@@ -2,7 +2,7 @@
 date: 2019-12-04T23:06:49+09:00
 draft: false
 title: "株価が急落！？投資家マインドは大切だ"
-slug: "2019/12/04"
+slug: "2019/12/04/230649"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d35a982d1.png"
 feature: "blog_import_6621d35a982d1.png"

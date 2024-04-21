@@ -2,7 +2,7 @@
 date: 2018-03-20T22:03:11+09:00
 draft: false
 title: "このヴィラは面白い！？この価格ならアリだな。"
-slug: "2018/03/20"
+slug: "2018/03/20/220311"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621c23993cca.jpg"
 feature: "blog_import_6621c23993cca.jpg"

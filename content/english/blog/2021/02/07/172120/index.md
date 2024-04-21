@@ -2,7 +2,7 @@
 date: 2021-02-07T17:21:20+09:00
 draft: false
 title: "２月１３日(土）第５回：中高生向け「株式投資の勉強会」ご案内"
-slug: "2021/02/07"
+slug: "2021/02/07/172120"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621e04e8fe6a.jpg"
 feature: "blog_import_6621e04e8fe6a.jpg"

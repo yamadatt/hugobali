@@ -2,7 +2,7 @@
 date: 2020-07-14T21:24:47+09:00
 draft: false
 title: "感想＆質問（16）「大暴落の底で売らなかったのは、進歩ですか？」への回答"
-slug: "2020/07/14"
+slug: "2020/07/14/212447"
 tags: ["株式投資"]
 image: "blog_import_6621db809e4c3.jpg"
 feature: "blog_import_6621db809e4c3.jpg"

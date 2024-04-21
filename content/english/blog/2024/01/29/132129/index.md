@@ -2,7 +2,7 @@
 date: 2024-01-29T13:21:29+09:00
 draft: false
 title: "カイバリヤダーマでは、食事量が1／100になる！？"
-slug: "2024/01/29"
+slug: "2024/01/29/132129"
 tags: ["インド旅行パンチャカルマ"]
 image: "blog_import_6621ffb5946c5.jpg"
 feature: "blog_import_6621ffb5946c5.jpg"

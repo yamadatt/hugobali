@@ -2,7 +2,7 @@
 date: 2023-03-18T19:53:49+09:00
 draft: false
 title: "バリ島ヴィラで起きた女泥棒。驚きの結末とは！？"
-slug: "2023/03/18"
+slug: "2023/03/18/195349"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621f6b9b71dd.png"
 feature: "blog_import_6621f6b9b71dd.png"

@@ -2,7 +2,7 @@
 date: 2022-01-29T04:32:26+09:00
 draft: false
 title: "田舎投資、みんなでやれば、怖くない！？"
-slug: "2022/01/29"
+slug: "2022/01/29/043226"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621ea01d0437.png"
 feature: "blog_import_6621ea01d0437.png"

@@ -2,7 +2,7 @@
 date: 2020-02-15T23:34:09+09:00
 draft: false
 title: "過去のカード記事が〝非公開設定&#34;になったワケ"
-slug: "2020/02/15"
+slug: "2020/02/15/233409"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d70e1481a.png"
 feature: "blog_import_6621d70e1481a.png"

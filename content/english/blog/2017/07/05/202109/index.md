@@ -2,7 +2,7 @@
 date: 2017-07-05T20:21:09+09:00
 draft: false
 title: "借金回収のプロは凄まじいな"
-slug: "2017/07/05"
+slug: "2017/07/05/202109"
 tags: ["プライベートな話"]
 image: "blog_import_6621bc3ecbe34.jpg"
 feature: "blog_import_6621bc3ecbe34.jpg"

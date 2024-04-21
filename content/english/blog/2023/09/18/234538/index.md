@@ -2,7 +2,7 @@
 date: 2023-09-18T23:45:38+09:00
 draft: false
 title: "人生は運が左右する。「こんなもんかな」という割り切りが大切。"
-slug: "2023/09/18"
+slug: "2023/09/18/234538"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621fce5811dd.png"
 feature: "blog_import_6621fce5811dd.png"

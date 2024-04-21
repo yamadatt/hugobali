@@ -2,7 +2,7 @@
 date: 2023-06-26T23:01:24+09:00
 draft: false
 title: "新入社員時代(野村證券）の話　その１「九州・長崎に配属」"
-slug: "2023/06/26"
+slug: "2023/06/26/230124"
 tags: ["プライベートな話"]
 image: "blog_import_6621fa6db4b03.png"
 feature: "blog_import_6621fa6db4b03.png"

@@ -2,7 +2,7 @@
 date: 2019-05-28T15:03:38+09:00
 draft: false
 title: "現代アート投資の魅力とメリット！？その４　作家の価値が上がる条件とは？"
-slug: "2019/05/28"
+slug: "2019/05/28/150338"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ccf6e68be.png"
 feature: "blog_import_6621ccf6e68be.png"

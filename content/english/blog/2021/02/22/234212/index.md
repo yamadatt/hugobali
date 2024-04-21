@@ -2,7 +2,7 @@
 date: 2021-02-22T23:42:12+09:00
 draft: false
 title: "アルペン会長が強制わいせつ致傷で逮捕。マジで気の毒。マスコミはクソだな。"
-slug: "2021/02/22"
+slug: "2021/02/22/234212"
 tags: ["プライベートな話"]
 image: "blog_import_6621e088bab24.png"
 feature: "blog_import_6621e088bab24.png"

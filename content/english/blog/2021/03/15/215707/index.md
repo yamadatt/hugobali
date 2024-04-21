@@ -2,7 +2,7 @@
 date: 2021-03-15T21:57:07+09:00
 draft: false
 title: "悲鳴！？ゴルフコンペ幹事で、自分の事務能力の低さを知る？"
-slug: "2021/03/15"
+slug: "2021/03/15/215707"
 tags: ["ゴルフ"]
 image: "blog_import_6621e10fe5c8f.png"
 feature: "blog_import_6621e10fe5c8f.png"

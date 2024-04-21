@@ -2,7 +2,7 @@
 date: 2019-06-19T23:31:47+09:00
 draft: false
 title: "明日の生ハム、参上！？"
-slug: "2019/06/19"
+slug: "2019/06/19/233147"
 tags: ["プライベートな話"]
 image: "blog_import_6621cd9b7c5f1.jpg"
 feature: "blog_import_6621cd9b7c5f1.jpg"

@@ -2,7 +2,7 @@
 date: 2017-09-13T18:37:41+09:00
 draft: false
 title: "金がないのにいい話に乗りたいなら「できない」なんて言うなよ。「できる！」ってウソをつけよ"
-slug: "2017/09/13"
+slug: "2017/09/13/183741"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621bd56523f7.jpg"
 feature: "blog_import_6621bd56523f7.jpg"

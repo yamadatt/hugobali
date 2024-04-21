@@ -2,7 +2,7 @@
 date: 2019-08-30T16:58:44+09:00
 draft: false
 title: "昨日のバリ島不動産セミナーの報告。プレビルド案件も悪くないな。"
-slug: "2019/08/30"
+slug: "2019/08/30/165844"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cfb3abe33.jpg"
 feature: "blog_import_6621cfb3abe33.jpg"

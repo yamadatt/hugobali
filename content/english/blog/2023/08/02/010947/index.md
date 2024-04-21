@@ -2,7 +2,7 @@
 date: 2023-08-02T01:09:47+09:00
 draft: false
 title: "8月18日(金）第４期１１回成長株基礎セミナー「テーマ株で大きく勝とう！？」"
-slug: "2023/08/02"
+slug: "2023/08/02/010947"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621fbcbe1807.png"
 feature: "blog_import_6621fbcbe1807.png"

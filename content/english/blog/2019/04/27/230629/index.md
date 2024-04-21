@@ -2,7 +2,7 @@
 date: 2019-04-27T23:06:29+09:00
 draft: false
 title: "御礼とお詫び。株式投資の実践会「理詰めの株式投資ってすごいな。あと遠方の方、ＧＷ前にすみませんで"
-slug: "2019/04/27"
+slug: "2019/04/27/230629"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cc2ca7d50.jpg"
 feature: "blog_import_6621cc2ca7d50.jpg"

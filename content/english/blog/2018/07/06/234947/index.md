@@ -2,7 +2,7 @@
 date: 2018-07-06T23:49:47+09:00
 draft: false
 title: "バリ島のバイク事故、突然の死は嫌だな"
-slug: "2018/07/06"
+slug: "2018/07/06/234947"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c4cbd89ad.jpg"
 feature: "blog_import_6621c4cbd89ad.jpg"

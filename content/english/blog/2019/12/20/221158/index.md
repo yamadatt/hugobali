@@ -2,7 +2,7 @@
 date: 2019-12-20T22:11:58+09:00
 draft: false
 title: "金持ち男をゲットするのは、どんな女！？"
-slug: "2019/12/20"
+slug: "2019/12/20/221158"
 tags: ["プライベートな話"]
 image: "blog_import_6621d3dcdc87c.png"
 feature: "blog_import_6621d3dcdc87c.png"

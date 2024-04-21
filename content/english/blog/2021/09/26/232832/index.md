@@ -2,7 +2,7 @@
 date: 2021-09-26T23:28:32+09:00
 draft: false
 title: "新型コロナ重篤化体験談。その２「感染初期は、風邪と同じ？」"
-slug: "2021/09/26"
+slug: "2021/09/26/232832"
 tags: ["プライベートな話"]
 image: "blog_import_6621e645497d6.png"
 feature: "blog_import_6621e645497d6.png"

@@ -2,7 +2,7 @@
 date: 2020-12-05T15:41:38+09:00
 draft: false
 title: "腐敗大国インドネシア。賄賂経験者は５０％！？"
-slug: "2020/12/05"
+slug: "2020/12/05/154138"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621df0e21e62.jpg"
 feature: "blog_import_6621df0e21e62.jpg"

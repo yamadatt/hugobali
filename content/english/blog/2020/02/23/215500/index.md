@@ -2,7 +2,7 @@
 date: 2020-02-23T21:55:00+09:00
 draft: false
 title: "２２日の最強カードセミナーの報告"
-slug: "2020/02/23"
+slug: "2020/02/23/215500"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d77368cbd.jpg"
 feature: "blog_import_6621d77368cbd.jpg"

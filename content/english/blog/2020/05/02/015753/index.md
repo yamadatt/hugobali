@@ -2,7 +2,7 @@
 date: 2020-05-02T01:57:53+09:00
 draft: false
 title: "コロナ禍の中、営業するパチンコ店。幕末の長州藩みたいだな"
-slug: "2020/05/02"
+slug: "2020/05/02/015753"
 tags: ["プライベートな話"]
 image: "blog_import_6621d9a56c4de.png"
 feature: "blog_import_6621d9a56c4de.png"

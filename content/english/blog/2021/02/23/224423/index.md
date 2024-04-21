@@ -2,7 +2,7 @@
 date: 2021-02-23T22:44:23+09:00
 draft: false
 title: "成功のためには、登るハシゴを間違えないようにしよう"
-slug: "2021/02/23"
+slug: "2021/02/23/224423"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e08c7c045.png"
 feature: "blog_import_6621e08c7c045.png"

@@ -2,7 +2,7 @@
 date: 2016-02-24T16:10:17+09:00
 draft: false
 title: "スミニャックのヴィラ宿泊費４０％オフ！！"
-slug: "2016/02/24"
+slug: "2016/02/24/161017"
 tags: ["バリ島ロングステイ向け賃貸物件"]
 image: "blog_import_6621acef4c7cc.jpg"
 feature: "blog_import_6621acef4c7cc.jpg"

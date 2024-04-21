@@ -2,7 +2,7 @@
 date: 2020-01-14T23:59:31+09:00
 draft: false
 title: "バリ島法人で日本語研修を始めた！？がんばれ、ガードマン！！"
-slug: "2020/01/14"
+slug: "2020/01/14/235931"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621d57721bee.png"
 feature: "blog_import_6621d57721bee.png"

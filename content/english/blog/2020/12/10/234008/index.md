@@ -2,7 +2,7 @@
 date: 2020-12-10T23:40:08+09:00
 draft: false
 title: "年利３０％！？高利回りキッチンカー（移動販売車）投資"
-slug: "2020/12/10"
+slug: "2020/12/10/234008"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621df2cf203a.png"
 feature: "blog_import_6621df2cf203a.png"

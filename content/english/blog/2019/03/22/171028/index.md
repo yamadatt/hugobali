@@ -2,7 +2,7 @@
 date: 2019-03-22T17:10:28+09:00
 draft: false
 title: "株式投資セミナー２連発！？４月１２日初心者向け、２６日銘柄選定実践の勉強会"
-slug: "2019/03/22"
+slug: "2019/03/22/171028"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ca7953093.jpg"
 feature: "blog_import_6621ca7953093.jpg"

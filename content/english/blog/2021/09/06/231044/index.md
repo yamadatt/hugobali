@@ -2,7 +2,7 @@
 date: 2021-09-06T23:10:44+09:00
 draft: false
 title: "菅政権の功績を知ろう。公平さに欠ける朝日新聞の論調。"
-slug: "2021/09/06"
+slug: "2021/09/06/231044"
 tags: ["プライベートな話"]
 image: "blog_import_6621e5b5c0919.jpg"
 feature: "blog_import_6621e5b5c0919.jpg"

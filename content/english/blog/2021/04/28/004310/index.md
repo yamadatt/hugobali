@@ -2,7 +2,7 @@
 date: 2021-04-28T00:43:10+09:00
 draft: false
 title: "サラリーマンは経費を使えるネタを持とう"
-slug: "2021/04/28"
+slug: "2021/04/28/004310"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e22bdaf64.png"
 feature: "blog_import_6621e22bdaf64.png"

@@ -2,7 +2,7 @@
 date: 2021-07-08T23:59:54+09:00
 draft: false
 title: "第６回馬場ゴルフ部月例コンペの報告。優勝スコア７９、平均スコアも１００切り！？"
-slug: "2021/07/08"
+slug: "2021/07/08/235954"
 tags: ["ゴルフ"]
 image: "blog_import_6621e3edefaf3.jpg"
 feature: "blog_import_6621e3edefaf3.jpg"

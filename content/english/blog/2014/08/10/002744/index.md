@@ -2,7 +2,7 @@
 date: 2014-08-10T00:27:44+09:00
 draft: false
 title: "バリ島個室マッサージ編２（インドネシア語会話）"
-slug: "2014/08/10"
+slug: "2014/08/10/002744"
 tags: ["超実践！インドネシア語会話"]
 image: "blog_import_6621a4e59785c.jpg"
 feature: "blog_import_6621a4e59785c.jpg"

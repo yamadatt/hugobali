@@ -2,7 +2,7 @@
 date: 2020-06-20T16:51:46+09:00
 draft: false
 title: "野村證券の新卒１年目は、どれほどキツかったのか！？動画アリ"
-slug: "2020/06/20"
+slug: "2020/06/20/165146"
 tags: ["プライベートな話"]
 image: "blog_import_6621dacbd51ed.jpg"
 feature: "blog_import_6621dacbd51ed.jpg"

@@ -2,7 +2,7 @@
 date: 2020-03-18T19:12:18+09:00
 draft: false
 title: "長田先生からのメッセージ【その２】「人はピンチになると逆転を狙う」"
-slug: "2020/03/18"
+slug: "2020/03/18/191218"
 tags: ["株式投資"]
 image: "blog_import_6621d7ca91c67.png"
 feature: "blog_import_6621d7ca91c67.png"

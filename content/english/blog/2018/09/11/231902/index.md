@@ -2,7 +2,7 @@
 date: 2018-09-11T23:19:02+09:00
 draft: false
 title: "バリ島不動産で稼ぐなら、ワンツー転売"
-slug: "2018/09/11"
+slug: "2018/09/11/231902"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c604b998e.jpg"
 feature: "blog_import_6621c604b998e.jpg"

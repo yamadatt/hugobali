@@ -2,7 +2,7 @@
 date: 2021-09-10T23:59:02+09:00
 draft: false
 title: "成長株投資で、僕がイマイチ利益を取り切れない理由"
-slug: "2021/09/10"
+slug: "2021/09/10/235902"
 tags: ["株式投資"]
 image: "blog_import_6621e5d2f2fb6.png"
 feature: "blog_import_6621e5d2f2fb6.png"

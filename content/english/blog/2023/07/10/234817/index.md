@@ -2,7 +2,7 @@
 date: 2023-07-10T23:48:17+09:00
 draft: false
 title: "人はなぜ、時間なんて作ったのだろう！？"
-slug: "2023/07/10"
+slug: "2023/07/10/234817"
 tags: ["プライベートな話"]
 image: "blog_import_6621fb200199f.jpg"
 feature: "blog_import_6621fb200199f.jpg"

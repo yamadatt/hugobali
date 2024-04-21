@@ -2,7 +2,7 @@
 date: 2019-12-01T20:37:04+09:00
 draft: false
 title: "若い頃、美味かったラーメン屋は今でも美味い！？早明戦と千駄ヶ谷ホープ軒"
-slug: "2019/12/01"
+slug: "2019/12/01/203704"
 tags: ["プライベートな話"]
 image: "blog_import_6621d303c4233.jpg"
 feature: "blog_import_6621d303c4233.jpg"

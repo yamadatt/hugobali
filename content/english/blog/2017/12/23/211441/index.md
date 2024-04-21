@@ -2,7 +2,7 @@
 date: 2017-12-23T21:14:41+09:00
 draft: false
 title: "賄賂は最短ルートを使うべし"
-slug: "2017/12/23"
+slug: "2017/12/23/211441"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c0185b528.jpg"
 feature: "blog_import_6621c0185b528.jpg"

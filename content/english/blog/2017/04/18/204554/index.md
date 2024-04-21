@@ -2,7 +2,7 @@
 date: 2017-04-18T20:45:54+09:00
 draft: false
 title: "物件を見ないで購入した住宅！？２００万円"
-slug: "2017/04/18"
+slug: "2017/04/18/204554"
 tags: ["プライベートな話"]
 image: "blog_import_6621bb025d416.jpg"
 feature: "blog_import_6621bb025d416.jpg"

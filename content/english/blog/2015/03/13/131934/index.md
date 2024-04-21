@@ -2,7 +2,7 @@
 date: 2015-03-13T13:19:34+09:00
 draft: false
 title: "バリ島の両替所"
-slug: "2015/03/13"
+slug: "2015/03/13/131934"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621aa4561e56.jpg"
 feature: "blog_import_6621aa4561e56.jpg"

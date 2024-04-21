@@ -2,7 +2,7 @@
 date: 2017-09-01T22:43:27+09:00
 draft: false
 title: "２年前にデートしてトラブった娘は、超金持ちの娘だった！？"
-slug: "2017/09/01"
+slug: "2017/09/01/224327"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621bd1376234.jpg"
 feature: "blog_import_6621bd1376234.jpg"

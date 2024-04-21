@@ -2,7 +2,7 @@
 date: 2017-08-24T01:00:00+09:00
 draft: false
 title: "割安（業者向け）な売り物件には、資料はない！？"
-slug: "2017/08/24"
+slug: "2017/08/24/010000"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621bcf2a8f9d.jpg"
 feature: "blog_import_6621bcf2a8f9d.jpg"

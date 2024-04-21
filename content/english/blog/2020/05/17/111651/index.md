@@ -2,7 +2,7 @@
 date: 2020-05-17T11:16:51+09:00
 draft: false
 title: "ラブホテル客が激減！？コロナ非常事態の今、ラブホに来るのはどんな人か？"
-slug: "2020/05/17"
+slug: "2020/05/17/111651"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621da13ecbb8.jpg"
 feature: "blog_import_6621da13ecbb8.jpg"

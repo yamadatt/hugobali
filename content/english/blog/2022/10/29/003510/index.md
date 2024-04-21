@@ -2,7 +2,7 @@
 date: 2022-10-29T00:35:10+09:00
 draft: false
 title: "ダイビングのライセンス取得へ。伊東に前泊"
-slug: "2022/10/29"
+slug: "2022/10/29/003510"
 tags: ["プライベートな話"]
 image: "blog_import_6621f223e8452.jpg"
 feature: "blog_import_6621f223e8452.jpg"

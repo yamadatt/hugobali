@@ -2,7 +2,7 @@
 date: 2020-04-04T23:58:11+09:00
 draft: false
 title: "エっ！？宿泊費1000円！？バリ島のヴィラの激安さ、値切られ方がハンパない"
-slug: "2020/04/04"
+slug: "2020/04/04/235811"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621d8106f249.png"
 feature: "blog_import_6621d8106f249.png"

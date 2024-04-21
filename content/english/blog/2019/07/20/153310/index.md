@@ -2,7 +2,7 @@
 date: 2019-07-20T15:33:10+09:00
 draft: false
 title: "明日２１日は、初心者向け成長株投資の座談会"
-slug: "2019/07/20"
+slug: "2019/07/20/153310"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ced201310.png"
 feature: "blog_import_6621ced201310.png"

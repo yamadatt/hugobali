@@ -2,7 +2,7 @@
 date: 2022-11-04T19:08:52+09:00
 draft: false
 title: "11月15日再生医療セミナー「えっ？ヒト幹細胞上清液が３０００円！？」"
-slug: "2022/11/04"
+slug: "2022/11/04/190852"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621f276d3e96.png"
 feature: "blog_import_6621f276d3e96.png"

@@ -2,7 +2,7 @@
 date: 2017-04-10T23:58:48+09:00
 draft: false
 title: "お世話になった友人の実家に、何をしたらいい！？"
-slug: "2017/04/10"
+slug: "2017/04/10/235848"
 tags: ["プライベートな話"]
 image: "blog_import_6621badb23e87.jpg"
 feature: "blog_import_6621badb23e87.jpg"

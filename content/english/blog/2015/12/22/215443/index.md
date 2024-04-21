@@ -2,7 +2,7 @@
 date: 2015-12-22T21:54:43+09:00
 draft: false
 title: "インドネシアの不動産の契約"
-slug: "2015/12/22"
+slug: "2015/12/22/215443"
 tags: ["日本とバリ島の不動産取引の違い"]
 image: "blog_import_6621ab8be5a0e.jpg"
 feature: "blog_import_6621ab8be5a0e.jpg"

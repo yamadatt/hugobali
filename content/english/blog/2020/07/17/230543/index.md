@@ -2,7 +2,7 @@
 date: 2020-07-17T23:05:43+09:00
 draft: false
 title: "早稲田を出て肉体労働！？目標なんて高くなくていい"
-slug: "2020/07/17"
+slug: "2020/07/17/230543"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621db9214f69.png"
 feature: "blog_import_6621db9214f69.png"

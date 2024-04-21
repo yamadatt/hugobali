@@ -2,7 +2,7 @@
 date: 2022-05-25T18:32:16+09:00
 draft: false
 title: "明後日から第２回のファスティング「経営者交流会になりつつある！？」"
-slug: "2022/05/25"
+slug: "2022/05/25/183216"
 tags: ["ファスティング合宿ダイエット"]
 image: "blog_import_6621ee114c8fc.png"
 feature: "blog_import_6621ee114c8fc.png"

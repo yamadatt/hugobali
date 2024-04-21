@@ -2,7 +2,7 @@
 date: 2018-05-12T18:13:05+09:00
 draft: false
 title: "成熟社会に生きることは幸せなのか"
-slug: "2018/05/12"
+slug: "2018/05/12/181305"
 tags: ["プライベートな話"]
 image: "blog_import_6621c34ce4c6a.jpg"
 feature: "blog_import_6621c34ce4c6a.jpg"

@@ -2,7 +2,7 @@
 date: 2017-09-14T20:00:00+09:00
 draft: false
 title: "ヴィラレンタルの諸経費 その１"
-slug: "2017/09/14"
+slug: "2017/09/14/200000"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621bd533b8d1.jpg"
 feature: "blog_import_6621bd533b8d1.jpg"

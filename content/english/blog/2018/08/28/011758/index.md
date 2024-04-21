@@ -2,7 +2,7 @@
 date: 2018-08-28T01:17:58+09:00
 draft: false
 title: "日本語ができるスタッフ紹介"
-slug: "2018/08/28"
+slug: "2018/08/28/011758"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c5d9ecdbb.jpg"
 feature: "blog_import_6621c5d9ecdbb.jpg"

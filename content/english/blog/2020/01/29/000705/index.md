@@ -2,7 +2,7 @@
 date: 2020-01-29T00:07:05+09:00
 draft: false
 title: "クレーム！？「最強カード＆マイル修行セミナー」を告知。講師の和田氏から。。"
-slug: "2020/01/29"
+slug: "2020/01/29/000705"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d6a6ec936.png"
 feature: "blog_import_6621d6a6ec936.png"

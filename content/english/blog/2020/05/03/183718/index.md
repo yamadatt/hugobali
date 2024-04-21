@@ -2,7 +2,7 @@
 date: 2020-05-03T18:37:18+09:00
 draft: false
 title: "ヴィラの宿泊費下落で、ローカルの夢が叶う！？"
-slug: "2020/05/03"
+slug: "2020/05/03/183718"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621d9ad2e49a.jpg"
 feature: "blog_import_6621d9ad2e49a.jpg"

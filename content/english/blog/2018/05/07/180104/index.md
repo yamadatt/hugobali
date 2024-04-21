@@ -2,7 +2,7 @@
 date: 2018-05-07T18:01:04+09:00
 draft: false
 title: "ミスが多いインドネシア人。成果報酬の導入を試みた。。"
-slug: "2018/05/07"
+slug: "2018/05/07/180104"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c33a1a2f5.jpg"
 feature: "blog_import_6621c33a1a2f5.jpg"

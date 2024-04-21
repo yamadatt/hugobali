@@ -2,7 +2,7 @@
 date: 2017-02-22T21:51:44+09:00
 draft: false
 title: "日本人投資家は、本気度で負けてるのかな"
-slug: "2017/02/22"
+slug: "2017/02/22/215144"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621b9fdee7ae.jpg"
 feature: "blog_import_6621b9fdee7ae.jpg"

@@ -2,7 +2,7 @@
 date: 2019-11-04T21:58:22+09:00
 draft: false
 title: "長田先生、あなたはすごいです。普通はここまでやれないよ。"
-slug: "2019/11/04"
+slug: "2019/11/04/215822"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d1d43dce4.png"
 feature: "blog_import_6621d1d43dce4.png"

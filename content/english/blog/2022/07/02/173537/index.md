@@ -2,7 +2,7 @@
 date: 2022-07-02T17:35:37+09:00
 draft: false
 title: "ファスティングの成果は？「ついに２ケタの高みへ。超特盛で減量！？」"
-slug: "2022/07/02"
+slug: "2022/07/02/173537"
 tags: ["ファスティング合宿ダイエット"]
 image: "blog_import_6621ef0880987.png"
 feature: "blog_import_6621ef0880987.png"

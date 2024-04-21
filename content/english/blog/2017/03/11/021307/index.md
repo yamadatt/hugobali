@@ -2,7 +2,7 @@
 date: 2017-03-11T02:13:07+09:00
 draft: false
 title: "子どもが浪人、苦悩する親たち"
-slug: "2017/03/11"
+slug: "2017/03/11/021307"
 tags: ["プライベートな話"]
 image: "blog_import_6621ba56451aa.jpg"
 feature: "blog_import_6621ba56451aa.jpg"

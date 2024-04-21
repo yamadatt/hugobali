@@ -2,7 +2,7 @@
 date: 2018-05-08T19:46:58+09:00
 draft: false
 title: "お知らせ！！拙著『稼げる人の･･･』アマゾンamazonに在庫戻る"
-slug: "2018/05/08"
+slug: "2018/05/08/194658"
 tags: ["プライベートな話"]
 image: "blog_import_6621c33e6d7c5.png"
 feature: "blog_import_6621c33e6d7c5.png"

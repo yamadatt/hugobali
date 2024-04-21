@@ -2,7 +2,7 @@
 date: 2017-11-17T11:23:23+09:00
 draft: false
 title: "ワイキキから車で30分 いい店を見つけたぞ"
-slug: "2017/11/17"
+slug: "2017/11/17/112323"
 tags: ["プライベートな話"]
 image: "blog_import_6621beba8ec1c.jpg"
 feature: "blog_import_6621beba8ec1c.jpg"

@@ -2,7 +2,7 @@
 date: 2023-12-17T23:54:43+09:00
 draft: false
 title: "23日の「生ハム原木の会」のベジョータが届いた。参加していただける飲み会とは？"
-slug: "2023/12/17"
+slug: "2023/12/17/235443"
 tags: ["プライベートな話"]
 image: "blog_import_6621fef596ae3.jpg"
 feature: "blog_import_6621fef596ae3.jpg"

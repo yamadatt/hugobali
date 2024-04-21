@@ -2,7 +2,7 @@
 date: 2021-05-09T23:18:09+09:00
 draft: false
 title: "苦節１０ヶ月。ついにゴルフで１００切りをする！？「強みは弱みになる」"
-slug: "2021/05/09"
+slug: "2021/05/09/231809"
 tags: ["ゴルフ"]
 image: "blog_import_6621e27c6e68c.jpg"
 feature: "blog_import_6621e27c6e68c.jpg"

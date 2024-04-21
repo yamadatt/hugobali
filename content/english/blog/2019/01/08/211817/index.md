@@ -2,7 +2,7 @@
 date: 2019-01-08T21:18:17+09:00
 draft: false
 title: "刑事事件で無罪を勝ち取った後輩。"
-slug: "2019/01/08"
+slug: "2019/01/08/211817"
 tags: ["プライベートな話"]
 image: "blog_import_6621c9031cd2a.jpg"
 feature: "blog_import_6621c9031cd2a.jpg"

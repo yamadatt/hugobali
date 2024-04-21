@@ -2,7 +2,7 @@
 date: 2018-11-01T19:05:43+09:00
 draft: false
 title: "リースホールドとフリーホールドでは、どちらがいいのか？"
-slug: "2018/11/01"
+slug: "2018/11/01/190543"
 tags: ["日本とバリ島の不動産取引の違い"]
 image: "blog_import_6621c73aa13f1.jpg"
 feature: "blog_import_6621c73aa13f1.jpg"

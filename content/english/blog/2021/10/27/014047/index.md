@@ -2,7 +2,7 @@
 date: 2021-10-27T01:40:47+09:00
 draft: false
 title: "２つの封筒のパラドックスで「長田先生の実践セミナー銘柄」で検証する"
-slug: "2021/10/27"
+slug: "2021/10/27/014047"
 tags: ["株式投資"]
 image: "blog_import_6621e71b5a984.png"
 feature: "blog_import_6621e71b5a984.png"

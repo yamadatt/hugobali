@@ -2,7 +2,7 @@
 date: 2020-06-30T23:39:25+09:00
 draft: false
 title: "項羽と劉邦、やっぱり劉邦が勝つんだろうな。"
-slug: "2020/06/30"
+slug: "2020/06/30/233925"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621db141b5b5.png"
 feature: "blog_import_6621db141b5b5.png"

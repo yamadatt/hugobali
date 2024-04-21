@@ -2,7 +2,7 @@
 date: 2020-08-01T19:36:53+09:00
 draft: false
 title: "ゴルフも投資もビジネスも、素直に教えてもらおう"
-slug: "2020/08/01"
+slug: "2020/08/01/193653"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621dbfa3a50d.png"
 feature: "blog_import_6621dbfa3a50d.png"

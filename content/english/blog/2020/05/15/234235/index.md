@@ -2,7 +2,7 @@
 date: 2020-05-15T23:42:35+09:00
 draft: false
 title: "吉祥寺、利回り１０.７％。吉祥寺通り沿いの１Ｆ好立地店舗"
-slug: "2020/05/15"
+slug: "2020/05/15/234235"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621da03ca764.png"
 feature: "blog_import_6621da03ca764.png"

@@ -2,7 +2,7 @@
 date: 2018-07-25T16:18:13+09:00
 draft: false
 title: "バリ島チャングーお勧め売ヴィラ　３０００万円利回り１２.７％"
-slug: "2018/07/25"
+slug: "2018/07/25/161813"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621c5237083b.jpg"
 feature: "blog_import_6621c5237083b.jpg"

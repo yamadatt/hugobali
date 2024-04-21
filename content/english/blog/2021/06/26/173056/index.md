@@ -2,7 +2,7 @@
 date: 2021-06-26T17:30:56+09:00
 draft: false
 title: "浜野ゴルフでの初月例は、雨で挫ける！？いや、ワンチャンあるかも？"
-slug: "2021/06/26"
+slug: "2021/06/26/173056"
 tags: ["ゴルフ"]
 image: "blog_import_6621e38d429ef.png"
 feature: "blog_import_6621e38d429ef.png"

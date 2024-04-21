@@ -2,7 +2,7 @@
 date: 2023-05-02T23:42:24+09:00
 draft: false
 title: "「鼻ひも通し(スートラネティ）合宿」体験談。その２"
-slug: "2023/05/02"
+slug: "2023/05/02/234224"
 tags: ["インド旅行パンチャカルマ"]
 image: "blog_import_6621f8dc86965.jpg"
 feature: "blog_import_6621f8dc86965.jpg"

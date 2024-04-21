@@ -2,7 +2,7 @@
 date: 2018-06-08T16:31:34+09:00
 draft: false
 title: "バリ島ウブドゥのヴィラの地鎮祭"
-slug: "2018/06/08"
+slug: "2018/06/08/163134"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c3ffd6ddd.jpg"
 feature: "blog_import_6621c3ffd6ddd.jpg"

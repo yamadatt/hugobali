@@ -2,7 +2,7 @@
 date: 2019-11-14T00:49:13+09:00
 draft: false
 title: "カタ言でもコミュニケーションは取れるものだな"
-slug: "2019/11/14"
+slug: "2019/11/14/004913"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621d244b485d.jpg"
 feature: "blog_import_6621d244b485d.jpg"

@@ -2,7 +2,7 @@
 date: 2020-05-29T18:32:54+09:00
 draft: false
 title: "６月５日「第９回初心者向け株式投資セミナー」のご案内。"
-slug: "2020/05/29"
+slug: "2020/05/29/183254"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621da56aa0b0.png"
 feature: "blog_import_6621da56aa0b0.png"

@@ -2,7 +2,7 @@
 date: 2020-10-23T03:09:57+09:00
 draft: false
 title: "１億作るには、起業なら３年、副業なら６年、投資なら１０年、我慢しよう"
-slug: "2020/10/23"
+slug: "2020/10/23/030957"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621de066f2d7.png"
 feature: "blog_import_6621de066f2d7.png"

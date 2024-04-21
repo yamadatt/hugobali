@@ -2,7 +2,7 @@
 date: 2018-07-11T22:54:14+09:00
 draft: false
 title: "インドネシアの産休事情に思うマインドの大切さ"
-slug: "2018/07/11"
+slug: "2018/07/11/225414"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c4e039d05.png"
 feature: "blog_import_6621c4e039d05.png"

@@ -2,7 +2,7 @@
 date: 2019-12-28T17:10:18+09:00
 draft: false
 title: "〝ヴィラは、こうあるべき″という固定観念を変えた辺境の物件"
-slug: "2019/12/28"
+slug: "2019/12/28/171018"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621d4360db68.png"
 feature: "blog_import_6621d4360db68.png"

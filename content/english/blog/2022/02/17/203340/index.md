@@ -2,7 +2,7 @@
 date: 2022-02-17T20:33:40+09:00
 draft: false
 title: "割に合わないことをやろう"
-slug: "2022/02/17"
+slug: "2022/02/17/203340"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621eac4d2bf3.jpg"
 feature: "blog_import_6621eac4d2bf3.jpg"

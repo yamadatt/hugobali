@@ -2,7 +2,7 @@
 date: 2018-11-25T18:16:55+09:00
 draft: false
 title: "これから伸びる人、伸びない人の違い"
-slug: "2018/11/25"
+slug: "2018/11/25/181655"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c7e93d831.jpg"
 feature: "blog_import_6621c7e93d831.jpg"

@@ -2,7 +2,7 @@
 date: 2020-10-04T18:34:11+09:00
 draft: false
 title: "昨日の様子。中学生高校生向け「株式の勉強会」"
-slug: "2020/10/04"
+slug: "2020/10/04/183411"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621dd41ba09d.jpg"
 feature: "blog_import_6621dd41ba09d.jpg"

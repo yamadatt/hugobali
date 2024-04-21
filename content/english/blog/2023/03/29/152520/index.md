@@ -2,7 +2,7 @@
 date: 2023-03-29T15:25:20+09:00
 draft: false
 title: "インド渡航での海外VISA詐欺とは、どのようなものだったのか？"
-slug: "2023/03/29"
+slug: "2023/03/29/152520"
 tags: ["トラブルの話"]
 image: "blog_import_6621f6f6ec2ec.png"
 feature: "blog_import_6621f6f6ec2ec.png"

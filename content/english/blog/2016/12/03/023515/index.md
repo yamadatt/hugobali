@@ -2,7 +2,7 @@
 date: 2016-12-03T02:35:15+09:00
 draft: false
 title: "バリ島投資の新しい考え方"
-slug: "2016/12/03"
+slug: "2016/12/03/023515"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b71ad24d2.jpg"
 feature: "blog_import_6621b71ad24d2.jpg"

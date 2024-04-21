@@ -2,7 +2,7 @@
 date: 2016-11-10T23:48:58+09:00
 draft: false
 title: "ワケあり たたき売り物件！？バリ島 売ヴィラ1500㎡ 4000万円"
-slug: "2016/11/10"
+slug: "2016/11/10/234858"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621b6571e52a.jpg"
 feature: "blog_import_6621b6571e52a.jpg"

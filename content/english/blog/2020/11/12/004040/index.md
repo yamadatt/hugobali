@@ -2,7 +2,7 @@
 date: 2020-11-12T00:40:40+09:00
 draft: false
 title: "バリ島は今、統一選挙中。バラマキは世界中で続く！？"
-slug: "2020/11/12"
+slug: "2020/11/12/004040"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621de59d45cf.png"
 feature: "blog_import_6621de59d45cf.png"

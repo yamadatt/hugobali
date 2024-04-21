@@ -2,7 +2,7 @@
 date: 2020-07-06T00:15:22+09:00
 draft: false
 title: "バリ島では、ホテルの大量売却が始まった！？"
-slug: "2020/07/06"
+slug: "2020/07/06/001522"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621db341d82d.jpg"
 feature: "blog_import_6621db341d82d.jpg"

@@ -2,7 +2,7 @@
 date: 2015-03-19T21:44:04+09:00
 draft: false
 title: "バリ島の凧上げ"
-slug: "2015/03/19"
+slug: "2015/03/19/214404"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621aa68f15ac.jpg"
 feature: "blog_import_6621aa68f15ac.jpg"

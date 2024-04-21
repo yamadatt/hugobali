@@ -2,7 +2,7 @@
 date: 2020-10-18T19:45:44+09:00
 draft: false
 title: "沸騰（成功）までの近道は「守破離」"
-slug: "2020/10/18"
+slug: "2020/10/18/194544"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ddae24cc9.png"
 feature: "blog_import_6621ddae24cc9.png"

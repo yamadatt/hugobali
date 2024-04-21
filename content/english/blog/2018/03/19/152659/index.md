@@ -2,7 +2,7 @@
 date: 2018-03-19T15:26:59+09:00
 draft: false
 title: "エッ！？このビルが８０００万円台！？ 利回り１２％超"
-slug: "2018/03/19"
+slug: "2018/03/19/152659"
 tags: ["プライベートな話"]
 image: "blog_import_6621c23774b9a.jpg"
 feature: "blog_import_6621c23774b9a.jpg"

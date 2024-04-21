@@ -2,7 +2,7 @@
 date: 2016-08-25T23:55:24+09:00
 draft: false
 title: "満員御礼！！９月５日バリ島勉強会。ブログの力はすごい！？"
-slug: "2016/08/25"
+slug: "2016/08/25/235524"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621b2e95ef88.jpg"
 feature: "blog_import_6621b2e95ef88.jpg"

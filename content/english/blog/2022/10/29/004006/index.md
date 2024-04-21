@@ -2,7 +2,7 @@
 date: 2022-10-29T00:40:06+09:00
 draft: false
 title: "ダイビング合宿、初日。ダイビングをナメてた！？"
-slug: "2022/10/29"
+slug: "2022/10/29/004006"
 tags: ["プライベートな話"]
 image: "blog_import_6621f22c7a0a8.jpg"
 feature: "blog_import_6621f22c7a0a8.jpg"

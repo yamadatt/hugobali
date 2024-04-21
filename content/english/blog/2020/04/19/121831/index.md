@@ -2,7 +2,7 @@
 date: 2020-04-19T12:18:31+09:00
 draft: false
 title: "ピンチからの脱出「頑張りすぎるな」"
-slug: "2020/04/19"
+slug: "2020/04/19/121831"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d8fe8b04b.png"
 feature: "blog_import_6621d8fe8b04b.png"

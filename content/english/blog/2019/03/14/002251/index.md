@@ -2,7 +2,7 @@
 date: 2019-03-14T00:22:51+09:00
 draft: false
 title: "明後日の株式セミナー配布資料を公開！？"
-slug: "2019/03/14"
+slug: "2019/03/14/002251"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ca281a832.jpg"
 feature: "blog_import_6621ca281a832.jpg"

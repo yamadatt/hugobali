@@ -2,7 +2,7 @@
 date: 2016-11-21T23:28:29+09:00
 draft: false
 title: "大貧民の強さと幸せ"
-slug: "2016/11/21"
+slug: "2016/11/21/232829"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b6d4303aa.jpg"
 feature: "blog_import_6621b6d4303aa.jpg"

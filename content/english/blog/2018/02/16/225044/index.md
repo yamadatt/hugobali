@@ -2,7 +2,7 @@
 date: 2018-02-16T22:50:44+09:00
 draft: false
 title: "バリ島では、なぜ雨漏りが多いのか？"
-slug: "2018/02/16"
+slug: "2018/02/16/225044"
 tags: ["トラブルの話"]
 image: "blog_import_6621c1af17cb9.jpg"
 feature: "blog_import_6621c1af17cb9.jpg"

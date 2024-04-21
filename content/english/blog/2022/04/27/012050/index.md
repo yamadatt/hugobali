@@ -2,7 +2,7 @@
 date: 2022-04-27T01:20:50+09:00
 draft: false
 title: "スタッフが全員辞めた！？Ｇダイニング長谷川耕造社長の話。"
-slug: "2022/04/27"
+slug: "2022/04/27/012050"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ed702a117.png"
 feature: "blog_import_6621ed702a117.png"

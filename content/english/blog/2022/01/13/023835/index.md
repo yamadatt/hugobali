@@ -2,7 +2,7 @@
 date: 2022-01-13T02:38:35+09:00
 draft: false
 title: "思い出のホープ軒"
-slug: "2022/01/13"
+slug: "2022/01/13/023835"
 tags: ["プライベートな話"]
 image: "blog_import_6621e999d9797.jpg"
 feature: "blog_import_6621e999d9797.jpg"

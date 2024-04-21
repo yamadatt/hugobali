@@ -2,7 +2,7 @@
 date: 2017-10-26T23:16:35+09:00
 draft: false
 title: "セミナーに参加するメリットって何だろう！？"
-slug: "2017/10/26"
+slug: "2017/10/26/231635"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621be1a77ee7.jpg"
 feature: "blog_import_6621be1a77ee7.jpg"

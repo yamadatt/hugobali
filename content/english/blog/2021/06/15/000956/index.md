@@ -2,7 +2,7 @@
 date: 2021-06-15T00:09:56+09:00
 draft: false
 title: "４００ｙ超でバーディー２つ取るも、、ブヨの餌食に！？写真アリ。"
-slug: "2021/06/15"
+slug: "2021/06/15/000956"
 tags: ["ゴルフ"]
 image: "blog_import_6621e33ea1805.jpg"
 feature: "blog_import_6621e33ea1805.jpg"

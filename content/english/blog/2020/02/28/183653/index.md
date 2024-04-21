@@ -2,7 +2,7 @@
 date: 2020-02-28T18:36:53+09:00
 draft: false
 title: "来週３月６日の初心者向け成長株セミナーは、予定通り開催します。"
-slug: "2020/02/28"
+slug: "2020/02/28/183653"
 tags: ["株式投資"]
 image: "blog_import_6621d78ae65b4.png"
 feature: "blog_import_6621d78ae65b4.png"

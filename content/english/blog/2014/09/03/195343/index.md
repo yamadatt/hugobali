@@ -2,7 +2,7 @@
 date: 2014-09-03T19:53:43+09:00
 draft: false
 title: "朝日の捏造問題"
-slug: "2014/09/03"
+slug: "2014/09/03/195343"
 tags: ["ブログ"]
 image: ""
 feature: ""

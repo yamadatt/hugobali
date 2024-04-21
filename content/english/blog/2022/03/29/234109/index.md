@@ -2,7 +2,7 @@
 date: 2022-03-29T23:41:09+09:00
 draft: false
 title: "富士桜カントリーにてゴルフ。良いキャディさんとは？"
-slug: "2022/03/29"
+slug: "2022/03/29/234109"
 tags: ["ゴルフ"]
 image: "blog_import_6621ecb7d4c4f.jpg"
 feature: "blog_import_6621ecb7d4c4f.jpg"

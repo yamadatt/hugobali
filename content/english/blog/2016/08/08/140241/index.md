@@ -2,7 +2,7 @@
 date: 2016-08-08T14:02:41+09:00
 draft: false
 title: "スミニャック売ヴィラ　実質利回り１６.４％超 ５２万ドル"
-slug: "2016/08/08"
+slug: "2016/08/08/140241"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621b230c184f.jpg"
 feature: "blog_import_6621b230c184f.jpg"

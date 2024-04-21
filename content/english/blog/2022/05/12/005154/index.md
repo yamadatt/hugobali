@@ -2,7 +2,7 @@
 date: 2022-05-12T00:51:54+09:00
 draft: false
 title: "５月２０日第３８回：成長株投資の実践会のご案内「原子力発電関連株が狙い目かも！？」"
-slug: "2022/05/12"
+slug: "2022/05/12/005154"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621edc669198.png"
 feature: "blog_import_6621edc669198.png"

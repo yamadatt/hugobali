@@ -2,7 +2,7 @@
 date: 2023-11-26T01:23:42+09:00
 draft: false
 title: "高校の同窓会に参加して思ったこと。"
-slug: "2023/11/26"
+slug: "2023/11/26/012342"
 tags: ["プライベートな話"]
 image: "blog_import_6621fe61549d4.png"
 feature: "blog_import_6621fe61549d4.png"

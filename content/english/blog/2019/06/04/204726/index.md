@@ -2,7 +2,7 @@
 date: 2019-06-04T20:47:26+09:00
 draft: false
 title: "６月２２日→２０日に変更。「生ハムを原木で食べる会」"
-slug: "2019/06/04"
+slug: "2019/06/04/204726"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cd388efee.png"
 feature: "blog_import_6621cd388efee.png"

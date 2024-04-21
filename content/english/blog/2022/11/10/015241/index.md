@@ -2,7 +2,7 @@
 date: 2022-11-10T01:52:41+09:00
 draft: false
 title: "真っ暗なホテルの周りは、絶好の〇〇スポットだった！？"
-slug: "2022/11/10"
+slug: "2022/11/10/015241"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621f2945c566.jpg"
 feature: "blog_import_6621f2945c566.jpg"

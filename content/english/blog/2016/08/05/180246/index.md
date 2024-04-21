@@ -2,7 +2,7 @@
 date: 2016-08-05T18:02:46+09:00
 draft: false
 title: "バリ島の隣、ヌサペニダ島の不動産がアツい！？"
-slug: "2016/08/05"
+slug: "2016/08/05/180246"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621b1d4c793d.jpg"
 feature: "blog_import_6621b1d4c793d.jpg"

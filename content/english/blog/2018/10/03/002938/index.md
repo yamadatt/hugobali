@@ -2,7 +2,7 @@
 date: 2018-10-03T00:29:38+09:00
 draft: false
 title: "満員御礼、XXさんの株式投資セミナー申込み、明日で打ち切ります。"
-slug: "2018/10/03"
+slug: "2018/10/03/002938"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c69ddf116.jpg"
 feature: "blog_import_6621c69ddf116.jpg"

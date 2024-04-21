@@ -2,7 +2,7 @@
 date: 2019-04-13T17:33:06+09:00
 draft: false
 title: "昨日の株式投資セミナー「初心者でも結果を出せる！」にいただいた感想"
-slug: "2019/04/13"
+slug: "2019/04/13/173306"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cb49c362a.jpg"
 feature: "blog_import_6621cb49c362a.jpg"

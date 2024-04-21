@@ -2,7 +2,7 @@
 date: 2020-08-22T03:09:54+09:00
 draft: false
 title: "「お金がないと見えない景色」って何だろう。。"
-slug: "2020/08/22"
+slug: "2020/08/22/030954"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621dc522fb1c.png"
 feature: "blog_import_6621dc522fb1c.png"

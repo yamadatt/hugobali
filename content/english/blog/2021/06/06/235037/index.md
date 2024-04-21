@@ -2,7 +2,7 @@
 date: 2021-06-06T23:50:37+09:00
 draft: false
 title: "「１日サボると、取り戻すのに３日かかる」は本当か？"
-slug: "2021/06/06"
+slug: "2021/06/06/235037"
 tags: ["プライベートな話"]
 image: "blog_import_6621e3198671e.png"
 feature: "blog_import_6621e3198671e.png"

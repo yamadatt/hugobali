@@ -2,7 +2,7 @@
 date: 2024-03-05T22:02:43+09:00
 draft: false
 title: "創業社長の相続。子どもに口を出させず、節税より会社運営を優先させよう。"
-slug: "2024/03/05"
+slug: "2024/03/05/220243"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6622006e3fc77.png"
 feature: "blog_import_6622006e3fc77.png"

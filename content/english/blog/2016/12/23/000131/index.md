@@ -2,7 +2,7 @@
 date: 2016-12-23T00:01:31+09:00
 draft: false
 title: "バリ島で、オレオレ詐欺が流行っている！？"
-slug: "2016/12/23"
+slug: "2016/12/23/000131"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621b7b68caee.jpg"
 feature: "blog_import_6621b7b68caee.jpg"

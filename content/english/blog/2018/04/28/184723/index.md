@@ -2,7 +2,7 @@
 date: 2018-04-28T18:47:23+09:00
 draft: false
 title: "バリ島の闘鶏　賭け方解説"
-slug: "2018/04/28"
+slug: "2018/04/28/184723"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c32728299.jpg"
 feature: "blog_import_6621c32728299.jpg"

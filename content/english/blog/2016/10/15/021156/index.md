@@ -2,7 +2,7 @@
 date: 2016-10-15T02:11:56+09:00
 draft: false
 title: "バリ島で大規模開発をする日本人投資家◯◯さま"
-slug: "2016/10/15"
+slug: "2016/10/15/021156"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621b4e7e78ae.jpg"
 feature: "blog_import_6621b4e7e78ae.jpg"

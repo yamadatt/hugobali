@@ -2,7 +2,7 @@
 date: 2022-01-23T18:48:12+09:00
 draft: false
 title: "MARSの仕様が少し変わった。これで寝る前も安心！？"
-slug: "2022/01/23"
+slug: "2022/01/23/184812"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621e9f2aee8d.jpg"
 feature: "blog_import_6621e9f2aee8d.jpg"

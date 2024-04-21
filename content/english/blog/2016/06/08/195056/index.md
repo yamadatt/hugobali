@@ -2,7 +2,7 @@
 date: 2016-06-08T19:50:56+09:00
 draft: false
 title: "サヌールの交通事故現場"
-slug: "2016/06/08"
+slug: "2016/06/08/195056"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621afe189ad9.jpg"
 feature: "blog_import_6621afe189ad9.jpg"

@@ -2,7 +2,7 @@
 date: 2019-08-15T22:54:41+09:00
 draft: false
 title: "８月３０日：第５回「今が仕込み時！？長田淳司の成長株投資の実践会」"
-slug: "2019/08/15"
+slug: "2019/08/15/225441"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cf894381b.png"
 feature: "blog_import_6621cf894381b.png"

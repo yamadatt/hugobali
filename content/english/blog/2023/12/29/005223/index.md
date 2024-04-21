@@ -2,7 +2,7 @@
 date: 2023-12-29T00:52:23+09:00
 draft: false
 title: "ふるさと納税の矛盾。廃止して補助金にしたらいい！？"
-slug: "2023/12/29"
+slug: "2023/12/29/005223"
 tags: ["プライベートな話"]
 image: "blog_import_6621ff2806dd9.png"
 feature: "blog_import_6621ff2806dd9.png"

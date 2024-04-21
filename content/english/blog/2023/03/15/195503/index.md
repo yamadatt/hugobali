@@ -2,7 +2,7 @@
 date: 2023-03-15T19:55:03+09:00
 draft: false
 title: "早起きのプレッシャーに打ち勝って、寝る方法！？"
-slug: "2023/03/15"
+slug: "2023/03/15/195503"
 tags: ["ゴルフ"]
 image: "blog_import_6621f6a4ce1a5.jpg"
 feature: "blog_import_6621f6a4ce1a5.jpg"

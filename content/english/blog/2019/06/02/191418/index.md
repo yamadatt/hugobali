@@ -2,7 +2,7 @@
 date: 2019-06-02T19:14:18+09:00
 draft: false
 title: "バリアン（呪術師？祈祷師？）のこと信じますか？"
-slug: "2019/06/02"
+slug: "2019/06/02/191418"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621cd2fd1532.jpg"
 feature: "blog_import_6621cd2fd1532.jpg"

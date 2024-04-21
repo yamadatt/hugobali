@@ -2,7 +2,7 @@
 date: 2021-01-04T23:11:37+09:00
 draft: false
 title: "前回セミナーへのご感想。１月８日(金）｢初心者向け成長株セミナー」のご案内"
-slug: "2021/01/04"
+slug: "2021/01/04/231137"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621df9e59bc3.png"
 feature: "blog_import_6621df9e59bc3.png"

@@ -2,7 +2,7 @@
 date: 2024-04-18T00:02:57+09:00
 draft: false
 title: "勝率５１％になれば、９９％勝てる理由。１％の違いが大きな差になる！？"
-slug: "2024/04/18"
+slug: "2024/04/18/000257"
 tags: ["株式投資"]
 image: "blog_import_66219b43d6361.png"
 feature: "blog_import_66219b43d6361.png"

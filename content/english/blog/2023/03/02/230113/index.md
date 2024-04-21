@@ -2,7 +2,7 @@
 date: 2023-03-02T23:01:13+09:00
 draft: false
 title: "幸福の科学総裁、大川隆法氏の死に思う。「宗教とはほどほどの距離感で。。」"
-slug: "2023/03/02"
+slug: "2023/03/02/230113"
 tags: ["プライベートな話"]
 image: "blog_import_6621f66227d73.png"
 feature: "blog_import_6621f66227d73.png"

@@ -2,7 +2,7 @@
 date: 2022-09-12T18:44:54+09:00
 draft: false
 title: "９月１６日(金）第４２回：成長株の実践会セミナーのご案内「今、負けを取り返すには！？」"
-slug: "2022/09/12"
+slug: "2022/09/12/184454"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621f10a669df.png"
 feature: "blog_import_6621f10a669df.png"

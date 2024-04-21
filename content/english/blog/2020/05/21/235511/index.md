@@ -2,7 +2,7 @@
 date: 2020-05-21T23:55:11+09:00
 draft: false
 title: "バリ島の観光客の受け入れは１０月。暗闇の中で光が見えた！？"
-slug: "2020/05/21"
+slug: "2020/05/21/235511"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621da25c016f.jpg"
 feature: "blog_import_6621da25c016f.jpg"

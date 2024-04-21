@@ -2,7 +2,7 @@
 date: 2022-12-18T02:56:29+09:00
 draft: false
 title: "「損切り」と「狼狽売り」は違う"
-slug: "2022/12/18"
+slug: "2022/12/18/025629"
 tags: ["株式投資"]
 image: "blog_import_6621f3b81472d.png"
 feature: "blog_import_6621f3b81472d.png"

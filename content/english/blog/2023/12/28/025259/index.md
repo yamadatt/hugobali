@@ -2,7 +2,7 @@
 date: 2023-12-28T02:52:59+09:00
 draft: false
 title: "成功者の共通点「四の五の言わずに一気にやる」"
-slug: "2023/12/28"
+slug: "2023/12/28/025259"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ff249e4db.png"
 feature: "blog_import_6621ff249e4db.png"

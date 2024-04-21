@@ -2,7 +2,7 @@
 date: 2018-12-26T20:35:23+09:00
 draft: false
 title: "東ティモールからの荷物検査で白い粉が。。！？"
-slug: "2018/12/26"
+slug: "2018/12/26/203523"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c8bdde13d.jpg"
 feature: "blog_import_6621c8bdde13d.jpg"

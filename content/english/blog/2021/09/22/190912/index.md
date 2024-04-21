@@ -2,7 +2,7 @@
 date: 2021-09-22T19:09:12+09:00
 draft: false
 title: "SBIホールディングスが新生銀行へ敵対的TOB。これから株式市場はアツくなる"
-slug: "2021/09/22"
+slug: "2021/09/22/190912"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e6361722f.png"
 feature: "blog_import_6621e6361722f.png"

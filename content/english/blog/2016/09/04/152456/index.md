@@ -2,7 +2,7 @@
 date: 2016-09-04T15:24:56+09:00
 draft: false
 title: "投資の基本は、カンニング！？"
-slug: "2016/09/04"
+slug: "2016/09/04/152456"
 tags: ["ブログ"]
 image: "blog_import_6621b33e7da34.png"
 feature: "blog_import_6621b33e7da34.png"

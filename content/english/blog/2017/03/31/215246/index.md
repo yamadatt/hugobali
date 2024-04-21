@@ -2,7 +2,7 @@
 date: 2017-03-31T21:52:46+09:00
 draft: false
 title: "エリートサラリーマンが今、不動産を買うのはマジで危ない！？"
-slug: "2017/03/31"
+slug: "2017/03/31/215246"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621babf3e6cb.jpg"
 feature: "blog_import_6621babf3e6cb.jpg"

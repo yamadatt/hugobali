@@ -2,7 +2,7 @@
 date: 2023-09-24T19:39:03+09:00
 draft: false
 title: "第５期サラリーマン長田淳司の「中長期株式投資セミナー」のご案内"
-slug: "2023/09/24"
+slug: "2023/09/24/193903"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621fcf3bc2d5.png"
 feature: "blog_import_6621fcf3bc2d5.png"

@@ -2,7 +2,7 @@
 date: 2016-09-27T23:27:09+09:00
 draft: false
 title: "がんばれ！若者"
-slug: "2016/09/27"
+slug: "2016/09/27/232709"
 tags: ["ブログ"]
 image: ""
 feature: ""

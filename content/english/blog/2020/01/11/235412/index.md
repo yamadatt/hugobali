@@ -2,7 +2,7 @@
 date: 2020-01-11T23:54:12+09:00
 draft: false
 title: "満員御礼！！第４回初心者向け成長株セミナーの報告"
-slug: "2020/01/11"
+slug: "2020/01/11/235412"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d56e5ed3a.jpg"
 feature: "blog_import_6621d56e5ed3a.jpg"

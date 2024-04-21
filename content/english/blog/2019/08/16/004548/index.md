@@ -2,7 +2,7 @@
 date: 2019-08-16T00:45:48+09:00
 draft: false
 title: "プレビルド利回り２０％物件アリ！？第５１回バリ島不動産セミナー：８月２９日in高田馬場"
-slug: "2019/08/16"
+slug: "2019/08/16/004548"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cf91dcf1e.png"
 feature: "blog_import_6621cf91dcf1e.png"

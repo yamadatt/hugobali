@@ -2,7 +2,7 @@
 date: 2019-10-20T16:03:12+09:00
 draft: false
 title: "長田先生からのレポート：株式投資のメリット。株主優待について"
-slug: "2019/10/20"
+slug: "2019/10/20/160312"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d159832b8.png"
 feature: "blog_import_6621d159832b8.png"

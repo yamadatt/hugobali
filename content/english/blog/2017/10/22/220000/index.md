@@ -2,7 +2,7 @@
 date: 2017-10-22T22:00:00+09:00
 draft: false
 title: "ラブホテルの展示会"
-slug: "2017/10/22"
+slug: "2017/10/22/220000"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621be0178141.jpg"
 feature: "blog_import_6621be0178141.jpg"

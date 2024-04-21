@@ -2,7 +2,7 @@
 date: 2020-07-13T18:08:22+09:00
 draft: false
 title: "感想＆質問（７）「コロナ暴落時に、買い増すべきだった」への回答"
-slug: "2020/07/13"
+slug: "2020/07/13/180822"
 tags: ["株式投資"]
 image: "blog_import_6621db6f1ad5b.jpg"
 feature: "blog_import_6621db6f1ad5b.jpg"

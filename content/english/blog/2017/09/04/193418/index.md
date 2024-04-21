@@ -2,7 +2,7 @@
 date: 2017-09-04T19:34:18+09:00
 draft: false
 title: "大失敗！？バリ島の盆踊り大会２０１７"
-slug: "2017/09/04"
+slug: "2017/09/04/193418"
 tags: ["バリ島でのロングステイ"]
 image: "blog_import_6621bd38927cf.jpg"
 feature: "blog_import_6621bd38927cf.jpg"

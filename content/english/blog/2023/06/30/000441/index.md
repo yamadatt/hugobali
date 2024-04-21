@@ -2,7 +2,7 @@
 date: 2023-06-30T00:04:41+09:00
 draft: false
 title: "所有ビルの空室。。コインランドリーってどうなのかな？"
-slug: "2023/06/30"
+slug: "2023/06/30/000441"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621fa963407f.jpg"
 feature: "blog_import_6621fa963407f.jpg"

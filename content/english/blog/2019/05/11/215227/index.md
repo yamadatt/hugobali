@@ -2,7 +2,7 @@
 date: 2019-05-11T21:52:27+09:00
 draft: false
 title: "５月３０日絵画・アート作品投資セミナー「夢があるアート投資とは！？」"
-slug: "2019/05/11"
+slug: "2019/05/11/215227"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cc73b32a5.jpg"
 feature: "blog_import_6621cc73b32a5.jpg"

@@ -2,7 +2,7 @@
 date: 2016-11-29T19:32:53+09:00
 draft: false
 title: "「大阪冬の陣」に思うアマゾンや楽天の怖さ"
-slug: "2016/11/29"
+slug: "2016/11/29/193253"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b7083caac.jpg"
 feature: "blog_import_6621b7083caac.jpg"

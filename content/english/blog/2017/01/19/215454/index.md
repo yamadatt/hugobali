@@ -2,7 +2,7 @@
 date: 2017-01-19T21:54:54+09:00
 draft: false
 title: "泣く女"
-slug: "2017/01/19"
+slug: "2017/01/19/215454"
 tags: ["トラブルの話"]
 image: "blog_import_6621b89198b5c.jpg"
 feature: "blog_import_6621b89198b5c.jpg"

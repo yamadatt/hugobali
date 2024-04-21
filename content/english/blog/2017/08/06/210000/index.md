@@ -2,7 +2,7 @@
 date: 2017-08-06T21:00:00+09:00
 draft: false
 title: "お願い！？ 仙台＆東北地方の方へ　8月19日セミナー"
-slug: "2017/08/06"
+slug: "2017/08/06/210000"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621bcb166e6b.jpg"
 feature: "blog_import_6621bcb166e6b.jpg"

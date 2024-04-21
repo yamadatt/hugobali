@@ -2,7 +2,7 @@
 date: 2014-08-14T20:46:43+09:00
 draft: false
 title: "売ヴィラ　サヌール　3アール約4000万円"
-slug: "2014/08/14"
+slug: "2014/08/14/204643"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621a55913286.jpg"
 feature: "blog_import_6621a55913286.jpg"

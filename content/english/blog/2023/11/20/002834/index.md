@@ -2,7 +2,7 @@
 date: 2023-11-20T00:28:34+09:00
 draft: false
 title: "WEB2.0→WEB3.0で暗号通貨投資は、どのように変わるのか？"
-slug: "2023/11/20"
+slug: "2023/11/20/002834"
 tags: ["仮想通貨・暗号通貨"]
 image: "blog_import_6621fe5be1a31.png"
 feature: "blog_import_6621fe5be1a31.png"

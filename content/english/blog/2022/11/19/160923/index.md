@@ -2,7 +2,7 @@
 date: 2022-11-19T16:09:23+09:00
 draft: false
 title: "１５日の幹細胞再生医療セミナーの報告＆ご感想"
-slug: "2022/11/19"
+slug: "2022/11/19/160923"
 tags: ["プライベートな話"]
 image: "blog_import_6621f2d2bc80e.jpg"
 feature: "blog_import_6621f2d2bc80e.jpg"

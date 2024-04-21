@@ -2,7 +2,7 @@
 date: 2020-05-16T18:27:04+09:00
 draft: false
 title: "バリ島の役人は、忖度＝ワイロ。でも、コロナの規制には通用しない！？"
-slug: "2020/05/16"
+slug: "2020/05/16/182704"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621da107026e.jpg"
 feature: "blog_import_6621da107026e.jpg"

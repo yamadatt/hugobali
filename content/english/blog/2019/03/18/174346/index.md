@@ -2,7 +2,7 @@
 date: 2019-03-18T17:43:46+09:00
 draft: false
 title: "エニグモ株、今日ストップ高！！ 株式セミナー講師の長田氏はさすがだな。"
-slug: "2019/03/18"
+slug: "2019/03/18/174346"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ca5e559ab.png"
 feature: "blog_import_6621ca5e559ab.png"

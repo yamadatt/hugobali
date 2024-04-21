@@ -2,7 +2,7 @@
 date: 2023-01-28T01:13:20+09:00
 draft: false
 title: "酒・タバコ・肉・油のない禁欲生活。ここは奇跡の環境か！？"
-slug: "2023/01/28"
+slug: "2023/01/28/011320"
 tags: ["インド旅行パンチャカルマ"]
 image: "blog_import_6621f50bc811f.jpg"
 feature: "blog_import_6621f50bc811f.jpg"

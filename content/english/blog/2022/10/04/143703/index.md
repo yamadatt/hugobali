@@ -2,7 +2,7 @@
 date: 2022-10-04T14:37:03+09:00
 draft: false
 title: "驚愕の狭小ホテルを内見！？"
-slug: "2022/10/04"
+slug: "2022/10/04/143703"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621f18b63257.jpg"
 feature: "blog_import_6621f18b63257.jpg"

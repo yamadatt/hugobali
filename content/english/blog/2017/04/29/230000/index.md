@@ -2,7 +2,7 @@
 date: 2017-04-29T23:00:00+09:00
 draft: false
 title: "２４金の指輪がなくなった。犯人は誰だ!?"
-slug: "2017/04/29"
+slug: "2017/04/29/230000"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621bb3e67b5c.jpg"
 feature: "blog_import_6621bb3e67b5c.jpg"

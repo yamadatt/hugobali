@@ -2,7 +2,7 @@
 date: 2017-09-14T22:44:25+09:00
 draft: false
 title: "デワ来日の飲み会予定＆インドネシア人が喜ぶアイデア募集"
-slug: "2017/09/14"
+slug: "2017/09/14/224425"
 tags: ["プライベートな話"]
 image: "blog_import_6621bd5fb213d.jpg"
 feature: "blog_import_6621bd5fb213d.jpg"

@@ -2,7 +2,7 @@
 date: 2017-03-13T22:19:29+09:00
 draft: false
 title: "１５００円のショートケーキ！？"
-slug: "2017/03/13"
+slug: "2017/03/13/221929"
 tags: ["プライベートな話"]
 image: "blog_import_6621ba58771c1.jpg"
 feature: "blog_import_6621ba58771c1.jpg"

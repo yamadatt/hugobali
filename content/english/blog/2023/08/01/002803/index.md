@@ -2,7 +2,7 @@
 date: 2023-08-01T00:28:03+09:00
 draft: false
 title: "１５年間、悩み続けていること。"
-slug: "2023/08/01"
+slug: "2023/08/01/002803"
 tags: ["株式投資"]
 image: "blog_import_6621fbc81cd6e.png"
 feature: "blog_import_6621fbc81cd6e.png"

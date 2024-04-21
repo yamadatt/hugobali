@@ -2,7 +2,7 @@
 date: 2023-01-23T02:42:30+09:00
 draft: false
 title: "インド２日目。ムンバイからカイヴァリヤダーマ研究所へ向かう"
-slug: "2023/01/23"
+slug: "2023/01/23/024230"
 tags: ["インド旅行パンチャカルマ"]
 image: "blog_import_6621f4b4df84f.jpg"
 feature: "blog_import_6621f4b4df84f.jpg"

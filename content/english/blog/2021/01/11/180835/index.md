@@ -2,7 +2,7 @@
 date: 2021-01-11T18:08:35+09:00
 draft: false
 title: "日本は緊急事態宣言。インドネシアは入国規制が強化。たまらんな、これは。。"
-slug: "2021/01/11"
+slug: "2021/01/11/180835"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621dfb7d4b54.jpg"
 feature: "blog_import_6621dfb7d4b54.jpg"

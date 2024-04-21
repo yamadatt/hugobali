@@ -2,7 +2,7 @@
 date: 2022-01-08T22:30:13+09:00
 draft: false
 title: "居酒屋で見つけた「痛風セット」に、日本の将来を思う"
-slug: "2022/01/08"
+slug: "2022/01/08/223013"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e9776386c.jpg"
 feature: "blog_import_6621e9776386c.jpg"

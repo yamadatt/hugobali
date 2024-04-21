@@ -2,7 +2,7 @@
 date: 2020-08-28T02:34:39+09:00
 draft: false
 title: "テスラが１０バーガー達成（１００万→１０００万へ）！！この投資法は確率高いな"
-slug: "2020/08/28"
+slug: "2020/08/28/023439"
 tags: ["株式投資"]
 image: "blog_import_6621dc6a0c7f2.png"
 feature: "blog_import_6621dc6a0c7f2.png"

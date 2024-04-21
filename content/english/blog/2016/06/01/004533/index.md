@@ -2,7 +2,7 @@
 date: 2016-06-01T00:45:33+09:00
 draft: false
 title: "幸せな老人は、不幸な老人と何が違うのか"
-slug: "2016/06/01"
+slug: "2016/06/01/004533"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621afb8a8163.png"
 feature: "blog_import_6621afb8a8163.png"

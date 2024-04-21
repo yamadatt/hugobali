@@ -2,7 +2,7 @@
 date: 2023-01-07T18:22:46+09:00
 draft: false
 title: "詐欺サイトに引っかかった！？便利社会は世知辛い？"
-slug: "2023/01/07"
+slug: "2023/01/07/182246"
 tags: ["インド旅行パンチャカルマ"]
 image: "blog_import_6621f45099787.png"
 feature: "blog_import_6621f45099787.png"

@@ -2,7 +2,7 @@
 date: 2022-01-16T17:52:48+09:00
 draft: false
 title: "僕が純粋だった頃　その２「文通の話」"
-slug: "2022/01/16"
+slug: "2022/01/16/175248"
 tags: ["プライベートな話"]
 image: "blog_import_6621e9b1e8f21.png"
 feature: "blog_import_6621e9b1e8f21.png"

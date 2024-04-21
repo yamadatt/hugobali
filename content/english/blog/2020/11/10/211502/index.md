@@ -2,7 +2,7 @@
 date: 2020-11-10T21:15:02+09:00
 draft: false
 title: "バリ島ヴィラの防犯対策で、一番効果的な方法は？"
-slug: "2020/11/10"
+slug: "2020/11/10/211502"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621de52c6a14.png"
 feature: "blog_import_6621de52c6a14.png"

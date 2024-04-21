@@ -2,7 +2,7 @@
 date: 2023-06-27T02:04:24+09:00
 draft: false
 title: "新入社員時代(野村證券）の話　その４「真面目な人は報われる。人柄が良い人は出世する！？」"
-slug: "2023/06/27"
+slug: "2023/06/27/020424"
 tags: ["プライベートな話"]
 image: "blog_import_6621fa7311e1c.png"
 feature: "blog_import_6621fa7311e1c.png"

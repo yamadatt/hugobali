@@ -2,7 +2,7 @@
 date: 2024-02-28T02:38:28+09:00
 draft: false
 title: "ついに、日経平均最高値。ここは素直に乗ろう"
-slug: "2024/02/28"
+slug: "2024/02/28/023828"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6622002a81d7e.png"
 feature: "blog_import_6622002a81d7e.png"

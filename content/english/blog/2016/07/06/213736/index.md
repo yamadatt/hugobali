@@ -2,7 +2,7 @@
 date: 2016-07-06T21:37:36+09:00
 draft: false
 title: "ＢＮＩ銀行で、取りつけ騒ぎか！？"
-slug: "2016/07/06"
+slug: "2016/07/06/213736"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621b0b797354.jpg"
 feature: "blog_import_6621b0b797354.jpg"

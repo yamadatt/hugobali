@@ -2,7 +2,7 @@
 date: 2017-06-10T01:04:14+09:00
 draft: false
 title: "志の輔落語、やっぱりこの人はスゴいな"
-slug: "2017/06/10"
+slug: "2017/06/10/010414"
 tags: ["プライベートな話"]
 image: "blog_import_6621bbf1d24a4.jpg"
 feature: "blog_import_6621bbf1d24a4.jpg"

@@ -2,7 +2,7 @@
 date: 2019-11-16T15:59:02+09:00
 draft: false
 title: "久しぶりに見た優待株の株価、、意外に儲かっていた！？"
-slug: "2019/11/16"
+slug: "2019/11/16/155902"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d247d06b5.png"
 feature: "blog_import_6621d247d06b5.png"

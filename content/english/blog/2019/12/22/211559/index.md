@@ -2,7 +2,7 @@
 date: 2019-12-22T21:15:59+09:00
 draft: false
 title: "今日は冬至で「穴八幡」は人だかり。〝神頼み″に興味ないな。"
-slug: "2019/12/22"
+slug: "2019/12/22/211559"
 tags: ["プライベートな話"]
 image: "blog_import_6621d3ec68c0d.jpg"
 feature: "blog_import_6621d3ec68c0d.jpg"

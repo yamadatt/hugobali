@@ -2,7 +2,7 @@
 date: 2023-07-23T23:47:45+09:00
 draft: false
 title: "隠居は不幸の始まり？一生続けられる仕事があれば、幸せに老いる！？"
-slug: "2023/07/23"
+slug: "2023/07/23/234745"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621fb92e6b03.png"
 feature: "blog_import_6621fb92e6b03.png"

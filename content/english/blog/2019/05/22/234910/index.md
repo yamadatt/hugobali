@@ -2,7 +2,7 @@
 date: 2019-05-22T23:49:10+09:00
 draft: false
 title: "バリ島の空港で、ウォシュレット持ち込みで税金を取られた！？"
-slug: "2019/05/22"
+slug: "2019/05/22/234910"
 tags: ["トラブルの話"]
 image: "blog_import_6621ccc26a88d.png"
 feature: "blog_import_6621ccc26a88d.png"

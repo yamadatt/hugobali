@@ -2,7 +2,7 @@
 date: 2019-11-13T01:34:32+09:00
 draft: false
 title: "長田先生「猿も木から落ちる」からの、、株の利益２５０万円突破！？"
-slug: "2019/11/13"
+slug: "2019/11/13/013432"
 tags: ["プライベートな話"]
 image: "blog_import_6621d23fb1c0b.png"
 feature: "blog_import_6621d23fb1c0b.png"

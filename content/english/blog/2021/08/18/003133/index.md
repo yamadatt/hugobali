@@ -2,7 +2,7 @@
 date: 2021-08-18T00:31:33+09:00
 draft: false
 title: "大阪桐蔭－東海大菅生のコールドゲーム。選手寄りの既定の変更を望む"
-slug: "2021/08/18"
+slug: "2021/08/18/003133"
 tags: ["プライベートな話"]
 image: "blog_import_6621e518e574a.png"
 feature: "blog_import_6621e518e574a.png"

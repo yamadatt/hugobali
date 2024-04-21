@@ -2,7 +2,7 @@
 date: 2023-02-27T23:53:01+09:00
 draft: false
 title: "バリ島ワンツー投資の物件は、高収益を出している！？売却可4000万円。"
-slug: "2023/02/27"
+slug: "2023/02/27/235301"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621f654d06a1.png"
 feature: "blog_import_6621f654d06a1.png"

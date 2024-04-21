@@ -2,7 +2,7 @@
 date: 2022-02-25T01:28:40+09:00
 draft: false
 title: "第12回馬場ゴルフ部月例「優勝はグロス７８」賞品選びも楽しい！？"
-slug: "2022/02/25"
+slug: "2022/02/25/012840"
 tags: ["ゴルフ"]
 image: "blog_import_6621eb0b2973f.jpg"
 feature: "blog_import_6621eb0b2973f.jpg"

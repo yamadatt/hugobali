@@ -2,7 +2,7 @@
 date: 2019-11-21T22:34:41+09:00
 draft: false
 title: "「株が大暴落するのでは？」への回答"
-slug: "2019/11/21"
+slug: "2019/11/21/223441"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d2726d828.png"
 feature: "blog_import_6621d2726d828.png"

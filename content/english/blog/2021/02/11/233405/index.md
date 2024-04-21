@@ -2,7 +2,7 @@
 date: 2021-02-11T23:34:05+09:00
 draft: false
 title: "ジャワーバリ　社会活動制限延長"
-slug: "2021/02/11"
+slug: "2021/02/11/233405"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621e06357902.png"
 feature: "blog_import_6621e06357902.png"

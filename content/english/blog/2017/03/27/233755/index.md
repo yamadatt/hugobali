@@ -2,7 +2,7 @@
 date: 2017-03-27T23:37:55+09:00
 draft: false
 title: "バリ島ジンバラン 売ヴィラ 土地740㎡ 2100万 利回り16.9%"
-slug: "2017/03/27"
+slug: "2017/03/27/233755"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621ba916b21b.jpg"
 feature: "blog_import_6621ba916b21b.jpg"

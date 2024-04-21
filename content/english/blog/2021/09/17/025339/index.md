@@ -2,7 +2,7 @@
 date: 2021-09-17T02:53:39+09:00
 draft: false
 title: "自分に厳しく・甘く、他人に厳しく・甘く、、どれがいいのか？"
-slug: "2021/09/17"
+slug: "2021/09/17/025339"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e60363078.jpg"
 feature: "blog_import_6621e60363078.jpg"

@@ -2,7 +2,7 @@
 date: 2023-09-14T00:14:52+09:00
 draft: false
 title: "ラブホテル業界も変わったなぁ。。"
-slug: "2023/09/14"
+slug: "2023/09/14/001452"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621fccc07a02.png"
 feature: "blog_import_6621fccc07a02.png"

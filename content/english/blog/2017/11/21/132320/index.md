@@ -2,7 +2,7 @@
 date: 2017-11-21T13:23:20+09:00
 draft: false
 title: "ハワイ・トランプタワー最上階ペントハウスは強烈！？"
-slug: "2017/11/21"
+slug: "2017/11/21/132320"
 tags: ["プライベートな話"]
 image: "blog_import_6621bee790bd9.jpg"
 feature: "blog_import_6621bee790bd9.jpg"

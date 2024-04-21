@@ -2,7 +2,7 @@
 date: 2018-09-19T16:33:35+09:00
 draft: false
 title: "９月２７日のバリ島不動産セミナー　サンワード貿易さま主催"
-slug: "2018/09/19"
+slug: "2018/09/19/163335"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c63a76c56.jpg"
 feature: "blog_import_6621c63a76c56.jpg"

@@ -2,7 +2,7 @@
 date: 2022-08-28T13:24:39+09:00
 draft: false
 title: "たまには寄り道しよう"
-slug: "2022/08/28"
+slug: "2022/08/28/132439"
 tags: ["プライベートな話"]
 image: "blog_import_6621f0654270e.jpg"
 feature: "blog_import_6621f0654270e.jpg"

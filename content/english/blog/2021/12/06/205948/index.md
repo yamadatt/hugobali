@@ -2,7 +2,7 @@
 date: 2021-12-06T20:59:48+09:00
 draft: false
 title: "ゴルフや飲み会の幹事をやるメリットは何か？"
-slug: "2021/12/06"
+slug: "2021/12/06/205948"
 tags: ["プライベートな話"]
 image: "blog_import_6621e845eb5d1.jpg"
 feature: "blog_import_6621e845eb5d1.jpg"

@@ -2,7 +2,7 @@
 date: 2017-04-07T18:00:18+09:00
 draft: false
 title: "組織にいる疲労感はハンパない！？"
-slug: "2017/04/07"
+slug: "2017/04/07/180018"
 tags: ["プライベートな話"]
 image: "blog_import_6621bac818723.jpg"
 feature: "blog_import_6621bac818723.jpg"

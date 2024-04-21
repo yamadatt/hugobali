@@ -2,7 +2,7 @@
 date: 2018-07-30T20:00:34+09:00
 draft: false
 title: "「何をすれば、こうなるんだ！？」洗面台の鏡を破壊した宿泊客"
-slug: "2018/07/30"
+slug: "2018/07/30/200034"
 tags: ["トラブルの話"]
 image: "blog_import_6621c547bcb08.jpg"
 feature: "blog_import_6621c547bcb08.jpg"

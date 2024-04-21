@@ -2,7 +2,7 @@
 date: 2017-12-28T17:03:30+09:00
 draft: false
 title: "「バリ島ヴィラ」オーナー忘年会２０１７"
-slug: "2017/12/28"
+slug: "2017/12/28/170330"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c0225348f.jpg"
 feature: "blog_import_6621c0225348f.jpg"

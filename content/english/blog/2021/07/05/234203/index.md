@@ -2,7 +2,7 @@
 date: 2021-07-05T23:42:03+09:00
 draft: false
 title: "「人生を変えたい。なんでもやる」と言い、本当に人生を変えた男"
-slug: "2021/07/05"
+slug: "2021/07/05/234203"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e3e64904e.png"
 feature: "blog_import_6621e3e64904e.png"

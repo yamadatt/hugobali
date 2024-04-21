@@ -2,7 +2,7 @@
 date: 2016-12-30T17:09:48+09:00
 draft: false
 title: "カネを払わないで逃げる宿泊客　その１"
-slug: "2016/12/30"
+slug: "2016/12/30/170948"
 tags: ["トラブルの話"]
 image: "blog_import_6621b7e978136.jpg"
 feature: "blog_import_6621b7e978136.jpg"

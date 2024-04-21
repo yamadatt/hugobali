@@ -2,7 +2,7 @@
 date: 2020-10-09T14:24:04+09:00
 draft: false
 title: "最初に購入するのは、どんな銘柄がいいのか。"
-slug: "2020/10/09"
+slug: "2020/10/09/142404"
 tags: ["株式投資"]
 image: "blog_import_6621dd623f180.png"
 feature: "blog_import_6621dd623f180.png"

@@ -2,7 +2,7 @@
 date: 2020-03-10T14:04:50+09:00
 draft: false
 title: "株式相場のブチ下がり状況。。コメントを出さないわけにもいくまい"
-slug: "2020/03/10"
+slug: "2020/03/10/140450"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d7a6f09c8.png"
 feature: "blog_import_6621d7a6f09c8.png"

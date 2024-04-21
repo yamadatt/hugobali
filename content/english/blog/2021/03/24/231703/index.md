@@ -2,7 +2,7 @@
 date: 2021-03-24T23:17:03+09:00
 draft: false
 title: "最初の起業は、成功者と組んだほうがいい！？"
-slug: "2021/03/24"
+slug: "2021/03/24/231703"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e16e3b6db.png"
 feature: "blog_import_6621e16e3b6db.png"

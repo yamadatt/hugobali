@@ -2,7 +2,7 @@
 date: 2016-07-30T17:58:45+09:00
 draft: false
 title: "駐車禁止！？　にしたいクルマ"
-slug: "2016/07/30"
+slug: "2016/07/30/175845"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621b199de929.jpg"
 feature: "blog_import_6621b199de929.jpg"

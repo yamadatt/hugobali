@@ -2,7 +2,7 @@
 date: 2020-01-09T00:44:38+09:00
 draft: false
 title: "貸株料でさらに儲ける！？【長田先生のレポート】"
-slug: "2020/01/09"
+slug: "2020/01/09/004438"
 tags: ["株式投資"]
 image: "blog_import_6621d531a4b42.png"
 feature: "blog_import_6621d531a4b42.png"

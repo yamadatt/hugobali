@@ -2,7 +2,7 @@
 date: 2020-01-09T18:33:55+09:00
 draft: false
 title: "バリ島王族の超豪華ヴィラに驚愕する！？その１"
-slug: "2020/01/09"
+slug: "2020/01/09/183355"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621d5358b9ee.jpg"
 feature: "blog_import_6621d5358b9ee.jpg"

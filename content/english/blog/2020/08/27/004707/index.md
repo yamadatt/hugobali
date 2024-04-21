@@ -2,7 +2,7 @@
 date: 2020-08-27T00:47:07+09:00
 draft: false
 title: "僕はＡＤＨＤなのか？"
-slug: "2020/08/27"
+slug: "2020/08/27/004707"
 tags: ["プライベートな話"]
 image: "blog_import_6621dc646d762.png"
 feature: "blog_import_6621dc646d762.png"

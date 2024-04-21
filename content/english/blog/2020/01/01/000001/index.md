@@ -2,7 +2,7 @@
 date: 2020-01-01T00:00:01+09:00
 draft: false
 title: "謹賀新年！！「成長株投資のための３つの資質」"
-slug: "2020/01/01"
+slug: "2020/01/01/000001"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d4d697464.png"
 feature: "blog_import_6621d4d697464.png"

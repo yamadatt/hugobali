@@ -2,7 +2,7 @@
 date: 2021-05-19T23:33:35+09:00
 draft: false
 title: "起業家マインドがない人が、起業するにはどうすべきか？"
-slug: "2021/05/19"
+slug: "2021/05/19/233335"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e2a74ca1f.png"
 feature: "blog_import_6621e2a74ca1f.png"

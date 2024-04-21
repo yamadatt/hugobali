@@ -2,7 +2,7 @@
 date: 2015-08-29T01:04:00+09:00
 draft: false
 title: "バリ島のスタッフ"
-slug: "2015/08/29"
+slug: "2015/08/29/010400"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621ab0e6daff.jpg"
 feature: "blog_import_6621ab0e6daff.jpg"

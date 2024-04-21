@@ -2,7 +2,7 @@
 date: 2017-05-08T20:06:55+09:00
 draft: false
 title: "「世界を股にかける人気投資家」って誰だ！？"
-slug: "2017/05/08"
+slug: "2017/05/08/200655"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621bb51b0dc9.png"
 feature: "blog_import_6621bb51b0dc9.png"

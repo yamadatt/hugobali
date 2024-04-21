@@ -2,7 +2,7 @@
 date: 2022-02-14T00:03:14+09:00
 draft: false
 title: "２月１８日(金）第３５回成長株の実践セミナー「下落時だから仕込める銘柄を探す」"
-slug: "2022/02/14"
+slug: "2022/02/14/000314"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ea970f4ad.png"
 feature: "blog_import_6621ea970f4ad.png"

@@ -2,7 +2,7 @@
 date: 2020-09-22T21:51:21+09:00
 draft: false
 title: "「初心者向け成長株セミナー」と「成長株投資の実践会」の違い"
-slug: "2020/09/22"
+slug: "2020/09/22/215121"
 tags: ["株式投資"]
 image: "blog_import_6621dcff2c6d8.png"
 feature: "blog_import_6621dcff2c6d8.png"

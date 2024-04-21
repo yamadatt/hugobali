@@ -2,7 +2,7 @@
 date: 2022-08-23T17:48:07+09:00
 draft: false
 title: "自分を「好き」とか「嫌い」とか思うのは、変だよ"
-slug: "2022/08/23"
+slug: "2022/08/23/174807"
 tags: ["プライベートな話"]
 image: "blog_import_6621f046e99d6.png"
 feature: "blog_import_6621f046e99d6.png"

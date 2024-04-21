@@ -2,7 +2,7 @@
 date: 2018-07-14T12:11:41+09:00
 draft: false
 title: "このラブホテルもったいないな～。上手くすればチャンスかも！？"
-slug: "2018/07/14"
+slug: "2018/07/14/121141"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621c4e81e601.jpg"
 feature: "blog_import_6621c4e81e601.jpg"

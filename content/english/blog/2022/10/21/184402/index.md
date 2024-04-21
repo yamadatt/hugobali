@@ -2,7 +2,7 @@
 date: 2022-10-21T18:44:02+09:00
 draft: false
 title: "昨日の「武蔵野園飲み会」の報告。直前告知は厳しい！？"
-slug: "2022/10/21"
+slug: "2022/10/21/184402"
 tags: ["プライベートな話"]
 image: "blog_import_6621f1dfd9bc9.jpg"
 feature: "blog_import_6621f1dfd9bc9.jpg"

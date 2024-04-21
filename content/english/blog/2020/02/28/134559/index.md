@@ -2,7 +2,7 @@
 date: 2020-02-28T13:45:59+09:00
 draft: false
 title: "こんな時、配当株や優待株は狙い目かも！？人生のピークはこれからだ"
-slug: "2020/02/28"
+slug: "2020/02/28/134559"
 tags: ["株式投資"]
 image: "blog_import_6621d7885b13b.png"
 feature: "blog_import_6621d7885b13b.png"

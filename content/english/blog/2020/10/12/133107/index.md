@@ -2,7 +2,7 @@
 date: 2020-10-12T13:31:07+09:00
 draft: false
 title: "セミナー参加者から、衝撃的な感想をいただいた！？"
-slug: "2020/10/12"
+slug: "2020/10/12/133107"
 tags: ["株式投資"]
 image: "blog_import_6621dd9303b9a.jpg"
 feature: "blog_import_6621dd9303b9a.jpg"

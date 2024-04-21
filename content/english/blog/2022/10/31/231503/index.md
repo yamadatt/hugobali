@@ -2,7 +2,7 @@
 date: 2022-10-31T23:15:03+09:00
 draft: false
 title: "伊東ダイビング合宿まとめ「行ってよかった」"
-slug: "2022/10/31"
+slug: "2022/10/31/231503"
 tags: ["プライベートな話"]
 image: "blog_import_6621f23252f12.jpg"
 feature: "blog_import_6621f23252f12.jpg"

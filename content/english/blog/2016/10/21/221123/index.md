@@ -2,7 +2,7 @@
 date: 2016-10-21T22:11:23+09:00
 draft: false
 title: "エッ！？　利回り３８％！？　バリ島チャングー　売ヴィラ"
-slug: "2016/10/21"
+slug: "2016/10/21/221123"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621b5acca572.jpg"
 feature: "blog_import_6621b5acca572.jpg"

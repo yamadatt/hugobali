@@ -2,7 +2,7 @@
 date: 2019-03-04T14:57:50+09:00
 draft: false
 title: "厳しい境遇はチャンスになる！？父が自殺した読者へのメッセージ"
-slug: "2019/03/04"
+slug: "2019/03/04/145750"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c9718a153.jpg"
 feature: "blog_import_6621c9718a153.jpg"

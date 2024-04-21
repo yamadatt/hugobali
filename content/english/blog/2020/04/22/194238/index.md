@@ -2,7 +2,7 @@
 date: 2020-04-22T19:42:38+09:00
 draft: false
 title: "「うがい」を知らないインドネシア人"
-slug: "2020/04/22"
+slug: "2020/04/22/194238"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621d947672e3.png"
 feature: "blog_import_6621d947672e3.png"

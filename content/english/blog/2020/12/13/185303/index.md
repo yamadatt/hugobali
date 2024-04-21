@@ -2,7 +2,7 @@
 date: 2020-12-13T18:53:03+09:00
 draft: false
 title: "浜野ゴルフでの長い一日。入会面接＆同伴プレーでやってしまった。。"
-slug: "2020/12/13"
+slug: "2020/12/13/185303"
 tags: ["プライベートな話"]
 image: "blog_import_6621df32264e6.jpg"
 feature: "blog_import_6621df32264e6.jpg"

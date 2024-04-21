@@ -2,7 +2,7 @@
 date: 2019-11-08T21:03:42+09:00
 draft: false
 title: "バリ島の銀行預金で、100万円が152万円になった！？"
-slug: "2019/11/08"
+slug: "2019/11/08/210342"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d229c85fc.jpg"
 feature: "blog_import_6621d229c85fc.jpg"

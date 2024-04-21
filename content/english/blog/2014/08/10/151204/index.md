@@ -2,7 +2,7 @@
 date: 2014-08-10T15:12:04+09:00
 draft: false
 title: "利回り２８８％！？　バリ島海外不動産投資物件サヌール賃貸ヴィラ　"
-slug: "2014/08/10"
+slug: "2014/08/10/151204"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621a4b0f03c6.jpg"
 feature: "blog_import_6621a4b0f03c6.jpg"

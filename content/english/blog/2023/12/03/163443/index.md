@@ -2,7 +2,7 @@
 date: 2023-12-03T16:34:43+09:00
 draft: false
 title: "バリ島にて「大人の飲み会」。12月9日(土）サヌールにて。"
-slug: "2023/12/03"
+slug: "2023/12/03/163443"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621fe89a2150.png"
 feature: "blog_import_6621fe89a2150.png"

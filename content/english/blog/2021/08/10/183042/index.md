@@ -2,7 +2,7 @@
 date: 2021-08-10T18:30:42+09:00
 draft: false
 title: "バリ島ウルワツ寺院に出現した白いサルに騒然！？全能の神がコロナから救う？"
-slug: "2021/08/10"
+slug: "2021/08/10/183042"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621e4ee17220.png"
 feature: "blog_import_6621e4ee17220.png"

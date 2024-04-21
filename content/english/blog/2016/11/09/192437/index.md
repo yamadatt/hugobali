@@ -2,7 +2,7 @@
 date: 2016-11-09T19:24:37+09:00
 draft: false
 title: "プライベートバンクの元為替トレーダーＳ先生"
-slug: "2016/11/09"
+slug: "2016/11/09/192437"
 tags: ["プライベートな話"]
 image: "blog_import_6621b6537a308.jpg"
 feature: "blog_import_6621b6537a308.jpg"

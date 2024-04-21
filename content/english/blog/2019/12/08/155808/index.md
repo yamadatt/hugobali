@@ -2,7 +2,7 @@
 date: 2019-12-08T15:58:08+09:00
 draft: false
 title: "第３回（12月6日）の株式セミナー参加者の感想。その１"
-slug: "2019/12/08"
+slug: "2019/12/08/155808"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d3872cadb.png"
 feature: "blog_import_6621d3872cadb.png"

@@ -2,7 +2,7 @@
 date: 2015-10-06T17:41:55+09:00
 draft: false
 title: "インドネシア・バリ島への現金のデリバリー"
-slug: "2015/10/06"
+slug: "2015/10/06/174155"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621ab4f5998a.jpg"
 feature: "blog_import_6621ab4f5998a.jpg"

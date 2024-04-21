@@ -2,7 +2,7 @@
 date: 2020-06-23T23:53:48+09:00
 draft: false
 title: "野村證券新入社員の別ノルマ。「合コン」のセッティング"
-slug: "2020/06/23"
+slug: "2020/06/23/235348"
 tags: ["プライベートな話"]
 image: "blog_import_6621dadde1c21.png"
 feature: "blog_import_6621dadde1c21.png"

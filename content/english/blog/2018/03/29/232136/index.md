@@ -2,7 +2,7 @@
 date: 2018-03-29T23:21:36+09:00
 draft: false
 title: "【ドライブレコーダー映像】タクシーとの交通事故。皆さん、どう思います！？。"
-slug: "2018/03/29"
+slug: "2018/03/29/232136"
 tags: ["プライベートな話"]
 image: "blog_import_6621c281bb631.jpg"
 feature: "blog_import_6621c281bb631.jpg"

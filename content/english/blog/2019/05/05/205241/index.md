@@ -2,7 +2,7 @@
 date: 2019-05-05T20:52:41+09:00
 draft: false
 title: "インドネシアの首都移転は、本当にあるのか！？"
-slug: "2019/05/05"
+slug: "2019/05/05/205241"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621cc62dfcc7.png"
 feature: "blog_import_6621cc62dfcc7.png"

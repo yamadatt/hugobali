@@ -2,7 +2,7 @@
 date: 2016-02-19T21:23:21+09:00
 draft: false
 title: "ヴィラはお客の好みを考えて建築する"
-slug: "2016/02/19"
+slug: "2016/02/19/212321"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621acd94b0f7.jpg"
 feature: "blog_import_6621acd94b0f7.jpg"

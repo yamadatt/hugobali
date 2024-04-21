@@ -2,7 +2,7 @@
 date: 2018-07-05T18:48:57+09:00
 draft: false
 title: "Ｍａｄｅ Ｉｎ Ｊａｐａｎの将来は大丈夫か？"
-slug: "2018/07/05"
+slug: "2018/07/05/184857"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c4adc5e3d.jpg"
 feature: "blog_import_6621c4adc5e3d.jpg"

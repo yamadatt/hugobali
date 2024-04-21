@@ -2,7 +2,7 @@
 date: 2021-01-03T23:19:24+09:00
 draft: false
 title: "箱根駅伝に思う。大負けしない大切さ。"
-slug: "2021/01/03"
+slug: "2021/01/03/231924"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621df9b08f28.png"
 feature: "blog_import_6621df9b08f28.png"

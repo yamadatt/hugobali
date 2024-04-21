@@ -2,7 +2,7 @@
 date: 2023-10-28T23:41:57+09:00
 draft: false
 title: "チャットGPT無料(３.５）と有料(４.0）は、どれほど違うものなのか？"
-slug: "2023/10/28"
+slug: "2023/10/28/234157"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621fdeb11675.png"
 feature: "blog_import_6621fdeb11675.png"

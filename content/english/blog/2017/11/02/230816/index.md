@@ -2,7 +2,7 @@
 date: 2017-11-02T23:08:16+09:00
 draft: false
 title: "泥棒に入られた！？"
-slug: "2017/11/02"
+slug: "2017/11/02/230816"
 tags: ["トラブルの話"]
 image: "blog_import_6621be616640f.jpg"
 feature: "blog_import_6621be616640f.jpg"

@@ -2,7 +2,7 @@
 date: 2020-12-04T00:14:20+09:00
 draft: false
 title: "「実践会」銘柄をすべて買った人がいた。その結果は！？"
-slug: "2020/12/04"
+slug: "2020/12/04/001420"
 tags: ["株式投資"]
 image: "blog_import_6621df0407064.png"
 feature: "blog_import_6621df0407064.png"

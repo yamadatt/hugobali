@@ -2,7 +2,7 @@
 date: 2014-08-08T15:32:07+09:00
 draft: false
 title: "ローカル向け戸建ては儲かる！！バリ島１８０万円の戸建て"
-slug: "2014/08/08"
+slug: "2014/08/08/153207"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621a4c2396a1.jpg"
 feature: "blog_import_6621a4c2396a1.jpg"

@@ -2,7 +2,7 @@
 date: 2019-02-25T23:59:36+09:00
 draft: false
 title: "バリ島のビジネスは不動産だけじゃない。バリ島に語学学校を建設！？"
-slug: "2019/02/25"
+slug: "2019/02/25/235936"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c9f6b4aab.jpg"
 feature: "blog_import_6621c9f6b4aab.jpg"

@@ -2,7 +2,7 @@
 date: 2021-07-27T12:39:44+09:00
 draft: false
 title: "隔離ホテル「ヴィラフォンテーヌ羽田」は、もはや日本じゃない？"
-slug: "2021/07/27"
+slug: "2021/07/27/123944"
 tags: ["新型コロナウィルス"]
 image: "blog_import_6621e4b21f884.jpg"
 feature: "blog_import_6621e4b21f884.jpg"

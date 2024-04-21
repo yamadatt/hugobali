@@ -2,7 +2,7 @@
 date: 2019-12-18T18:13:21+09:00
 draft: false
 title: "子供っぽい大人になろう。転ぶことを恐れず前に進もう"
-slug: "2019/12/18"
+slug: "2019/12/18/181321"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d3c41f4d1.png"
 feature: "blog_import_6621d3c41f4d1.png"

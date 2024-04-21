@@ -2,7 +2,7 @@
 date: 2018-11-08T23:43:14+09:00
 draft: false
 title: "【さらにその後】ずる賢いスタッフ、イミグレへの密告"
-slug: "2018/11/08"
+slug: "2018/11/08/234314"
 tags: ["トラブルの話"]
 image: "blog_import_6621c778ce328.jpg"
 feature: "blog_import_6621c778ce328.jpg"

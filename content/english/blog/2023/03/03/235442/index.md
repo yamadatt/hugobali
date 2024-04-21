@@ -2,7 +2,7 @@
 date: 2023-03-03T23:54:42+09:00
 draft: false
 title: "３月１６日釣り堀「武蔵野園飲み会」第２弾！！さらにパワーアップ！？"
-slug: "2023/03/03"
+slug: "2023/03/03/235442"
 tags: ["プライベートな話"]
 image: "blog_import_6621f6634035d.jpg"
 feature: "blog_import_6621f6634035d.jpg"

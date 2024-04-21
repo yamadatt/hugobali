@@ -2,7 +2,7 @@
 date: 2018-11-22T18:20:36+09:00
 draft: false
 title: "バリ島不動産セミナーの御礼。昨日はありがとうございました！！"
-slug: "2018/11/22"
+slug: "2018/11/22/182036"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c7e5d1407.jpg"
 feature: "blog_import_6621c7e5d1407.jpg"

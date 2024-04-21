@@ -2,7 +2,7 @@
 date: 2017-10-14T15:41:34+09:00
 draft: false
 title: "若者を応援する「メイド イン ジャパンの会」なんて、いいな"
-slug: "2017/10/14"
+slug: "2017/10/14/154134"
 tags: ["プライベートな話"]
 image: "blog_import_6621bdeee4c21.png"
 feature: "blog_import_6621bdeee4c21.png"

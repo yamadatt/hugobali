@@ -2,7 +2,7 @@
 date: 2019-06-15T21:11:52+09:00
 draft: false
 title: "デフレ日本の僕らは、相対的に貧乏になっているのか？"
-slug: "2019/06/15"
+slug: "2019/06/15/211152"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621cd750595c.png"
 feature: "blog_import_6621cd750595c.png"

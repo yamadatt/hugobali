@@ -2,7 +2,7 @@
 date: 2017-09-23T17:56:35+09:00
 draft: false
 title: "いよいよ明日、デワが来日！！日本での予定"
-slug: "2017/09/23"
+slug: "2017/09/23/175635"
 tags: ["プライベートな話"]
 image: "blog_import_6621bd79182da.jpg"
 feature: "blog_import_6621bd79182da.jpg"

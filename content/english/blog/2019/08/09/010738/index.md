@@ -2,7 +2,7 @@
 date: 2019-08-09T01:07:38+09:00
 draft: false
 title: "成功者の出資はメリットが大きい。相手目線で考えよう。"
-slug: "2019/08/09"
+slug: "2019/08/09/010738"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621cf738dc64.png"
 feature: "blog_import_6621cf738dc64.png"

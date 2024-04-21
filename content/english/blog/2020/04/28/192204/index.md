@@ -2,7 +2,7 @@
 date: 2020-04-28T19:22:04+09:00
 draft: false
 title: "５月８日の「第８回初心者向け株式投資セミナー」のご案内。"
-slug: "2020/04/28"
+slug: "2020/04/28/192204"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d99690503.png"
 feature: "blog_import_6621d99690503.png"

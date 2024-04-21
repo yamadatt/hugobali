@@ -2,7 +2,7 @@
 date: 2020-09-26T17:19:00+09:00
 draft: false
 title: "世界最高峰の生ハム「イベリコベジョータ」参上！！"
-slug: "2020/09/26"
+slug: "2020/09/26/171900"
 tags: ["プライベートな話"]
 image: "blog_import_6621dd1a459d0.png"
 feature: "blog_import_6621dd1a459d0.png"

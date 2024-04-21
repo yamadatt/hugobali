@@ -2,7 +2,7 @@
 date: 2017-03-06T22:59:01+09:00
 draft: false
 title: "インドネシア人スタッフの賃上げ要求"
-slug: "2017/03/06"
+slug: "2017/03/06/225901"
 tags: ["トラブルの話"]
 image: "blog_import_6621ba34dc159.jpg"
 feature: "blog_import_6621ba34dc159.jpg"

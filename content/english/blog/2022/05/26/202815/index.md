@@ -2,7 +2,7 @@
 date: 2022-05-26T20:28:15+09:00
 draft: false
 title: "６月２２日(金）暗号通貨セミナーのご案内「いかにして稼ぐか」マイニングからアプローチする"
-slug: "2022/05/26"
+slug: "2022/05/26/202815"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621ee1ccd81c.jpg"
 feature: "blog_import_6621ee1ccd81c.jpg"

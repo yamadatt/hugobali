@@ -2,7 +2,7 @@
 date: 2018-11-30T00:02:47+09:00
 draft: false
 title: "今、バリ島で金利が高い銀行はどこか！？"
-slug: "2018/11/30"
+slug: "2018/11/30/000247"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c7f412c25.jpg"
 feature: "blog_import_6621c7f412c25.jpg"

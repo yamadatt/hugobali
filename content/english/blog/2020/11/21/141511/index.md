@@ -2,7 +2,7 @@
 date: 2020-11-21T14:15:11+09:00
 draft: false
 title: "バリ島ではスタッフの解雇は難しい。その２：法外な要求をしてくるヤツもいる！？"
-slug: "2020/11/21"
+slug: "2020/11/21/141511"
 tags: ["トラブルの話"]
 image: "blog_import_6621deb14e998.jpg"
 feature: "blog_import_6621deb14e998.jpg"

@@ -2,7 +2,7 @@
 date: 2020-02-16T19:47:45+09:00
 draft: false
 title: "さびれたサヌールの逆襲（復活？）はあるのか！？"
-slug: "2020/02/16"
+slug: "2020/02/16/194745"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621d71063eee.jpg"
 feature: "blog_import_6621d71063eee.jpg"

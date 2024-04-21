@@ -2,7 +2,7 @@
 date: 2016-08-10T00:28:05+09:00
 draft: false
 title: "日本人が、バリ島で就職するのは現実的か！？"
-slug: "2016/08/10"
+slug: "2016/08/10/002805"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b25fd2d10.jpg"
 feature: "blog_import_6621b25fd2d10.jpg"

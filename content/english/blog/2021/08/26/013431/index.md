@@ -2,7 +2,7 @@
 date: 2021-08-26T01:34:31+09:00
 draft: false
 title: "博打（バカラ）も株式投資も、勝つ法則は同じ。"
-slug: "2021/08/26"
+slug: "2021/08/26/013431"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e5602630e.png"
 feature: "blog_import_6621e5602630e.png"

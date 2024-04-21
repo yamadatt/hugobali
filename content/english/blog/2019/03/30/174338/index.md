@@ -2,7 +2,7 @@
 date: 2019-03-30T17:43:38+09:00
 draft: false
 title: "第４９回バリ島不動産投資セミナーのご案内４月１９日ｉｎ高田馬場"
-slug: "2019/03/30"
+slug: "2019/03/30/174338"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621caaa5142f.jpg"
 feature: "blog_import_6621caaa5142f.jpg"

@@ -2,7 +2,7 @@
 date: 2017-02-06T21:37:04+09:00
 draft: false
 title: "おいおい、ウチは三井不動産じゃねーぞ"
-slug: "2017/02/06"
+slug: "2017/02/06/213704"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621b98c03e25.jpg"
 feature: "blog_import_6621b98c03e25.jpg"

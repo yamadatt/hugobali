@@ -2,7 +2,7 @@
 date: 2023-01-18T02:08:06+09:00
 draft: false
 title: "靖国神社にはパワーがある！？「靖国問題」を考えてみる"
-slug: "2023/01/18"
+slug: "2023/01/18/020806"
 tags: ["プライベートな話"]
 image: "blog_import_6621f49b1ceec.jpg"
 feature: "blog_import_6621f49b1ceec.jpg"

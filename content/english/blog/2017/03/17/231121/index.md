@@ -2,7 +2,7 @@
 date: 2017-03-17T23:11:21+09:00
 draft: false
 title: "高級住宅地レノンの売ヴィラ　６０００万円"
-slug: "2017/03/17"
+slug: "2017/03/17/231121"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621ba72534b3.jpg"
 feature: "blog_import_6621ba72534b3.jpg"

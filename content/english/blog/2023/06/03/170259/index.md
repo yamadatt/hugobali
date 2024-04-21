@@ -2,7 +2,7 @@
 date: 2023-06-03T17:02:59+09:00
 draft: false
 title: "夜遊びにポケトークは威力抜群！？"
-slug: "2023/06/03"
+slug: "2023/06/03/170259"
 tags: ["プライベートな話"]
 image: "blog_import_6621f9cc3a64d.jpg"
 feature: "blog_import_6621f9cc3a64d.jpg"

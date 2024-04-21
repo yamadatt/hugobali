@@ -2,7 +2,7 @@
 date: 2020-06-24T19:36:30+09:00
 draft: false
 title: "野村證券新入社員のノルマ「新規開拓１００件」。そもそも達成可能な数字だったのか？"
-slug: "2020/06/24"
+slug: "2020/06/24/193630"
 tags: ["プライベートな話"]
 image: "blog_import_6621dae18d540.png"
 feature: "blog_import_6621dae18d540.png"

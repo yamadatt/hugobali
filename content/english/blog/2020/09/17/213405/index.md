@@ -2,7 +2,7 @@
 date: 2020-09-17T21:34:05+09:00
 draft: false
 title: "えっ！？うちのホテルが１位と３位！？　ＷＥＢってすごいな。。"
-slug: "2020/09/17"
+slug: "2020/09/17/213405"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621dcd13d268.jpg"
 feature: "blog_import_6621dcd13d268.jpg"

@@ -2,7 +2,7 @@
 date: 2023-11-12T01:18:15+09:00
 draft: false
 title: "バリ島スミニャック南国ムード満点の売ヴィラ約4200万円。お洒落ストリートのど真ん中！"
-slug: "2023/11/12"
+slug: "2023/11/12/011815"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621fe2c9e47b.jpg"
 feature: "blog_import_6621fe2c9e47b.jpg"

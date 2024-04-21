@@ -2,7 +2,7 @@
 date: 2014-08-24T16:52:03+09:00
 draft: false
 title: "バリ島個室カラオケ編４　ポテトヘッドに誘おう！"
-slug: "2014/08/24"
+slug: "2014/08/24/165203"
 tags: ["超実践！インドネシア語会話"]
 image: "blog_import_6621a7515e089.jpg"
 feature: "blog_import_6621a7515e089.jpg"

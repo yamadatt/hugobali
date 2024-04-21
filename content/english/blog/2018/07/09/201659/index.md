@@ -2,7 +2,7 @@
 date: 2018-07-09T20:16:59+09:00
 draft: false
 title: "今週の名古屋セミナー(７月１３日）オフ会やります！！"
-slug: "2018/07/09"
+slug: "2018/07/09/201659"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c4dc92625.jpg"
 feature: "blog_import_6621c4dc92625.jpg"

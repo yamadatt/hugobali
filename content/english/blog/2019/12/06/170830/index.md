@@ -2,7 +2,7 @@
 date: 2019-12-06T17:08:30+09:00
 draft: false
 title: "株で稼いだお金でどう使う？「バリ島のヴィラかぁ？」"
-slug: "2019/12/06"
+slug: "2019/12/06/170830"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d3644bf7b.png"
 feature: "blog_import_6621d3644bf7b.png"

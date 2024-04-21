@@ -2,7 +2,7 @@
 date: 2023-01-26T15:25:57+09:00
 draft: false
 title: "パンチャカルマの浄化「ヴィレーチャナ Virechan」人生で一番マズいものを口に入れた！？"
-slug: "2023/01/26"
+slug: "2023/01/26/152557"
 tags: ["インド旅行パンチャカルマ"]
 image: "blog_import_6621f4d9cc162.jpg"
 feature: "blog_import_6621f4d9cc162.jpg"

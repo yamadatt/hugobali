@@ -2,7 +2,7 @@
 date: 2020-05-15T00:00:00+09:00
 draft: false
 title: "自粛中、居酒屋の大将が孤独死した！？"
-slug: "2020/05/15"
+slug: "2020/05/15/000000"
 tags: ["プライベートな話"]
 image: "blog_import_6621d9ffcec2b.png"
 feature: "blog_import_6621d9ffcec2b.png"

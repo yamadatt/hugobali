@@ -2,7 +2,7 @@
 date: 2020-07-03T18:10:38+09:00
 draft: false
 title: "成功したいなら、一気に突き抜けること"
-slug: "2020/07/03"
+slug: "2020/07/03/181038"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621db296b2bb.png"
 feature: "blog_import_6621db296b2bb.png"

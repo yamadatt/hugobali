@@ -2,7 +2,7 @@
 date: 2023-05-07T18:48:26+09:00
 draft: false
 title: "友人とのゴルフに思う。懐古主義はやめ、50代からがスタートだ。"
-slug: "2023/05/07"
+slug: "2023/05/07/184826"
 tags: ["プライベートな話"]
 image: "blog_import_6621f90428635.jpg"
 feature: "blog_import_6621f90428635.jpg"

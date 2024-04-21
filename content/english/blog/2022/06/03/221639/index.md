@@ -2,7 +2,7 @@
 date: 2022-06-03T22:16:39+09:00
 draft: false
 title: "ロレックス転売につき合ってみた"
-slug: "2022/06/03"
+slug: "2022/06/03/221639"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621ee3de7696.png"
 feature: "blog_import_6621ee3de7696.png"

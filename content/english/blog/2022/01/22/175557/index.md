@@ -2,7 +2,7 @@
 date: 2022-01-22T17:55:57+09:00
 draft: false
 title: "結局のところ、最強クレジットカードはどれか？"
-slug: "2022/01/22"
+slug: "2022/01/22/175557"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621e9dc08953.jpg"
 feature: "blog_import_6621e9dc08953.jpg"

@@ -2,7 +2,7 @@
 date: 2020-02-27T20:44:02+09:00
 draft: false
 title: "含み益がゼロに。。でも、退場してはいけない。未来は明るいのだから。"
-slug: "2020/02/27"
+slug: "2020/02/27/204402"
 tags: ["株式投資"]
 image: "blog_import_6621d785a1b70.png"
 feature: "blog_import_6621d785a1b70.png"

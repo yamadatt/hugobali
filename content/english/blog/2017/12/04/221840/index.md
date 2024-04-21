@@ -2,7 +2,7 @@
 date: 2017-12-04T22:18:40+09:00
 draft: false
 title: "資金が少ない人が、投資のタネ銭を作るには何をすればいいか？"
-slug: "2017/12/04"
+slug: "2017/12/04/221840"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621bf347e51a.jpg"
 feature: "blog_import_6621bf347e51a.jpg"

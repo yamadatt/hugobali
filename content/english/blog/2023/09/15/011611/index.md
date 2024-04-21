@@ -2,7 +2,7 @@
 date: 2023-09-15T01:16:11+09:00
 draft: false
 title: "盆踊りが世界中に広がった理由"
-slug: "2023/09/15"
+slug: "2023/09/15/011611"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621fcd570759.png"
 feature: "blog_import_6621fcd570759.png"

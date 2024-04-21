@@ -2,7 +2,7 @@
 date: 2024-03-17T19:29:19+09:00
 draft: false
 title: "行政の許可は取るな。役所にお伺いを立てるな"
-slug: "2024/03/17"
+slug: "2024/03/17/192919"
 tags: ["ラブホテルの話"]
 image: "blog_import_66219ac6ade65.png"
 feature: "blog_import_66219ac6ade65.png"

@@ -2,7 +2,7 @@
 date: 2018-07-07T15:38:35+09:00
 draft: false
 title: "カンボジアのバイク事故で亡くなった堀本崇くん"
-slug: "2018/07/07"
+slug: "2018/07/07/153835"
 tags: ["プライベートな話"]
 image: "blog_import_6621c4d593748.jpg"
 feature: "blog_import_6621c4d593748.jpg"

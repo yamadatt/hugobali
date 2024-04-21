@@ -2,7 +2,7 @@
 date: 2022-02-05T01:58:26+09:00
 draft: false
 title: "暗号通貨は将来どうなるのか。その１「お金の正体は信用」"
-slug: "2022/02/05"
+slug: "2022/02/05/015826"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621ea3e4935b.png"
 feature: "blog_import_6621ea3e4935b.png"

@@ -2,7 +2,7 @@
 date: 2018-02-08T18:48:16+09:00
 draft: false
 title: "「この豪邸が・・！？」第二弾。ウブドゥ新築ヴィラ４棟で４０００万円"
-slug: "2018/02/08"
+slug: "2018/02/08/184816"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621c183d90ac.jpg"
 feature: "blog_import_6621c183d90ac.jpg"

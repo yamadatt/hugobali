@@ -2,7 +2,7 @@
 date: 2019-07-10T22:37:49+09:00
 draft: false
 title: "一昨日の「大宮駅：６ＬＤＫ売家＋売地 ３０００万円」は終了です"
-slug: "2019/07/10"
+slug: "2019/07/10/223749"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621cea177ba0.png"
 feature: "blog_import_6621cea177ba0.png"

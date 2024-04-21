@@ -2,7 +2,7 @@
 date: 2021-11-26T03:01:44+09:00
 draft: false
 title: "ゴルフは、「最短何時間でラウンドできるのか！？幻のベストスコア」"
-slug: "2021/11/26"
+slug: "2021/11/26/030144"
 tags: ["ゴルフ"]
 image: "blog_import_6621e7fcc37aa.png"
 feature: "blog_import_6621e7fcc37aa.png"

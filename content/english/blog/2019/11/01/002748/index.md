@@ -2,7 +2,7 @@
 date: 2019-11-01T00:27:48+09:00
 draft: false
 title: "気遣いができる素敵な女性にアドバイス。ガツガツ投資よりもサロンのほうが合ってるよ"
-slug: "2019/11/01"
+slug: "2019/11/01/002748"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d1c2eb7f5.png"
 feature: "blog_import_6621d1c2eb7f5.png"

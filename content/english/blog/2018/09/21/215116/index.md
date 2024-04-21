@@ -2,7 +2,7 @@
 date: 2018-09-21T21:51:16+09:00
 draft: false
 title: "調子に乗ってワインを飲んで、トンデモナイお会計に？"
-slug: "2018/09/21"
+slug: "2018/09/21/215116"
 tags: ["プライベートな話"]
 image: "blog_import_6621c645a8fa5.jpg"
 feature: "blog_import_6621c645a8fa5.jpg"

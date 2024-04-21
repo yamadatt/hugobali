@@ -2,7 +2,7 @@
 date: 2020-09-11T00:31:00+09:00
 draft: false
 title: "１０月３日 第１回:中高生向け株式投資勉強会のご案内"
-slug: "2020/09/11"
+slug: "2020/09/11/003100"
 tags: ["ブログ"]
 image: "blog_import_6621dc9c5e204.png"
 feature: "blog_import_6621dc9c5e204.png"

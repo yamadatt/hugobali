@@ -2,7 +2,7 @@
 date: 2016-07-29T15:10:26+09:00
 draft: false
 title: "バリ島の不動産トラブル④「法律とワイロ」"
-slug: "2016/07/29"
+slug: "2016/07/29/151026"
 tags: ["トラブルの話"]
 image: "blog_import_6621b196a1ddd.jpg"
 feature: "blog_import_6621b196a1ddd.jpg"

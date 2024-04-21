@@ -2,7 +2,7 @@
 date: 2017-06-28T23:59:35+09:00
 draft: false
 title: "非日常感のある物件とは"
-slug: "2017/06/28"
+slug: "2017/06/28/235935"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621bc211c536.jpg"
 feature: "blog_import_6621bc211c536.jpg"

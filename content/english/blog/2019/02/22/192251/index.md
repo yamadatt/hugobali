@@ -2,7 +2,7 @@
 date: 2019-02-22T19:22:51+09:00
 draft: false
 title: "売地：横浜市青葉区４００坪１億３０００万円。相場の半額！？"
-slug: "2019/02/22"
+slug: "2019/02/22/192251"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621c9ee55e6f.jpg"
 feature: "blog_import_6621c9ee55e6f.jpg"

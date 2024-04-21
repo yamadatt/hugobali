@@ -2,7 +2,7 @@
 date: 2019-12-21T17:05:41+09:00
 draft: false
 title: "結婚というイデオロギーは、いずれ崩壊する！？"
-slug: "2019/12/21"
+slug: "2019/12/21/170541"
 tags: ["プライベートな話"]
 image: "blog_import_6621d3e85914e.png"
 feature: "blog_import_6621d3e85914e.png"

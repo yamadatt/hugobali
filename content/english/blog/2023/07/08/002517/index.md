@@ -2,7 +2,7 @@
 date: 2023-07-08T00:25:17+09:00
 draft: false
 title: "松田聖子のコンサートに思う。才能、努力、運、売り出し力、スーパーアイドルが生まれるまで。"
-slug: "2023/07/08"
+slug: "2023/07/08/002517"
 tags: ["プライベートな話"]
 image: "blog_import_6621fb1243e96.jpg"
 feature: "blog_import_6621fb1243e96.jpg"

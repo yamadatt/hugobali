@@ -2,7 +2,7 @@
 date: 2016-01-29T04:48:21+09:00
 draft: false
 title: "ジャカルタの夜"
-slug: "2016/01/29"
+slug: "2016/01/29/044821"
 tags: ["ブログ"]
 image: "blog_import_6621ac2212f3e.jpg"
 feature: "blog_import_6621ac2212f3e.jpg"

@@ -2,7 +2,7 @@
 date: 2014-09-25T23:17:37+09:00
 draft: false
 title: "チャンス！　利回り不動産　利回り３０％超　"
-slug: "2014/09/25"
+slug: "2014/09/25/231737"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621a8d5a718c.jpg"
 feature: "blog_import_6621a8d5a718c.jpg"

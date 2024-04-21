@@ -2,7 +2,7 @@
 date: 2021-08-15T14:58:15+09:00
 draft: false
 title: "大人の合宿は楽しい！？荒れた天気、荒れたゴルフ場での合宿。"
-slug: "2021/08/15"
+slug: "2021/08/15/145815"
 tags: ["ゴルフ"]
 image: "blog_import_6621e4fcd98ec.png"
 feature: "blog_import_6621e4fcd98ec.png"

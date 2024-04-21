@@ -2,7 +2,7 @@
 date: 2020-10-14T23:26:58+09:00
 draft: false
 title: "なぜ？コロナでお客が減っても、バリ島では格安物件が少ないのか？"
-slug: "2020/10/14"
+slug: "2020/10/14/232658"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621dd99df6b0.png"
 feature: "blog_import_6621dd99df6b0.png"

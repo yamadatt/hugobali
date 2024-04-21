@@ -2,7 +2,7 @@
 date: 2019-07-23T00:12:50+09:00
 draft: false
 title: "日本の投資信託がダメなのは、サラリーマンが運用しているから！？"
-slug: "2019/07/23"
+slug: "2019/07/23/001250"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621cedc2a1c5.png"
 feature: "blog_import_6621cedc2a1c5.png"

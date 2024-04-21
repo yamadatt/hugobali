@@ -2,7 +2,7 @@
 date: 2017-01-29T18:35:15+09:00
 draft: false
 title: "チャロナラン舞踊劇の鑑賞は、ツラいですぞ"
-slug: "2017/01/29"
+slug: "2017/01/29/183515"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621b91d20169.jpg"
 feature: "blog_import_6621b91d20169.jpg"

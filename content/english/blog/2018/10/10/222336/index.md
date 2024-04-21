@@ -2,7 +2,7 @@
 date: 2018-10-10T22:23:36+09:00
 draft: false
 title: "“ピン札”で、母親を思い出した"
-slug: "2018/10/10"
+slug: "2018/10/10/222336"
 tags: ["プライベートな話"]
 image: "blog_import_6621c6ca7e414.jpg"
 feature: "blog_import_6621c6ca7e414.jpg"

@@ -2,7 +2,7 @@
 date: 2021-06-24T23:33:32+09:00
 draft: false
 title: "可愛げのない人は損をする！？"
-slug: "2021/06/24"
+slug: "2021/06/24/233332"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e382b89d7.png"
 feature: "blog_import_6621e382b89d7.png"

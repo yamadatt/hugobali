@@ -2,7 +2,7 @@
 date: 2018-07-20T18:46:37+09:00
 draft: false
 title: "ウチの犬が毒殺された"
-slug: "2018/07/20"
+slug: "2018/07/20/184637"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c5125ce36.jpg"
 feature: "blog_import_6621c5125ce36.jpg"

@@ -2,7 +2,7 @@
 date: 2019-06-12T20:23:03+09:00
 draft: false
 title: "２２００万円でラブホテルが買える！？手残りのキャッシュ利回りは２８％！？"
-slug: "2019/06/12"
+slug: "2019/06/12/202303"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621cd64178af.jpg"
 feature: "blog_import_6621cd64178af.jpg"

@@ -2,7 +2,7 @@
 date: 2019-01-04T18:30:22+09:00
 draft: false
 title: "あけましておめでとうございます！！１月９日新年会のお知らせ"
-slug: "2019/01/04"
+slug: "2019/01/04/183022"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c8d43015a.jpg"
 feature: "blog_import_6621c8d43015a.jpg"

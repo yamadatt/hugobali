@@ -2,7 +2,7 @@
 date: 2020-04-22T23:08:11+09:00
 draft: false
 title: "今日の寄付成行でサーバーワークス売却。株式投資のプロたちに脱帽。"
-slug: "2020/04/22"
+slug: "2020/04/22/230811"
 tags: ["株式投資"]
 image: "blog_import_6621d94cc66d6.png"
 feature: "blog_import_6621d94cc66d6.png"

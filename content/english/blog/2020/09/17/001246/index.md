@@ -2,7 +2,7 @@
 date: 2020-09-17T00:12:46+09:00
 draft: false
 title: "ファイナンシャルプランナー、銀行員、証券マンには、投資を相談しないほうがいい？"
-slug: "2020/09/17"
+slug: "2020/09/17/001246"
 tags: ["株式投資"]
 image: "blog_import_6621dccb4cd47.png"
 feature: "blog_import_6621dccb4cd47.png"

@@ -2,7 +2,7 @@
 date: 2022-01-11T18:30:17+09:00
 draft: false
 title: "ＭＭＴの是非"
-slug: "2022/01/11"
+slug: "2022/01/11/183017"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e99688af2.png"
 feature: "blog_import_6621e99688af2.png"

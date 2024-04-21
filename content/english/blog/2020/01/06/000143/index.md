@@ -2,7 +2,7 @@
 date: 2020-01-06T00:01:43+09:00
 draft: false
 title: "くよくよしない技術を身につけよう"
-slug: "2020/01/06"
+slug: "2020/01/06/000143"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d51a17783.jpg"
 feature: "blog_import_6621d51a17783.jpg"

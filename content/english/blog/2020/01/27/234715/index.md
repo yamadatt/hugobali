@@ -2,7 +2,7 @@
 date: 2020-01-27T23:47:15+09:00
 draft: false
 title: "ビンタンスーパーの火災は放火！？「火災＝保険金目当て」は、バリ島都市伝説！？"
-slug: "2020/01/27"
+slug: "2020/01/27/234715"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621d69387c20.jpg"
 feature: "blog_import_6621d69387c20.jpg"

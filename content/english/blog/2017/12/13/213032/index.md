@@ -2,7 +2,7 @@
 date: 2017-12-13T21:30:32+09:00
 draft: false
 title: "１２月１７日(日）忘年会の締め切りは、明日１４日です"
-slug: "2017/12/13"
+slug: "2017/12/13/213032"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621bf6341304.jpg"
 feature: "blog_import_6621bf6341304.jpg"

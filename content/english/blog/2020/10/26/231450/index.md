@@ -2,7 +2,7 @@
 date: 2020-10-26T23:14:50+09:00
 draft: false
 title: "11月7日(土）第２回「中学生高校生向け株式勉強会」のご案内"
-slug: "2020/10/26"
+slug: "2020/10/26/231450"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621de13721b0.jpg"
 feature: "blog_import_6621de13721b0.jpg"

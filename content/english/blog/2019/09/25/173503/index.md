@@ -2,7 +2,7 @@
 date: 2019-09-25T17:35:03+09:00
 draft: false
 title: "事情アリ！？急ぎ売り。チャングーフリーホールド４２００万円１４.６％"
-slug: "2019/09/25"
+slug: "2019/09/25/173503"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621d015013d8.png"
 feature: "blog_import_6621d015013d8.png"

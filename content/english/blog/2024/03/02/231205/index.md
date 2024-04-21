@@ -2,7 +2,7 @@
 date: 2024-03-02T23:12:05+09:00
 draft: false
 title: "凡人が成功するポイント。「頼みごとを断らない」"
-slug: "2024/03/02"
+slug: "2024/03/02/231205"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6622005145a08.png"
 feature: "blog_import_6622005145a08.png"

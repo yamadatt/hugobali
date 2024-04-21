@@ -2,7 +2,7 @@
 date: 2020-08-18T02:29:26+09:00
 draft: false
 title: "「中高生から始める株の学校（仮称）」１０月開校！？"
-slug: "2020/08/18"
+slug: "2020/08/18/022926"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621dc38686c8.png"
 feature: "blog_import_6621dc38686c8.png"

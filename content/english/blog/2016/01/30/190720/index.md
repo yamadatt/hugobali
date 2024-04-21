@@ -2,7 +2,7 @@
 date: 2016-01-30T19:07:20+09:00
 draft: false
 title: "仲間"
-slug: "2016/01/30"
+slug: "2016/01/30/190720"
 tags: ["ブログ"]
 image: ""
 feature: ""

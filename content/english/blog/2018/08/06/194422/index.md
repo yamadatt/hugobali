@@ -2,7 +2,7 @@
 date: 2018-08-06T19:44:22+09:00
 draft: false
 title: "クレームをつけて、高級ヴィラへの交換を要求する客"
-slug: "2018/08/06"
+slug: "2018/08/06/194422"
 tags: ["トラブルの話"]
 image: "blog_import_6621c5705b90f.png"
 feature: "blog_import_6621c5705b90f.png"

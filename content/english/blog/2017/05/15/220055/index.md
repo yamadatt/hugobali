@@ -2,7 +2,7 @@
 date: 2017-05-15T22:00:55+09:00
 draft: false
 title: "２４時間戦えますか！？"
-slug: "2017/05/15"
+slug: "2017/05/15/220055"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621bb6527646.jpg"
 feature: "blog_import_6621bb6527646.jpg"

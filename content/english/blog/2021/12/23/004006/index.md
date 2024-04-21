@@ -2,7 +2,7 @@
 date: 2021-12-23T00:40:06+09:00
 draft: false
 title: "年内最後のゴルフ「イーグルポイント」は、やっぱり流石だった！？"
-slug: "2021/12/23"
+slug: "2021/12/23/004006"
 tags: ["ゴルフ"]
 image: "blog_import_6621e8a942b3f.jpg"
 feature: "blog_import_6621e8a942b3f.jpg"

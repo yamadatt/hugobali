@@ -2,7 +2,7 @@
 date: 2020-09-24T03:03:10+09:00
 draft: false
 title: "初心者こそ、良い道具を使おう、一流のプロに習おう"
-slug: "2020/09/24"
+slug: "2020/09/24/030310"
 tags: ["プライベートな話"]
 image: "blog_import_6621dd03db200.png"
 feature: "blog_import_6621dd03db200.png"

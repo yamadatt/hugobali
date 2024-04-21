@@ -2,7 +2,7 @@
 date: 2023-01-25T01:49:34+09:00
 draft: false
 title: "アーユルヴェーダの「ジャラニティ(鼻洗浄)」は、やる価値アリ！？"
-slug: "2023/01/25"
+slug: "2023/01/25/014934"
 tags: ["インド旅行パンチャカルマ"]
 image: "blog_import_6621f4ca0be48.jpg"
 feature: "blog_import_6621f4ca0be48.jpg"

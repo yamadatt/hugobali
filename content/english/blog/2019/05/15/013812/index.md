@@ -2,7 +2,7 @@
 date: 2019-05-15T01:38:12+09:00
 draft: false
 title: "長田氏の株式投資実践会「個別フォローLineグループ質問集」その１"
-slug: "2019/05/15"
+slug: "2019/05/15/013812"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cc881c887.png"
 feature: "blog_import_6621cc881c887.png"

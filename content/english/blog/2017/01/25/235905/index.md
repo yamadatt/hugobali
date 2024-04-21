@@ -2,7 +2,7 @@
 date: 2017-01-25T23:59:05+09:00
 draft: false
 title: "残席３　バリ島不動産セミナー「なぜ、女性が多いのか！？」"
-slug: "2017/01/25"
+slug: "2017/01/25/235905"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621b90e7f6ed.png"
 feature: "blog_import_6621b90e7f6ed.png"

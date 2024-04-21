@@ -2,7 +2,7 @@
 date: 2023-12-01T02:46:32+09:00
 draft: false
 title: "不確実性を楽しもう"
-slug: "2023/12/01"
+slug: "2023/12/01/024632"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621fe86f3c6f.jpg"
 feature: "blog_import_6621fe86f3c6f.jpg"

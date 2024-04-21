@@ -2,7 +2,7 @@
 date: 2014-08-19T10:13:54+09:00
 draft: false
 title: "究極の投資論！川の流れのように"
-slug: "2014/08/19"
+slug: "2014/08/19/101354"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621a64c1bf1a.png"
 feature: "blog_import_6621a64c1bf1a.png"

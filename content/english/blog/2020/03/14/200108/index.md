@@ -2,7 +2,7 @@
 date: 2020-03-14T20:01:08+09:00
 draft: false
 title: "先週の成長株セミナーへのご感想。「この局面で、皆さまはどう思っているのか？」"
-slug: "2020/03/14"
+slug: "2020/03/14/200108"
 tags: ["株式投資"]
 image: "blog_import_6621d7b8c30bc.jpg"
 feature: "blog_import_6621d7b8c30bc.jpg"

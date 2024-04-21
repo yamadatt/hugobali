@@ -2,7 +2,7 @@
 date: 2023-09-05T02:06:21+09:00
 draft: false
 title: "借金が返済できなくなったら！？債権者への対応。その１「知人からの電話」"
-slug: "2023/09/05"
+slug: "2023/09/05/020621"
 tags: ["プライベートな話"]
 image: "blog_import_6621fc962c4c8.jpg"
 feature: "blog_import_6621fc962c4c8.jpg"

@@ -2,7 +2,7 @@
 date: 2018-06-13T23:10:09+09:00
 draft: false
 title: "ちょっとしたことで、すぐに辞めるバリ人スタッフたち"
-slug: "2018/06/13"
+slug: "2018/06/13/231009"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c414c8a14.jpg"
 feature: "blog_import_6621c414c8a14.jpg"

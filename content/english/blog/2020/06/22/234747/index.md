@@ -2,7 +2,7 @@
 date: 2020-06-22T23:47:47+09:00
 draft: false
 title: "チャンスをつかむには、どうしたらいい？早大卒でタクシーの運転手！？"
-slug: "2020/06/22"
+slug: "2020/06/22/234747"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621dad471999.png"
 feature: "blog_import_6621dad471999.png"

@@ -2,7 +2,7 @@
 date: 2019-12-12T23:33:36+09:00
 draft: false
 title: "いきなりステーキを応援する会「長田先生が、孫子を超える日は来るのか！？」"
-slug: "2019/12/12"
+slug: "2019/12/12/233336"
 tags: ["プライベートな話"]
 image: "blog_import_6621d39ea794c.jpg"
 feature: "blog_import_6621d39ea794c.jpg"

@@ -2,7 +2,7 @@
 date: 2022-09-01T23:45:16+09:00
 draft: false
 title: "横浜の建売投資案件。１億で２０００万儲かれば悪くない！？"
-slug: "2022/09/01"
+slug: "2022/09/01/234516"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621f09e96aca.jpg"
 feature: "blog_import_6621f09e96aca.jpg"

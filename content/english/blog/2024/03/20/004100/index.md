@@ -2,7 +2,7 @@
 date: 2024-03-20T00:41:00+09:00
 draft: false
 title: "カッコつけず、見栄を張らず、楽に生きよう"
-slug: "2024/03/20"
+slug: "2024/03/20/004100"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_66219acf04d3d.png"
 feature: "blog_import_66219acf04d3d.png"

@@ -2,7 +2,7 @@
 date: 2015-08-04T22:47:33+09:00
 draft: false
 title: "バリ島在住の方へお知らせ　BNI銀行が金利１０％"
-slug: "2015/08/04"
+slug: "2015/08/04/224733"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621ab04c652f.png"
 feature: "blog_import_6621ab04c652f.png"

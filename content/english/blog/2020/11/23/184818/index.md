@@ -2,7 +2,7 @@
 date: 2020-11-23T18:48:18+09:00
 draft: false
 title: "５回目のゴルフで３００飛ばした！？スコアは？"
-slug: "2020/11/23"
+slug: "2020/11/23/184818"
 tags: ["プライベートな話"]
 image: "blog_import_6621deb42911b.png"
 feature: "blog_import_6621deb42911b.png"

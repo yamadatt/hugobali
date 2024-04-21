@@ -2,7 +2,7 @@
 date: 2018-01-17T10:46:48+09:00
 draft: false
 title: "２４日のバリ島不動産セミナーの目玉物件"
-slug: "2018/01/17"
+slug: "2018/01/17/104648"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c0aae4841.jpg"
 feature: "blog_import_6621c0aae4841.jpg"

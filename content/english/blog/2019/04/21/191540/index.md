@@ -2,7 +2,7 @@
 date: 2019-04-21T19:15:40+09:00
 draft: false
 title: "フェデリコ・ウリベ氏のアート「We&#39;re at peace」いいなあ"
-slug: "2019/04/21"
+slug: "2019/04/21/191540"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cbd291b47.png"
 feature: "blog_import_6621cbd291b47.png"

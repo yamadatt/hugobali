@@ -2,7 +2,7 @@
 date: 2022-07-03T23:07:51+09:00
 draft: false
 title: "暗号通貨の本質「配布コインは、WEB3.0企業の新規公開株。夢がある！？」"
-slug: "2022/07/03"
+slug: "2022/07/03/230751"
 tags: ["仮想通貨・暗号通貨"]
 image: "blog_import_6621ef22a5dcd.png"
 feature: "blog_import_6621ef22a5dcd.png"

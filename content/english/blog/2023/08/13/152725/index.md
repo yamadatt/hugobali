@@ -2,7 +2,7 @@
 date: 2023-08-13T15:27:25+09:00
 draft: false
 title: "５０歳を過ぎたら、新しい仕事をやろう。"
-slug: "2023/08/13"
+slug: "2023/08/13/152725"
 tags: ["プライベートな話"]
 image: "blog_import_6621fbf01b74a.jpg"
 feature: "blog_import_6621fbf01b74a.jpg"

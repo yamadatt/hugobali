@@ -2,7 +2,7 @@
 date: 2014-07-20T03:01:13+09:00
 draft: false
 title: "バリ島での不動産購入の際の手付け"
-slug: "2014/07/20"
+slug: "2014/07/20/030113"
 tags: ["日本とバリ島の不動産取引の違い"]
 image: "blog_import_6621a3f7b3bc0.jpg"
 feature: "blog_import_6621a3f7b3bc0.jpg"

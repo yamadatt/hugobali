@@ -2,7 +2,7 @@
 date: 2023-04-01T19:40:15+09:00
 draft: false
 title: "富裕層の海外脱出は上手くいかない！？その理由は？"
-slug: "2023/04/01"
+slug: "2023/04/01/194015"
 tags: ["バリ島でのロングステイ"]
 image: "blog_import_6621f71f6519b.png"
 feature: "blog_import_6621f71f6519b.png"

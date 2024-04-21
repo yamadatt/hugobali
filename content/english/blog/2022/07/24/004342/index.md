@@ -2,7 +2,7 @@
 date: 2022-07-24T00:43:42+09:00
 draft: false
 title: "ファスティング合宿２日目"
-slug: "2022/07/24"
+slug: "2022/07/24/004342"
 tags: ["ファスティング合宿ダイエット"]
 image: "blog_import_6621efb8bca07.jpg"
 feature: "blog_import_6621efb8bca07.jpg"

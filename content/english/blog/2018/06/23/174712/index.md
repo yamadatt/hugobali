@@ -2,7 +2,7 @@
 date: 2018-06-23T17:47:12+09:00
 draft: false
 title: "某ヴィラの契約決済　日本の現金決済はラクだな"
-slug: "2018/06/23"
+slug: "2018/06/23/174712"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621c44c47c8d.jpg"
 feature: "blog_import_6621c44c47c8d.jpg"

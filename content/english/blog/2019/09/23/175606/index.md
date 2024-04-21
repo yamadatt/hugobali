@@ -2,7 +2,7 @@
 date: 2019-09-23T17:56:06+09:00
 draft: false
 title: "なぜ株式投資で損をする人が多いのか"
-slug: "2019/09/23"
+slug: "2019/09/23/175606"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d00ad4511.png"
 feature: "blog_import_6621d00ad4511.png"

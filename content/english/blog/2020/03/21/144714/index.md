@@ -2,7 +2,7 @@
 date: 2020-03-21T14:47:14+09:00
 draft: false
 title: "ホテルの改装で、またピンチ。コロナの影響でウォシュレットがない。"
-slug: "2020/03/21"
+slug: "2020/03/21/144714"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621d7d987c65.jpg"
 feature: "blog_import_6621d7d987c65.jpg"

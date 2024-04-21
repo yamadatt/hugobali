@@ -2,7 +2,7 @@
 date: 2016-12-27T18:54:02+09:00
 draft: false
 title: "バリ島の呪術「ブラックマジック」は本当なのか！？"
-slug: "2016/12/27"
+slug: "2016/12/27/185402"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621b7e24a1b1.jpg"
 feature: "blog_import_6621b7e24a1b1.jpg"

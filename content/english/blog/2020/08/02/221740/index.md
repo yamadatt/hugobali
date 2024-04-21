@@ -2,7 +2,7 @@
 date: 2020-08-02T22:17:40+09:00
 draft: false
 title: "バリ島が国内観光客の受け入れを始めたが、かなり面倒くさい"
-slug: "2020/08/02"
+slug: "2020/08/02/221740"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621dc098cd14.png"
 feature: "blog_import_6621dc098cd14.png"

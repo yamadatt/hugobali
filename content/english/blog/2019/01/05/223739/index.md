@@ -2,7 +2,7 @@
 date: 2019-01-05T22:37:39+09:00
 draft: false
 title: "現地からの報告「バリ島現地法人の忘年会」"
-slug: "2019/01/05"
+slug: "2019/01/05/223739"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c8d8aa666.jpg"
 feature: "blog_import_6621c8d8aa666.jpg"

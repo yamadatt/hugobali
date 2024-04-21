@@ -2,7 +2,7 @@
 date: 2022-03-25T23:23:31+09:00
 draft: false
 title: "「床屋派？美容院派？アンケート」の結果は！？"
-slug: "2022/03/25"
+slug: "2022/03/25/232331"
 tags: ["プライベートな話"]
 image: "blog_import_6621ec8636aea.png"
 feature: "blog_import_6621ec8636aea.png"

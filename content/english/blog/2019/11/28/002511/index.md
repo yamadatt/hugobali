@@ -2,7 +2,7 @@
 date: 2019-11-28T00:25:11+09:00
 draft: false
 title: "１２月６日(金）全１２回③第９回初心者向け成長株セミナー「購入・売却のタイミングを知ろう」"
-slug: "2019/11/28"
+slug: "2019/11/28/002511"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621d2ab83096.png"
 feature: "blog_import_6621d2ab83096.png"

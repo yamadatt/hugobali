@@ -2,7 +2,7 @@
 date: 2020-01-18T18:06:58+09:00
 draft: false
 title: "元金が５０００万円でシュミレーション！？「不動産と株、どちらが儲かる！？」"
-slug: "2020/01/18"
+slug: "2020/01/18/180658"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d5f25d5e7.png"
 feature: "blog_import_6621d5f25d5e7.png"

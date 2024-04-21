@@ -2,7 +2,7 @@
 date: 2023-10-11T18:26:21+09:00
 draft: false
 title: "「bizSPA」に僕が掲載された！？"
-slug: "2023/10/11"
+slug: "2023/10/11/182621"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621fd5b07985.png"
 feature: "blog_import_6621fd5b07985.png"

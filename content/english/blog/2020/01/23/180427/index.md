@@ -2,7 +2,7 @@
 date: 2020-01-23T18:04:27+09:00
 draft: false
 title: "周防亮介さんのコンサート：「チャイコン」はいいなあ。in 東京芸術劇場"
-slug: "2020/01/23"
+slug: "2020/01/23/180427"
 tags: ["プライベートな話"]
 image: "blog_import_6621d67e9f466.jpg"
 feature: "blog_import_6621d67e9f466.jpg"

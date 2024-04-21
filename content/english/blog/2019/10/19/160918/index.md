@@ -2,7 +2,7 @@
 date: 2019-10-19T16:09:18+09:00
 draft: false
 title: "「資産を持つことを怖がり、負債を持つことを喜ぶ」これってヘンだよね"
-slug: "2019/10/19"
+slug: "2019/10/19/160918"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d133918fb.png"
 feature: "blog_import_6621d133918fb.png"

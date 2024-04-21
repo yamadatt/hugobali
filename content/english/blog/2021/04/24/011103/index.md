@@ -2,7 +2,7 @@
 date: 2021-04-24T01:11:03+09:00
 draft: false
 title: "学歴コンプレックスは、再受験で解消できるのか？"
-slug: "2021/04/24"
+slug: "2021/04/24/011103"
 tags: ["プライベートな話"]
 image: "blog_import_6621e21e8b4cf.png"
 feature: "blog_import_6621e21e8b4cf.png"

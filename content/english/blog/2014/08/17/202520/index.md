@@ -2,7 +2,7 @@
 date: 2014-08-17T20:25:20+09:00
 draft: false
 title: "売ホテル　バリ島クタ　約１２億円"
-slug: "2014/08/17"
+slug: "2014/08/17/202520"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621a5bfeca25.jpg"
 feature: "blog_import_6621a5bfeca25.jpg"

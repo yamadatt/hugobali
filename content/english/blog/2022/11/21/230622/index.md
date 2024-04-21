@@ -2,7 +2,7 @@
 date: 2022-11-21T23:06:22+09:00
 draft: false
 title: "バリ島のヴィラ建築。その１「労働効率の悪さ」"
-slug: "2022/11/21"
+slug: "2022/11/21/230622"
 tags: ["トラブルの話"]
 image: "blog_import_6621f2fa2fda0.jpg"
 feature: "blog_import_6621f2fa2fda0.jpg"

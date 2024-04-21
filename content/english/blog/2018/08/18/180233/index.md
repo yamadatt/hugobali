@@ -2,7 +2,7 @@
 date: 2018-08-18T18:02:33+09:00
 draft: false
 title: "９月６日開催　第４４回バリ島不動産セミナーのご案内"
-slug: "2018/08/18"
+slug: "2018/08/18/180233"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c5c39dcb6.jpg"
 feature: "blog_import_6621c5c39dcb6.jpg"

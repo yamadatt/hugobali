@@ -2,7 +2,7 @@
 date: 2019-08-03T16:59:41+09:00
 draft: false
 title: "昨日のタネ銭座談会の報告"
-slug: "2019/08/03"
+slug: "2019/08/03/165941"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621cf4b71a8b.jpg"
 feature: "blog_import_6621cf4b71a8b.jpg"

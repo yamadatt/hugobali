@@ -2,7 +2,7 @@
 date: 2017-06-13T22:39:33+09:00
 draft: false
 title: "いよいよ新潟ホテルの決済"
-slug: "2017/06/13"
+slug: "2017/06/13/223933"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621bbfc36dc4.jpg"
 feature: "blog_import_6621bbfc36dc4.jpg"

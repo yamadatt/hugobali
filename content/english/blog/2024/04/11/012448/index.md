@@ -2,7 +2,7 @@
 date: 2024-04-11T01:24:48+09:00
 draft: false
 title: "非日常感のあるヴィラは儲かる！？竹で作られた「グリーンヴィレッジ」"
-slug: "2024/04/11"
+slug: "2024/04/11/012448"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_66219b037bd64.jpg"
 feature: "blog_import_66219b037bd64.jpg"

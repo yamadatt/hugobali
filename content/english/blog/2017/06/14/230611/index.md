@@ -2,7 +2,7 @@
 date: 2017-06-14T23:06:11+09:00
 draft: false
 title: "素人が良いホテルを買うのは難しい！？"
-slug: "2017/06/14"
+slug: "2017/06/14/230611"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621bbff73f10.jpg"
 feature: "blog_import_6621bbff73f10.jpg"

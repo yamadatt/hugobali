@@ -2,7 +2,7 @@
 date: 2017-01-13T23:32:43+09:00
 draft: false
 title: "努力が報われない時代の生き方"
-slug: "2017/01/13"
+slug: "2017/01/13/233243"
 tags: ["プライベートな話"]
 image: "blog_import_6621b87e62ed8.png"
 feature: "blog_import_6621b87e62ed8.png"

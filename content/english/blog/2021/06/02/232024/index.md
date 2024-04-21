@@ -2,7 +2,7 @@
 date: 2021-06-02T23:20:24+09:00
 draft: false
 title: "インドネシアでは、なぜ、危険な密造酒が作られるのか？アラックが安心して飲めるようになる！？"
-slug: "2021/06/02"
+slug: "2021/06/02/232024"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621e2fbc09b4.jpg"
 feature: "blog_import_6621e2fbc09b4.jpg"

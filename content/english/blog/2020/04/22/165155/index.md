@@ -2,7 +2,7 @@
 date: 2020-04-22T16:51:55+09:00
 draft: false
 title: "ラブホテルの改装工事。終盤のスパートがハンパない！？"
-slug: "2020/04/22"
+slug: "2020/04/22/165155"
 tags: ["ラブホテルの話"]
 image: "blog_import_6621d93616417.jpg"
 feature: "blog_import_6621d93616417.jpg"

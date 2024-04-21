@@ -2,7 +2,7 @@
 date: 2023-04-26T19:23:04+09:00
 draft: false
 title: "日本はなぜ、太平洋戦争を起こしたのか。改めて知っておこう"
-slug: "2023/04/26"
+slug: "2023/04/26/192304"
 tags: ["プライベートな話"]
 image: "blog_import_6621f8bd26da3.jpg"
 feature: "blog_import_6621f8bd26da3.jpg"

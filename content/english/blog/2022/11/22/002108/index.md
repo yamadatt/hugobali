@@ -2,7 +2,7 @@
 date: 2022-11-22T00:21:08+09:00
 draft: false
 title: "第５回生ハムベジョータの会(忘年会？）「お待たせしました！！今年もやります」"
-slug: "2022/11/22"
+slug: "2022/11/22/002108"
 tags: ["プライベートな話"]
 image: "blog_import_6621f2e1cb5fb.jpg"
 feature: "blog_import_6621f2e1cb5fb.jpg"

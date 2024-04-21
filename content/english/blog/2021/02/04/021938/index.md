@@ -2,7 +2,7 @@
 date: 2021-02-04T02:19:38+09:00
 draft: false
 title: "「正義中毒」の日本人。不倫で職業まで奪われるって風潮はおかしいな"
-slug: "2021/02/04"
+slug: "2021/02/04/021938"
 tags: ["プライベートな話"]
 image: "blog_import_6621e036a4139.png"
 feature: "blog_import_6621e036a4139.png"

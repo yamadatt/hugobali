@@ -2,7 +2,7 @@
 date: 2024-03-04T22:06:26+09:00
 draft: false
 title: "成功したければ、少数派になろう"
-slug: "2024/03/04"
+slug: "2024/03/04/220626"
 tags: ["株式投資"]
 image: "blog_import_6622006b68c38.png"
 feature: "blog_import_6622006b68c38.png"

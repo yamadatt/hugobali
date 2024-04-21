@@ -2,7 +2,7 @@
 date: 2018-07-29T17:11:49+09:00
 draft: false
 title: "やみつき激辛インドネシア料理「Special Sambal」"
-slug: "2018/07/29"
+slug: "2018/07/29/171149"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c53c416dc.jpg"
 feature: "blog_import_6621c53c416dc.jpg"

@@ -2,7 +2,7 @@
 date: 2016-11-25T14:59:28+09:00
 draft: false
 title: "複数の財布を持つメリット"
-slug: "2016/11/25"
+slug: "2016/11/25/145928"
 tags: ["プライベートな話"]
 image: "blog_import_6621b6fd69513.jpg"
 feature: "blog_import_6621b6fd69513.jpg"

@@ -2,7 +2,7 @@
 date: 2016-03-04T22:29:44+09:00
 draft: false
 title: "江戸時代のモノの値段"
-slug: "2016/03/04"
+slug: "2016/03/04/222944"
 tags: ["ブログ"]
 image: ""
 feature: ""

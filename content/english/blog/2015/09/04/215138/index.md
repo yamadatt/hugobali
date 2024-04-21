@@ -2,7 +2,7 @@
 date: 2015-09-04T21:51:38+09:00
 draft: false
 title: "佐野研二郎氏のエンブレム問題に思うこと"
-slug: "2015/09/04"
+slug: "2015/09/04/215138"
 tags: ["ブログ"]
 image: "blog_import_6621ab20dc4d6.jpg"
 feature: "blog_import_6621ab20dc4d6.jpg"

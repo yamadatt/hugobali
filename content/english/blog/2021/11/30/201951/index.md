@@ -2,7 +2,7 @@
 date: 2021-11-30T20:19:51+09:00
 draft: false
 title: "友人の死に思う。「人生は結局、運なのかな」"
-slug: "2021/11/30"
+slug: "2021/11/30/201951"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621e81eaf2b9.png"
 feature: "blog_import_6621e81eaf2b9.png"

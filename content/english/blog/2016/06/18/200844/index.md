@@ -2,7 +2,7 @@
 date: 2016-06-18T20:08:44+09:00
 draft: false
 title: "夢は人に語るな"
-slug: "2016/06/18"
+slug: "2016/06/18/200844"
 tags: ["ブログ"]
 image: ""
 feature: ""

@@ -2,7 +2,7 @@
 date: 2023-07-17T18:17:33+09:00
 draft: false
 title: "優勝を目指した浜野ゴルフ月例の結果。まさかの、、！？"
-slug: "2023/07/17"
+slug: "2023/07/17/181733"
 tags: ["ゴルフ"]
 image: "blog_import_6621fb4bda4e5.jpg"
 feature: "blog_import_6621fb4bda4e5.jpg"

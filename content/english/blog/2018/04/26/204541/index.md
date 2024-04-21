@@ -2,7 +2,7 @@
 date: 2018-04-26T20:45:41+09:00
 draft: false
 title: "バリ島の闘鶏はアツい"
-slug: "2018/04/26"
+slug: "2018/04/26/204541"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621c323ee939.jpg"
 feature: "blog_import_6621c323ee939.jpg"

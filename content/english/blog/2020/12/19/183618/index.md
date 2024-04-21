@@ -2,7 +2,7 @@
 date: 2020-12-19T18:36:18+09:00
 draft: false
 title: "バリ島では「観光業務の再開が検討されている」というが、期待していいのかなあ。。"
-slug: "2020/12/19"
+slug: "2020/12/19/183618"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621df649e56e.png"
 feature: "blog_import_6621df649e56e.png"

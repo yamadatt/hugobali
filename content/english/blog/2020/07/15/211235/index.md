@@ -2,7 +2,7 @@
 date: 2020-07-15T21:12:35+09:00
 draft: false
 title: "感想＆質問（20）「成長株の利確の仕方、乗り換えの仕方は？」への回答"
-slug: "2020/07/15"
+slug: "2020/07/15/211235"
 tags: ["株式投資"]
 image: "blog_import_6621db87e3887.jpg"
 feature: "blog_import_6621db87e3887.jpg"

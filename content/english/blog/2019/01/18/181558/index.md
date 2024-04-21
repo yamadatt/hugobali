@@ -2,7 +2,7 @@
 date: 2019-01-18T18:15:58+09:00
 draft: false
 title: "希少！？新宿区歌舞伎町の売地２８坪１億円　坪３５０万円"
-slug: "2019/01/18"
+slug: "2019/01/18/181558"
 tags: ["投資案件もろもろ"]
 image: "blog_import_6621c962870cd.jpg"
 feature: "blog_import_6621c962870cd.jpg"

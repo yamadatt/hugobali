@@ -2,7 +2,7 @@
 date: 2023-02-22T18:59:43+09:00
 draft: false
 title: "２月２４日(金）第４７回：成長株投資の実践会「パチスロ業界の逆襲。玉が出ないパチンコ台、コインが"
-slug: "2023/02/22"
+slug: "2023/02/22/185943"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621f61f5a488.png"
 feature: "blog_import_6621f61f5a488.png"

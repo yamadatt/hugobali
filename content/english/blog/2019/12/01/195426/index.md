@@ -2,7 +2,7 @@
 date: 2019-12-01T19:54:26+09:00
 draft: false
 title: "ラグビー対抗戦、明大優勝！！全勝対決。今年の早明戦は、明治大学の圧勝！？"
-slug: "2019/12/01"
+slug: "2019/12/01/195426"
 tags: ["プライベートな話"]
 image: "blog_import_6621d321185e1.jpg"
 feature: "blog_import_6621d321185e1.jpg"

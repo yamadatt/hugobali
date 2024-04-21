@@ -2,7 +2,7 @@
 date: 2018-10-06T19:40:36+09:00
 draft: false
 title: "仮名「成功者と行くバリ島ツアー」開催　12月9日～12日、12月1１日～15日"
-slug: "2018/10/06"
+slug: "2018/10/06/194036"
 tags: ["投資セミナーのご案内"]
 image: "blog_import_6621c6a412ca7.jpg"
 feature: "blog_import_6621c6a412ca7.jpg"

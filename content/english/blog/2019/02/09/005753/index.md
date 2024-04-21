@@ -2,7 +2,7 @@
 date: 2019-02-09T00:57:53+09:00
 draft: false
 title: "ふるさと納税４ケタ男の共通点"
-slug: "2019/02/09"
+slug: "2019/02/09/005753"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621c9c38e462.jpg"
 feature: "blog_import_6621c9c38e462.jpg"

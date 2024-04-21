@@ -2,7 +2,7 @@
 date: 2018-05-29T20:26:05+09:00
 draft: false
 title: "バリ島ウブド　新築売ヴィラ３２４５万円　映画の舞台になったエリア"
-slug: "2018/05/29"
+slug: "2018/05/29/202605"
 tags: ["バリ島不動産投資物件"]
 image: "blog_import_6621c3945664b.jpg"
 feature: "blog_import_6621c3945664b.jpg"

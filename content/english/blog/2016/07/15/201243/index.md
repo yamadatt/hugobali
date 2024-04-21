@@ -2,7 +2,7 @@
 date: 2016-07-15T20:12:43+09:00
 draft: false
 title: "東京都知事選、増田さんのポスターがない！？創価学会がバックについてるのに"
-slug: "2016/07/15"
+slug: "2016/07/15/201243"
 tags: ["プライベートな話"]
 image: "blog_import_6621b137bfe2b.jpg"
 feature: "blog_import_6621b137bfe2b.jpg"

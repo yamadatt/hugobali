@@ -2,7 +2,7 @@
 date: 2020-01-05T00:04:34+09:00
 draft: false
 title: "大衆から「金を刈り取る」ギャンブルの仕掛け"
-slug: "2020/01/05"
+slug: "2020/01/05/000434"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d510b7b26.png"
 feature: "blog_import_6621d510b7b26.png"

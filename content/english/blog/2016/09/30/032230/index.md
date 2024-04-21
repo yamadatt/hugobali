@@ -2,7 +2,7 @@
 date: 2016-09-30T03:22:30+09:00
 draft: false
 title: "ミャンマー視察２日目「ヤンゴンの不動産は５年で１６倍に！？」"
-slug: "2016/09/30"
+slug: "2016/09/30/032230"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621b3ce069d8.jpg"
 feature: "blog_import_6621b3ce069d8.jpg"

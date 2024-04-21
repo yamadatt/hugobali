@@ -2,7 +2,7 @@
 date: 2020-05-31T11:38:13+09:00
 draft: false
 title: "バリ島で職を失った人の生活は、どうなってる？"
-slug: "2020/05/31"
+slug: "2020/05/31/113813"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621da5c093da.png"
 feature: "blog_import_6621da5c093da.png"

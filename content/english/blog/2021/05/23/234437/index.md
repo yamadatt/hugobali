@@ -2,7 +2,7 @@
 date: 2021-05-23T23:44:37+09:00
 draft: false
 title: "大人のオールラウンド合宿。ご報告。"
-slug: "2021/05/23"
+slug: "2021/05/23/234437"
 tags: ["プライベートな話"]
 image: "blog_import_6621e2b3dc921.jpg"
 feature: "blog_import_6621e2b3dc921.jpg"

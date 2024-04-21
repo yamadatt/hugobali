@@ -2,7 +2,7 @@
 date: 2016-07-15T20:40:13+09:00
 draft: false
 title: "バリ島で一番人気のノタリス"
-slug: "2016/07/15"
+slug: "2016/07/15/204013"
 tags: ["バリ島あれこれ"]
 image: "blog_import_6621b1117a573.jpg"
 feature: "blog_import_6621b1117a573.jpg"

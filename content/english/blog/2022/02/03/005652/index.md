@@ -2,7 +2,7 @@
 date: 2022-02-03T00:56:52+09:00
 draft: false
 title: "ドローンスクール体験。ドローンの免許を取ろうかな。。"
-slug: "2022/02/03"
+slug: "2022/02/03/005652"
 tags: ["プライベートな話"]
 image: "blog_import_6621ea2c20fdb.jpg"
 feature: "blog_import_6621ea2c20fdb.jpg"

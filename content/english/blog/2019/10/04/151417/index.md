@@ -2,7 +2,7 @@
 date: 2019-10-04T15:14:17+09:00
 draft: false
 title: "１００万円を２０％で運用するとどうなる！？資産形成はやり続けること"
-slug: "2019/10/04"
+slug: "2019/10/04/151417"
 tags: ["投資やビジネスの考え方"]
 image: "blog_import_6621d049a59d0.jpg"
 feature: "blog_import_6621d049a59d0.jpg"
